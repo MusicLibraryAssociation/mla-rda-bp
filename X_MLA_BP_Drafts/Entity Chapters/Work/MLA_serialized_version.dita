@@ -1,0 +1,41 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-4b9d2319-11e6-3089-9eea-e860c72d976e" xml:lang="en-US">
+    <title>Music Library Association Best Practices for serialized version </title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="3109946f-1c47-4008-8e60-971bbbf96499">
+            <title>Prerecording</title>
+            <div id="2f3ad89e-66cb-464f-a001-f099ff8b8391">
+                <p outputclass="title" id="835d02d7-e6b1-45c2-8648-df19d8d8bb28">
+                    <xref outputclass="ps_link" keyref="rdawP10381/section_xcb_pw3_wmb">Prerecording</xref>
+                </p>
+                <div id="c0d408e5-f512-4e22-b7a7-3b603c6644ed"/>
+            </div>
+        </section>
+        <section id="f44c3d66-82b5-4263-8365-961e69dd3471">
+            <title>Recording</title>
+            <div id="9960f36f-a0ce-4c9b-a0b5-15576d9ac8ea">
+                <p outputclass="title" id="4062c6e9-83ad-45ab-8a03-157ff1e0dd87">
+                    <xref outputclass="ps_link" keyref="rdawP10381/section_skl_rkd_xdb">Recording</xref>
+                </p>
+                <div id="fc5b9f12-f711-46d0-bd0d-67fee5752dfe"/>
+            </div>
+        </section>
+        <section id="ae6d669f-8640-44af-9311-ac973b757071">
+            <title>Recording an IRI</title>
+            <div id="4880109a-e40e-4cec-8131-62a1aa868e5b">
+                <p outputclass="title" id="27399e3f-ab20-433d-9fe8-93add1c17751">
+                    <xref outputclass="ps_link" keyref="rdawP10381/div_ell_rkd_xdb">Recording an IRI</xref>
+                </p>
+                <div id="f85fbf9c-bd76-44de-9b9a-5302740fd5ff"/>
+            </div>
+        </section>
+    </body>
+</topic>

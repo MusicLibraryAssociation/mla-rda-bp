@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-23f517da-9d6f-323e-9bfe-a63204ab29df"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for medium of performance of musical content of representative expression</title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body>
+      <section id="bf29128d-ba32-46ee-8b38-49af219c5789">
+         <title>Prerecording</title>
+         <div id="3ed5b3ca-4c65-4d2f-ba13-7279391df3c8">
+            <p outputclass="title" id="58f99896-6233-493c-8722-f0c1d4a392dc">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10220/f006806d-e1df-4ef4-8605-ac593815477e">Prerecording</xref>
+            </p>
+            <div id="6558b757-a3d5-4b7c-8b16-716f2a545baf">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_pnk_vdh_r4b"/>in authority records if used as a component of an access point. <ph conkeyref="b_bp_mla/ph_khy_xxc_gqb"/>in other cases if readily ascertainable.</p>
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_zpp_sdz_cqb"/>in bibliographic records; instead record Expression: <xref keyref="rdaeP20215"/> (even if the medium actually expressed in the manifestation described is identical to that of the representative expression).</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_medium_of_performance_of_musical_content_of_representative_expression.dita#ala-7dd2a8d3-5740-3ac0-8e66-d1594cc38ccc/bc71978a-6c43-4730-a21e-a33f6bb60818"/>
+            </div>
+         </div>
+      </section>
+      <section id="a8ae98fe-d614-4ef8-a5c6-e69260da5971">
+         <title>Recording</title>
+         <div id="43170170-992a-41e9-8618-e70432c0ef6f">
+            <p outputclass="title" id="3c5ed1fb-e0eb-4973-bc92-8e78bbb96f7b">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10220/fdce50e0-9fc9-42f6-a688-0aa0c79658d4">Recording</xref>
+            </p>
+            <div id="b63b1266-8773-4448-8266-9b15c4560d88">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 382. Refer to <ph conkeyref="b_bp_mla/ph_rvl_kvx_nqb"/> for detailed subfield guidance.</p>
+            </div>
+         </div>
+         <div id="f96b9376-8f30-4f04-86cd-ccad71280467">
+            <p outputclass="title" id="62d9d9cd-69fe-467c-82f4-cf4d10db7506">
+               <xref outputclass="ps_link" keyref="rdawP10220/div_mt3_zsf_3lb">Condition Option</xref>
+            </p>
+            <div id="e9df9c2d-886b-4183-87b3-81df358dcbe9">
+               <p>Record the original medium of performance as specified by the composer. If the composer specifies alternative mediums of performance, record all alternatives.</p>
+            </div>
+         </div>
+         <div id="20f44d03-6542-4de4-a57d-ea956fc625b0">
+            <p outputclass="title" id="753275df-03fa-4e90-b6bc-7cb406030c5d">
+               <xref outputclass="ps_link" keyref="rdawP10220/div_rt3_zsf_3lb">Condition Option</xref>
+            </p>
+            <div id="f1e5b6cc-7223-41bd-b7aa-ebca7bc0a099">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_medium_of_performance_of_musical_content_of_representative_expression.dita#ala-7dd2a8d3-5740-3ac0-8e66-d1594cc38ccc/div_cfd_cfx_2nb"/>
+            </div>
+         </div>
+         <div id="13c2886f-b818-44ea-a038-485cc0cd7d39">
+            <p outputclass="title" id="9d2c31e6-2d4d-4ff4-9d69-67b2bb8ed542">
+               <xref outputclass="ps_link" keyref="rdawP10220/div_tt3_zsf_3lb">Condition Option</xref>
+            </p>
+            <div id="23daa65b-4b2c-4c68-8670-0c5ce431b9c1">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_medium_of_performance_of_musical_content_of_representative_expression.dita#ala-7dd2a8d3-5740-3ac0-8e66-d1594cc38ccc/div_t3l_gfx_2nb"/>
+            </div>
+         </div>
+      </section>
+      <section id="fd97e9bc-80c6-42bb-af47-7228efc3cc51">
+         <title>Recording an unstructured description</title>
+         <div id="6d9431d2-c7fb-4de9-98b4-7bf98fcc4c02">
+            <p outputclass="title" id="550258bd-9b40-4ed4-aaae-fcaf7f1554f9">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10220/10c65589-2545-4a2f-a3c9-4bf5b11f1e69">Recording an unstructured description</xref>
+            </p>
+            <div id="bf566fa0-f73a-4839-b8fd-d113a2dc9bdd"/>
+         </div>
+      </section>
+      <section id="0373e708-1393-4c6b-b9e5-ec88ed32721f">
+         <title>Recording a structured description</title>
+         <div id="93d886a7-96f1-458b-98a8-af5204fd412b">
+            <p outputclass="title" id="33d518b7-850e-41de-8b80-d773b916c2fa">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10220/fec1a332-8561-4a18-9d41-19a0e87d55ad">Recording a structured description</xref>
+            </p>
+            <div id="7f9d466f-b773-4297-804f-ccb0381bfeb0">
+               <p>Use only terms from the Library of Congress Medium of Performance Terms thesaurus.</p>
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/ph_orq_vnf_1qb"/>
+                  <term>lcmpt</term>.</p>
+            </div>
+         </div>
+      </section>
+      <section id="181c7834-b3cc-4015-a84c-f3affe7a0a60">
+         <title>Recording an identifier</title>
+         <div id="b73ed809-aee4-4e99-ad4f-1fe9f5a90a78">
+            <p outputclass="title" id="8abf45a2-2b4c-4a2f-9927-7def4cbefb6f">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10220/b354ef68-76e1-4f33-a459-7e33dc37f05b">Recording an identifier</xref>
+            </p>
+            <div id="7312c702-26e7-4426-b83f-a343b62002ad"/>
+         </div>
+      </section>
+      <section id="f5c8262e-4325-4153-a930-7c42902639c9">
+         <title>Recording an IRI</title>
+         <div id="48adfca4-d30b-4e97-8288-558052ef9bdb">
+            <p outputclass="title" id="ff3b11eb-33e7-4de3-9076-1ec512232b50">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10220/fa576442-ceea-44d2-8cf1-b0b58fcd074a">Recording an IRI</xref>
+            </p>
+            <div id="be35055e-746c-451e-b4e8-d2d9a4e82cc0"/>
+         </div>
+      </section>
+      <section id="c1fa4acf-0a8b-48f7-bd21-b2d086689529">
+         <title>View in Context Example</title>
+         <div id="d99462e6-bf6d-47b5-84ef-3d3fcda403c7">
+            <p outputclass="title" id="c6773b3a-ad3e-438c-bf2d-23e654f4258c">
+               <xref outputclass="ps_link" keyref="rdawP10220/section_yvn_kn4_3db">View in Context Example</xref>
+            </p>
+            <div id="5d107a91-098f-4bb4-b82b-b6f3c22dc83d"/>
+         </div>
+      </section>
+   </body>
+</topic>

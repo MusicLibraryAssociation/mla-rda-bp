@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map title="MLA BP" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    <topicref href="MLA_BP_landing.dita"/>
+    <topicref href="Entity%20Chapters/MLA_Entities_Landing.dita" outputclass="submenu"/>
+    <topicref href="MLA_BP_Entities.ditamap"/>
+    <topicref href="Guidance%20Chapters/MLA_Guidance_Landing.dita" outputclass="submenu"/>
+    <topicref href="MLA_BP_Guidance.ditamap"/>
+    <topicref href="Community%20Resources/MLA_Community_Resources_Landing.dita" outputclass="submenu"/>
+    <topicref href="MLA_BP_Community_Resources.ditamap"/>
+</map>
+    
+    
+

@@ -1,0 +1,41 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-3f1ddb5d-49ac-3066-af9b-fb568acf91fd" xml:lang="en-US">
+    <title>Music Library Association Best Practices for transformation by audience</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="1437db80-f2fd-4720-abe3-b585ff3d744a">
+            <title>Prerecording</title>
+            <div id="30d1e9ff-b040-49a0-ad01-d80ca50d0e6d">
+                <p outputclass="title" id="621a98e6-f7a2-4455-b0a1-8d8fab31b8a8">
+                    <xref outputclass="ps_link" keyref="rdawP10383/section_bhz_2x3_wmb">Prerecording</xref>
+                </p>
+                <div id="0314602e-0c29-499b-8ce3-7d429acb0048"/>
+            </div>
+        </section>
+        <section id="abd2a4b2-0b49-4f91-bb62-8015380f4939">
+            <title>Recording</title>
+            <div id="e6375f89-2436-4ec1-9c84-0e97ad1385bc">
+                <p outputclass="title" id="bc351aa2-deb1-4fa9-83bd-124d2cee7ed7">
+                    <xref outputclass="ps_link" keyref="rdawP10383/section_rbx_zkd_xdb">Recording</xref>
+                </p>
+                <div id="9e8cc013-e09f-42cd-90d9-bacf136ca02a"/>
+            </div>
+        </section>
+        <section id="56ba941a-a6d6-4c0d-be34-ff06ed4244c9">
+            <title>Recording an IRI</title>
+            <div id="a19d1790-254c-401a-abcb-974972723c02">
+                <p outputclass="title" id="8a42bd5b-74d0-4812-a000-7961c219ef02">
+                    <xref outputclass="ps_link" keyref="rdawP10383/div_ccx_zkd_xdb">Recording an IRI</xref>
+                </p>
+                <div id="b49f7f9c-86e1-40cf-a043-e56b03324dd8"/>
+            </div>
+        </section>
+    </body>
+</topic>

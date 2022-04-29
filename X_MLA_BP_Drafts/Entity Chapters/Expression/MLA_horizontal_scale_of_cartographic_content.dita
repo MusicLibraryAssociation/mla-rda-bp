@@ -1,0 +1,74 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-36db6d5b-3d24-355e-a585-08b8298066fd" xml:lang="en-US">
+    <title>Music Library Association Best Practices for horizontal scale of cartographic content</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="33a2b698-3673-4573-aa96-e6faab7dd28f">
+            <title>Prerecording</title>
+            <div id="484fd8f9-b788-4a9c-9d98-2ac7881c287b">
+                <p outputclass="title" id="9e19088b-65de-4b29-bba0-b740e791fa27">
+                    <xref outputclass="ps_link" keyref="rdaeP20226/58a1b395-537f-4e88-8acd-9e7f91ff9866">Prerecording</xref>
+                </p>
+                <div id="b8e06edb-fb00-45fb-9232-fd07fc9d0b3c"/>
+            </div>
+        </section>
+        <section id="4aacf782-c91a-4159-81e8-9ade1efbc2cb">
+            <title>Recording</title>
+            <div id="f1113628-5a11-4c62-8f50-d0bf513d9c78">
+                <p outputclass="title" id="f0e77c84-3fbb-4837-83a9-5ba38f65fe7a">
+                    <xref outputclass="ps_link" keyref="rdaeP20226/7e0bde3b-11bc-41c0-9ac3-14e679c03ea6">Recording</xref>
+                </p>
+                <div id="60270d1f-042a-4fd6-90cd-c703f38bf0e3"/>
+            </div>
+            <div id="105c5d12-bbc9-4538-9f09-ac8d865c8461">
+                <p outputclass="title" id="bf14f3db-8d73-4670-b5d9-9f1fe2b1ce3c">
+                    <xref outputclass="ps_link" keyref="rdaeP20226/div_dkd_5m4_g3b">Option</xref>
+                </p>
+                <div id="cbec144d-34d2-4147-947b-28fc9d3d7fd4"/>
+            </div>
+        </section>
+        <section id="d22388bb-4687-4a1e-a832-0b4688b47e61">
+            <title>Recording an unstructured description</title>
+            <div id="11f158b8-3f32-4bb2-8532-90b65e7a422d">
+                <p outputclass="title" id="82f755a2-3e41-4932-b43b-05d35f2afef4">
+                    <xref outputclass="ps_link" keyref="rdaeP20226/5fdd7185-a9bf-44c2-ab3b-c9b75e4b122d">Recording an unstructured description</xref>
+                </p>
+                <div id="7f891bc2-6665-4d3a-bfc1-d2b58d80b5bc"/>
+            </div>
+        </section>
+        <section id="4e5fd575-2e17-42e5-b008-152747f2249c">
+            <title>Recording a structured description</title>
+            <div id="f6d9820a-62d9-43e1-aa11-1bb6f9305976">
+                <p outputclass="title" id="90637528-3704-4ea0-992a-ca69ff8a9937">
+                    <xref outputclass="ps_link" keyref="rdaeP20226/ce406dfb-b889-4fe0-b925-6f81a0ec7ac6">Recording a structured description</xref>
+                </p>
+                <div id="77587ee9-df72-4f20-a19a-53f9f7f5a96c"/>
+            </div>
+        </section>
+        <section id="6faac6cc-ebc3-4a4f-8d62-2a7efbbc2613">
+            <title>Recording an identifier</title>
+            <div id="13939c59-3cd2-435e-8276-8a20a984f9e4">
+                <p outputclass="title" id="c2476809-099d-4e7e-913e-d3bc31c0c54c">
+                    <xref outputclass="ps_link" keyref="rdaeP20226/2c1b3c82-e33e-4cf4-ac16-fdd1527e4084">Recording an identifier</xref>
+                </p>
+                <div id="8035bc52-7dba-49b9-bc65-bbef13a986e3"/>
+            </div>
+        </section>
+        <section id="fa615aca-fce0-47d9-b549-9f4f6660f705">
+            <title>Recording an IRI</title>
+            <div id="6618f86c-d2d3-4191-a10b-a59940aea2b1">
+                <p outputclass="title" id="ecb227cd-956d-450d-8df8-03e252768eb6">
+                    <xref outputclass="ps_link" keyref="rdaeP20226/29365302-1097-499e-9e3a-8946f3b54b91">Recording an IRI</xref>
+                </p>
+                <div id="a4ca3f66-1dad-4ef0-9069-c8918c3c9aec"/>
+            </div>
+        </section>
+    </body>
+</topic>

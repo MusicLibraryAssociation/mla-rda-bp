@@ -1,0 +1,41 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-6ab6b320-8a69-3cfc-8b5a-1f57dde440b2" xml:lang="en-US">
+    <title>Music Library Association Best Practices for Application profiles</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="f27a2497-095d-4ad2-9c92-c12c2eb762a7">
+            <title>RDA application profile</title>
+            <div id="d81c2f93-aaa7-4606-9b43-7592478fcef6">
+                <p outputclass="title" id="2c5e8a0f-0157-4b5d-85ff-a7729915ba46">
+                    <xref outputclass="ps_link" keyref="g_023/section_cwl_m1x_ydb">RDA application profile</xref>
+                </p>
+                <div id="7f5269f7-036d-494e-833e-d2e3cefaa387"/>
+            </div>
+        </section>
+        <section id="e0fdb232-7aaa-429d-8c42-8d9c736f44ff">
+            <title>Application profiles in RDA toolkit</title>
+            <div id="9f11f78c-db37-46e4-b77c-c80bcbfc9d1b">
+                <p outputclass="title" id="4e068a65-ca0d-492e-a3d1-ddfbd053f8b2">
+                    <xref outputclass="ps_link" keyref="g_023/section_ad5_31x_ydb">Application profiles in RDA toolkit</xref>
+                </p>
+                <div id="36da0a4b-1542-45f3-9c4a-f973f1d5fca3"/>
+            </div>
+        </section>
+        <section id="95a2368f-6f56-45b2-9f52-b1409e6327cd">
+            <title>Application profiles for linked data</title>
+            <div id="f5c4b80f-5264-4727-9f8c-8f0d09e1257d">
+                <p outputclass="title" id="b9aea119-1e99-4175-a525-05753e2ce46d">
+                    <xref outputclass="ps_link" keyref="g_023/section_npp_d1x_ydb">Application profiles for linked data</xref>
+                </p>
+                <div id="763b9d93-cfde-4b57-b39f-8f356c8aa13c"/>
+            </div>
+        </section>
+    </body>
+</topic>

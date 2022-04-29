@@ -1,0 +1,74 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-a04ef93c-05da-393e-af64-cc3ca3f47d72" xml:lang="en-US">
+    <title>Music Library Association Best Practices for note on corporate body</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="50bf82d9-0904-4877-9f8b-43d30835b752">
+            <title>Prerecording</title>
+            <div id="68f1d83f-81e0-4fd5-b8e3-849c10527cdf">
+                <p outputclass="title" id="e8da647b-9bff-4672-96a3-ad5b2ec51767">
+                    <xref outputclass="ps_link" keyref="rdaaP50393/93511ab4-9943-4a77-a285-c9d714b713a1">Prerecording</xref>
+                </p>
+                <div id="fefa4af9-0add-4674-bb20-3d52d8efd4b7"/>
+            </div>
+        </section>
+        <section id="f2040053-4aeb-4dcc-9041-3d3b3a637795">
+            <title>Recording</title>
+            <div id="935c67af-fb6b-497e-91db-25b72b17eef0">
+                <p outputclass="title" id="cce285be-addc-469a-b0bc-c1a6dabf23ed">
+                    <xref outputclass="ps_link" keyref="rdaaP50393/caa47b73-675e-4ace-b522-40d635a8acc8">Recording</xref>
+                </p>
+                <div id="022ef347-8720-4e94-926b-e6fc3084b412"/>
+            </div>
+        </section>
+        <section id="d953fc58-3f11-4bdb-ad90-cf281748d9b6">
+            <title>Recording an unstructured description</title>
+            <div id="62de6346-18ba-40b7-b356-e3654149fb73">
+                <p outputclass="title" id="4bb9f5a3-810d-43cb-a3d3-281fddbba647">
+                    <xref outputclass="ps_link" keyref="rdaaP50393/63a2c278-1e0d-4d5e-9c27-11c3ba573243">Recording an unstructured description</xref>
+                </p>
+                <div id="d107f1b5-075c-4c13-832e-34ed2151647c"/>
+            </div>
+            <div id="aa7bcda8-d2db-4c5d-a6a4-dc8ce7f4a7a9">
+                <p outputclass="title" id="582d0149-be0a-481d-8eee-6295caa1597b">
+                    <xref outputclass="ps_link" id="div_rnd_c4w_4hb" keyref="rdaaP50393/div_rnd_c4w_4hb">Option</xref>
+                </p>
+                <div id="9f1ebc03-05d1-4c79-899c-3e40fa237c39"/>
+            </div>
+        </section>
+        <section id="68105967-b6b9-4816-b268-62c57daa9d8a">
+            <title>Recording a structured description</title>
+            <div id="d79afc3f-be07-4428-a988-f54664c3a08a">
+                <p outputclass="title" id="4e723594-dd49-423e-8262-05acd86a3b28">
+                    <xref outputclass="ps_link" keyref="rdaaP50393/0eeb551c-757c-4eb0-996e-b04f8e0467a5">Recording a structured description</xref>
+                </p>
+                <div id="beeec969-9b98-4b62-9c66-81185f2eac26"/>
+            </div>
+        </section>
+        <section id="b96ad062-6560-4362-8653-0f97febc7c0e">
+            <title>Recording an identifier</title>
+            <div id="29ad493b-549a-4e6f-9ae3-9e662137035b">
+                <p outputclass="title" id="244835ea-62bd-4e49-96e3-af9963daf5a9">
+                    <xref outputclass="ps_link" keyref="rdaaP50393/29755514-2c51-4ba5-ba55-5db55fc41ba3">Recording an identifier</xref>
+                </p>
+                <div id="100f82b5-3543-4940-9a86-ac484b7615a5"/>
+            </div>
+        </section>
+        <section id="366c5b55-69ed-4bc7-9f73-56d87cd466e3">
+            <title>Recording an IRI</title>
+            <div id="9830d01a-1a48-4560-aa17-fff9e7ed52d7">
+                <p outputclass="title" id="d556152e-2a11-4474-840b-2b42f43076f8">
+                    <xref outputclass="ps_link" keyref="rdaaP50393/35a15fa1-8d2e-4483-93fd-1964b407d29f">Recording an IRI</xref>
+                </p>
+                <div id="40460ae3-306c-4dc5-9259-4a90ba51da6d"/>
+            </div>
+        </section>
+    </body>
+</topic>

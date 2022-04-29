@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="mla_guidance_land" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+  <title>MLA BP Guidance</title>
+  <body>
+    <section id="section_pdz_gln_flb">
+      <p id="p_ats_tr3_flb">Click on the active links to browse Music Library Association Best
+        Practices by topic. A grayed out link means that there are no policy statements for that
+        topic.</p>
+    </section>
+    <section id="section_pb4_qqd_3lb">
+      <ul id="ul_pl2_dmn_flb">
+        <li id="li_ql2_dmn_flb">Aggregates</li>
+        <li id="li_rtf_fmn_flb">Application profiles</li>
+        <li id="li_scm_gmn_flb">Content and carrier</li>
+        <li id="li_azt_hmn_flb"><xref href="MLA_data_provenance.dita">Data provenance</xref></li>
+        <li id="li_wnt_tmn_flb">Diachronic works</li>
+        <li id="li_f1v_3mn_flb">Fictitious and non-human appellations</li>
+        <li id="li_uv3_nmn_flb"><xref href="MLA_manifestation_statements.dita">Manifestation
+            statements</xref></li>
+        <li id="li_bjq_pmn_flb">Nomens and appellations</li>
+        <li id="li_qjz_vmn_flb">RDA implementations scenarios</li>
+        <li id="li_bn5_xmn_flb">Recording methods</li>
+        <li id="li_fq3_zmn_flb">Representative expressions</li>
+        <li id="li_v3p_bnn_flb">Resource descriptions</li>
+        <li id="li_h1p_dnn_flb">Terminology</li>
+        <li id="li_c3n_2nn_flb">Transcription guidelines</li>
+        <li id="li_bqp_fnn_flb">User tasks</li>
+      </ul>
+    </section>
+  </body>
+</topic>

@@ -1,0 +1,74 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-0fb348fb-0d08-3be2-81f3-aa978ed7bc4d" xml:lang="en-US">
+    <title>Music Library Association Best Practices for note on family</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="44068ba6-56cb-4b68-ae7b-f7835e6749d2">
+            <title>Prerecording</title>
+            <div id="b1149f0a-80ff-4473-b8ef-2e485a79cab9">
+                <p outputclass="title" id="ba65d4c4-59bf-4a7e-ae6b-03544c4d3ebf">
+                    <xref outputclass="ps_link" keyref="rdaaP50394/5c77cf70-6b1b-419a-a5e9-7f9f4793e647">Prerecording</xref>
+                </p>
+                <div id="d1b7640d-920a-4456-82d1-bfac6fd88ef1"/>
+            </div>
+        </section>
+        <section id="33a3f4d7-92a4-4e43-a3b2-824957cb1ebf">
+            <title>Recording</title>
+            <div id="37778e87-cd7b-4c32-a52b-b5b3a5aec7d5">
+                <p outputclass="title" id="aa3e3f98-ead4-4e83-ade5-db937f570b30">
+                    <xref outputclass="ps_link" keyref="rdaaP50394/848d567a-e311-4447-b665-4e51a2524c06">Recording</xref>
+                </p>
+                <div id="b14ecf27-7c9f-4e12-a655-c3a6df77cef7"/>
+            </div>
+        </section>
+        <section id="c6a87c8c-a991-4cf8-98b5-4ca739ea9838">
+            <title>Recording an unstructured description</title>
+            <div id="dec1facb-1a1a-4276-aa0e-90439c3b9a75">
+                <p outputclass="title" id="0aa580ea-ed61-405d-9905-18de309e4fde">
+                    <xref outputclass="ps_link" keyref="rdaaP50394/89cdecfd-edc2-4291-8a51-17a723247831">Recording an unstructured description</xref>
+                </p>
+                <div id="37d8d897-07be-49ab-aaf9-c8e6851b7ac0"/>
+            </div>
+            <div id="a8801147-9a37-4899-b5a7-fa282b66f38e">
+                <p outputclass="title" id="913fca9b-4eb9-46d5-8cda-8bf4c42c8975">
+                    <xref outputclass="ps_link" id="div_ltl_g4w_4hb" keyref="rdaaP50394/div_ltl_g4w_4hb">Option</xref>
+                </p>
+                <div id="c4397e5d-b38b-4d46-972e-dd6246747c12"/>
+            </div>
+        </section>
+        <section id="4584a958-98a2-4b07-8abb-bdddcb42680f">
+            <title>Recording a structured description</title>
+            <div id="38c06727-5d1e-41d0-9aba-040ab57f3220">
+                <p outputclass="title" id="f497f808-a193-4d56-aaba-ba0182fc8a1e">
+                    <xref outputclass="ps_link" keyref="rdaaP50394/d2483282-b696-4443-937e-56060642ba49">Recording a structured description</xref>
+                </p>
+                <div id="4b32ef88-39b1-4e6a-9fb3-50329e3b6475"/>
+            </div>
+        </section>
+        <section id="507770b5-5a9a-40f6-8007-0e632127849d">
+            <title>Recording an identifier</title>
+            <div id="9fc38368-a35c-4252-9351-700549839563">
+                <p outputclass="title" id="3faba6c1-bc70-4308-9d2a-d41ea669c0fa">
+                    <xref outputclass="ps_link" keyref="rdaaP50394/680eb75c-a055-485c-917e-e3478f5fc82e">Recording an identifier</xref>
+                </p>
+                <div id="cae71864-b0e9-484b-9315-86554d8e11f3"/>
+            </div>
+        </section>
+        <section id="18196e58-5938-4c04-8812-78c5bb1eb0c0">
+            <title>Recording an IRI</title>
+            <div id="24933751-3742-4f93-83dc-0c4da8367434">
+                <p outputclass="title" id="7d7eb846-29b4-44e2-b5a0-dccea1726a87">
+                    <xref outputclass="ps_link" keyref="rdaaP50394/7380196b-beda-4194-8d8b-94e1b10a17ef">Recording an IRI</xref>
+                </p>
+                <div id="1c56b025-d52b-464a-bd56-77ddcba93e39"/>
+            </div>
+        </section>
+    </body>
+</topic>

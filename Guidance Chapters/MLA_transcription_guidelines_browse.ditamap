@@ -1,0 +1,5 @@
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Transcription guidelines browse DITA Map" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    <topicref href="transcription_guidelines/MLA_transcription_guidelines.dita"/>
+    <topicref href="transcription_guidelines/MLA_transcription_guidelines_basic.dita"/>
+    <topicref href="transcription_guidelines/MLA_transcription_guidelines_normalized.dita"/>
+</map>

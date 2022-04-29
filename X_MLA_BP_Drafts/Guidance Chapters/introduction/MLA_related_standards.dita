@@ -1,0 +1,86 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-f641478b-696f-3a48-a66b-c26b7b535992" xml:lang="en-US">
+    <title>Music Library Association Best Practices for Standards related to RDA</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="693f4097-2683-42d7-9a35-d149498e3f71">
+            <title>Conceptual models underlying RDA</title>
+            <div id="f6838099-df0e-4cd8-a0f1-0c48c314b9c6">
+                <p outputclass="title" id="2a3e0407-80ca-4169-9576-4063aa338999">
+                    <xref outputclass="ps_link" keyref="g_011/section_wyh_gtr_hcb">Conceptual models underlying RDA</xref>
+                </p>
+                <div id="1739e8dc-a7dd-4ab5-ae56-72283bafa6ef"/>
+            </div>
+        </section>
+        <section id="fb4c61c5-abb6-42fd-b02c-38fa4a7e27f8">
+            <title>IFLA Library Reference Model</title>
+            <div id="0f03c0e4-a5c8-4e94-940f-20fc61d69731">
+                <p outputclass="title" id="f33d84dd-5ed8-4066-8292-f50e6182e20f">
+                    <xref outputclass="ps_link" keyref="g_011/div_pnn_t32_zdb">IFLA Library Reference Model</xref>
+                </p>
+                <div id="96f30389-6a90-467b-b119-3c31b2ec2976"/>
+            </div>
+        </section>
+        <section id="9c4e712b-a143-4803-87e4-7423f1582da4">
+            <title>Previous models</title>
+            <div id="aefd3a82-b0ac-402e-8811-bffa85576dee">
+                <p outputclass="title" id="3ccdb423-fb17-4fb5-a543-4fad05edad1c">
+                    <xref outputclass="ps_link" keyref="g_011/div_u1r_z32_zdb">Previous models</xref>
+                </p>
+                <div id="fcbb9fdb-905d-4b72-956e-76b220729eeb"/>
+            </div>
+        </section>
+        <section id="27dadc5c-6e05-4ab5-b071-ddb37ba0f07a">
+            <title>Relationship to other standards for resource description and access</title>
+            <div id="865c6e91-1f83-471d-bf8a-2d825a243639">
+                <p outputclass="title" id="2ffb4a01-7ddd-4f84-a43b-b6ebf4ecd1d6">
+                    <xref outputclass="ps_link" keyref="g_011/section_vq4_b5r_hcb">Relationship to other standards for resource description and access</xref>
+                </p>
+                <div id="8500d4dd-f797-4269-a62a-c17637baeb8b"/>
+            </div>
+        </section>
+        <section id="df1ce5bf-990c-4fef-a42d-6bf447865422">
+            <title>RDA/ONIX Framework</title>
+            <div id="3e30ecf8-c08a-4c4e-8b80-eec408a13f62">
+                <p outputclass="title" id="a3f0421f-21d7-41fd-9516-b44c08006820">
+                    <xref outputclass="ps_link" keyref="g_011/section_cjs_j2y_tcb">RDA/ONIX Framework</xref>
+                </p>
+                <div id="36fc4624-07e2-41ba-9478-6ad56f007c29"/>
+            </div>
+        </section>
+        <section id="556daeed-7732-4dd8-ac42-1d9de5f2d0dd">
+            <title>ISBD</title>
+            <div id="70804079-b7c4-41d7-adac-cb9a15b4c429">
+                <p outputclass="title" id="f88da96a-d36e-48c4-b067-17cd189e3d0c">
+                    <xref outputclass="ps_link" keyref="g_011/section_m1z_d2y_tcb">ISBD</xref>
+                </p>
+                <div id="55ac7f83-1dc7-44d3-8f32-cbf35a682d33"/>
+            </div>
+        </section>
+        <section id="e941b255-0b51-455a-93c0-98ab32b379a2">
+            <title>MARC 21</title>
+            <div id="5ab734df-c05c-41ae-b2f6-31a0f4d500fc">
+                <p outputclass="title" id="2b948570-7997-470c-b3d6-66ef278ef42b">
+                    <xref outputclass="ps_link" keyref="g_011/section_nyl_zdy_tcb">MARC 21</xref>
+                </p>
+                <div id="681a1882-292f-4682-8dcc-36f32345c8c0"/>
+            </div>
+        </section>
+        <section id="22995d23-4603-42a5-9e64-740ea409f129">
+            <title>Resource Description Framework</title>
+            <div id="7de7a528-7d70-49fc-9269-88d85860a465">
+                <p outputclass="title" id="c4d4e54d-6198-4f5e-87da-0df475a5c456">
+                    <xref outputclass="ps_link" keyref="g_011/section_zlt_r2y_tcb">Resource Description Framework</xref>
+                </p>
+                <div id="cf85bb3f-739d-467d-bba9-464ef6c54bc5"/>
+            </div>
+        </section>
+    </body>
+</topic>

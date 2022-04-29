@@ -1,0 +1,41 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-e4e260b8-b270-39eb-8885-1362123418d5" xml:lang="en-US">
+    <title>Music Library Association Best Practices for text work </title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="29de0b7f-990d-4bbd-a7d7-90dfbdd86942">
+            <title>Prerecording</title>
+            <div id="e3ca9e4d-d546-4ca1-a231-056208b1e05d">
+                <p outputclass="title" id="dcb5e9ac-b1a2-4ed3-a6ba-1b4dc4cd49bb">
+                    <xref outputclass="ps_link" keyref="rdawP10371/section_by4_dx3_wmb">Prerecording</xref>
+                </p>
+                <div id="75549f0b-1883-4d99-b4b3-d43eedf7c777"/>
+            </div>
+        </section>
+        <section id="2af54982-e71e-4adb-b1e6-9bce25a8d07b">
+            <title>Recording</title>
+            <div id="d0c9c0e6-9b5b-4be6-96a6-e1fdb46ca501">
+                <p outputclass="title" id="c0349010-08d5-4b44-bb77-c6b75383a9e4">
+                    <xref outputclass="ps_link" keyref="rdawP10371/section_h1d_zkd_xdb">Recording</xref>
+                </p>
+                <div id="688faa35-0c90-4d27-8896-f665ca0a961a"/>
+            </div>
+        </section>
+        <section id="6ffee1f6-53d6-49de-8fb6-30697aa1821f">
+            <title>Recording an IRI</title>
+            <div id="390a37a2-5a21-4470-a8f7-f635d24ceba6">
+                <p outputclass="title" id="4d85c1f0-4137-492c-8306-2f39fe533058">
+                    <xref outputclass="ps_link" keyref="rdawP10371/div_s1d_zkd_xdb">Recording an IRI</xref>
+                </p>
+                <div id="4b70cd77-d78c-42f4-8a83-865c049a3537"/>
+            </div>
+        </section>
+    </body>
+</topic>

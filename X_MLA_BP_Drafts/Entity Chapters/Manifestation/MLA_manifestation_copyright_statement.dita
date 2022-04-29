@@ -1,0 +1,59 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-6628392b-8e0a-3414-b1e4-665a32776035" xml:lang="en-US">
+    <title>Music Library Association Best Practices for manifestation copyright statement</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="b93f1c62-e3a5-453e-991c-24f624310031">
+            <title>Prerecording</title>
+            <div id="6d1f4892-7fe0-403b-80e2-a198907c4abb">
+                <p outputclass="title" id="8694bf69-9ac1-4320-9053-cb3a9985ff30">
+                    <xref outputclass="ps_link" keyref="rdamP30280/8067d412-96d2-4202-a62a-2b29fdb69990">Prerecording</xref>
+                </p>
+                <div id="99abcaa8-01c6-44bc-a0e6-2c5069c3fc38"/>
+            </div>
+            <div id="e7acdc53-bc25-4628-bdd2-8ebf983482ac">
+                <p outputclass="title" id="223d04a2-e952-46bb-b343-35fbae4ba65e">
+                    <xref outputclass="ps_link" keyref="rdamP30280/div_rng_4cz_wgb">Condition Option</xref>
+                </p>
+                <div id="0d35dab5-2c2a-477b-9ff1-4668ab9845bb"/>
+            </div>
+        </section>
+        <section id="ff161372-0bf3-43af-a9ff-8bac6d2d408d">
+            <title>Recording</title>
+            <div id="1b366aeb-f49d-468d-af2a-062a56033dea">
+                <p outputclass="title" id="2d3ba8d6-77d2-42b9-87e8-c72122c48e59">
+                    <xref outputclass="ps_link" keyref="rdamP30280/655e5380-9197-4fcd-8889-621225359da5">Recording</xref>
+                </p>
+                <div id="25399d76-dbbb-424f-8e8e-b7ab7509e932"/>
+            </div>
+        </section>
+        <section id="7b124510-a297-44f2-b1a2-dd9d5d9aa863">
+            <title>Data provenance</title>
+            <div id="f7bed741-9883-40b7-80a6-199d492362c4">
+                <p outputclass="title" id="89a94d57-b6ac-4a6a-8d0b-3ff72bf50d6e">
+                    <xref outputclass="ps_link" keyref="rdamP30280/div_cn4_s14_lhb">Data provenance</xref>
+                </p>
+                <div id="56f59510-d5c6-4f19-93d1-3c62e3f871e6"/>
+            </div>
+            <div id="07dda2da-a7bc-42b5-aa02-2413d824c80e">
+                <p outputclass="title" id="45b38f2f-0372-4ef1-96c0-07973a8c648d">
+                    <xref outputclass="ps_link" id="div_gs5_rr1_4hb" keyref="rdamP30280/div_gs5_rr1_4hb">Option</xref>
+                </p>
+                <div id="e1e174d8-a8d9-4929-9f34-fb6142ff772c"/>
+            </div>
+            <div id="8b86debc-7464-4ba8-9ef3-dd8108b698c6">
+                <p outputclass="title" id="9da07c3b-5ab7-4118-9347-1a7e6d875f5d">
+                    <xref outputclass="ps_link" id="div_hs5_rr1_4hb" keyref="rdamP30280/div_hs5_rr1_4hb">Option</xref>
+                </p>
+                <div id="11614a99-fc1c-451e-9450-30b69a511531"/>
+            </div>
+        </section>
+    </body>
+</topic>

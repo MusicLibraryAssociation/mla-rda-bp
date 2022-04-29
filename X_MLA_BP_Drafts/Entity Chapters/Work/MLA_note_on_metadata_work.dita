@@ -1,0 +1,74 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-36979853-f0b4-3d9f-9150-6ff045c158d8" xml:lang="en-US">
+    <title>Music Library Association Best Practices for note on metadata work</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="842f9123-e9d1-48ed-8579-b9e4655274a5">
+            <title>Prerecording</title>
+            <div id="093caf01-3207-4247-a6c2-41c5387e6039">
+                <p outputclass="title" id="7aa94da8-9d22-477b-a210-b1f357d64196">
+                    <xref outputclass="ps_link" keyref="rdawP10402/d34e9863-66e7-4f69-8d1f-cdcb5f921a8e">Prerecording</xref>
+                </p>
+                <div id="2f8fb771-1ebc-476d-b1cf-cc253bfa1470"/>
+            </div>
+        </section>
+        <section id="3f23958f-a860-4f0e-ac68-601436047475">
+            <title>Recording</title>
+            <div id="f40964f2-b997-433f-8c39-f114b66f36e0">
+                <p outputclass="title" id="61d3090b-41c2-4d49-b94d-7ac6c4f4c332">
+                    <xref outputclass="ps_link" keyref="rdawP10402/64998637-302b-49de-a080-2d095628acc3">Recording</xref>
+                </p>
+                <div id="aba4cd38-3c62-4a01-9c61-845a335da47b"/>
+            </div>
+        </section>
+        <section id="796a6d1a-4c92-4f04-949e-9eee77dfac6a">
+            <title>Recording an unstructured description</title>
+            <div id="a7a02574-2d27-474e-844d-0a3d887775d2">
+                <p outputclass="title" id="7d254c18-6854-4f28-87ce-adbc939020ef">
+                    <xref outputclass="ps_link" keyref="rdawP10402/947cb2fa-a4ff-4fe6-9738-f19acdb5ac64">Recording an unstructured description</xref>
+                </p>
+                <div id="ee9a154f-38be-41dc-87ac-b928dbc9c54c"/>
+            </div>
+            <div id="b5d0a1ed-385e-4823-b1b2-510f8421efa2">
+                <p outputclass="title" id="1efa882d-a1fd-4a00-96da-a70b376475aa">
+                    <xref outputclass="ps_link" id="div_vtj_gvr_phb" keyref="rdawP10402/div_vtj_gvr_phb">Option</xref>
+                </p>
+                <div id="db4776a2-8e63-44b6-9dbe-d9ac65a99ee7"/>
+            </div>
+        </section>
+        <section id="7352425b-9099-4b2c-b6bd-f6f78827a911">
+            <title>Recording a structured description</title>
+            <div id="ab54305c-d1d9-4ec2-9641-363ca59da506">
+                <p outputclass="title" id="9301b140-023f-4d7a-bd8b-ebc2a2d9c721">
+                    <xref outputclass="ps_link" keyref="rdawP10402/106ce25d-933a-4676-820a-20ade7a32167">Recording a structured description</xref>
+                </p>
+                <div id="26f42bd8-041e-48a6-b9c9-11d397ee1360"/>
+            </div>
+        </section>
+        <section id="395c40a6-615e-4f9b-830c-ef7f49f6578e">
+            <title>Recording an identifier</title>
+            <div id="d0952949-6422-4bce-a9b5-ea460bed3ce5">
+                <p outputclass="title" id="9e078f19-8d47-4c2a-97a3-a31fee827ca0">
+                    <xref outputclass="ps_link" keyref="rdawP10402/296a2051-42d1-4de2-acb1-0286ffef129c">Recording an identifier</xref>
+                </p>
+                <div id="cd624cf3-c85d-4197-b662-af90d67dd694"/>
+            </div>
+        </section>
+        <section id="8ad1f74a-3838-42fe-9fbc-622a3711d443">
+            <title>Recording an IRI</title>
+            <div id="c86f927a-45b2-4c4b-8c2e-5e9efd1ee27c">
+                <p outputclass="title" id="ffcbd6c6-0f6a-45bc-90e6-91d10de88ae5">
+                    <xref outputclass="ps_link" keyref="rdawP10402/7fd695d2-2d3a-41d9-b6b6-e2c2b1de8d93">Recording an IRI</xref>
+                </p>
+                <div id="ff0223f4-f073-491f-aa01-954a1daa4bb3"/>
+            </div>
+        </section>
+    </body>
+</topic>

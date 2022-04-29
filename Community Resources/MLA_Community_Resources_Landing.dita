@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="mla_community_resources_land"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+    <title>MLA BP Community Resources</title>
+    <body>
+        <section id="section_pdz_gln_flb">
+            <p id="p_ats_tr3_flb">Click on the active links to browse MLA Best Practices by topic. A
+                grayed out link means that there are no policy statements for that topic.</p>
+        </section>
+        <section id="section_d1d_ksd_3lb">
+            <ul id="ul_pl2_dmn_flb">
+                <li id="li_ql2_dmn_flb">Community vocabularies</li>
+                <li id="li_rtf_fmn_flb">Community refinements<ul id="ul_xgr_ryl_v4b">
+                        <li id="li_x4x_5yl_v4b">Expression<ul id="ul_rjh_xyl_v4b">
+                                <li id="li_sjh_xyl_v4b">authorized access point for expression</li>
+                            </ul></li>
+                        <li id="li_gxf_vyl_v4b">Work<ul id="ul_tnf_yyl_v4b">
+                                <li id="li_unf_yyl_v4b">authorized access point for work<ul
+                                        id="ul_ud2_bzl_v4b">
+                                        <li id="li_b3r_lzl_v4b"><xref
+                                                href="community_refinements/Work/MLA_authorized_access_point_for_musical_work.dita"
+                                                >authorized access point for musical
+                                            work</xref></li>
+                                        <li id="li_djt_lzl_v4b"/>
+                                    </ul></li>
+                                <li id="li_pkz_yyl_v4b">preferred title for work<ul
+                                        id="ul_ihb_czl_v4b">
+                                        <li id="li_jhm_pzl_v4b"><xref
+                                                href="community_refinements/Work/MLA_preferred_title_of_musical_work.dita"
+                                                >preferred title of musical work</xref></li>
+                                    </ul></li>
+                                <li id="li_f1l_zyl_v4b">related agent for work</li>
+                            </ul></li>
+                    </ul></li>
+            </ul>
+        </section>
+    </body>
+</topic>

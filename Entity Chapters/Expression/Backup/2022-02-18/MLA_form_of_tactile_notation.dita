@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-414ed7c0-0c27-3be4-b317-1ada0f10e05d"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for form of tactile notation</title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body>
+      <section id="626e63f4-486a-49ae-bf91-850aad8b4721">
+         <title>Prerecording</title>
+         <div id="c4282845-eca0-4d75-840f-a103735f8329">
+            <p outputclass="title" id="8bc5b4a9-1595-4438-87df-1c2ba59b55ac">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20061/27035bae-565b-4cf6-ac2e-dfc1c8887157">Prerecording</xref>
+            </p>
+            <div id="5f706352-f297-43a6-a145-8077ff2e02e1">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_pnk_vdh_r4b"/>for tactile music notation. In other
+                    cases, record the element<ph conkeyref="b_bp_mla/ph_nll_gbv_mqb"/>
+               </p>
+            </div>
+         </div>
+      </section>
+      <section id="59eb6c70-e1e1-4366-afcd-db3f96a248d0">
+         <title>Recording</title>
+         <div id="d2e8414a-78a0-4df6-ba06-187d42d47446">
+            <p outputclass="title" id="bd891b2b-cc51-43d0-84b4-ca5d02980410">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20061/57d0906f-d39c-4ee0-93fc-42750843336f">Recording</xref>
+            </p>
+            <div id="e2629272-aabe-4495-9609-56c2418504a8">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>For notated music only: <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 348 subfield $c. Alternatively or
+                    additionally, use field 341 subfield $e along with $a value
+                    <term>tactile</term>.</p>
+               <p>Additionally: <ph conkeyref="b_bp_mla/ph_t1t_rgd_z4b"/>field 007 (byte 00 value
+                        <term>f</term>, tactile material) if deemed useful for identification or
+                    access.</p>
+               <p>If no appropriate structured term is available, or if required by local policy:
+                        <ph conkeyref="b_bp_mla/ph_lwm_qgd_z4b"/>field 546 subfield $b.</p>
+            </div>
+         </div>
+      </section>
+      <section id="f91b1890-c6d4-4e9c-82b5-c50bcf9da8ad">
+         <title>Recording an unstructured description</title>
+         <div id="8d7e86b7-6519-4f83-bd9e-508ef3e16853">
+            <p outputclass="title" id="8ed9899b-4f6c-4663-9b29-1dffdc104b31">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20061/fd987477-40da-4bd2-b44e-dc71b62d6c95">Recording an unstructured description</xref>
+            </p>
+            <div id="c40a1b7b-e086-4387-9e8f-9d7664461546"/>
+         </div>
+         <div id="a051ade3-aad1-4aae-8dd5-a0892a7c526d">
+            <p outputclass="title" id="00845ae5-2d26-4708-8da1-eb9e41e83a29">
+               <xref outputclass="ps_link"
+                     id="div_vcn_nhd_mhb"
+                     keyref="rdaeP20061/div_vcn_nhd_mhb">Option</xref>
+            </p>
+            <div id="13d76034-2a77-4ec7-a838-41365c1a6d5c">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>if no appropriate controlled term
+                    exists.</p>
+            </div>
+         </div>
+         <div id="5e7fbb41-8716-4e83-92b9-df54307db58e">
+            <p outputclass="title" id="45f9be71-ade9-4378-a29f-e2cd1a6cce23">
+               <xref outputclass="ps_link"
+                     id="div_wc1_4hd_mhb"
+                     keyref="rdaeP20061/div_wc1_4hd_mhb">Option</xref>
+            </p>
+            <div id="8938c8fa-c4b4-4845-bf3b-9743c1e9fb42">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_hjp_jfh_r4b"/>
+               </p>
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>If coding detailed braille music format
+                    information (bar-by-bar, etc.) in field 007 (tactile material), provide a
+                    human-readable equivalent as an unstructured description in field 500. Record an
+                    unstructured description if details of braille format are known even if a
+                    tactile 007 is not recorded.</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_form_of_tactile_notation.dita#ala-87db5f65-86b6-3bf8-a3f6-e5ba3ce634ac/0b65f538-a9b9-4dde-b6da-09ed287fff75"/>
+            </div>
+         </div>
+         <div id="677acabf-c650-46ae-a5fd-dadb6c65d543">
+            <p outputclass="title" id="88b4963b-74f9-4f43-92cc-294edbffa589">
+               <xref outputclass="ps_link"
+                     id="div_z3q_mds_vfb"
+                     keyref="rdaeP20061/div_z3q_mds_vfb">Option</xref>
+            </p>
+            <div id="48184df3-df52-4667-afb8-36e9ddc1f534"/>
+         </div>
+      </section>
+      <section id="5f83e709-cddd-4931-9a5c-8e8174e2a478">
+         <title>Recording a structured description</title>
+         <div id="6f412128-84ca-4423-90bc-656eea46caca">
+            <p outputclass="title" id="1caea81b-4884-456d-a46c-f62ce8ffe51e">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20061/3ecc9ab3-063c-4bee-943f-fc7b1dcf588b">Recording a structured description</xref>
+            </p>
+            <div id="500d026c-2a67-47e4-ab72-9d72646a1ed0"/>
+         </div>
+         <div id="4e3631c3-61e3-46e7-899c-869e4fb477cd">
+            <p outputclass="title" id="d2e76bad-b8be-4617-b148-1d3523143c21">
+               <xref outputclass="ps_link"
+                     id="div_fcf_phd_mhb"
+                     keyref="rdaeP20061/div_fcf_phd_mhb">Option</xref>
+            </p>
+            <div id="7d633715-28d5-480e-aa15-8de9bd1708e2">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_form_of_tactile_notation.dita#ala-87db5f65-86b6-3bf8-a3f6-e5ba3ce634ac/9d66d689-3dd0-49ce-b482-95557e028959"/>
+            </div>
+         </div>
+         <div id="c5488075-4be5-4e0a-a0a9-483231854504">
+            <p outputclass="title" id="9dd0b571-e3f4-4593-8923-b0e64bf6835c">
+               <xref outputclass="ps_link"
+                     id="div_umv_phd_mhb"
+                     keyref="rdaeP20061/div_umv_phd_mhb">Option</xref>
+            </p>
+            <div id="c3c381b5-c62e-4ee7-936b-61531da80df2">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_form_of_tactile_notation.dita#ala-87db5f65-86b6-3bf8-a3f6-e5ba3ce634ac/a68ed69a-f45a-4cee-a271-b45860310fb8"/>
+            </div>
+         </div>
+         <div id="58fc423e-fe2d-4ad2-b741-f8111321ebad">
+            <p outputclass="title" id="93ccf84b-3727-4daa-9f10-d69e263d1c04">
+               <xref outputclass="ps_link"
+                     id="div_kyg_d5x_ycb"
+                     keyref="rdaeP20061/div_kyg_d5x_ycb">Option</xref>
+            </p>
+            <div id="c8340702-eb74-40d8-b990-21a9cc11bb2f">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>If using field 348: <ph conkeyref="b_bp_mla/ph_orq_vnf_1qb"/>
+                  <term>rdaftn</term>. If using field
+                    341: <ph conkeyref="b_bp_mla/p_sl3_hfh_r4b"/>
+               </p>
+            </div>
+         </div>
+         <div id="d3416e44-5562-42ba-b588-4ebe64881813">
+            <p outputclass="title" id="48ad6fc3-e2ee-454d-9efa-e1805e2eb764">
+               <xref outputclass="ps_link"
+                     id="div_wk3_k3y_mhb"
+                     keyref="rdaeP20061/div_wk3_k3y_mhb">Condition Option</xref>
+            </p>
+            <div id="2bb24b75-dcab-452d-98e4-b6b935f767d9">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/>
+               </p>
+            </div>
+         </div>
+      </section>
+      <section id="a295498a-9ce5-4157-9dee-6b23a7d4c892">
+         <title>Recording an identifier</title>
+         <div id="8a27dee3-daf5-46c5-befb-c446e9a4a125">
+            <p outputclass="title" id="f731acbf-0889-4ecd-9c3d-00ed675e2529">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20061/01610289-26a0-4b33-a859-84748cef65bc">Recording an identifier</xref>
+            </p>
+            <div id="f478a01a-6259-4110-9257-a7010d2968e4"/>
+         </div>
+         <div id="4190e764-b6e3-42a9-9e6c-6bf6f7640862">
+            <p outputclass="title" id="7c4e8a97-ef56-4aa9-be15-d27c03c29a0c">
+               <xref outputclass="ps_link"
+                     id="div_mtq_jnz_tdb"
+                     keyref="rdaeP20061/div_mtq_jnz_tdb">Option</xref>
+            </p>
+            <div id="bb17bf4f-385c-48a1-940d-c9d39bc02962"/>
+         </div>
+         <div id="fe78d9ec-d0f6-4390-a3eb-bd0efea6f464">
+            <p outputclass="title" id="bea6584d-6d35-4f57-8ea4-a2d4514a2787">
+               <xref outputclass="ps_link"
+                     id="div_z2l_rhd_mhb"
+                     keyref="rdaeP20061/div_z2l_rhd_mhb">Option</xref>
+            </p>
+            <div id="040fc16e-dc2d-4fee-b058-62e578d0df43"/>
+         </div>
+         <div id="4368afc1-4cd4-4e77-a1b3-2eb976c8002a">
+            <p outputclass="title" id="9c920691-12bc-4e18-9102-8e880bf38b46">
+               <xref outputclass="ps_link"
+                     id="div_rzx_f5x_ycb"
+                     keyref="rdaeP20061/div_rzx_f5x_ycb">Option</xref>
+            </p>
+            <div id="38a0b941-9ac4-4863-bd4d-183cef35f62a"/>
+         </div>
+      </section>
+      <section id="3e69fa20-782f-4561-8861-507ffcc1d054">
+         <title>Recording an IRI</title>
+         <div id="bd66613f-0fa7-45f4-b109-192064387d5b">
+            <p outputclass="title" id="b249df60-2338-4193-8e58-7182a628a246">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20061/a7bd0423-aa7e-47fe-a4b9-7bf1d0e2a7b3">Recording an IRI</xref>
+            </p>
+            <div id="f80ee1da-5070-4d32-9a22-adb24b88c1c9"/>
+         </div>
+         <div id="d5134d3c-2a12-4176-aacf-223ee3c71900">
+            <p outputclass="title" id="0f06f9e5-65e7-437c-990c-0600f74efc7b">
+               <xref outputclass="ps_link"
+                     id="div_l23_lnz_tdb"
+                     keyref="rdaeP20061/div_l23_lnz_tdb">Option</xref>
+            </p>
+            <div id="9e35586e-ffae-4196-9f94-ff585b8cc22b"/>
+         </div>
+         <div id="5e3f6ffe-7d88-4fbf-9ec8-fafbaa1e1b7b">
+            <p outputclass="title" id="35d37efa-b7ee-45de-baf5-22d332d5937f">
+               <xref outputclass="ps_link"
+                     id="div_zb5_shd_mhb"
+                     keyref="rdaeP20061/div_zb5_shd_mhb">Option</xref>
+            </p>
+            <div id="89707f82-3f67-49e1-8a0e-51ccb4fd9b04"/>
+         </div>
+      </section>
+   </body>
+</topic>

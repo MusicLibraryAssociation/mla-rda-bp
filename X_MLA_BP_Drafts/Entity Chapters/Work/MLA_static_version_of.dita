@@ -1,0 +1,32 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-24c23772-52f3-3218-9bc0-53567ff22a55" xml:lang="en-US">
+    <title>Music Library Association Best Practices for static version of </title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="5cbd5aad-5c87-49b5-9c13-4aa675ae3f1d">
+            <title>Recording</title>
+            <div id="a5f4cf79-3560-4e64-a122-4522c3f3e2ad">
+                <p outputclass="title" id="cf0d4f24-b25d-42e0-a856-69ba290d5a0c">
+                    <xref outputclass="ps_link" keyref="rdawP10392/section_pd3_tkd_xdb">Recording</xref>
+                </p>
+                <div id="8e8d6cee-2d53-416f-b8d7-b3fc9708d9e9"/>
+            </div>
+        </section>
+        <section id="46cb9c47-8463-4411-8880-b969f2facd96">
+            <title>Recording an IRI</title>
+            <div id="e82eb60d-ea28-4c51-a171-c91461dce865">
+                <p outputclass="title" id="05ad7d36-5228-4ca3-9707-4a04bf260b06">
+                    <xref outputclass="ps_link" keyref="rdawP10392/div_zd3_tkd_xdb">Recording an IRI</xref>
+                </p>
+                <div id="04916110-72b8-49b4-8c8f-29f9ffe8f27d"/>
+            </div>
+        </section>
+    </body>
+</topic>

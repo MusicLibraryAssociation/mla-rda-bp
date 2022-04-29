@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="topic_cy3_2dh_r4b" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+  <title>Boilerplate for MLA BPs</title>
+  <body>
+                <draft-comment author="CSS Chair">
+                        <p>General usage notes:  </p>
+                        <p>All links to external resources should be entered in the boilerplate file for ease of maintenance and inserted by conkeyref where needed.</p>
+                        <p>Do not include conrefs or conkeyrefs to this same boilerplate file in boilerplate text. Oxygen and the Toolkit CMS can handle this fine, but it is too recursive for the ALA publishing script to handle and the conref/conkeyref will not display in the published text.</p>
+                </draft-comment>
+                <draft-comment author="CSS Chair">Statements attached to the Prerecording heading</draft-comment>
+                <p><ph id="p_vtg_bdh_r4b">Routinely record the element.</ph></p>
+                <p><ph id="p_pnk_vdh_r4b">Routinely record the element </ph></p>
+                <p><ph id="ph_rlm_crt_v4b"> by recording one or more of the appropriate sub-elements.</ph></p>
+                <p><ph id="ph_vgt_s34_kqb">Where possible, prefer recording one or more of the more specific element subtypes instead.</ph></p>
+                <p><ph id="ph_tqy_drt_v4b"> or an appropriate narrower element.</ph></p>
+                <p><ph id="ph_khy_xxc_gqb">Record the element </ph></p>
+                <p><ph id="p_dft_12h_r4b">Record the element if feasible.</ph></p>
+                <p><ph id="ph_owx_hxs_qpb">Record the element if feasible </ph></p>
+                <p><ph id="ph_kph_pcz_x4b">Record the element if deemed useful for identification or selection.</ph></p>
+                <p><ph id="p_knb_g2h_r4b">Record all values of the element present in the resource if feasible. </ph></p>
+                <p><ph id="p_m22_32h_r4b">Record a value for at least the first instance of the element. Record additional values for the element if deemed useful for identification or selection.</ph></p>
+                <p><ph id="p_uqx_ljh_r4b">This element, or one of its narrower or broader elements, is required by the minimum description standards of RDA.</ph></p>
+                <p><ph id="p_lkc_zhh_r4b">Generally do not record manifestation statements. Refer to the Best Practices for Guidance: <xref keyref="g_029"/> for details.</ph></p>
+                <p><ph id="ph_z3v_fst_v4b">Information appropriate for this element should be recorded using the more specific element and/or sub-elements found at </ph></p>
+                <p><ph id="ph_knj_c2z_cqb">Do not record the element.</ph></p>
+                <p><ph id="ph_zpp_sdz_cqb">Do not record the element </ph></p>
+                <draft-comment author="CSS Chair">Statements attached to the Recording heading</draft-comment>
+                <p><ph id="ph_osx_rxr_x4b">In MARC: </ph></p>
+                <p><ph id="ph_lwm_qgd_z4b">Record as an unstructured description using </ph></p>
+                <p><ph id="ph_amr_rgd_z4b">Record as a structured description using </ph></p>
+                <p><ph id="ph_t1t_rgd_z4b">Record as an identifier using </ph></p>
+                <p><ph id="ph_kfw_myw_nqb">Provide additional clarifying information as an unstructured description in field 500 if deemed useful for identification or selection.</ph></p>
+                <draft-comment author="CSS Chair">Statements attached to Condition blocks</draft-comment>
+                <p><ph id="p_vfs_1fh_r4b">This condition applies to </ph></p>
+                <p><ph id="p_vtl_cfh_r4b">Also consider this condition to apply </ph></p>
+                <draft-comment author="CSS Chair">Statements attached to options</draft-comment>
+                <p><ph id="p_uzx_ffh_r4b">Apply the option.</ph></p>
+                <p><ph id="p_elw_gfh_r4b">Apply the option </ph></p>
+                <p><ph id="ph_jng_1tx_z4b">Apply the option if recording the element.</ph></p>
+                <p><ph id="ph_fm3_4ht_t4b"><?oxy_comment_start author="Keith.Knop" timestamp="20210225T082657-0600" comment="Intended for use in conjunction with &quot;Record the first value&quot; options."?>Additionally record all other values for the element from the chosen source of information if feasible.<?oxy_comment_end?></ph></p>
+                <p><ph id="ph_czp_thd_z4b"><?oxy_comment_start author="Keith.Knop" timestamp="20210225T082657-0600" comment="Intended for use in conjunction with &quot;Record the first value&quot; options."?>Additionally record all other values for the element from anywhere in the resource if feasible.<?oxy_comment_end?></ph></p>
+                <p><ph id="p_sl3_hfh_r4b">Do not apply the option.</ph></p>
+                <p><ph id="p_izh_3fh_r4b">Generally do not apply the option </ph></p>
+                <p><ph id="ph_qtx_by2_cqb">unless directed by local policy.</ph></p>
+                <p><ph id="p_hjp_jfh_r4b">Cataloger's judgment.</ph></p>
+                <p><ph id="ph_mnb_hns_v4b"> if deemed useful for identification or selection.</ph></p>
+                <p><ph id="ph_nll_gbv_mqb"> if deemed useful for identification or access.</ph></p>
+                <p><ph id="ph_d3p_tmt_t4b"> in cases where values are linguistically neutral or otherwise lack corresponding values for related elements in the same language. </ph></p>
+                <p><ph id="ph_yjw_24t_t4b"><?oxy_comment_start author="Keith.Knop" timestamp="20210316T152725-0500" comment="Intended for use with parallel elements."?>If feasible, transcribe all values for the element appearing on the chosen source of information.<?oxy_comment_end?></ph></p>
+                <p><ph id="ph_fnm_1qt_t4b">Optionally, record values from elsewhere in the resource if deemed useful for identification or selection.</ph></p>
+                <p><ph id="ph_trj_m4t_t4b">Group values for related elements together by language where possible.</ph></p>
+                <p><ph id="ph_cyr_jqq_z4b">Supply the value in square brackets.</ph></p>
+                <p><ph id="ph_xr1_jlv_t4b">Routinely indicate the source of title in a Manifestation: <xref keyref="rdamP30063"/>.</ph></p>
+                <p><ph id="ph_orq_vnf_1qb">If recording a term from the recommended vocabulary encoding scheme, indicate the source of information using the $2 code </ph></p>
+                <p><ph id="ph_ivd_znt_cqb">Do not apply the option until a MARC source code has been assigned to the chosen vocabulary encoding scheme.</ph></p>
+                <p><ph id="ph_zg4_yft_cqb">If deemed useful for identification or selection, <ph id="ph_evq_k55_tsb">optionally provide details or clarification as an unstructured description in field 500.</ph></ph></p>
+                <p/>
+                <draft-comment author="CSS Chair">Links to external resources. </draft-comment>
+                <p><ph id="p_ts4_3gh_r4b"><xref href="http://cmc.blog.musiclibraryassoc.org/types-of-composition-for-use-in-authorized-access-points-for-music-a-manual-for-use-with-rda/" format="html" scope="external">Types of Composition for Use in Authorized Access Points for Music: A Manual for Use with RDA</xref></ph></p>
+                <p><ph id="ph_rck_wcb_pqb"><xref href="http://cmc.blog.musiclibraryassoc.org/thematic-indexes-used-in-library-of-congress-naco-authority-files/" format="html" scope="external">Thematic Indexes Used in Library of Congress NACO Authority Files</xref></ph></p>
+                <p><ph id="p_r2t_4hh_r4b"><xref href="http://cmc.blog.musiclibraryassoc.org/mla-best-practices/" format="html" scope="external">Supplements to Best Practices for Music Cataloging Using RDA and MARC21</xref></ph><ph id="ph_grz_xtt_t4b">Supplement 1: Guidelines for Describing and Encoding Attributes of Audio Recording Carriers</ph><ph id="ph_svd_ytt_t4b">Supplement 2: Recording Parallel Data Using ISBD in MARC and Minimally Punctuated MARC</ph></p>
+                <p><ph id="ph_ibz_glz_x4b">Multiple dates and date types may be encoded in field 008/06 and 008/07-14. Consult <xref href="https://www.oclc.org/bibformats/en.html" format="html" scope="external">OCLC Bibliographic Formats and Standards</xref> for guidance in determining precedence of date type when coding one or more dates in field 008.</ph></p>
+                <p><ph id="ph_rvl_kvx_nqb"><xref href="http://cmc.blog.musiclibraryassoc.org/mla-best-practices/" format="html" scope="external">Best Practices for Using LCMPT</xref></ph></p>
+                <p><ph id="ph_qgr_kbx_pqb"><xref href="http://cmc.blog.musiclibraryassoc.org/mla-best-practices/" format="html" scope="external">Best Practices for Using LCGFT for Music Resources</xref></ph></p>
+                <p><ph id="ph_czk_z2w_pqb"><xref href="https://www.loc.gov/catdir/cpso/z1andlcguidelines.html" format="html" scope="external">Descriptive Cataloging Manual, Z1. Name and Series Authority Records</xref> (also available through Cataloger's Desktop)</ph></p>
+                <p><ph id="ph_nhq_zsx_pqb"><xref href="https://www.loc.gov/standards/datetime/" format="html" scope="external">Extended Date/Time Format</xref></ph></p>
+                <p><ph id="ph_xcs_pq5_tqb"><xref href="https://web.library.yale.edu/cataloging/music/preferred-titles#sources" format="html" scope="external">Music Cataloging at Yale: Preferred Titles</xref></ph></p>
+                <draft-comment author="CSS Chair">External Links: VES's</draft-comment>
+                <p><ph id="ph_ebs_xgp_kqb"><xref href="https://www.loc.gov/marc/languages/" format="html" scope="external">MARC Code List for Languages</xref></ph></p>
+                <p><ph id="ph_sbk_psf_1qb"><xref href="https://www.loc.gov/standards/valuelist/rdacarrier.html" format="html" scope="external">Term and Code List for RDA Carrier Types</xref></ph></p>
+                <p><ph id="ph_kjh_wsf_1qb"><xref href="https://www.loc.gov/standards/valuelist/rdacontent.html" format="html" scope="external">Term and Code List for RDA Content Types</xref></ph></p>
+                <p><ph id="ph_jfl_wsf_1qb"><xref href="https://www.loc.gov/standards/valuelist/rdamedia.html" format="html" scope="external">Term and Code List for RDA Media Types</xref></ph></p>
+                <p><ph id="ph_jwk_jdm_cqb"><xref href="https://id.loc.gov/vocabulary/mplayspeed" format="html" scope="external">Library of Congress Playing Speed</xref></ph></p>
+                <p><ph id="ph_msn_2nt_cqb"><xref href="https://id.loc.gov/vocabulary/mtapeconfig.html" format="html" scope="external">Library of Congress Tape Configuration</xref></ph></p>
+                <p><ph id="ph_ypn_ycz_cqb"><xref href="https://id.loc.gov/vocabulary/mencformat.html" format="html" scope="external">Library of Congress Encoding Format</xref></ph></p>
+                <p><ph id="ph_hnb_xtc_nqb"><xref href="https://id.loc.gov/vocabulary/millus.html" format="html" scope="external">Library of Congress Illustrative Content</xref></ph></p>
+                <draft-comment author="CSS Chair">Recommendations limited to specific sets of elements</draft-comment>
+                <p><ph id="ph_ify_sxr_x4b">Note that each distinct edition statement, including designations of edition, their associated designations of named revision of edition, statements of responsibility relating to edition, etc., should be encoded in separate 250 fields.</ph></p>
+                <p><ph id="ph_csg_ldy_z4b"><?oxy_comment_start author="Keith.Knop" timestamp="20210319T113727-0500" comment="For date of manifestation, name of agent of manifestation, and place of manifestation"?>For specific MLA guidance on places, dates, or agents related to the production, publication, distribution, or manufacture of a manifestation, refer to the appropriate narrower element.<?oxy_comment_end?> Otherwise follow LC-PCC PS for this element.</ph></p>
+                <p><ph id="ph_vtq_rhb_bpb">If the resource is a reprint, reissue, reproduction, issue in an alternate format, etc., and provides an identifier for the original manifestation or an equivalent in an alternate format, record the identifier as a Manifestation: <xref keyref="rdamP30048"/>; do this in addition to formulating a structured or unstructured description of the original manifestation.</ph></p>
+                <draft-comment author="CSS Chair">Extent</draft-comment>
+                <p id="p_yyw_sc5_1qb">For notated music, refer to the special instructions at <xref keyref="rdamP30182/div_lrf_3dz_xdb">Extent of manifestations of notated music</xref>. Otherwise apply the option if appropriate.</p>
+                <?oxy_comment_start author="Keith.Knop" timestamp="20210623T105701-0500" comment="This BP is to preserve the order of precedence prescribed in RDA proper prior to the 2017 update. In the 2017 update, the terms in this list were placed in alphabetical order without revising instructions that relied on the previous order (specifically in Extent of Manifestation and Dimensions); the RDA Registry likewise places terms in alphabetical order."?>
+                <div id="div_wny_w5t_1qb">
+                        <p>If multiple terms for notated music resources are needed, do not record the terms in alphabetical order. Instead, order terms in the following order of precedence:</p>
+                        <ol>
+                                <li>score</li>
+                                <li>condensed score</li>
+                                <li>study score</li>
+                                <li>piano conductor part</li>
+                                <li>violin conductor part</li>
+                                <li>vocal score</li>
+                                <li>piano score</li>
+                                <li>chorus score</li>
+                                <li>part</li>
+                                <li>choir book</li>
+                                <li>table book</li>
+                        </ol>
+                </div><?oxy_comment_end?>
+                <draft-comment author="CSS Chair">Preferred Titles and Access Points</draft-comment>
+                <?oxy_comment_start author="kek67197" timestamp="20220421T114913-0400" comment="Originally this was a single paragraph referencing the link to Music Cataloging at Yale (from this same boilerplate file). It was split into separate phrases because, while Oxygen and the Toolkit CMS had no problem displaying the link, it was too recursive for the actual ALA publishing script to handle and the link was missing in the published text."?>
+                <p id="p_g2r_3r5_tqb"><ph id="ph_l35_1ng_vsb">A list of commonly used reference sources for preferred titles in music is available at</ph>
+                        <ph id="ph_c5c_cng_vsb">There is no priority order of reference sources, and the most appropriate source(s) to consult will vary based on the work.</ph></p><?oxy_comment_end?>
+                <p id="p_ntm_yq5_tqb">Reference sources include, but are not limited to, music encyclopedias, thematic catalogs and other bibliographies, and authorized access points for similar works by the same composer found in the Library of Congress/NACO Authority File. </p>
+                <p id="p_qzd_t55_tqb">For titles consisting solely of the name of one type of composition, evaluate evidence in manifestation of the work and reference sources broadly. In some cases research will support a preferred title in a language other than the original language used by the composer.</p>
+                <p><ph id="ph_xfk_sb4_frb">Do not apply the option for preferred titles of musical works.</ph>
+                </p>
+                <p><ph id="ph_fsb_cd4_frb">For musical works refer instead to Community Resources: <xref keyref="p_018"/>.</ph></p>
+        </body>
+</topic>

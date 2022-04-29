@@ -1,0 +1,41 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-c7965909-069b-38dd-95cf-1b9f8874ef28" xml:lang="en-US">
+    <title>Music Library Association Best Practices for sounds work </title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="4799eaf5-bed0-44f1-b977-854c08df573b">
+            <title>Prerecording</title>
+            <div id="c959144b-6d0d-4eeb-9c27-084c03bbdd50">
+                <p outputclass="title" id="9979965c-1b78-44d8-9937-89930024ff28">
+                    <xref outputclass="ps_link" keyref="rdawP10374/section_erq_5w3_wmb">Prerecording</xref>
+                </p>
+                <div id="a4bca9f2-edc8-41cb-a096-c9e0f084d0f7"/>
+            </div>
+        </section>
+        <section id="f3af785c-8940-4299-a4b2-6090df41acc9">
+            <title>Recording</title>
+            <div id="ade429c5-ccc9-448d-be7c-34e461128a8c">
+                <p outputclass="title" id="ebb1b4ef-52af-4b17-9ae9-ea22bb492104">
+                    <xref outputclass="ps_link" keyref="rdawP10374/section_hx2_skd_xdb">Recording</xref>
+                </p>
+                <div id="5f08e194-63c7-49a6-9902-8780c2161de1"/>
+            </div>
+        </section>
+        <section id="f0c21fc2-1fe1-4b3f-8591-700ae3cd05ef">
+            <title>Recording an IRI</title>
+            <div id="d7737f86-1a2f-4b34-b704-c92731641441">
+                <p outputclass="title" id="f65214af-8d79-4670-9c2f-51031201d1f9">
+                    <xref outputclass="ps_link" keyref="rdawP10374/div_rx2_skd_xdb">Recording an IRI</xref>
+                </p>
+                <div id="68a1fdda-10e8-494c-b33f-5451faec8e83"/>
+            </div>
+        </section>
+    </body>
+</topic>

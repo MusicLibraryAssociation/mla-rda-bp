@@ -1,0 +1,18 @@
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="RDA: Resource Description and Access" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    <?oxy_comment_start author="lbarnhart" timestamp="20180508T110644-0500" comment="Entities are in alpha order; need to re-org into LRM order? Guidance chapters and Related resources and VES vocabs missing"?>
+    <mapref href="Agent.ditamap"><?oxy_comment_end?></mapref>
+    <mapref href="Collective_Agent.ditamap"/>
+    <mapref href="Corporate_Body.ditamap"/>
+    <mapref href="Expression.ditamap"/>
+    <mapref href="Family.ditamap"/>
+    <mapref href="Manifestation.ditamap"/>
+    <mapref href="Nomen.ditamap"/>
+    <mapref href="Person.ditamap"/>
+    <mapref href="Place.ditamap"/>
+    <mapref href="RDA_Entity.ditamap"/>
+    <mapref href="Timespan.ditamap"/>
+    <mapref href="Item.ditamap"/>
+    <mapref href="Work.ditamap"/>
+    <topicref href="MLA_rdamatrix.dita#rdamatrix"/>
+    <topicref href="MLA_rdagloss.dita#rdagloss"/>
+</map>

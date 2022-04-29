@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-c1b56735-18c7-397d-ad51-9cc911783987"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for category of work </title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body>
+      <section id="8600baa6-3ef1-4704-ae82-04f0bc26449b">
+         <title>Prerecording</title>
+         <div id="9cadc67e-8fb7-4634-9b49-03a513b42a40">
+            <p outputclass="title" id="d5f2120a-1a21-4689-984e-d29410523755">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10004/a44096c6-ecdd-4b72-9e88-35d7b531531a">Prerecording</xref>
+            </p>
+            <div id="8a040efa-dc18-41ad-ba7c-cb1f85744a63">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_pnk_vdh_r4b"/>in authority records if giving category of
+                  work as a component of an access point, that is, if the preferred title consists
+                  of the name of one or more types of composition. <ph
+                     conkeyref="b_bp_mla/ph_khy_xxc_gqb"/>for other works if readily ascertainable.
+                  Do not record types of composition terms that are:</p>
+               <ul>
+                  <li>terms indicating a number of performers (e.g., Duets)</li>
+                  <li>tempo markings (e.g., Allegros)</li>
+                  <li>other generic terms that do not convey formal characteristics (e.g., Pieces, Music)</li>
+               </ul>
+               <p>For bibliographic records, consider a genre heading to record category of
+                  work.</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_category_of_work.dita#ala-4fefe307-592d-398d-b2c0-ade44fef102e/02885105-10bb-4366-9670-bed1b74c3f1e"/>
+            </div>
+         </div>
+      </section>
+      <section id="04880187-ddc6-4237-b402-e49e31f98c75">
+         <title>Recording</title>
+         <div id="b77adbd6-808d-4d49-bebc-1208bfe656f3">
+            <p outputclass="title" id="88afdcb7-3ee0-4443-9775-abbc94ace3fc">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10004/9802c850-df61-4773-b633-296ed8ba2e09">Recording</xref>
+            </p>
+            <div id="c9ba4f3a-56df-445b-b229-b806835fb65c">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>In authority records: <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 380 subfield $a. If no appropriate controlled term is available an unstructured description may be used instead.</p>
+               <p>In bibliographic records: Generally do not use field 380 <ph
+                     conkeyref="b_bp_mla/ph_qtx_by2_cqb"/> Prefer recording genre terms in field 655
+                  instead.</p>
+            </div>
+         </div>
+      </section>
+      <section id="6eec9163-e209-4c23-920b-843198049612">
+         <title>Recording an unstructured description</title>
+         <div id="bd3b8fed-7f90-4f06-8efa-a24c72b4a212">
+            <p outputclass="title" id="d60a587c-dc8a-436c-beb4-b7bd7f3bad73">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10004/ec659dc8-045f-4855-b06b-b509cf81b4e6">Recording an unstructured description</xref>
+            </p>
+            <div id="07503a85-fd0b-4e8f-8276-701e9a0bd09b"/>
+         </div>
+         <div id="631fbb35-9ae2-41e9-8909-93337d061614">
+            <p outputclass="title" id="a032aa4e-3db1-4f7c-8877-890fc39343ac">
+               <xref outputclass="ps_link"
+                     id="div_tjq_n5c_mhb"
+                     keyref="rdawP10004/div_tjq_n5c_mhb">Option</xref>
+            </p>
+            <div id="92e13985-99c2-4616-8d2f-daf26950f1e4">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_izh_3fh_r4b"/>in authority records unless no appropriate controlled term is available and it is deemed necessary for description or access. For uncontrolled terms, follow the formatting guidelines in <ph conkeyref="b_bp_mla/ph_czk_z2w_pqb"/>, that is, record uncontrolled terms in the singular form and capitalize the first word of the term.</p>
+            </div>
+         </div>
+         <div id="df2c8e82-7d24-4d06-9fe5-8be9a9ee2a0a">
+            <p outputclass="title" id="d1382f08-0f1c-45fe-bbb3-4da73028fd1d">
+               <xref outputclass="ps_link"
+                     id="div_zbc_45c_mhb"
+                     keyref="rdawP10004/div_zbc_45c_mhb">Option</xref>
+            </p>
+            <div id="c1b97024-6e68-469a-b2c3-ddff539ef325">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_category_of_work.dita#ala-4fefe307-592d-398d-b2c0-ade44fef102e/63bfc7fc-887c-4f99-be2c-81649abe651e"/>
+            </div>
+         </div>
+      </section>
+      <section id="cbbce13e-8996-400b-86be-9938a458aabd">
+         <title>Recording a structured description</title>
+         <div id="b70e16b0-7c1f-48a4-86e2-702f629a9738">
+            <p outputclass="title" id="b9dcfb1c-7de3-4e3d-8f54-117e00735687">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10004/1b5ad447-402a-4b16-a73e-d02d15ae6618">Recording a structured description</xref>
+            </p>
+            <div id="562aae23-d13b-4ba5-8048-613f9378978a"/>
+         </div>
+         <div id="57cbb02e-cf5e-48f8-b303-d368d1e628a0">
+            <p outputclass="title" id="2c818361-9b1b-4ee1-95fe-5791cbe36092">
+               <xref outputclass="ps_link"
+                     id="div_uch_l5c_mhb"
+                     keyref="rdawP10004/div_uch_l5c_mhb">Option</xref>
+            </p>
+            <div id="988589d1-efba-4859-a842-7bf80b184ab3">
+               <p>Prefer terms from the <i>Library of Congress Genre/Form Terms</i> thesaurus. Do
+                  not use terms that describe only the characteristics of an <term>expression</term>
+                  (e.g., Expression: <xref keyref="rdaeP20209"/>). Refer to <ph
+                     conkeyref="b_bp_mla/ph_qgr_kbx_pqb"/> for detailed guidance.</p>
+            </div>
+         </div>
+         <div id="0faf25a5-4061-42b1-9bf1-7882fa1d83e7">
+            <p outputclass="title" id="241ea6cd-3793-450d-9f2d-d7221c20ba02">
+               <xref outputclass="ps_link"
+                     id="div_wqx_l5c_mhb"
+                     keyref="rdawP10004/div_wqx_l5c_mhb">Option</xref>
+            </p>
+            <div id="0df1030d-d9be-496d-978e-941af82eaa96">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/ph_orq_vnf_1qb"/>
+                  <term>lcgft</term>.</p>
+            </div>
+         </div>
+         <div id="42f695d0-a3c5-4dbe-88ea-6cb72e9b76c6">
+            <p outputclass="title" id="74ab335a-b643-4031-8614-86fd00d9e9c7">
+               <xref outputclass="ps_link"
+                     id="div_kzb_3hg_nhb"
+                     keyref="rdawP10004/div_kzb_3hg_nhb">Condition Option</xref>
+            </p>
+            <div id="b945a94d-a967-47ae-b425-8fb6b51e2010">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_category_of_work.dita#ala-4fefe307-592d-398d-b2c0-ade44fef102e/8f66ee8f-21aa-4d73-ab42-b2cba7ffa731"/>
+            </div>
+         </div>
+      </section>
+      <section id="63e05fb9-b836-433a-968e-6f77959665c8">
+         <title>Recording an identifier</title>
+         <div id="2d4870a8-ea3e-49bb-99cd-ccac3b32ba6e">
+            <p outputclass="title" id="4cc472b0-1118-4267-9f28-7b8c887da9fb">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10004/b4ba7681-8896-4814-bc1c-7b073cf41f73">Recording an identifier</xref>
+            </p>
+            <div id="d9da628d-5f80-4932-8be4-4112bdb7e260"/>
+         </div>
+         <div id="7157940e-9a9b-4ddc-a163-5ba2bf8084d8">
+            <p outputclass="title" id="e8809eab-4c89-45c8-b0b9-33768a31946f">
+               <xref outputclass="ps_link"
+                     id="div_j41_k5c_mhb"
+                     keyref="rdawP10004/div_j41_k5c_mhb">Option</xref>
+            </p>
+            <div id="ff954d5b-3f22-4c78-840c-a144a7a71bdf">
+               <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/> In bibliographic records: <ph
+                     conkeyref="b_bp_mla/p_izh_3fh_r4b"/> using field 008 bytes 18-19, field 006
+                  bytes 01-02, or field 047 in new cataloging <ph
+                     conkeyref="b_bp_mla/ph_qtx_by2_cqb"/> In existing records, generally do not
+                  update field 008 bytes 18-19 or 006 bytes 01-02 <ph
+                     conkeyref="b_bp_mla/ph_qtx_by2_cqb"/></p>
+               <div
+                  conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_category_of_work.dita#ala-4fefe307-592d-398d-b2c0-ade44fef102e/5153fc8c-0a7d-40f7-9ce8-c61fd805bf98"
+               />
+            </div>
+         </div>
+         <div id="a135a434-2ec4-4dbb-8cdc-199d341b1269">
+            <p outputclass="title" id="6796deb4-2dce-46b9-841d-063b439d3902">
+               <xref outputclass="ps_link"
+                     id="div_jpp_zpn_lhb"
+                     keyref="rdawP10004/div_jpp_zpn_lhb">Option</xref>
+            </p>
+            <div id="5a861c0b-e7dc-4ee7-8191-98c9ab5c898b"/>
+         </div>
+      </section>
+      <section id="e0d374a5-a3c8-42c6-85f9-37be1597161f">
+         <title>Recording an IRI</title>
+         <div id="bf7dad5b-b6f5-4c68-9afd-498125bca280">
+            <p outputclass="title" id="bab4d9f0-2064-4f3d-8076-5d218369fb76">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10004/3cf5c958-eb4c-4ed4-9942-a3e8e7a4698d">Recording an IRI</xref>
+            </p>
+            <div id="0bc1101c-95a1-434e-9a7a-429f8e27daaa"/>
+         </div>
+         <div id="8af793a5-9db5-40c3-876a-5f2ab8d4f51b">
+            <p outputclass="title" id="785a88cb-fb6b-4dd2-90a9-400b21733fdd">
+               <xref outputclass="ps_link"
+                     id="div_pq5_35c_mhb"
+                     keyref="rdawP10004/div_pq5_35c_mhb">Option</xref>
+            </p>
+            <div id="98700643-c525-469b-9f4e-fd982ab463c2"/>
+         </div>
+      </section>
+      <section id="5f0c969b-6a79-4af9-ad08-db880a5a2ffb">
+         <title>View in Context Example</title>
+         <div id="6e8e8d3f-5b9e-4057-8160-563f33c2c7b9">
+            <p outputclass="title" id="c0cb91ee-7c33-48a8-a7d8-675434eaebe0">
+               <xref outputclass="ps_link" keyref="rdawP10004/section_u2k_wqn_kdb">View in Context Example</xref>
+            </p>
+            <div id="900acb3c-994a-412b-ad53-66bca7aa27ff"/>
+         </div>
+      </section>
+   </body>
+</topic>

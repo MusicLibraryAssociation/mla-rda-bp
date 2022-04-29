@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map title="MLA BP Entities Map" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    <topicref href="Entity%20Chapters/MLA_Agent.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_Collective_Agent.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_Corporate_Body.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_Expression.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_Family.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_Item.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_Manifestation.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_Nomen.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_Person.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_Place.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_RDA_Entity.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_Timespan.ditamap"/>
+    <topicref href="Entity%20Chapters/MLA_Work.ditamap"/>
+</map>
+    
+    
+

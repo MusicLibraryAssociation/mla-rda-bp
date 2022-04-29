@@ -1,0 +1,47 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-64a2f6f5-87fa-3852-8006-9cc6b25a6865" xml:lang="en-US">
+    <title>Music Library Association Best Practices for identifier for RDA entity</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="3c0c11ca-0202-47f8-9428-4965aab21c71">
+            <title>Prerecording</title>
+            <div id="2e423224-0bf7-4e49-96f0-a3c6fd4a1218">
+                <p outputclass="title" id="42ac6705-7f28-4dad-b9b4-66d5405068f8">
+                    <xref outputclass="ps_link" keyref="rdaxP00018/4d0790a9-431d-4f58-a53d-23bc246e8ce3">Prerecording</xref>
+                </p>
+                <div id="1220ea7d-b5d5-4fd4-abc9-1e49ffd32713"/>
+            </div>
+        </section>
+        <section id="7028c0fe-e878-42e5-a119-a4c79125954c">
+            <title>Recording</title>
+            <div id="2104683e-75d4-4d38-a356-1fd63b63302f">
+                <p outputclass="title" id="a4d57d45-bde6-43de-a1f9-10c14e03c4a8">
+                    <xref outputclass="ps_link" keyref="rdaxP00018/1a6a151e-97b4-4f7f-9a32-d3ff97b3a4df">Recording</xref>
+                </p>
+                <div id="de1148dc-eee8-4319-8049-f5716d8fc99c"/>
+            </div>
+        </section>
+        <section id="fe0397cb-ddfc-45cb-b8bd-11805bd2c356">
+            <title>Data provenance</title>
+            <div id="5469093d-9ac9-4f53-9df5-a0bb6f28486b">
+                <p outputclass="title" id="d42cbebd-2e44-41a0-b79c-e9c90d14e6ba">
+                    <xref outputclass="ps_link" keyref="rdaxP00018/div_llw_2sm_lhb">Data provenance</xref>
+                </p>
+                <div id="053cba33-cbd7-47c6-a06d-b0129e51131a"/>
+            </div>
+            <div id="63f6d468-d5da-42a0-9a3b-cce60415e5b2">
+                <p outputclass="title" id="fd690994-e84b-4242-ae2a-a887c2d2f91a">
+                    <xref outputclass="ps_link" id="div_tpq_fsm_lhb" keyref="rdaxP00018/div_tpq_fsm_lhb">Option</xref>
+                </p>
+                <div id="50cb9b32-292b-4274-b8da-7bc851bdadd5"/>
+            </div>
+        </section>
+    </body>
+</topic>

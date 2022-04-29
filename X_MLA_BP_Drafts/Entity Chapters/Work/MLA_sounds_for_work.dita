@@ -1,0 +1,41 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-34a5ce7a-4d93-363c-8f7b-c08813b772bb" xml:lang="en-US">
+    <title>Music Library Association Best Practices for sounds for work </title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="cfd40f51-2751-4e0a-b860-507ac8e7e969">
+            <title>Prerecording</title>
+            <div id="72cdb94d-f168-4113-a3fd-b945d9e5d65e">
+                <p outputclass="title" id="fb1ea2bc-4a39-4345-8c0f-df5ad07f7ef2">
+                    <xref outputclass="ps_link" keyref="rdawP10376/section_oq1_tw3_wmb">Prerecording</xref>
+                </p>
+                <div id="090f7cf5-6c5a-44be-8835-4337594e2ac9"/>
+            </div>
+        </section>
+        <section id="e451bbd4-f156-4942-82f2-914c0f6b60d9">
+            <title>Recording</title>
+            <div id="d8464573-095a-4bf8-bdc1-d32032b4b000">
+                <p outputclass="title" id="0524f7cd-2b40-402f-bf06-86299be70eba">
+                    <xref outputclass="ps_link" keyref="rdawP10376/section_hw5_rkd_xdb">Recording</xref>
+                </p>
+                <div id="508aafc0-eed9-41ec-8972-83cf98e17aea"/>
+            </div>
+        </section>
+        <section id="34b58ce7-d4a5-46bd-ac14-2f9773ae7ab0">
+            <title>Recording an IRI</title>
+            <div id="0f63ea6c-64e3-4c79-8582-a68fb6c7919d">
+                <p outputclass="title" id="3f52740b-c0d2-4f8c-be55-7adeeeef2375">
+                    <xref outputclass="ps_link" keyref="rdawP10376/div_rw5_rkd_xdb">Recording an IRI</xref>
+                </p>
+                <div id="0616de19-2b32-4991-8989-69020220128b"/>
+            </div>
+        </section>
+    </body>
+</topic>

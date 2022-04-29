@@ -1,0 +1,59 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-188f33f5-3758-3c0e-9c75-c8cf3328c59e" xml:lang="en-US">
+    <title>Music Library Association Best Practices for name of RDA entity</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="b9314f24-63c0-4983-8a64-869787856b27">
+            <title>Prerecording</title>
+            <div id="fdc0b14b-affc-4cdd-9e8a-f3211518d745">
+                <p outputclass="title" id="a318f704-a52e-4d26-8589-84dc006aaab5">
+                    <xref outputclass="ps_link" keyref="rdaxP00019/a33bb0bb-cee0-4cd8-8e1c-3660f5e7dd58">Prerecording</xref>
+                </p>
+                <div id="5d0e6e0b-f61b-48f7-aeb6-46e6000d447d"/>
+            </div>
+            <div id="d295db34-3795-41d2-a9d5-da59fed7d35d">
+                <p outputclass="title" id="006bd350-1c5d-4106-a4d6-cc594a9bd813">
+                    <xref outputclass="ps_link" keyref="rdaxP00019/div_kfn_wrn_nlb">Option</xref>
+                </p>
+                <div id="ddb1c437-fdc2-4e7d-ba00-92310bfde125"/>
+            </div>
+        </section>
+        <section id="4387335f-40b4-47c1-81ad-4f867bfbadf2">
+            <title>Recording</title>
+            <div id="40886cfa-f91b-49af-8cb6-ade8bdb35b9c">
+                <p outputclass="title" id="1742a030-e935-4347-95da-ebea9cfaaed4">
+                    <xref outputclass="ps_link" keyref="rdaxP00019/55b6b6f5-7450-4fb6-a595-ec37b29c98a0">Recording</xref>
+                </p>
+                <div id="0e1ceafe-b158-43cc-b0d3-108d0c9dd606"/>
+            </div>
+        </section>
+        <section id="7be33621-d1e3-4d47-bf4b-4a9eb9aeeed2">
+            <title>Data provenance</title>
+            <div id="bd7820c3-0d33-42d0-872d-13dd0e1597a8">
+                <p outputclass="title" id="23092852-0a3c-4b04-ad5b-e5d1fc5c708a">
+                    <xref outputclass="ps_link" keyref="rdaxP00019/div_cn4_s14_lhb">Data provenance</xref>
+                </p>
+                <div id="e19c1754-dfc1-4d53-b6ca-698d25a3e80b"/>
+            </div>
+            <div id="a98a3c6d-e56b-4ca8-adcf-6d0d6979b126">
+                <p outputclass="title" id="875a52dd-8462-4be2-9a12-cdbeae12db36">
+                    <xref outputclass="ps_link" id="div_yky_2b4_lhb" keyref="rdaxP00019/div_yky_2b4_lhb">Option</xref>
+                </p>
+                <div id="356104d1-9d3e-4845-a3f6-181dbfa673e2"/>
+            </div>
+            <div id="2733fdd4-9bea-4e94-83f0-31997608ed6d">
+                <p outputclass="title" id="4da38838-8a02-4d64-a67e-f4ef0faaf66b">
+                    <xref outputclass="ps_link" id="div_ch2_p14_lhb" keyref="rdaxP00019/div_ch2_p14_lhb">Option</xref>
+                </p>
+                <div id="76ed6c91-2367-4f9d-a290-633107cf80e6"/>
+            </div>
+        </section>
+    </body>
+</topic>

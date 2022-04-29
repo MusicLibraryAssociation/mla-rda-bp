@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-c4dd289e-93eb-34c4-aac3-a334bc3a2b55"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for opus number</title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body>
+      <section id="95b33aca-4b9d-45a7-98c6-f1f9d271c3ec">
+         <title>Prerecording</title>
+         <div id="76e02b03-650c-4cdd-94f9-a10e972e1956">
+            <p outputclass="title" id="98ef985e-1e10-4ca1-8d42-fa6ad6bee4bc">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10333/2b9515e9-f329-47d0-b49f-57f280121d5e">Prerecording</xref>
+            </p>
+            <div id="0a0a1637-3392-449c-8bd5-55612409f271">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_pnk_vdh_r4b"/>in authority records if used as a component of an authorized or variant access point. <ph conkeyref="b_bp_mla/ph_khy_xxc_gqb"/> in other cases if readily ascertainable.</p>
+               <p>In bibliographic records: <ph conkeyref="b_bp_mla/ph_kph_pcz_x4b"/>
+               </p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_opus_number.dita#ala-c1fa623a-d516-3da7-9e08-3880ed2aa8cd/034d897a-6b7f-4220-afd3-a5be3caa5da8"/>
+            </div>
+         </div>
+      </section>
+      <section id="ce341af1-a0cd-46e0-b41e-63f6b0050ca1">
+         <title>Recording</title>
+         <div id="5015d344-b022-4f94-a3c3-d932b60140d4">
+            <p outputclass="title" id="d1e3ca8b-6d60-4f54-a55f-68daf35084c9">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10333/03cd9bdf-2cd7-4eed-b5f6-2f0b6b873823">Recording</xref>
+            </p>
+            <div id="1e49f1b9-be04-41f3-945e-c439cf8a48ad">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/ph_t1t_rgd_z4b"/>field 383 subfield $b.</p>
+            </div>
+         </div>
+      </section>
+      <section id="73046b3f-d539-43ad-87e8-7e458152d978">
+         <title>Recording an unstructured description</title>
+         <div id="96206a9b-2caa-4523-8ec9-91193754b6da">
+            <p outputclass="title" id="d247d036-d87a-4f76-89fe-e2aca6868e44">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10333/af62e09a-ac81-4a29-b518-d5c0273470bd">Recording an unstructured description</xref>
+            </p>
+            <div id="f506453d-8410-485b-89ea-5abf394628f2"/>
+         </div>
+      </section>
+      <section id="729301ee-1006-40ab-a189-f5885869a726">
+         <title>Recording a structured description</title>
+         <div id="9d40b3d8-0a4f-4557-8331-76e7931add72">
+            <p outputclass="title" id="1c61def3-01f9-4ab6-97fb-20612dbf2856">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10333/a7d6f51a-0164-4538-abdd-16fb255a25a6">Recording a structured description</xref>
+            </p>
+            <div id="5aaed7c8-e535-4e09-a441-ffedaaa472e9"/>
+         </div>
+      </section>
+      <section id="313faee7-7e6f-44e3-b179-140b220edf79">
+         <title>Recording an identifier</title>
+         <div id="803a67e0-e2a6-497a-909c-718e5dc0377e">
+            <p outputclass="title" id="eb22203c-1789-463d-9d31-2adca74637c5">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10333/9f1a164c-8ac0-4b11-89d6-69da3f069832">Recording an identifier</xref>
+            </p>
+            <div id="749013b0-8cab-4e86-98b1-b92f949141e4">
+               <p>Format the opus number for a numbered part of a set of works by recording the opus number for the set, a comma, a space, and the number within the set.</p>
+            </div>
+         </div>
+         <div id="70c4c4d3-dbcc-48ec-8c30-1b977b5db8d1">
+            <p outputclass="title" id="96988952-ff56-4142-8227-06cc28de6382">
+               <xref outputclass="ps_link"
+                     id="div_zll_dgj_v2b"
+                     keyref="rdawP10333/div_zll_dgj_v2b">Condition Option</xref>
+            </p>
+            <div id="a4e17647-b776-42db-8dcf-199e871b9991">
+               <p>Enclose the name of the publisher in parentheses following the opus number when it is needed as a component in an access point. Do not add parentheses when recording opus number as a separate element.</p>
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Record the publisher in field 383 subfield $e following the opus number in subfield $b.</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_opus_number.dita#ala-c1fa623a-d516-3da7-9e08-3880ed2aa8cd/06b248ba-4114-4a23-825e-1f6185cb0de4"/>
+            </div>
+         </div>
+         <div id="907b8426-f87a-4ea5-ac1a-450e8e9f4984">
+            <p outputclass="title" id="04234bb5-102a-4db0-ab72-b400def99439">
+               <xref outputclass="ps_link"
+                     id="div_gnx_3gj_v2b"
+                     keyref="rdawP10333/div_gnx_3gj_v2b">Condition Option</xref>
+            </p>
+            <div id="b8bd40a4-d018-49ba-9eba-a49f67bebb19">
+               <p>Enclose the name of the publisher in parentheses following the opus number when it is needed as a component in an access point. Do not add parentheses when recording opus number as a separate element.</p>
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Record the publisher in field 383 subfield $e following the opus number in subfield $b.</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_opus_number.dita#ala-c1fa623a-d516-3da7-9e08-3880ed2aa8cd/1b6021ba-6e41-4d4b-ad6c-1e95856f7454"/>
+            </div>
+         </div>
+      </section>
+      <section id="bd1d78a6-e549-4db9-abc1-407a4fcd1be1">
+         <title>Recording an IRI</title>
+         <div id="14da09cf-a7d4-4f6a-90f8-1efc6adc1a36">
+            <p outputclass="title" id="237aeb33-375b-42ed-8c87-bbd61753dfda">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10333/a6b3e5de-a31c-4209-9b31-f9b8e7fd4d7e">Recording an IRI</xref>
+            </p>
+            <div id="f7f57518-e963-4ecb-ad1d-33fb3d2ce77b"/>
+         </div>
+      </section>
+      <section id="6cc13514-09bf-4c2c-aa11-3a62aba69cca">
+         <title>View in Context Example</title>
+         <div id="b26b9f72-c903-4acc-a2fb-aca4eed6b3a7">
+            <p outputclass="title" id="bae28ab7-c33b-423b-affc-a9e848cbc0bd">
+               <xref outputclass="ps_link" keyref="rdawP10333/section_rmq_3kg_gdb">View in Context Example</xref>
+            </p>
+            <div id="0f85c715-dcbc-4f77-b396-cc7ed61a9365"/>
+         </div>
+      </section>
+   </body>
+</topic>

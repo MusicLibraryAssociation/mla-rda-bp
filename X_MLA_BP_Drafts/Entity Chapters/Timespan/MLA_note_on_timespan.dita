@@ -1,0 +1,74 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-d7831960-3d7c-33db-ab51-7120022559c1" xml:lang="en-US">
+    <title>Music Library Association Best Practices for note on timespan</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="8e2a2fa8-5a3d-45f9-8dd4-6b888db36967">
+            <title>Prerecording</title>
+            <div id="3017b4a4-057a-482c-8097-103dd03c2151">
+                <p outputclass="title" id="5c36f896-5a42-4350-b25c-1736555bd930">
+                    <xref outputclass="ps_link" keyref="rdatP70045/a8ad17d0-2e19-48c3-926a-deb9e8fd752b">Prerecording</xref>
+                </p>
+                <div id="24544684-13a8-430f-a904-37d2b37fc5d8"/>
+            </div>
+        </section>
+        <section id="35c2b1da-bda1-415c-bc78-4f94b03dc3fc">
+            <title>Recording</title>
+            <div id="4b1785ad-bf73-41b9-9d2e-849173498001">
+                <p outputclass="title" id="3c20202c-98fb-40d3-b243-af77b740999c">
+                    <xref outputclass="ps_link" keyref="rdatP70045/4ae295f3-8d8d-4aa9-875e-320e84ab6142">Recording</xref>
+                </p>
+                <div id="a4710588-8dc9-451a-af18-2587fa2b79f1"/>
+            </div>
+        </section>
+        <section id="220b922e-740e-4559-872b-d97f7f841c51">
+            <title>Recording an unstructured description</title>
+            <div id="e99d4dcc-ab05-4794-bea9-a2a11e98e183">
+                <p outputclass="title" id="ad865e9e-e847-4450-8884-635fc3eae39f">
+                    <xref outputclass="ps_link" keyref="rdatP70045/31f769af-8e8f-42ce-870b-e21e8d67a6f3">Recording an unstructured description</xref>
+                </p>
+                <div id="e1c121fe-2a37-4b99-a292-78ba3f9e185d"/>
+            </div>
+            <div id="eb3dae69-2715-4779-ae30-afb9a0fc86fe">
+                <p outputclass="title" id="a27fa99e-cdb0-4a4e-bf9a-10a7ed4cc111">
+                    <xref outputclass="ps_link" id="div_xpc_x4w_4hb" keyref="rdatP70045/div_xpc_x4w_4hb">Option</xref>
+                </p>
+                <div id="b26ae356-ac49-43cf-8025-e5e629a63666"/>
+            </div>
+        </section>
+        <section id="ff74330c-b7f4-43a8-87ab-dcd24233d4e3">
+            <title>Recording a structured description</title>
+            <div id="651b59dc-dc1c-4417-ab82-5198b8644b15">
+                <p outputclass="title" id="0ad06fd5-64ff-4e72-a68c-5ce202e29804">
+                    <xref outputclass="ps_link" keyref="rdatP70045/10c2a065-e66c-460f-8c98-29fda7a631b9">Recording a structured description</xref>
+                </p>
+                <div id="344a0b44-4a8b-4d5a-b74b-6f9f6027bdf6"/>
+            </div>
+        </section>
+        <section id="b98a813f-6898-429e-afb6-a52877aa9241">
+            <title>Recording an identifier</title>
+            <div id="9813c8d3-aed0-445d-a2b7-a8e9925a05c6">
+                <p outputclass="title" id="cb524243-acd2-4ef9-a962-a5b14bae8f7c">
+                    <xref outputclass="ps_link" keyref="rdatP70045/e74aa9b8-1a7a-44cf-9775-ce56d9e9405d">Recording an identifier</xref>
+                </p>
+                <div id="27f4b151-96a2-4906-9439-2d1c0117c7a7"/>
+            </div>
+        </section>
+        <section id="5bc12598-d38e-4aa5-a855-4fd653befaa0">
+            <title>Recording an IRI</title>
+            <div id="e625699e-5e34-4d40-b916-f53068a651ee">
+                <p outputclass="title" id="1f96df0b-ef8a-4e49-8ace-f4fee646b016">
+                    <xref outputclass="ps_link" keyref="rdatP70045/48ea68f2-d471-464f-a103-48ece7ae39cd">Recording an IRI</xref>
+                </p>
+                <div id="930a3e78-034b-486f-b620-bad10bbb3536"/>
+            </div>
+        </section>
+    </body>
+</topic>

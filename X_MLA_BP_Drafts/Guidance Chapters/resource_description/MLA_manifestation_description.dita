@@ -1,0 +1,281 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-62d13a92-086e-33c5-a885-50b4364b85fd" xml:lang="en-US">
+    <title>Music Library Association Best Practices for Describing a manifestation</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="606f29f0-86a5-4379-9f16-4586b9b09b1a">
+            <title>Cardinality restrictions for specific kinds of manifestation</title>
+            <div id="c8536fd8-2e64-4ce1-9034-e17bad94a9aa">
+                <p outputclass="title" id="f95fa5dc-ed16-4fbd-a149-3b13a199af87">
+                    <xref outputclass="ps_link" keyref="g_016/section_ow2_jqg_vdb">Cardinality restrictions for specific kinds of manifestation</xref>
+                </p>
+                <div id="af919bda-953b-4dde-b014-98c2af068d67"/>
+            </div>
+        </section>
+        <section id="7de4a7aa-16d9-4205-9e4a-e6756ceee90a">
+            <title>Describing a manifestation that is issued in only one physical or logical unit</title>
+            <div id="466f553f-4448-4ff1-8f85-d6643b4f9d90">
+                <p outputclass="title" id="60083f8d-cf2d-4a84-a557-960c2f0cc9d5">
+                    <xref outputclass="ps_link" keyref="g_016/section_bpw_4cv_2fb">Describing a manifestation that is issued in only one physical or logical unit</xref>
+                </p>
+                <div id="3289c943-a42a-4ad2-8a49-d6004991caed"/>
+            </div>
+        </section>
+        <section id="6377da55-db76-4763-8d58-1f5ba97e7958">
+            <title>Describing a single unit manifestation</title>
+            <div id="9f4c701f-46bd-4531-9ef1-79ad922ae2a2">
+                <p outputclass="title" id="e0cb5ce7-ebfd-4ee4-b291-38d81f11cd29">
+                    <xref outputclass="ps_link" keyref="g_016/div_tj4_v4s_gfb">Describing a single unit manifestation</xref>
+                </p>
+                <div id="3e5154cf-12dc-4a06-9247-b6dfc18edfb3"/>
+            </div>
+            <div id="ccf1508a-8178-4ec2-9a85-c8906c0aee0a">
+                <p outputclass="title" id="8f200c54-e7e6-44e1-b7b7-cfbcc498e4c0">
+                    <xref outputclass="ps_link" id="div_d43_bdv_2fb" keyref="g_016/div_d43_bdv_2fb">Condition Option</xref>
+                </p>
+                <div id="382fb9c2-166e-4d01-b652-cb149b925745"/>
+            </div>
+        </section>
+        <section id="22a299d0-c41e-4a49-94eb-f5364d883e4f">
+            <title>Describing a single unit manifestation that has two or more parts</title>
+            <div id="bc7f14e5-ef4e-4b82-bf8d-d6e137c63f5d">
+                <p outputclass="title" id="1e43b92b-a92b-4fd7-908c-d6fc0b8c9fd5">
+                    <xref outputclass="ps_link" keyref="g_016/div_tq1_ndf_lfb">Describing a single unit manifestation that has two or more parts</xref>
+                </p>
+                <div id="e124c08c-217f-42f7-bcc4-7ab26469f7b1"/>
+            </div>
+            <div id="9a5a5379-153c-4b5b-9090-abf736d1aebb">
+                <p outputclass="title" id="7a84461f-6bc7-438a-b13e-65eed63cd7ba">
+                    <xref outputclass="ps_link" id="div_br1_ndf_lfb" keyref="g_016/div_br1_ndf_lfb">Condition Option</xref>
+                </p>
+                <div id="b401aaa4-f70e-4bc3-9954-4563598c7d30"/>
+            </div>
+            <div id="18ebda0f-7143-41f4-9240-5d480910a0b3">
+                <p outputclass="title" id="c86d3830-8d34-475b-92c7-e3646e37ba76">
+                    <xref outputclass="ps_link" id="div_dr1_ndf_lfb" keyref="g_016/div_dr1_ndf_lfb">Condition Option</xref>
+                </p>
+                <div id="dc2d0c96-b10c-4cf1-9b55-ffa11b55fd2b"/>
+            </div>
+        </section>
+        <section id="6ffcfa65-63dc-4b29-b038-8a8f34fd5059">
+            <title>Describing a part of a single unit manifestation</title>
+            <div id="20f09ff7-27a9-4ee5-9a1a-87c692cd2cf6">
+                <p outputclass="title" id="ddd75b60-5f46-438b-90d9-c2eea55ba2a1">
+                    <xref outputclass="ps_link" keyref="g_016/div_h5y_2sj_2hb">Describing a part of a single unit manifestation</xref>
+                </p>
+                <div id="7541c5a4-e335-4869-b673-952b9ca55a80"/>
+            </div>
+            <div id="20eefd90-6708-4daf-a80c-9aa0d58fb2ea">
+                <p outputclass="title" id="35e2bb24-773a-4fe7-a937-51a3b8728989">
+                    <xref outputclass="ps_link" id="div_ut3_t2v_2fb" keyref="g_016/div_ut3_t2v_2fb">Condition Option</xref>
+                </p>
+                <div id="e8accf83-d5a9-4b53-9b1e-e103ab4bd327"/>
+            </div>
+            <div id="287b0039-d509-42fd-99e7-a3a39275efbe">
+                <p outputclass="title" id="f05f52d3-2348-4d43-9f10-59a20bcf5db0">
+                    <xref outputclass="ps_link" id="div_wt3_t2v_2fb" keyref="g_016/div_wt3_t2v_2fb">Condition Option</xref>
+                </p>
+                <div id="3728a87f-7d03-4419-abdb-b84accc374c5"/>
+            </div>
+            <div id="9018a858-e36d-423c-8afa-faf89feab731">
+                <p outputclass="title" id="92ef06f7-6976-4e1c-acb7-445f6bddf02f">
+                    <xref outputclass="ps_link" id="div_yt3_t2v_2fb" keyref="g_016/div_yt3_t2v_2fb">Condition Option</xref>
+                </p>
+                <div id="aa15dbb2-1f8d-4cee-842b-ff320b8a143b"/>
+            </div>
+        </section>
+        <section id="25929078-2ef9-4c54-90f9-b060390dbbff">
+            <title>Describing a manifestation that is issued in two or more units</title>
+            <div id="412a5377-c320-4435-a965-2d3ca982797e">
+                <p outputclass="title" id="e9dae5ef-bfde-4592-b53f-ed4143481c99">
+                    <xref outputclass="ps_link" keyref="g_016/div_zkl_bvv_2fb">Describing a manifestation that is issued in two or more units</xref>
+                </p>
+                <div id="cbd7ec3e-fb7a-4b8a-ac26-e71c6dd59e7a"/>
+            </div>
+            <div id="c9a30844-ec9c-4e15-b28d-53be65af2b6e">
+                <p outputclass="title" id="768fe55c-56a9-4474-a4f5-361ddd8300ea">
+                    <xref outputclass="ps_link" id="div_dty_cr1_ffb" keyref="g_016/div_dty_cr1_ffb">Condition Option</xref>
+                </p>
+                <div id="0ec9d8b3-0aba-4448-8873-5d16549f8da8"/>
+            </div>
+            <div id="60de032f-cb8b-4116-bb4b-5734c4ef1412">
+                <p outputclass="title" id="3214d45f-932a-4751-a39b-d7b624447fd4">
+                    <xref outputclass="ps_link" id="div_kbr_xgv_2fb" keyref="g_016/div_kbr_xgv_2fb">Condition Option</xref>
+                </p>
+                <div id="c0aebf4c-3fb6-404d-9eb2-ff00790290b3"/>
+            </div>
+            <div id="955640d9-86cd-4bd9-a264-965bb7fa2217">
+                <p outputclass="title" id="0f069cc2-43b8-4940-80f9-f32b70154251">
+                    <xref outputclass="ps_link" id="div_kqy_dhv_2fb" keyref="g_016/div_kqy_dhv_2fb">Condition Option</xref>
+                </p>
+                <div id="2f60d235-f5b9-413e-a6cd-87bd44810a95"/>
+            </div>
+            <div id="0f52828f-7548-4931-b6ac-488ecd2e03bd">
+                <p outputclass="title" id="8cb9c2f1-cd4f-4720-bdcb-4ae9280197e1">
+                    <xref outputclass="ps_link" id="div_ssx_zvv_2fb" keyref="g_016/div_ssx_zvv_2fb">Condition Option</xref>
+                </p>
+                <div id="781f0754-1689-4829-8a09-9a9605833498"/>
+            </div>
+            <div id="ad80c7ba-b9e9-48ed-bcbb-00f6d9cbd9d9">
+                <p outputclass="title" id="651a49f7-d623-46e4-973d-6b2070873121">
+                    <xref outputclass="ps_link" id="div_usx_zvv_2fb" keyref="g_016/div_usx_zvv_2fb">Condition Option</xref>
+                </p>
+                <div id="ceb1bd77-8f30-4776-8204-7a8ee24a1eab"/>
+            </div>
+            <div id="b0e4e5fe-6fb2-40ea-853c-34529695ec97">
+                <p outputclass="title" id="c210032b-83d0-4ad4-8345-ca63a8711fd6">
+                    <xref outputclass="ps_link" id="div_ysx_zvv_2fb" keyref="g_016/div_ysx_zvv_2fb">Condition Option</xref>
+                </p>
+                <div id="92f3ee52-f2a5-4ea0-abac-7d80b43387bb"/>
+            </div>
+        </section>
+        <section id="acf6a631-0118-44e2-b81d-47f597992b9a">
+            <title>Describing a part of a manifestation that is issued in two or more units</title>
+            <div id="e687c827-b80a-471e-b6b0-c1e641172e9f">
+                <p outputclass="title" id="9e645543-3cce-4ed4-8b64-bc4cdca6105a">
+                    <xref outputclass="ps_link" keyref="g_016/div_xcc_lsj_2hb">Describing a part of a manifestation that is issued in two or more units</xref>
+                </p>
+                <div id="4da07cb2-032f-4fa3-b569-d48ba283220f"/>
+            </div>
+            <div id="85ab1c7c-eb7b-4b02-bf51-45ca78b4b9ba">
+                <p outputclass="title" id="97b59eee-5eee-4d8d-96cf-fc3a6c39325c">
+                    <xref outputclass="ps_link" id="div_eqt_l4v_2fb" keyref="g_016/div_eqt_l4v_2fb">Condition Option</xref>
+                </p>
+                <div id="875d64c8-e6ea-4489-b827-442e0a58dd8c"/>
+            </div>
+            <div id="ea7b6409-ddfa-4291-bb8a-a17b9ffaa50b">
+                <p outputclass="title" id="d78ee462-544a-4d07-a4a3-16a267915e52">
+                    <xref outputclass="ps_link" id="div_gqt_l4v_2fb" keyref="g_016/div_gqt_l4v_2fb">Condition Option</xref>
+                </p>
+                <div id="71a36228-9a1f-47c6-8f31-7f681165438a"/>
+            </div>
+            <div id="c215497e-3e38-4b32-94ce-d63589003d30">
+                <p outputclass="title" id="f6771fb8-b131-4001-9260-832c94bed01a">
+                    <xref outputclass="ps_link" id="div_hfg_x4v_2fb" keyref="g_016/div_hfg_x4v_2fb">Condition Option</xref>
+                </p>
+                <div id="746a7b37-c14a-4787-8162-95c3c2fa7344"/>
+            </div>
+        </section>
+        <section id="bfc7901a-5033-436a-a5ab-c9a8cff8611b">
+            <title>Describing a manifestation that embodies only one expression</title>
+            <div id="a8cdc550-7ec4-4267-85e8-212282be3e70">
+                <p outputclass="title" id="0ad5f03e-1a11-4201-bc2b-2e50711ee5cc">
+                    <xref outputclass="ps_link" keyref="g_016/section_sg4_rc3_42b">Describing a manifestation that embodies only one expression</xref>
+                </p>
+                <div id="cdf494b9-81a6-425a-9a6b-cad355ff1e84"/>
+            </div>
+            <div id="ba9e2c36-6ae5-41a9-9388-ba92086fc01e">
+                <p outputclass="title" id="7da95d41-a172-4765-9427-1cecd7875c20">
+                    <xref outputclass="ps_link" keyref="g_016/div_mxh_tc3_42b">Condition Option</xref>
+                </p>
+                <div id="e5669c6b-4322-4245-accc-116dd821311a"/>
+            </div>
+            <div id="5fb6d632-e9cc-4d4b-adab-3618c8cfc1a7">
+                <p outputclass="title" id="24c38c3d-aee0-4470-88ef-b1cf8beaef01">
+                    <xref outputclass="ps_link" keyref="g_016/div_oxh_tc3_42b">Condition Option</xref>
+                </p>
+                <div id="d0404fa3-9862-4e2a-8459-74da1ad48902"/>
+            </div>
+            <div id="4a78ff6c-4f8b-47e6-a556-820f2f14b999">
+                <p outputclass="title" id="4c170ab7-31c1-46ea-b120-accf27a64726">
+                    <xref outputclass="ps_link" keyref="g_016/div_qxh_tc3_42b">Condition Option</xref>
+                </p>
+                <div id="ed11f91d-c13c-43f0-a4b5-319799a92557"/>
+            </div>
+        </section>
+        <section id="b50cda2c-b4be-4a78-9da8-1e2b3eac3e53">
+            <title>Describing a manifestation that embodies two or more expressions</title>
+            <div id="77dc8d7a-1e10-4532-b86f-2042a296ad30">
+                <p outputclass="title" id="90d2f734-e928-4abd-9cef-47f80701040f">
+                    <xref outputclass="ps_link" keyref="g_016/section_qfv_vc3_42b">Describing a manifestation that embodies two or more expressions</xref>
+                </p>
+                <div id="293c4b92-8a7e-4b16-8264-9d3a180ee9ed"/>
+            </div>
+            <div id="381eb33a-decf-4010-b928-14da12e04c9a">
+                <p outputclass="title" id="7bfa2d9c-d8de-444c-9a3d-061ce40ba111">
+                    <xref outputclass="ps_link" keyref="g_016/div_adr_tr1_ffb">Condition Option</xref>
+                </p>
+                <div id="870df699-5eb3-4499-b616-f323a8b71c96"/>
+            </div>
+            <div id="49376331-2fdf-4269-bfcf-b3f209a3adb7">
+                <p outputclass="title" id="69350735-81e6-45ee-adfa-4478040c4788">
+                    <xref outputclass="ps_link" keyref="g_016/div_k4h_5r1_ffb">Condition Option</xref>
+                </p>
+                <div id="746be2fa-b973-48a0-926b-4741fff1f52e"/>
+            </div>
+            <div id="470ea480-560a-48df-998e-804c67b051ff">
+                <p outputclass="title" id="a01a2b95-8ff6-4e03-a456-3af63b97ea06">
+                    <xref outputclass="ps_link" keyref="g_016/div_txc_vr1_ffb">Condition Option</xref>
+                </p>
+                <div id="e343e731-b7fb-464f-8d64-cb6cca69d0c8"/>
+            </div>
+            <div id="1df3da02-4c1b-47be-859b-6265a8e061bb">
+                <p outputclass="title" id="b27b54e7-657d-4c16-b2ed-cb4fe2e882a8">
+                    <xref outputclass="ps_link" keyref="g_016/div_gml_qm4_j3b">Condition Option</xref>
+                </p>
+                <div id="19e7a86d-06fa-41d3-9848-c778abc10e5a"/>
+            </div>
+            <div id="8fd28c63-230e-4d02-97fc-e5257acd787a">
+                <p outputclass="title" id="ebdd792a-01fd-4404-a0d4-3d2d2a92ccc5">
+                    <xref outputclass="ps_link" keyref="g_016/div_p12_yl4_j3b">Condition Option</xref>
+                </p>
+                <div id="3c8440c8-3618-4b7c-b176-dcb8f6a112f1"/>
+            </div>
+            <div id="d9f55155-a7e9-411c-94bb-439ea59a4840">
+                <p outputclass="title" id="7ab483fa-9217-442c-baa8-27bc49737d37">
+                    <xref outputclass="ps_link" keyref="g_016/div_pd1_wr1_ffb">Condition Option</xref>
+                </p>
+                <div id="9ca0ea95-ef9d-4c91-8edb-fc0c91f73879"/>
+            </div>
+            <div id="41162eb7-d545-42b6-9811-4e0a3f784e20">
+                <p outputclass="title" id="1aee68b5-8e91-42b6-9611-925fa9c58a74">
+                    <xref outputclass="ps_link" keyref="g_016/div_hc5_1vv_3kb">Condition Option</xref>
+                </p>
+                <div id="4a0358ab-d816-41ee-b850-e5aa06bbf048"/>
+            </div>
+        </section>
+        <section id="60752d84-3971-4994-a0e1-f79721212645">
+            <title>Describing a manifestation of a diachronic work</title>
+            <div id="dbaf5e04-f088-471a-b94b-927dcded2a06">
+                <p outputclass="title" id="69728cfc-3e8f-4cca-ac82-b5a181fa27ac">
+                    <xref outputclass="ps_link" keyref="g_016/section_ld4_phg_s2b">Describing a manifestation of a diachronic work</xref>
+                </p>
+                <div id="5832bef9-ec5c-4999-b01d-03f29e334404"/>
+            </div>
+            <div id="1ae8e9f8-0d73-4269-a323-5655b1dff6e1">
+                <p outputclass="title" id="d827a5c8-bc2c-4b12-be6e-b4d191db2c2b">
+                    <xref outputclass="ps_link" keyref="g_016/div_vvj_vbx_qhb">Condition Option</xref>
+                </p>
+                <div id="d4b842f5-24a9-4463-a52d-b1ebad932278"/>
+            </div>
+            <div id="f57dbefe-54dc-4e59-bba1-0ac41fe52497">
+                <p outputclass="title" id="99d5101f-77c8-435f-a8ae-2dee3c4b3451">
+                    <xref outputclass="ps_link" keyref="g_016/div_jnc_kbx_qhb">Condition Option</xref>
+                </p>
+                <div id="9eaa87c0-a90d-40c9-9358-a63c49142bc5"/>
+            </div>
+            <div id="1b09a14f-ae18-4576-b678-cf41245a8de9">
+                <p outputclass="title" id="f0e3de69-3a9c-4835-b3b8-b6025794f577">
+                    <xref outputclass="ps_link" keyref="g_016/div_wnw_wxq_4hb">Condition Option</xref>
+                </p>
+                <div id="47759056-fd8b-4fe7-a625-fc7605ed39a3"/>
+            </div>
+        </section>
+        <section id="669a310b-3c45-46d3-a71b-94a574d525ff">
+            <title/>
+            <div id="54a0a747-e974-4bcd-82b7-f029246c2ba5">
+                <p outputclass="title" id="5e54b5c6-b933-42bc-bd27-174ea971c4b1">
+                    <xref outputclass="ps_link" keyref="g_016/div_vvj_vbx_qhb"/>
+                </p>
+                <div id="7fd89599-c706-413c-bdd4-4188be037eb9"/>
+            </div>
+        </section>
+    </body>
+</topic>

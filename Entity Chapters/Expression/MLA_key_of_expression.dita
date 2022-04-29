@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-438bb4c4-b997-3502-832b-0937c136a03e"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for key of expression</title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body>
+      <section id="aec301de-903d-460d-a4f2-addac394060a">
+         <title>Prerecording</title>
+         <div id="325ff6e3-4545-458c-99c6-fc1cdaa3ff11">
+            <p outputclass="title" id="77adeadf-8b44-4e6d-9c5c-e9cbb477d14a">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20326/c86dc7c9-93a0-4049-8b3f-0adc04473c70">Prerecording</xref>
+            </p>
+            <div id="53d8f70e-e4d8-4a54-9a9e-35e97f7eb8f2">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_khy_xxc_gqb"/>in bibliographic records<ph conkeyref="b_bp_mla/ph_nll_gbv_mqb"/>
+               </p>
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_zpp_sdz_cqb"/>in authority records intended to represent more than a single expression.</p>
+               <p>Until further guidance is developed, this element should be considered to apply only to music conforming to Western tonal harmony. Other pitch organization systems, including non-Western systems, Western ecclesiastical modes, jazz modes, atonal pitch systems, pentatonic or whole-tone systems, etc. should be considered out of scope for the time being.</p>
+            </div>
+         </div>
+      </section>
+      <section id="4f406713-6322-4ea3-a70b-5e3ef7c6d83a">
+         <title>Recording</title>
+         <div id="c43d3d84-dd6e-40d2-bc0b-5ac2e3e5f5d1">
+            <p outputclass="title" id="fa83bdb7-a061-4b08-a0f2-08c366b9cf1a">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20326/416d9bf2-42e0-42b0-bc7f-93c7a77f1958">Recording</xref>
+            </p>
+            <div id="082894d0-4147-4985-9f9a-6fd9ac1c89a0">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 384 subfield $a. Use first indicator 0 or 1 as appropriate if the Work: <xref keyref="rdawP10221"/> is known.</p>
+            </div>
+         </div>
+         <div id="d2d0be46-ee7b-4ed3-a04f-fd000efd92d1">
+            <p outputclass="title" id="71cb79ca-7bb2-47c5-a98e-97852ca135dd">
+               <xref outputclass="ps_link" keyref="rdaeP20326/div_zpx_bcr_v2b">Option</xref>
+            </p>
+            <div id="fd222cdb-149c-416b-ab95-e405b2ff2dc1">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_key_of_expression.dita#ala-3f25a7f4-8c7a-35ea-bbb0-00e0040c8a9a/63227d51-2bf8-4aab-bbbf-4e40a74db23b"/>
+            </div>
+         </div>
+      </section>
+      <section id="199f8dfc-e35f-4c46-881c-54af52f4b92d">
+         <title>Recording an unstructured description</title>
+         <div id="20b5b461-9272-48b9-a19c-7d49af79b010">
+            <p outputclass="title" id="5bb67db6-e3ed-46ba-b132-3dc6537534fd">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20326/d469a8f3-c72a-4302-b195-99847f80aa97">Recording an unstructured description</xref>
+            </p>
+            <div id="8c6af267-a95b-4540-a699-af1610313320"/>
+         </div>
+         <div id="21aa7eb7-91c2-4b41-8cf5-4c3f5b720b52">
+            <p outputclass="title" id="dc14c2ba-a64d-44bc-ba55-c8a852bbc550">
+               <xref outputclass="ps_link"
+                     id="div_h1y_hjd_mhb"
+                     keyref="rdaeP20326/div_h1y_hjd_mhb">Option</xref>
+            </p>
+            <div id="121549b4-6d5f-4da6-841d-f804014599fb">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_key_of_expression.dita#ala-3f25a7f4-8c7a-35ea-bbb0-00e0040c8a9a/ac2f3e60-3792-47f4-b83d-835e0a407ce7"/>
+            </div>
+         </div>
+         <div id="1f2d30da-1267-421c-9ec1-82a86a4aa4aa">
+            <p outputclass="title" id="957e8bff-69c8-4712-b119-331285e8e7fb">
+               <xref outputclass="ps_link"
+                     id="div_wtn_3jd_mhb"
+                     keyref="rdaeP20326/div_wtn_3jd_mhb">Option</xref>
+            </p>
+            <div id="d1ca7081-5a0e-4c20-9e72-132fbb2b39f0">
+               <p>Use the LC-PCC <term>string encoding scheme</term> below as the basis for a structured description, with the following addition: If a pitch center is given or apparent but the mode is variable or ambiguous, record only the pitch center and omit the word <term>major</term> or <term>minor</term>.</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_key_of_expression.dita#ala-3f25a7f4-8c7a-35ea-bbb0-00e0040c8a9a/d9ca7aec-6dd7-4326-9822-9ec46e9081d7"/>
+            </div>
+         </div>
+      </section>
+      <section id="2b43ebde-c33f-4ae0-8976-0aab13074d2e">
+         <title>Recording a structured description</title>
+         <div id="6f0e7e5f-0ffc-447c-8db6-634ec8d28484">
+            <p outputclass="title" id="d3e6598e-35cd-4796-93b9-e439aa7c1a0b">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20326/b4bbcf40-f6f6-4db6-830d-1d79366f19a7">Recording a structured description</xref>
+            </p>
+            <div id="39f7e1e1-367d-4cce-9076-f539351d3c01"/>
+         </div>
+         <div id="f22a80af-d130-4d1b-8441-73e82d997b3b">
+            <p outputclass="title" id="d59da0a0-c0eb-4430-9e3b-de324c4ce9da">
+               <xref outputclass="ps_link"
+                     id="div_lsd_hjd_mhb"
+                     keyref="rdaeP20326/div_lsd_hjd_mhb">Option</xref>
+            </p>
+            <div id="02ba4e41-271d-474d-a4a5-799806b7bb35">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_izh_3fh_r4b"/>
+                  <ph conkeyref="b_bp_mla/ph_qtx_by2_cqb"/> This recommendation will be reevaluated at a future date.</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_key_of_expression.dita#ala-3f25a7f4-8c7a-35ea-bbb0-00e0040c8a9a/602fb964-e3d5-47f0-9a88-873306354975"/>
+            </div>
+         </div>
+         <div id="41e9c816-3d57-4b04-9ef2-461feae2b62b">
+            <p outputclass="title" id="d5af52b3-502c-4689-aa1b-b1d88ba8c1a8">
+               <xref outputclass="ps_link"
+                     id="div_kyg_d5x_ycb"
+                     keyref="rdaeP20326/div_kyg_d5x_ycb">Option</xref>
+            </p>
+            <div id="47b32fe0-b185-46bf-956e-840192271ee7">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_key_of_expression.dita#ala-3f25a7f4-8c7a-35ea-bbb0-00e0040c8a9a/5b7355c6-bd60-413f-8cb6-8c1db03edade"/>
+            </div>
+         </div>
+         <div id="75b7d4ec-7f45-49b1-b763-b41e191edee0">
+            <p outputclass="title" id="997a7686-9b54-480d-ac6d-c1c340f06b9d">
+               <xref outputclass="ps_link"
+                     id="div_oqr_whf_nhb"
+                     keyref="rdaeP20326/div_oqr_whf_nhb">Condition Option</xref>
+            </p>
+            <div id="624bb344-f2af-4b64-82ae-098dd225c5a3">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_key_of_expression.dita#ala-3f25a7f4-8c7a-35ea-bbb0-00e0040c8a9a/1021a852-5e5a-4b9f-a710-cf53178b0247"/>
+            </div>
+         </div>
+      </section>
+      <section id="fc6df18d-3d62-4627-9cab-8f9fc4da4e6b">
+         <title>Recording an identifier</title>
+         <div id="ed14152b-4f5d-4fb0-8445-400bc3b00fa1">
+            <p outputclass="title" id="e02586b2-d9e7-4a76-a3c1-f0faebc235de">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20326/f031b277-12d8-41a5-b3a1-a876834a9448">Recording an identifier</xref>
+            </p>
+            <div id="856420f8-547e-4ffe-8da4-238efb485a94"/>
+         </div>
+         <div id="ae0fbac5-7c46-4a45-bdeb-a7f75f88675e">
+            <p outputclass="title" id="c2613c1c-a70d-43b5-92d1-c4e5b779e146">
+               <xref outputclass="ps_link"
+                     id="div_nt2_fjd_mhb"
+                     keyref="rdaeP20326/div_nt2_fjd_mhb">Option</xref>
+            </p>
+            <div id="280099a8-0e38-431b-8cab-6351d3e04015"/>
+         </div>
+         <div id="6cd7ecfb-ffff-44b8-8224-ae61c1d7838c">
+            <p outputclass="title" id="dd97fa75-d89f-4704-843c-20fec13e9c27">
+               <xref outputclass="ps_link"
+                     id="div_rzx_f5x_ycb"
+                     keyref="rdaeP20326/div_rzx_f5x_ycb">Option</xref>
+            </p>
+            <div id="8e664782-a41b-4370-9c7c-141d894cbb03"/>
+         </div>
+      </section>
+      <section id="51c9fd5b-0252-4162-a8ec-2f8d80365672">
+         <title>Recording an IRI</title>
+         <div id="a68d09e3-9912-4400-9e90-35f4ec85a4eb">
+            <p outputclass="title" id="d8a445af-c528-4cd4-83fe-ac5a37f537c6">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20326/7fc5f60a-c34d-4e90-9f8d-8c29b450fcb5">Recording an IRI</xref>
+            </p>
+            <div id="e98de205-2dda-4d1e-b81f-fe88b6f59111"/>
+         </div>
+         <div id="ee75b260-a8ee-4934-9657-33fbf1f970cb">
+            <p outputclass="title" id="4ef5eb59-96f8-4eea-be7b-81bc21510a21">
+               <xref outputclass="ps_link"
+                     id="div_mct_djd_mhb"
+                     keyref="rdaeP20326/div_mct_djd_mhb">Option</xref>
+            </p>
+            <div id="5765adbe-e2a1-495e-8a7b-46dd76a1ca90"/>
+         </div>
+      </section>
+      <section id="076905c5-f4e1-4480-aecc-4dc2bebceb6a">
+         <title>View in Context Example</title>
+         <div id="b2ee8fa6-de58-4076-bdd0-f4a999653cfd">
+            <p outputclass="title" id="019d6858-ef49-4211-9c5c-24f5aaad56a7">
+               <xref outputclass="ps_link" keyref="rdaeP20326/section_wtj_dht_tdb">View in Context Example</xref>
+            </p>
+            <div id="96124dd0-4127-40a2-b1d0-1d78907801b1"/>
+         </div>
+      </section>
+   </body>
+</topic>

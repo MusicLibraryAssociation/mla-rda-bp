@@ -1,0 +1,77 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-3e25e11f-039a-3610-8cb2-8a7c5375d674" xml:lang="en-US">
+    <title>Music Library Association Best Practices for narrator agent</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="b099a64e-c877-45bc-8116-8a0d4c210dc7">
+            <title>Prerecording</title>
+            <div id="c7ce18f1-cb4c-4d7f-a903-586f852b8886">
+                <p outputclass="title" id="a9687405-d0a4-4412-82d4-f0b0b49f0295">
+                    <xref outputclass="ps_link" keyref="rdaeP20022/a1a6ca06-2d85-4089-b294-a357c6451f0e">Prerecording</xref>
+                </p>
+                <div id="b3ec5651-5953-4064-be83-875daa195273"/>
+            </div>
+        </section>
+        <section id="a1eb0bb8-27f0-4dc8-b017-bfc61aa9e181">
+            <title>Recording</title>
+            <div id="74c8354b-dfd7-44c4-81b9-49e94986f158">
+                <p outputclass="title" id="bca514f9-5d0a-498a-930f-55eb1d6eb706">
+                    <xref outputclass="ps_link" keyref="rdaeP20022/8983f00d-e49e-46cf-bc28-f609a3e44d42">Recording</xref>
+                </p>
+                <div id="4b68a987-2ebe-47b0-8595-12238fd42661"/>
+            </div>
+        </section>
+        <section id="2ec6c43a-0f23-4e91-886c-d5addd8599c0">
+            <title>Recording an unstructured description</title>
+            <div id="558f5384-a584-4a3d-b6f2-6c7646b15295">
+                <p outputclass="title" id="9212b491-60f5-48b9-9152-ff026756daed">
+                    <xref outputclass="ps_link" keyref="rdaeP20022/ecfcd13e-34ed-49da-af68-9af72d50f1f9">Recording an unstructured description</xref>
+                </p>
+                <div id="304a7980-8605-4f52-a1a3-1e8984c8e2e8"/>
+            </div>
+        </section>
+        <section id="56d173bb-b70c-4d32-828c-16274ed021a3">
+            <title>Recording a structured description</title>
+            <div id="f4395ec0-e809-4362-a2da-5d6256fb8c35">
+                <p outputclass="title" id="1d48b718-3b7e-4eeb-9d2b-cb19cbf29ecc">
+                    <xref outputclass="ps_link" keyref="rdaeP20022/3a4994c0-47ad-484b-b3f7-28f7dfb2bfef">Recording a structured description</xref>
+                </p>
+                <div id="38080c9e-9b1a-40c8-a756-316ad928e18a"/>
+            </div>
+        </section>
+        <section id="ae3d7ea9-ed14-4c9b-8405-6aa906c211f5">
+            <title>Recording an identifier</title>
+            <div id="bc91b228-f9e2-4f1e-b368-58396eb0f830">
+                <p outputclass="title" id="93acf6a1-153b-473d-9a98-2c3615cebcea">
+                    <xref outputclass="ps_link" keyref="rdaeP20022/e1c2f7ef-00de-445e-8aa3-dcd1e1d7f8e2">Recording an identifier</xref>
+                </p>
+                <div id="2a7b2b9c-31c3-43d2-b14a-47d7ffe6c1a3"/>
+            </div>
+        </section>
+        <section id="526ca77e-e42f-44f5-8480-4498077ca835">
+            <title>Recording an IRI</title>
+            <div id="84f4a6ed-2b61-478a-8002-abc0c768f176">
+                <p outputclass="title" id="7b1be814-8d7f-418d-baba-8452c9313a6c">
+                    <xref outputclass="ps_link" keyref="rdaeP20022/46b04f91-882a-4484-b126-e3c059e9c1e1">Recording an IRI</xref>
+                </p>
+                <div id="416d057f-900d-419b-9cb3-47dc146ca6e2"/>
+            </div>
+        </section>
+        <section id="0581733b-1ec2-49e5-aa14-8853e80fb937">
+            <title>View in Context Example</title>
+            <div id="202936bf-0e18-42de-8103-79713719e85a">
+                <p outputclass="title" id="a5f13e08-ca90-443f-b19a-0300d5ae3540">
+                    <xref outputclass="ps_link" keyref="rdaeP20022/section_fzg_pk1_xdb">View in Context Example</xref>
+                </p>
+                <div id="b8409931-fdd6-4974-9afb-0013785c969c"/>
+            </div>
+        </section>
+    </body>
+</topic>

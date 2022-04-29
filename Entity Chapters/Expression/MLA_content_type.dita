@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-bd82f137-91c7-3fde-8a22-01946187c2d5"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for content type</title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body>
+      <section id="220ebecc-86d0-474e-b866-ecc0f477d3bc">
+         <title>Prerecording</title>
+         <div id="392e2128-8cbc-4c07-9f58-437e7c7cfc5d">
+            <p outputclass="title" id="51666bba-7e84-4dac-bd9b-59b0f89233c2">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20001/c322b8d2-c7b9-422c-8774-a77317595758">Prerecording</xref>
+            </p>
+            <div id="d1ad0368-020b-4c80-bb63-0db2b63fef0f">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_pnk_vdh_r4b"/>in bibliographic records for primary content of the resource and for substantial accompanying material, that is, material for which the extent is explicitly recorded. <ph conkeyref="b_bp_mla/ph_khy_xxc_gqb"/>for accompanying material that is  described only in a note<ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/>
+               </p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_content_type.dita#ala-d2634a5b-55eb-3dd9-abc4-90d68071470b/9bd91792-9a89-4fd1-adea-70cf7d217daa"/>
+            </div>
+         </div>
+      </section>
+      <section id="cce09f30-71c3-4a8c-b4b5-b69457112ad6">
+         <title>Recording</title>
+         <div id="37670993-c74a-4b86-a6bb-bb2aaa3cf0f5">
+            <p outputclass="title" id="c18cee0d-c751-4741-a65c-b74562fde686">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20001/6128a3ec-6580-444d-bd20-c523313afce5">Recording</xref>
+            </p>
+            <div id="e19cb86c-9e9b-458b-b9bc-47ecb0b8ad6b">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 336 subfield $a. Additionally, for accompanying material: <ph conkeyref="b_bp_mla/ph_t1t_rgd_z4b"/>field 006 if content type differs from the primary content of the resource.</p>
+            </div>
+         </div>
+         <div id="div_zsl_fdf_qqb">
+            <p outputclass="title" id="p_utk_gdf_qqb">
+               <xref outputclass="ps_link" keyref="rdaeP20001/div_gst_3kr_p2b">Condition</xref>
+            </p>
+            <div id="div_ihf_jdf_qqb">
+               <p>For resources issued with supplementary content, select the most appropriate option based on cataloger's judgment and the following guidelines:</p>
+               <ul>
+                  <li>Books or scores issued with audio/video carriers: record the element for the audio or video content.</li>
+                  <li>Audio/video carriers with a substantial accompanying volume of text (insert, booklet, etc.): record the element for the textual content.</li>
+                  <li>Scores with significant textual content (critical commentary, libretto, preface, etc.): record the element for the textual content; however, do not record the element merely to represent words which underlay notated music.</li>
+               </ul>
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>For resources with multiple carrier types, specify the carrier to which the element refers in field 336 subfield $3<ph conkeyref="b_bp_mla/ph_nll_gbv_mqb"/>
+               </p>
+            </div>
+         </div>
+         <div id="86992733-b946-4626-8359-6b17bb3e6e0d">
+            <p outputclass="title" id="77def156-ad89-442d-a8c7-44de807c6736">
+               <xref outputclass="ps_link" keyref="rdaeP20001/div_lst_3kr_p2b">Condition Option</xref>
+            </p>
+            <div id="e53172e5-3d15-4747-98b4-07312fbb5e37">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_content_type.dita#ala-d2634a5b-55eb-3dd9-abc4-90d68071470b/10f05a15-8ef8-4aa9-b71d-778e44ac9418"/>
+            </div>
+         </div>
+         <div id="c6364a2b-80a3-4aec-8ef3-441044dd4872">
+            <p outputclass="title" id="637a8863-f84b-4f47-82e4-be1f208371b6">
+               <xref outputclass="ps_link" keyref="rdaeP20001/div_lvw_mkr_p2b">Condition Option</xref>
+            </p>
+            <div id="62256f72-deca-493d-8efb-b0164a139c20">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_content_type.dita#ala-d2634a5b-55eb-3dd9-abc4-90d68071470b/9d9f4ded-a104-4913-bc8a-ff42834eb8e7"/>
+            </div>
+         </div>
+         <div id="5785b2ac-0a89-4a83-a165-b7662ba0da69">
+            <p outputclass="title" id="76274d52-c551-4f81-b87f-e28a481460ff">
+               <xref outputclass="ps_link" keyref="rdaeP20001/div_kzz_pkr_p2b">Condition Option</xref>
+            </p>
+            <div id="0056afe3-7914-46e4-812c-874e80a67ff8">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_content_type.dita#ala-d2634a5b-55eb-3dd9-abc4-90d68071470b/25367050-c045-4486-8d09-1a8df1c8fd9d"/>
+            </div>
+         </div>
+      </section>
+      <section id="010cdb47-4d65-454d-9519-875bb884e485">
+         <title>Recording an unstructured description</title>
+         <div id="80ce0433-5cd8-42b9-96d6-9d7c403d7964">
+            <p outputclass="title" id="040e41ab-125b-4bf2-956c-c7f094fbd4d3">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20001/c4760efb-5075-45e3-a483-c549f2173944">Recording an unstructured description</xref>
+            </p>
+            <div id="652660c5-bca6-42fa-a476-de767f38b3f9"/>
+         </div>
+         <div id="db8e886c-60ff-435f-abe9-06146b851993">
+            <p outputclass="title" id="e3e9c742-13bf-48c1-983b-187a674f8dea">
+               <xref outputclass="ps_link"
+                     id="div_zkz_j2d_mhb"
+                     keyref="rdaeP20001/div_zkz_j2d_mhb">Option</xref>
+            </p>
+            <div id="43d55b30-28cd-4c48-b46a-6752d8013f59">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_content_type.dita#ala-d2634a5b-55eb-3dd9-abc4-90d68071470b/5a4e7c01-8f15-4a65-bd2a-ff7e76f6589d"/>
+            </div>
+         </div>
+         <div id="3606bf3a-dd11-4577-ae07-fc41164fb7cf">
+            <p outputclass="title" id="8c04f288-04b9-45b7-b108-7ab1ff2e8e8b">
+               <xref outputclass="ps_link"
+                     id="div_i1j_k2d_mhb"
+                     keyref="rdaeP20001/div_i1j_k2d_mhb">Option</xref>
+            </p>
+            <div id="e0f8dd08-8e9b-41fc-9f74-b992f3289b08">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_content_type.dita#ala-d2634a5b-55eb-3dd9-abc4-90d68071470b/bf50c757-8e21-41e7-8b9d-4848f9f9b5d1"/>
+            </div>
+         </div>
+         <div id="3b2e0db0-773d-4e74-a152-daaab27b8961">
+            <p outputclass="title" id="0fe5313d-5435-4f03-b60c-fd59f5a4a82b">
+               <xref outputclass="ps_link"
+                     id="div_ogm_jlr_p2b"
+                     keyref="rdaeP20001/div_ogm_jlr_p2b">Condition Option</xref>
+            </p>
+            <div id="0e41f044-a5c1-460a-b597-989ec1fa3b06">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_content_type.dita#ala-d2634a5b-55eb-3dd9-abc4-90d68071470b/10df4ecf-36c5-4630-b4ac-8bf27deb333f"/>
+            </div>
+         </div>
+         <div id="9b766fc4-387b-4f29-83f6-5cce79095083">
+            <p outputclass="title" id="6f3e0336-bb8e-427c-82fc-448826292207">
+               <xref outputclass="ps_link"
+                     id="div_ck2_rlr_p2b"
+                     keyref="rdaeP20001/div_ck2_rlr_p2b">Condition Option</xref>
+            </p>
+            <div id="c12a20a1-1dd9-455e-b0bb-03039e40af86">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_content_type.dita#ala-d2634a5b-55eb-3dd9-abc4-90d68071470b/407b8c58-6508-4617-95f3-f6aeead8e447"/>
+            </div>
+         </div>
+      </section>
+      <section id="03cde2e7-7a4e-45b3-b3b4-6fbf2f2dd862">
+         <title>Recording a structured description</title>
+         <div id="e4aa69f4-5997-4755-af1a-6bcf85650145">
+            <p outputclass="title" id="3fb23167-cffe-49db-96f7-bc1d32cb0702">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20001/6632fdd6-0e12-42f6-81d1-c05a90e67278">Recording a structured description</xref>
+            </p>
+            <div id="7a7f2b5b-ccd0-4a82-86fc-f32e15d2cd46"/>
+         </div>
+         <div id="ba9c13d2-6ec0-4491-9cf6-ecb66ba96ca4">
+            <p outputclass="title" id="6ec23c04-5728-4e0b-8101-5e0daf6631de">
+               <xref outputclass="ps_link"
+                     id="div_cjf_42d_mhb"
+                     keyref="rdaeP20001/div_cjf_42d_mhb">Option</xref>
+            </p>
+            <div id="48bdfda6-03a3-4a9e-8088-4a771b7450da">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_content_type.dita#ala-d2634a5b-55eb-3dd9-abc4-90d68071470b/5ae9bb33-dd5f-4f01-ad07-786e32c01356"/>
+            </div>
+         </div>
+         <div id="f7484d88-fba7-4b86-8a78-f5c20549ad7b">
+            <p outputclass="title" id="d41adb58-0f4f-49c0-8f65-f3b1da247659">
+               <xref outputclass="ps_link"
+                     id="div_ux1_p2d_mhb"
+                     keyref="rdaeP20001/div_ux1_p2d_mhb">Option</xref>
+            </p>
+            <div id="e18fde9d-65df-4f28-a2e0-b4cdadf96615">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_content_type.dita#ala-d2634a5b-55eb-3dd9-abc4-90d68071470b/4f76e3ed-8c84-49fa-ad6d-70a169e26b7c"/>
+            </div>
+         </div>
+         <div id="d35deddd-319f-4da3-9f51-24e54da7d524">
+            <p outputclass="title" id="46a76da2-22f9-4bab-a271-27bad0bde6d1">
+               <xref outputclass="ps_link"
+                     id="div_kyg_d5x_ycb"
+                     keyref="rdaeP20001/div_kyg_d5x_ycb">Option</xref>
+            </p>
+            <div id="b96e50cf-23ab-4526-87d7-e9cf7db3576a">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/ph_orq_vnf_1qb"/>
+                  <term>rdacontent</term>.</p>
+            </div>
+         </div>
+         <div id="5aefd14e-8f8c-4133-8493-007980a6a32b">
+            <p outputclass="title" id="e7716fce-152a-4e49-b8ef-505a6ad71fe4">
+               <xref outputclass="ps_link"
+                     id="div_zcn_lhy_mhb"
+                     keyref="rdaeP20001/div_zcn_lhy_mhb">Condition Option</xref>
+            </p>
+            <div id="1c9fa34c-e4c2-42e3-bdae-c4125d32b0e7">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_content_type.dita#ala-d2634a5b-55eb-3dd9-abc4-90d68071470b/41234f28-01a4-41bf-834a-20a47c993360"/>
+            </div>
+         </div>
+      </section>
+      <section id="c8cec098-0257-4a28-9633-f254fcc5e1d2">
+         <title>Recording an identifier</title>
+         <div id="204a130d-68a9-4562-97b3-9441c4004e4d">
+            <p outputclass="title" id="9a4868af-778a-4b68-86a8-cd5cb6eee081">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20001/ddf23410-878d-4bd7-8335-d326e092077c">Recording an identifier</xref>
+            </p>
+            <div id="1cfc137a-0bf1-4b73-bafb-4b06fb6c2cc1"/>
+         </div>
+         <div id="054f6c05-8954-44a9-86bb-fbe772c3690c">
+            <p outputclass="title" id="0f63e4b0-0d15-4105-8361-b8cf89065473">
+               <xref outputclass="ps_link"
+                     id="div_hxf_5mx_tdb"
+                     keyref="rdaeP20001/div_hxf_5mx_tdb">Option</xref>
+            </p>
+            <div id="a551c3e8-fe48-48b9-8591-74a7a260fd1c"/>
+         </div>
+         <div id="da2c7063-85d2-4771-99df-9007f5f0b01d">
+            <p outputclass="title" id="2187cc02-f5b6-4ee1-8b97-71a57c87ab96">
+               <xref outputclass="ps_link"
+                     id="div_mrs_q2d_mhb"
+                     keyref="rdaeP20001/div_mrs_q2d_mhb">Option</xref>
+            </p>
+            <div id="ace968b3-6e8e-4632-ad09-5be934e49a72"/>
+         </div>
+         <div id="b2ce63a3-5e11-4391-8069-1315f8431e43">
+            <p outputclass="title" id="03a91f6c-e8b3-401b-b872-fdb4e4aff121">
+               <xref outputclass="ps_link"
+                     id="div_rzx_f5x_ycb"
+                     keyref="rdaeP20001/div_rzx_f5x_ycb">Option</xref>
+            </p>
+            <div id="abfb11ba-8ab9-4d1e-8ecf-a1f6ae396260"/>
+         </div>
+      </section>
+      <section id="bee7d532-0c43-4266-b4a7-7cad487a9837">
+         <title>Recording an IRI</title>
+         <div id="ece5666d-0149-4b6e-af05-0c4a95bd2f5d">
+            <p outputclass="title" id="ffbb3e3e-f8f1-4b42-9c37-b3acfaeed1bb">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20001/1f1e11b4-c357-4326-b385-9832779a899f">Recording an IRI</xref>
+            </p>
+            <div id="9ca5d408-44c1-4251-a50d-67a46955a2fb"/>
+         </div>
+         <div id="fc8ca181-aca8-4e29-b7e4-effa220c7ff0">
+            <p outputclass="title" id="29d6bf07-ed24-4729-98ff-83712d0a8f64">
+               <xref outputclass="ps_link"
+                     id="div_jl3_vnx_tdb"
+                     keyref="rdaeP20001/div_jl3_vnx_tdb">Option</xref>
+            </p>
+            <div id="c309ebe1-d544-4ab0-9949-f5816ce52a03"/>
+         </div>
+         <div id="9c1c1448-42d8-4082-a2b5-27bdebb2d1fe">
+            <p outputclass="title" id="7ae4ad7d-993a-47cd-9d96-346c3d824e2c">
+               <xref outputclass="ps_link"
+                     id="div_l52_52d_mhb"
+                     keyref="rdaeP20001/div_l52_52d_mhb">Option</xref>
+            </p>
+            <div id="e59c871d-36d6-4721-9494-17260900099e"/>
+         </div>
+      </section>
+      <section id="0f1aea6b-8787-438b-9061-99a4b6c395c3">
+         <title>View as Relationship Example</title>
+         <div id="76b7c107-6c25-46fb-8f69-2e5f8e7610ba">
+            <p outputclass="title" id="ee260560-1a06-4044-8d8b-209ee94dd080">
+               <xref outputclass="ps_link" keyref="rdaeP20001/section_o5v_jgh_gdb">View as Relationship Example</xref>
+            </p>
+            <div id="59ff6674-a7fc-48fc-a811-6ce0b15e1111"/>
+         </div>
+      </section>
+      <section id="af931e1e-80d7-4d49-8d92-f67f53b725cb">
+         <title>View in Context Example</title>
+         <div id="2f4d9326-ed02-4040-88dc-67a41a124fe9">
+            <p outputclass="title" id="8a3551c4-791c-4e0d-a1d8-96dfde4c4d7e">
+               <xref outputclass="ps_link" keyref="rdaeP20001/section_p2d_nfh_gdb">View in Context Example</xref>
+            </p>
+            <div id="293ac9eb-8fae-485e-8063-29929e49b38e"/>
+         </div>
+      </section>
+   </body>
+</topic>

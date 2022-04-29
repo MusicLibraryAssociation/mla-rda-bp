@@ -1,0 +1,41 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-c538585c-5ffc-38b1-97ca-c8e1d1319930" xml:lang="en-US">
+    <title>Music Library Association Best Practices for sequential version of </title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="d2815c79-6b6b-48d2-a39d-3d06a56e69c7">
+            <title>Prerecording</title>
+            <div id="70a58bb0-cd5b-461e-a6f1-dbd536ae9b7f">
+                <p outputclass="title" id="22ae2486-91c1-4648-91b5-ca581842461a">
+                    <xref outputclass="ps_link" keyref="rdawP10380/section_k4f_tj1_4nb">Prerecording</xref>
+                </p>
+                <div id="d657ae39-1a8e-48a6-9f53-29df51a995a8"/>
+            </div>
+        </section>
+        <section id="4b47f672-df93-4380-9168-8243a0d7540d">
+            <title>Recording</title>
+            <div id="c18da907-cbf1-4c77-9dc3-2630f753777c">
+                <p outputclass="title" id="0dc63d5a-306c-4eab-8ead-dc5304afcebd">
+                    <xref outputclass="ps_link" keyref="rdawP10380/section_fnz_pkd_xdb">Recording</xref>
+                </p>
+                <div id="8e548118-3dda-4d3c-8554-91a877b53961"/>
+            </div>
+        </section>
+        <section id="9afbc10d-131e-4602-baa5-0e020bac7ee0">
+            <title>Recording an IRI</title>
+            <div id="6d24a131-5c33-4dab-a692-b3b40f6fdb51">
+                <p outputclass="title" id="90f2600e-b408-4c8b-85bf-afa7df3a8943">
+                    <xref outputclass="ps_link" keyref="rdawP10380/div_aqz_pkd_xdb">Recording an IRI</xref>
+                </p>
+                <div id="dbf10b95-c171-4d18-9cef-fc6bacbc0e47"/>
+            </div>
+        </section>
+    </body>
+</topic>

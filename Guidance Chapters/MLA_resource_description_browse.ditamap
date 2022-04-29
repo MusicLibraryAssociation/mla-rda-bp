@@ -1,0 +1,10 @@
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Resource description browse DITA map" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    <topicref href="resource_description/MLA_resource_description.dita"/>
+    <topicref href="resource_description/MLA_description_conditions.dita"/>
+    <topicref href="resource_description/MLA_minimum_description.dita"/>
+    <topicref href="resource_description/MLA_effective_description.dita"/>
+    <topicref href="resource_description/MLA_work_description.dita"/>
+    <topicref href="resource_description/MLA_expression_description.dita"/>
+    <topicref href="resource_description/MLA_manifestation_description.dita"/>
+    <topicref href="resource_description/MLA_item_description.dita"/>
+</map>

@@ -1,0 +1,99 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-5fce4c2b-2236-3873-b4c6-274b29367c32" xml:lang="en-US">
+    <title>Music Library Association Best Practices for plate number for notated music</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="edb4c797-303d-4b54-8bae-b94dc74546ca">
+            <title>Prerecording</title>
+            <div id="873fb1c8-7a1a-4a82-930f-5b21f81a5945">
+                <p outputclass="title" id="e958c280-f413-452b-8787-4d5e42439fa5">
+                    <xref outputclass="ps_link" keyref="rdamP30066/b0f5374d-5187-4c91-869b-2a5b22f87955">Prerecording</xref>
+                </p>
+                <div id="72552d9f-860a-4456-a86d-8dead8cd976e"><p id="p_wjq_wcc_bpb"><ph
+                            conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_vtg_bdh_r4b"
+                            id="ph_j5n_scc_bpb"/><ph
+                            conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_knb_g2h_r4b"
+                            id="ph_dxk_xcc_bpb"/></p><ph
+                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_vtq_rhb_bpb"
+                        id="ph_ebc_ycc_bpb"/><p id="p_qtc_5cc_bpb">For qualfiers, clarifications, or
+                        situations not addressed here, apply the general instructions at
+                        Manifestation: <xref keyref="rdamP30004"/>.</p></div>
+            </div>
+        </section>
+        <section id="697ea048-73c9-40a4-b303-7f115d859383">
+            <title>Recording</title>
+            <div id="3d65b756-5a5f-4505-a454-7647ba9ace7f">
+                <p outputclass="title" id="c8285c8e-1cd0-4060-9aa6-ac4a8f5bf810">
+                    <xref outputclass="ps_link" keyref="rdamP30066/541605f4-64ac-411e-bb35-4fb117bf910b">Recording</xref>
+                </p>
+                <div id="c128a88a-5b10-4abd-bb54-3b1bce523139"><ph
+                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_osx_rxr_x4b"
+                        id="ph_asb_4cc_bpb"/><ph
+                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_t1t_rgd_z4b"
+                        id="ph_mml_4cc_bpb"/>field 028 (first indicator 2) subfield $a. Apply the
+                    general instructions at Manifestation: <xref keyref="rdamP30004"/>.</div>
+            </div>
+            <div id="8da9a0db-9c6b-41a2-b695-ba8431b666b8">
+                <p outputclass="title" id="d39785c1-ae11-4af1-9835-09e4e815fb8b">
+                    <xref outputclass="ps_link" keyref="rdamP30066/div_zfs_rjs_1fb">Option</xref>
+                </p>
+                <div id="66bff764-7b80-4a2d-95a3-f43797c277ef"/>
+            </div>
+            <div id="4b04914c-b0b3-46ea-9bc7-781bf9ca6f7e">
+                <p outputclass="title" id="ca72446e-6e43-4462-a58f-7fd31c3d1c95">
+                    <xref outputclass="ps_link" keyref="rdamP30066/div_zcp_yjs_1fb">Condition Option</xref>
+                </p>
+                <div id="803f2406-2fc6-4b93-b2a3-66adb9ef37c0"><ph
+                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b"
+                        id="ph_u1g_ncc_bpb"/>If a number is accompanied only by a generic
+                    designation such as "no.," "Nr.," "cat. no.," "Ed. Nr.," etc., do not consider
+                    it to be part of the number. If such a designation appears along with initials,
+                    abbreviations, or words identifying the publisher, transcribe the entire
+                    statement as it appears.</div>
+            </div>
+        </section>
+        <section id="5d7438b5-d277-4f71-9a5b-fb7cf543b040">
+            <title>Recording an unstructured description</title>
+            <div id="7f0626c9-fdae-430e-b80f-a6ff02c54878">
+                <p outputclass="title" id="ec1798e8-bdd9-490a-9be5-c7903fa16f4c">
+                    <xref outputclass="ps_link" keyref="rdamP30066/8a8ab43b-b6de-4a62-b59c-f8857e9189b9">Recording an unstructured description</xref>
+                </p>
+                <div id="49d49c7d-12a6-4396-a616-e43e367fa541"/>
+            </div>
+        </section>
+        <section id="6e8e5f29-9f38-4feb-a21b-2565d223f1a4">
+            <title>Recording a structured description</title>
+            <div id="f37d89ce-f256-4b8b-8e8b-83c8776322f9">
+                <p outputclass="title" id="b36b327b-5b8c-4947-9ee5-d5b45761156c">
+                    <xref outputclass="ps_link" keyref="rdamP30066/c8bd9f40-f6be-4b57-8352-4cfeb1d6bb46">Recording a structured description</xref>
+                </p>
+                <div id="abac5171-7604-4f09-9a98-69e9fedee4cd"/>
+            </div>
+        </section>
+        <section id="0cfc5fa1-f52e-444b-bb31-362d7a5aef27">
+            <title>Recording an identifier</title>
+            <div id="2ba71459-43c3-43a4-afb6-021a8ff5cf5d">
+                <p outputclass="title" id="e47e8668-7e58-42f9-8c8f-6d33a83efbef">
+                    <xref outputclass="ps_link" keyref="rdamP30066/720b9903-08b9-40f5-9875-0a9248884156">Recording an identifier</xref>
+                </p>
+                <div id="0f21fa71-4cb7-4cce-9b2c-55b3c081ed2a"/>
+            </div>
+        </section>
+        <section id="e65bc8e9-12c8-49bd-a5a8-e600e65b3b26">
+            <title>Recording an IRI</title>
+            <div id="6287e844-3b2e-4014-a67c-834644bfc7a4">
+                <p outputclass="title" id="b01b6177-f6ee-44d3-8671-93ae3b6736e3">
+                    <xref outputclass="ps_link" keyref="rdamP30066/aa337e45-232d-464e-a3af-5e7da202cc5d">Recording an IRI</xref>
+                </p>
+                <div id="cfb0d592-d498-47cb-b8b0-b11f29ca1931"/>
+            </div>
+        </section>
+    </body>
+</topic>

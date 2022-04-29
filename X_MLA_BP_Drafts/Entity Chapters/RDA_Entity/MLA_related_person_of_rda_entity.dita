@@ -1,0 +1,32 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-100b3bcf-96c0-377c-a167-009944a75226" xml:lang="en-US">
+    <title>Music Library Association Best Practices for related person of RDA entity</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="75aa9000-d7bf-4c63-bd12-7a0ee1c831b0">
+            <title>Prerecording</title>
+            <div id="c41b453d-0a88-4314-92ae-9abeb2230b16">
+                <p outputclass="title" id="3854a17e-f4b7-4e73-84b0-997f871ab524">
+                    <xref outputclass="ps_link" keyref="rdaxP00007/63446a86-92ac-4d1b-85dc-5473a611b86f">Prerecording</xref>
+                </p>
+                <div id="7b76d6ff-f3d9-44ae-abeb-3e02d444f9ed"/>
+            </div>
+        </section>
+        <section id="15b512af-13b1-4cfa-b889-231a5567dae2">
+            <title>Recording</title>
+            <div id="3b735ae9-8e75-472c-909b-f5cff025d924">
+                <p outputclass="title" id="5e2f0fbe-cbc2-4274-88d4-b07d3f87917e">
+                    <xref outputclass="ps_link" keyref="rdaxP00007/4ca3f644-6cf0-47cb-bafd-c4aec712d4cb">Recording</xref>
+                </p>
+                <div id="1caecde0-1356-4429-a1c7-26a67d286a56"/>
+            </div>
+        </section>
+    </body>
+</topic>

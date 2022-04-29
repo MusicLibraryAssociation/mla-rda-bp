@@ -1,0 +1,95 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-ac62fbe5-2393-30d3-86fe-6d5a3e892d7b" xml:lang="en-US">
+    <title>Music Library Association Best Practices for thematic index number</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="2d99bfe7-46e4-4aff-af62-862ecf01dd24">
+            <title>Prerecording</title>
+            <div id="e45cb118-132a-4051-a628-c3ac78ee05b7">
+                <p outputclass="title" id="b06511dc-7896-4f85-98bc-635081de7de7">
+                    <xref outputclass="ps_link" keyref="rdawP10335/d852991b-c278-45ae-9f52-1f05b8f18252">Prerecording</xref>
+                </p>
+                <div id="c7f63e40-3e66-4ff2-9b52-8e8e3de1a5d0"/>
+            </div>
+        </section>
+        <section id="d36a86a8-f230-4794-bd38-da6701ade230">
+            <title>Recording</title>
+            <div id="a7b2223a-d1ff-425a-8d69-6bb47a7b4604">
+                <p outputclass="title" id="208957de-b833-4263-9335-6d4aea3c95e7">
+                    <xref outputclass="ps_link" keyref="rdawP10335/4ffdb51f-3104-421f-8011-3bf2d28883cc">Recording</xref>
+                </p>
+                <div id="dd0af91d-137e-4b00-bbbb-a76b7afa586b"/>
+            </div>
+        </section>
+        <section id="f0d8abb1-6c52-4dab-ae9d-c2e12c12d28e">
+            <title>Recording an unstructured description</title>
+            <div id="e567b850-60c0-4b7b-9693-1a860edf1c34">
+                <p outputclass="title" id="274580ea-a663-4055-925b-473a3134ac22">
+                    <xref outputclass="ps_link" keyref="rdawP10335/81a5b373-5b4a-41f6-a7e6-d6b69eae46b4">Recording an unstructured description</xref>
+                </p>
+                <div id="dde41cc5-a7f7-47d7-937a-24f403e5ae50"/>
+            </div>
+        </section>
+        <section id="fbccdb3f-d8a1-4706-a4b3-eb2ce7e42516">
+            <title>Recording a structured description</title>
+            <div id="a91cda77-e2ba-4fbd-bc28-812c97057144">
+                <p outputclass="title" id="a60de960-45d7-4a21-8bcf-db5045434bde">
+                    <xref outputclass="ps_link" keyref="rdawP10335/d161cdd6-b20b-482b-896f-91437247ee13">Recording a structured description</xref>
+                </p>
+                <div id="4b58a749-890a-4512-8f79-d6963700d6e6"/>
+            </div>
+        </section>
+        <section id="6e136889-b36e-48e5-a618-905b8b2a8eaf">
+            <title>Recording an identifier</title>
+            <div id="c69faa1d-02bb-4290-9769-85f032f3d3f6">
+                <p outputclass="title" id="64f4c98e-4cc1-47f6-9588-efc3c335e93d">
+                    <xref outputclass="ps_link" keyref="rdawP10335/111252f9-248f-41da-bb24-c3df9b1bc5c7">Recording an identifier</xref>
+                </p>
+                <div id="647293e9-3bf0-444b-9fdc-f17197639f72"/>
+            </div>
+            <div id="795a6b4e-acdf-4784-ae4f-6ad19f2034e4">
+                <p outputclass="title" id="01e7c823-99b1-4f9e-9fdc-ba05a31286a8">
+                    <xref outputclass="ps_link" id="div_rmb_zsl_v2b" keyref="rdawP10335/div_rmb_zsl_v2b">Option</xref>
+                </p>
+                <div id="9377628d-6868-410c-b254-74424d4485b8"/>
+            </div>
+            <div id="fe2ce1ba-8e2e-4743-94c0-efafd8cafedf">
+                <p outputclass="title" id="aed357f9-2c39-4170-b621-6dead097fc73">
+                    <xref outputclass="ps_link" id="div_ymb_zsl_v2b" keyref="rdawP10335/div_ymb_zsl_v2b">Condition Option</xref>
+                </p>
+                <div id="1faae2f1-5f1e-4c57-9ce3-7a2bfbed2780"/>
+            </div>
+            <div id="f93fa4fa-b01e-409a-a444-7addec73a407">
+                <p outputclass="title" id="4781e9ed-9425-48ab-8d54-0818183c16fe">
+                    <xref outputclass="ps_link" id="div_fcg_ltl_v2b" keyref="rdawP10335/div_fcg_ltl_v2b">Condition Option</xref>
+                </p>
+                <div id="cade44b0-0ffe-455a-8567-80d27bef3e4a"/>
+            </div>
+        </section>
+        <section id="f7389f6a-8cbe-4b2f-94a3-10aa828a0f6e">
+            <title>Recording an IRI</title>
+            <div id="c5e6b242-cb90-4442-a3b7-4f6c56fdde0b">
+                <p outputclass="title" id="f70f9192-1b95-4685-9f19-d09089071692">
+                    <xref outputclass="ps_link" keyref="rdawP10335/b899ba90-6e7b-4b34-960f-757ac6867d37">Recording an IRI</xref>
+                </p>
+                <div id="ed109ccd-ab4e-4017-95bd-cd5afba55d5b"/>
+            </div>
+        </section>
+        <section id="049b7fd0-cf38-4b97-9164-07f6db8ea226">
+            <title>View in Context Example</title>
+            <div id="c4bfd3f6-1634-4edf-bb2e-27c831bf2f23">
+                <p outputclass="title" id="e4904615-fbfe-4106-83c2-68309f13a38d">
+                    <xref outputclass="ps_link" keyref="rdawP10335/section_atj_l4t_b2b">View in Context Example</xref>
+                </p>
+                <div id="3e946617-452c-47c7-aa14-172fa391412e"/>
+            </div>
+        </section>
+    </body>
+</topic>

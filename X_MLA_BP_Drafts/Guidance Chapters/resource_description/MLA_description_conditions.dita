@@ -1,0 +1,41 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-5f2eb0d1-09a4-38b5-ae8f-2fea1c4348e3" xml:lang="en-US">
+    <title>Music Library Association Best Practices for Coherent description of an information resource</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="447aea2a-73bb-426e-8812-25d6fc516830">
+            <title>Resource entity relationships for constructing a coherent description</title>
+            <div id="78454a17-34c5-4ec8-8221-a97c9771eef2">
+                <p outputclass="title" id="f9e2a3d9-7648-4d0b-94ec-09164925d7c8">
+                    <xref outputclass="ps_link" keyref="g_012/section_edp_4fs_5db">Resource entity relationships for constructing a coherent description</xref>
+                </p>
+                <div id="73454a10-9767-4f33-afa4-84342318a066"/>
+            </div>
+        </section>
+        <section id="90f8048e-2b67-41b8-aa11-794b098b4e4a">
+            <title>Cardinality restrictions for constructing a coherent description</title>
+            <div id="f9d63ca8-3b4d-457a-9a62-455f14e0732c">
+                <p outputclass="title" id="5e85a145-59ba-48da-bb17-4c5009cff690">
+                    <xref outputclass="ps_link" keyref="g_012/section_p25_ttc_p2b">Cardinality restrictions for constructing a coherent description</xref>
+                </p>
+                <div id="4a9a3f99-87bc-45f2-96e7-8eb6284df7b1"/>
+            </div>
+        </section>
+        <section id="ad84df07-f672-4a00-bf97-3707be8a0ddb">
+            <title>Minimum coherent description</title>
+            <div id="6c5b9dbc-a704-4606-977a-b6068ee436b3">
+                <p outputclass="title" id="4d83cc36-b5f4-41e4-b6f5-224e25f56f6a">
+                    <xref outputclass="ps_link" keyref="g_012/section_djl_c5c_p2b">Minimum coherent description</xref>
+                </p>
+                <div id="e2e47ecf-9919-491d-a061-397d841fb186"/>
+            </div>
+        </section>
+    </body>
+</topic>

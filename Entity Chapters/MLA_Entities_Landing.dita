@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="mla_entities_land" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd">
+  <title>MLA BP Entities </title>
+  <body>
+    <section id="section_zss_tr3_flb">
+      <p id="p_ats_tr3_flb">Click on the active links to browse Music Library Association Best
+        Practices by entity. A grayed out link means that there are no policy statements for that
+        entity.</p>
+    </section>
+    <section id="section_nbs_xpd_3lb">
+      <ul id="ul_rnb_js3_flb">
+        <li id="li_t52_rs3_flb">RDA entity</li>
+        <li id="li_snb_js3_flb"><xref href="Work/MLA_entity_Work.dita">Work</xref></li>
+        <li id="li_f3c_ms3_flb"><xref href="Expression/MLA_entity_Expression.dita"
+          >Expression</xref></li>
+        <li id="li_jml_ms3_flb"><xref href="Manifestation/MLA_entity_Manifestation.dita"
+            >Manifestation</xref></li>
+        <li id="li_pys_ms3_flb">Item</li>
+        <li id="li_l53_ss3_flb">Agent</li>
+        <li id="li_ccl_ts3_flb">Person</li>
+        <li id="li_ftm_vs3_flb">Collective agent</li>
+        <li id="li_azr_ws3_flb"><xref href="Corporate_Body/MLA_entity_Corporate_Body.dita">Corporate
+            body</xref></li>
+        <li id="li_std_ys3_flb">Family</li>
+        <li id="li_qjm_zs3_flb">Nomen</li>
+        <li id="li_zl4_bt3_flb">Place</li>
+        <li id="li_cmf_ct3_flb">Timespan</li>
+      </ul>
+    </section>
+  </body>
+</topic>

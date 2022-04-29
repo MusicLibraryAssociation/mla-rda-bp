@@ -1,0 +1,41 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-b97fb905-bd6e-3b31-ad95-8646d5ec2380" xml:lang="en-US">
+    <title>Music Library Association Best Practices for reviser agent</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="5d1703e1-9ef1-46da-94e5-675422156017">
+            <title>Prerecording</title>
+            <div id="092b855b-1ae7-4ad6-aad2-505410cf2065">
+                <p outputclass="title" id="16d66aa3-ad49-4704-a88d-86a8e1d4b26c">
+                    <xref outputclass="ps_link" keyref="rdaeP20327/section_v5s_z5g_ymb">Prerecording</xref>
+                </p>
+                <div id="caf11c8a-588b-48f6-aca0-b90700985826"/>
+            </div>
+        </section>
+        <section id="56866170-a873-43b9-a0d6-a12f06e90b7c">
+            <title>Recording</title>
+            <div id="ac80be98-8958-49fe-83f1-2e76b6df442c">
+                <p outputclass="title" id="6af4aecf-08df-470c-8e96-8ba259f82f33">
+                    <xref outputclass="ps_link" keyref="rdaeP20327/section_a3f_bjd_xdb">Recording</xref>
+                </p>
+                <div id="9f49b585-04d5-4fe7-8919-62d3f5b349fc"/>
+            </div>
+        </section>
+        <section id="8321a2ac-45d2-46a8-b4a4-cd62648a3127">
+            <title>Recording an IRI</title>
+            <div id="24278fe8-63bc-43c9-a3d0-f18965fd4a92">
+                <p outputclass="title" id="76734760-6f4a-4f2b-ac83-8d8310108c53">
+                    <xref outputclass="ps_link" keyref="rdaeP20327/div_l3f_bjd_xdb">Recording an IRI</xref>
+                </p>
+                <div id="24eaaf5f-4ef9-459a-a048-62114f1e8c42"/>
+            </div>
+        </section>
+    </body>
+</topic>

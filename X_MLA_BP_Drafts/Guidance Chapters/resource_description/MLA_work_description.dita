@@ -1,0 +1,317 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-ff15d420-2693-3567-ab56-fdec6d2588cc" xml:lang="en-US">
+    <title>Music Library Association Best Practices for Describing a work</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="956a3033-1838-425e-ba72-57fdcfc85643">
+            <title>Cardinality restrictions for specific kinds of work</title>
+            <div id="8acaf0d2-237d-42b3-9bed-15ddf2df8a4a">
+                <p outputclass="title" id="191c0d30-5759-4695-a889-50a25850e2c9">
+                    <xref outputclass="ps_link" keyref="g_019/section_vph_3qg_vdb">Cardinality restrictions for specific kinds of work</xref>
+                </p>
+                <div id="6261c94c-5f50-4192-b626-447036617c28"/>
+            </div>
+        </section>
+        <section id="da00a8f6-cf2d-4d88-960c-36787e1e7115">
+            <title>Describing a group of works</title>
+            <div id="fd99238f-55d8-4d38-9845-51078dabf18e">
+                <p outputclass="title" id="bb8a3fb3-43ff-4b49-bf46-73d8817ec089">
+                    <xref outputclass="ps_link" keyref="g_019/section_y4p_p24_2fb">Describing a group of works</xref>
+                </p>
+                <div id="0ff85d4a-81d3-45a1-b58d-cc2662d3c69b"/>
+            </div>
+            <div id="eb53e251-0b2d-428f-b7c8-26e17fc0224f">
+                <p outputclass="title" id="8217a418-d9ad-4221-b645-842eefbe780f">
+                    <xref outputclass="ps_link" keyref="g_019/div_fpp_p24_2fb">Condition Option</xref>
+                </p>
+                <div id="26c07fb8-f735-4f2b-87a4-496fad25f14a"/>
+            </div>
+            <div id="27626dce-49ac-4fdf-ac7d-3e6924cd37c4">
+                <p outputclass="title" id="84f5505a-29e2-4fa5-80b2-1b94e692dda3">
+                    <xref outputclass="ps_link" keyref="g_019/div_hpp_p24_2fb">Condition Option</xref>
+                </p>
+                <div id="b81c6156-2636-439f-9c32-6a8e3b148e35"/>
+            </div>
+            <div id="415bf5ff-9811-40b8-9cd3-76b7c56defaf">
+                <p outputclass="title" id="1b06442b-5f98-472a-955e-c81734ecdd81">
+                    <xref outputclass="ps_link" keyref="g_019/div_jpp_p24_2fb">Condition Option</xref>
+                </p>
+                <div id="747686a0-c763-4b4e-b3ee-ddbb08ca9f29"/>
+            </div>
+        </section>
+        <section id="87e6db09-33b2-479b-a2f2-bb633cfdc56d">
+            <title>Describing a single work</title>
+            <div id="52617c3a-9d43-4ea4-8431-84425b301e2b">
+                <p outputclass="title" id="423aac21-a457-44e9-9d0f-cbe6408d5fa2">
+                    <xref outputclass="ps_link" keyref="g_019/section_v4t_lrv_42b">Describing a single work</xref>
+                </p>
+                <div id="da9c310b-f413-4aa4-bd31-24b5d818b2ba"/>
+            </div>
+        </section>
+        <section id="ee9e6991-ab09-4f98-843f-064e34da7478">
+            <title>Describing an amalgamation</title>
+            <div id="11f119d0-99ab-4460-bdfe-eba5e683b97e">
+                <p outputclass="title" id="26939d58-3c5e-47fa-b8e8-f03b842c3747">
+                    <xref outputclass="ps_link" keyref="g_019/div_d2k_b5j_2hb">Describing an amalgamation</xref>
+                </p>
+                <div id="1a0f5396-a843-4787-9183-c6cbc853273e"/>
+            </div>
+            <div id="abbb06f0-1793-4913-a98a-5f4ce27dd2b1">
+                <p outputclass="title" id="06174ad3-4192-4f8e-995f-3bdd30292e9a">
+                    <xref outputclass="ps_link" id="div_vql_2zm_2fb" keyref="g_019/div_vql_2zm_2fb">Condition Option</xref>
+                </p>
+                <div id="411205d2-f47f-4ab3-85f7-f36518ab6fa8"/>
+            </div>
+            <div id="dc754121-f344-442f-9309-cbfc0649641b">
+                <p outputclass="title" id="42f6aaf4-c80c-4129-afb8-6865238ea119">
+                    <xref outputclass="ps_link" id="div_xql_2zm_2fb" keyref="g_019/div_xql_2zm_2fb">Condition Option</xref>
+                </p>
+                <div id="89f7db8c-4106-4c83-b542-483e838419b7"/>
+            </div>
+        </section>
+        <section id="907e4c49-58de-4918-bd3f-9d41eb5b4f4a">
+            <title>Describing a single work that has two or more parts</title>
+            <div id="f42a2763-a666-4eb7-8e08-e01fc290e632">
+                <p outputclass="title" id="818ea474-e439-4d06-afe4-51b62653d8b1">
+                    <xref outputclass="ps_link" keyref="g_019/div_pjz_d5j_2hb">Describing a single work that has two or more parts</xref>
+                </p>
+                <div id="425b8b03-1ae3-49f9-87d1-4fba9f678e53"/>
+            </div>
+            <div id="e3012ad6-d32f-4283-bfda-32bd06373185">
+                <p outputclass="title" id="5ec37534-6826-4056-ad1d-bcb68e6f0359">
+                    <xref outputclass="ps_link" id="div_gqt_k1n_2fb" keyref="g_019/div_gqt_k1n_2fb">Condition Option</xref>
+                </p>
+                <div id="e289bf74-26df-4e47-bdcc-225ab1382ebf"/>
+            </div>
+            <div id="21cb0a22-0252-4fa8-b2ff-31e18d308a2c">
+                <p outputclass="title" id="cb80a0ae-791d-414d-ab51-5a08eee8a542">
+                    <xref outputclass="ps_link" id="div_iqt_k1n_2fb" keyref="g_019/div_iqt_k1n_2fb">Condition Option</xref>
+                </p>
+                <div id="90d09bc8-96f4-48f1-ae65-ce93f1342668"/>
+            </div>
+        </section>
+        <section id="e9433482-0d90-468a-8ae4-2fafd6370e93">
+            <title>Describing a work that is a part of a single work</title>
+            <div id="6c9ce2e2-33db-49f7-a4a1-4e82260e52ae">
+                <p outputclass="title" id="f2b247e0-e11b-4dca-98f7-90be70a22088">
+                    <xref outputclass="ps_link" keyref="g_019/div_ucm_f5j_2hb">Describing a work that is a part of a single work</xref>
+                </p>
+                <div id="bccd4a48-7175-4499-a77c-ab1efbd58945"/>
+            </div>
+            <div id="c26fb450-ad71-41b6-99e0-9a0d34b5e671">
+                <p outputclass="title" id="224a03a1-bf8d-4a07-9af5-ecd5084eac31">
+                    <xref outputclass="ps_link" id="div_oh2_5sv_42b" keyref="g_019/div_oh2_5sv_42b">Condition Option</xref>
+                </p>
+                <div id="3ba2590c-3688-47d2-89e4-cd0f07ca96ef"/>
+            </div>
+            <div id="0d3a03d9-13b6-4536-b9f2-c5ec58a77392">
+                <p outputclass="title" id="78b53c02-60b4-4969-829a-aa3e9781eae5">
+                    <xref outputclass="ps_link" id="div_qh2_5sv_42b" keyref="g_019/div_qh2_5sv_42b">Condition Option</xref>
+                </p>
+                <div id="7180d88e-d6a1-4984-8681-95df7679dcf5"/>
+            </div>
+        </section>
+        <section id="434d3e1d-0b70-42f7-ab0f-da3a3d785f32">
+            <title>Describing aggregating works and works that are aggregated</title>
+            <div id="46e3e6d1-1ff9-4ae7-b14c-0e8889474c97">
+                <p outputclass="title" id="1aef99c4-f404-4eb5-bb93-f358c9aca3f1">
+                    <xref outputclass="ps_link" keyref="g_019/section_o4b_vpv_42b">Describing aggregating works and works that are aggregated</xref>
+                </p>
+                <div id="1eb90086-307f-4b29-9229-51485ed78be6"/>
+            </div>
+        </section>
+        <section id="0209f3f7-e03c-4dc5-875a-7538e3bb7d60">
+            <title>Describing an aggregating work</title>
+            <div id="04c3c5cf-7886-4994-b3c0-5f69fb3c9068">
+                <p outputclass="title" id="ba810878-ab8d-479a-ad95-346923ae1432">
+                    <xref outputclass="ps_link" keyref="g_019/div_rds_h5j_2hb">Describing an aggregating work</xref>
+                </p>
+                <div id="9bbd7c5c-285a-496c-935e-3d3a93b677ab"/>
+            </div>
+            <div id="53b84e15-b0c8-4a4a-be17-57805dab84d6">
+                <p outputclass="title" id="5e5e6af1-220c-4c21-b3d5-a83c853bf45a">
+                    <xref outputclass="ps_link" id="div_bv4_rvn_2fb" keyref="g_019/div_bv4_rvn_2fb">Condition Option</xref>
+                </p>
+                <div id="b2a4b566-ffdc-455b-a52d-ef036e418bd5"/>
+            </div>
+            <div id="c8f52d5f-4201-4ad4-b320-e61bb277f7ae">
+                <p outputclass="title" id="d45e91fa-1314-4f51-837f-13dae343b217">
+                    <xref outputclass="ps_link" id="div_dv4_rvn_2fb" keyref="g_019/div_dv4_rvn_2fb">Condition Option</xref>
+                </p>
+                <div id="6884fce3-7973-4796-b160-c7ab88be7615"/>
+            </div>
+        </section>
+        <section id="93beeead-0f70-4a42-ad81-1bc1426deb40">
+            <title>Describing a successive aggregating work</title>
+            <div id="dc1a6137-6a8d-49b9-8eb2-4883f0ae1982">
+                <p outputclass="title" id="8564e55f-18a6-41bc-830d-a83e6d084f77">
+                    <xref outputclass="ps_link" keyref="g_019/div_am4_p5j_2hb">Describing a successive aggregating work</xref>
+                </p>
+                <div id="44bec844-e3a1-4b29-88b9-c3b991816c6c"/>
+            </div>
+            <div id="9cf7a981-f153-43d7-a0b7-deb7c7904194">
+                <p outputclass="title" id="976b2cd2-feeb-449a-a3a2-c3fdce1c752c">
+                    <xref outputclass="ps_link" id="div_j2b_bxn_2fb" keyref="g_019/div_j2b_bxn_2fb">Condition Option</xref>
+                </p>
+                <div id="fb88fd58-7416-4c64-a7dd-8c6083e131ca"/>
+            </div>
+            <div id="559ad656-85f2-4e26-b9a3-124547556000">
+                <p outputclass="title" id="7dcc3457-5f61-47b6-9eec-e4a13cd8e594">
+                    <xref outputclass="ps_link" id="div_l2b_bxn_2fb" keyref="g_019/div_l2b_bxn_2fb">Condition Option</xref>
+                </p>
+                <div id="78430e82-b7fe-4250-99e2-f0f4442a2cd9"/>
+            </div>
+        </section>
+        <section id="922724e3-a6c9-4629-8c16-5640358b13e3">
+            <title>Describing a work that is aggregated</title>
+            <div id="5fafa688-feed-42c2-a315-52ca6f8ff079">
+                <p outputclass="title" id="14bc7245-514e-4ad6-89e4-1823e5fa9aef">
+                    <xref outputclass="ps_link" keyref="g_019/div_g2h_nvn_2fb">Describing a work that is aggregated</xref>
+                </p>
+                <div id="7678cc00-3fbc-43b5-a937-9d5d61cc2f47"/>
+            </div>
+            <div id="d9599276-b544-44fe-aab1-bc7e366af4de">
+                <p outputclass="title" id="2dacd294-c5e5-4dfe-9147-1385a3622d7c">
+                    <xref outputclass="ps_link" id="div_njc_cgx_hfb" keyref="g_019/div_njc_cgx_hfb">Condition Option</xref>
+                </p>
+                <div id="1bced57f-7d3a-4f4d-a9e3-395a782d7a81"/>
+            </div>
+            <div id="ba1d2114-8d0a-4de7-806c-94656b09a8e3">
+                <p outputclass="title" id="df4642d3-192d-4279-8ce3-d8fbe70e925b">
+                    <xref outputclass="ps_link" id="div_udr_3yn_2fb" keyref="g_019/div_udr_3yn_2fb">Condition Option</xref>
+                </p>
+                <div id="4cdb0dbb-53f0-4a58-88be-db29d95a8b30"/>
+            </div>
+            <div id="d64355cc-b925-4291-bf53-ce8f12c22fe9">
+                <p outputclass="title" id="5d5b9a9c-a166-4b18-bb1d-dadda78567f5">
+                    <xref outputclass="ps_link" id="div_efd_kyn_2fb" keyref="g_019/div_efd_kyn_2fb">Condition Option</xref>
+                </p>
+                <div id="6d228265-b149-4c91-b357-006feb54a301"/>
+            </div>
+        </section>
+        <section id="a207fdea-24fb-4281-ad96-687811e87ab7">
+            <title>Describing static and diachronic works</title>
+            <div id="cd6d5a67-899c-4188-a539-d6837677a00d">
+                <p outputclass="title" id="83acaafc-751a-4377-96d0-5802869616ed">
+                    <xref outputclass="ps_link" keyref="g_019/section_cww_ftv_42b">Describing static and diachronic works</xref>
+                </p>
+                <div id="117f5f13-33d4-4608-9b73-af6149950e51"/>
+            </div>
+        </section>
+        <section id="fca3778c-23a9-49b9-a432-f476ea8a4ea6">
+            <title>Describing a static work</title>
+            <div id="02efee65-cde5-4ef3-90e4-13c5cfaf0db0">
+                <p outputclass="title" id="7e284820-0788-4613-8258-04ba11fc836d">
+                    <xref outputclass="ps_link" keyref="g_019/div_gv5_lzn_2fb">Describing a static work</xref>
+                </p>
+                <div id="2968cdbb-d6b3-4bcb-b689-11a8564d3e40"/>
+            </div>
+            <div id="d11e1f85-621f-4fbe-b435-95ee6917ab07">
+                <p outputclass="title" id="b1811491-71dc-4fcb-a3bc-1a482c200ce3">
+                    <xref outputclass="ps_link" id="div_trd_wzn_2fb" keyref="g_019/div_trd_wzn_2fb">Condition Option</xref>
+                </p>
+                <div id="956237e8-7de9-4465-9424-123f1798bac3"/>
+            </div>
+        </section>
+        <section id="7fb5f9c3-f73c-4e9a-9662-716177c212dd">
+            <title>Describing a diachronic work</title>
+            <div id="0cfa50b9-13f1-470d-b46a-199ee3b321ba">
+                <p outputclass="title" id="c0e5498e-2f2e-4934-a9b5-e6322596261c">
+                    <xref outputclass="ps_link" keyref="g_019/div_uj2_tzn_2fb">Describing a diachronic work</xref>
+                </p>
+                <div id="d70b6ed1-9772-45ac-9484-0f89ddfed65b"/>
+            </div>
+            <div id="fe7fba00-4cf4-404a-862c-b158d2b04e55">
+                <p outputclass="title" id="813834e8-60ac-4771-aeb3-dd69e8155011">
+                    <xref outputclass="ps_link" id="div_iw2_5cx_qhb" keyref="g_019/div_iw2_5cx_qhb">Condition Option</xref>
+                </p>
+                <div id="81715f14-b4d3-4d09-87af-2e53e27546a4"/>
+            </div>
+            <div id="5d44be99-f3c0-48a5-8821-11816a36802c">
+                <p outputclass="title" id="72f8cb2d-1f47-42b4-ac5d-c238e66f8fab">
+                    <xref outputclass="ps_link" id="div_uny_nzw_qhb" keyref="g_019/div_uny_nzw_qhb">Condition Option</xref>
+                </p>
+                <div id="df7c0fb2-4c43-4463-8834-7753dcc93c93"/>
+            </div>
+            <div id="9f4f371e-c98a-4249-a3c4-3ccae3067dac">
+                <p outputclass="title" id="f5ae74bd-50f6-4352-aea2-bb57a85857bf">
+                    <xref outputclass="ps_link" id="div_ngv_yxq_4hb" keyref="g_019/div_ngv_yxq_4hb">Condition Option</xref>
+                </p>
+                <div id="31746bb3-bed3-4d39-8d8f-be0ad95a6ccc"/>
+            </div>
+        </section>
+        <section id="a05f9a11-d80d-450b-ade6-a3617654b190">
+            <title/>
+            <div id="b603564a-9085-4569-b462-c6af1da426e0">
+                <p outputclass="title" id="95323b0c-23b7-4c8d-a214-10b11c8b925c">
+                    <xref outputclass="ps_link" keyref="g_019/div_iw2_5cx_qhb"/>
+                </p>
+                <div id="ca60e4d0-2201-479a-bbf1-96d9ef89c432"/>
+            </div>
+        </section>
+        <section id="dbfb9e07-13ff-44d7-b88c-7c4e4b615a21">
+            <title>Describing an integrating work</title>
+            <div id="9c8352eb-5141-493c-9719-525def085f7b">
+                <p outputclass="title" id="ca47eb5f-1cd5-4e00-82d4-e9932fb86585">
+                    <xref outputclass="ps_link" keyref="g_019/div_zqd_5zn_2fb">Describing an integrating work</xref>
+                </p>
+                <div id="45f63769-07ed-455c-8389-297371240484"/>
+            </div>
+            <div id="ac1b7b34-89c6-4438-be02-14dd23655b53">
+                <p outputclass="title" id="de9826cb-3014-4a89-b226-df78c15bde92">
+                    <xref outputclass="ps_link" id="div_c3w_3b4_2fb" keyref="g_019/div_c3w_3b4_2fb">Condition Option</xref>
+                </p>
+                <div id="46e3cd39-6437-4f50-ba61-23e9ac6f33c6"/>
+            </div>
+            <div id="da84b3c6-86d9-40ce-98b1-5e583a5f29b0">
+                <p outputclass="title" id="a65baaf1-ed42-45ce-bd7c-4e1585600ac3">
+                    <xref outputclass="ps_link" id="div_mlr_jb4_2fb" keyref="g_019/div_mlr_jb4_2fb">Condition Option</xref>
+                </p>
+                <div id="fa9a7c8e-f283-4ca8-999d-73ec3bc387cc"/>
+            </div>
+        </section>
+        <section id="79300518-06b6-4b53-977e-808987a13a82">
+            <title>Describing a successive work</title>
+            <div id="07823170-8d49-40e9-b4a5-bf061aceefd3">
+                <p outputclass="title" id="ffc0348b-6798-40ce-920e-f0bcb150f707">
+                    <xref outputclass="ps_link" keyref="g_019/div_gqx_5zn_2fb">Describing a successive work</xref>
+                </p>
+                <div id="554e6ad3-7fdb-4dd5-a3a9-e117f3c3e91b"/>
+            </div>
+            <div id="c12ca879-7307-4a85-a78f-75bbdbab8933">
+                <p outputclass="title" id="8e15658a-772e-4206-87a9-ddf64f5d5235">
+                    <xref outputclass="ps_link" id="div_l14_4b4_2fb" keyref="g_019/div_l14_4b4_2fb">Condition Option</xref>
+                </p>
+                <div id="b3e74854-3b7e-4ea5-8c7f-c8bddddb8142"/>
+            </div>
+            <div id="b46a0dd4-ccdd-4f4b-aa0e-ed9625275936">
+                <p outputclass="title" id="ed4bc584-18d4-44b2-94ea-0a8d58d51a54">
+                    <xref outputclass="ps_link" id="div_kdn_pb4_2fb" keyref="g_019/div_kdn_pb4_2fb">Condition Option</xref>
+                </p>
+                <div id="47475e23-61ec-4892-ba6d-4b4893f0a993"/>
+            </div>
+        </section>
+        <section id="f4566842-0856-41bf-a8e8-358a88335df0">
+            <title>Describing a serial work</title>
+            <div id="05920443-5dd7-4b31-9c52-87dfb6786d6d">
+                <p outputclass="title" id="dc2a5b35-df12-49b0-bcbe-fcc4ee82b9da">
+                    <xref outputclass="ps_link" keyref="g_019/section_dhm_vbp_vdb">Describing a serial work</xref>
+                </p>
+                <div id="2ec826fa-7125-4dc5-ae6b-d9a43e48934c"/>
+            </div>
+            <div id="3229f746-0a59-456e-874f-860b08937a21">
+                <p outputclass="title" id="4ad574fd-8742-4ce8-8538-e36b06d403f3">
+                    <xref outputclass="ps_link" keyref="g_019/div_pbg_pv3_k2b">Condition Option</xref>
+                </p>
+                <div id="a222f455-d1ac-4692-8595-a061caa315df"/>
+            </div>
+        </section>
+    </body>
+</topic>

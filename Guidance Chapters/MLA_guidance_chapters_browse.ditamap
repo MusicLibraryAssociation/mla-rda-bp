@@ -1,0 +1,19 @@
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" title="Guidance chapters DITA Map" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    <topicref href="MLA_introduction_browse.ditamap"/>
+    <topicref href="MLA_aggregates_guidance.dita" keys="g_002"/>
+    <topicref href="MLA_application_profiles.dita" keys="g_023"/>
+    <topicref href="MLA_content_and_carrier_browse.ditamap"/>
+    <topicref href="MLA_data_provenance.dita" keys="g_024"/>
+    <topicref href="MLA_diachronic_works.dita" keys="g_003"/>
+    <topicref href="MLA_fictitious_and_nonhuman_appellations.dita" keys="g_001"/>
+    <topicref href="MLA_manifestation_statements.dita" keys="g_029"/>
+    <topicref href="MLA_nomens_and_appellations.dita" keys="g_028"/>
+    <topicref href="MLA_rda_implementation_scenarios.dita" keys="g_032"/>
+    <topicref href="MLA_recording_methods.dita" keys="g_025"/>
+    <topicref href="MLA_representative_expressions.dita" keys="g_026"/>
+    <topicref href="MLA_resource_description_browse.ditamap"/>
+    <topicref href="MLA_terminology.dita" keys="g_027"/>
+    <topicref href="MLA_transcription_guidelines_browse.ditamap"/>
+    <topicref href="MLA_user_tasks.dita" keys="g_030"/>
+    <topicref href="MLA_well_formed_rda.dita" keys="g_030"/>
+</map>

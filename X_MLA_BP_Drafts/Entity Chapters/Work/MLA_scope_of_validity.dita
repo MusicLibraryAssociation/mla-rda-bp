@@ -1,0 +1,74 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-5eb1fc81-b94d-3012-9ea5-3b29a262c0f3" xml:lang="en-US">
+    <title>Music Library Association Best Practices for gyldighetsområde</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="3a6f6905-06b0-4d25-94f4-1d679cdae82e">
+            <title>Preregistrering</title>
+            <div id="be5b7c14-14f4-492e-8fdc-dfdc4c26e3a7">
+                <p outputclass="title" id="3f423247-a97f-4e28-b1a3-1e3e322aeb15">
+                    <xref outputclass="ps_link" keyref="rdawP10403/d34e9863-66e7-4f69-8d1f-cdcb5f921a8e">Preregistrering</xref>
+                </p>
+                <div id="dbfa9a69-0fdd-4d29-94f8-c3710b68c491"/>
+            </div>
+        </section>
+        <section id="0650c848-bd34-4280-83ed-bd8f36359ca9">
+            <title>Registrering</title>
+            <div id="ce163dba-0fd6-4432-8bb7-2139830a9dd5">
+                <p outputclass="title" id="2f4e767d-7fa8-4004-ade3-664236bac190">
+                    <xref outputclass="ps_link" keyref="rdawP10403/d26eeedd-6fbb-4bd4-b035-e763f8be6027">Registrering</xref>
+                </p>
+                <div id="439bcdbf-9b9b-4a77-927f-2390cc81049b"/>
+            </div>
+        </section>
+        <section id="a8c93442-9f86-4618-8248-6faaebd8b5ff">
+            <title>Registrering av en ustrukturert beskrivelse</title>
+            <div id="fd115daf-1624-41f5-9ae6-22396150f1f9">
+                <p outputclass="title" id="6cf2db1f-cc79-4b3d-8d7a-ab723db754e9">
+                    <xref outputclass="ps_link" keyref="rdawP10403/bb893b40-c6dc-4c76-a7e1-00a4c420c4fb">Registrering av en ustrukturert beskrivelse</xref>
+                </p>
+                <div id="4cd77a35-3ba3-4b5b-a70c-82646fc15b6b"/>
+            </div>
+            <div id="9d6d0245-0747-4553-a253-58f395be98f7">
+                <p outputclass="title" id="c2623bb5-b18c-4f41-a3d2-c99fb421bbdf">
+                    <xref outputclass="ps_link" id="div_s4y_dqw_4hb" keyref="rdawP10403/div_s4y_dqw_4hb">Option</xref>
+                </p>
+                <div id="92074dd7-9b9f-428e-ac35-91523476d874"/>
+            </div>
+        </section>
+        <section id="baf3bed1-ed27-4753-9d32-d9fba1e31d0e">
+            <title>Registrering av en strukturert beskrivelse</title>
+            <div id="c54d7e37-6c2d-4664-a401-3ce086cc6a57">
+                <p outputclass="title" id="76243d74-06d9-497a-b85b-e3eff03b6841">
+                    <xref outputclass="ps_link" keyref="rdawP10403/39011127-094c-40f9-a2a5-872c271c2e9a">Registrering av en strukturert beskrivelse</xref>
+                </p>
+                <div id="2bc40330-d874-48fd-9f67-93b5024bd1c0"/>
+            </div>
+        </section>
+        <section id="6900c26a-b4d1-4783-8514-9d1869fba42d">
+            <title>Registrering av en identifikator</title>
+            <div id="ee4604af-b791-4b4d-94f6-fcc1bcadb17e">
+                <p outputclass="title" id="196bf471-e37f-4f11-ad7d-cf906f5f1098">
+                    <xref outputclass="ps_link" keyref="rdawP10403/55dca9c9-f3b1-440f-9c3b-8e991242090b">Registrering av en identifikator</xref>
+                </p>
+                <div id="7491ad8e-6ac6-4ca3-83eb-6de0cecee887"/>
+            </div>
+        </section>
+        <section id="57bc1911-8ba9-4fb6-9e27-8fa80ba287a2">
+            <title>Registrering av en IRI</title>
+            <div id="5f1a07d9-84ec-4ec7-93d1-6cb83fa2b9e7">
+                <p outputclass="title" id="72082d9e-745f-41bb-b8d7-2b7573e81ea3">
+                    <xref outputclass="ps_link" keyref="rdawP10403/65f8b58e-8323-41b9-a945-11ccc87f12f7">Registrering av en IRI</xref>
+                </p>
+                <div id="e09e8d0c-839f-41f1-8155-90006fa43c6b"/>
+            </div>
+        </section>
+    </body>
+</topic>

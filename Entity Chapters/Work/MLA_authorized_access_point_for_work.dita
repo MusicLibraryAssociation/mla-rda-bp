@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-93aa2333-9cb4-3286-af82-97ed10146803"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for authorized access point for work </title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body>
+      <section id="ae35190b-8c19-496b-87fd-ab279f5c2d58">
+         <title>Prerecording</title>
+         <div id="0ac42ec0-6499-4e74-9c2b-fe44a9b99736">
+            <p outputclass="title" id="9d17d81b-e167-44a8-be0e-0bcc81a2a537">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10331/d35e6efd-d046-44ab-b91e-bc6af0e764ea">Prerecording</xref>
+            </p>
+            <div id="0587de51-7652-44f9-9373-5c72fa272e03">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_vtg_bdh_r4b"/> For instructions on the construction of authorized access points for musical works, first see <xref keyref="p_006"/>. If none of the instructions there are applicable, apply the instructions for this element.</p>
+               <p>Also record the element for an aggregating work manifested as a series if feasible and deemed useful for identification or access.</p>
+            </div>
+         </div>
+      </section>
+      <section id="41ea227a-5b8a-42a7-86b9-64ba44f2043e">
+         <title>Recording</title>
+         <div id="102d5d0c-bcd0-4c0f-8fee-c5de909eae1b">
+            <p outputclass="title" id="fc6cacb3-57ae-4d13-9702-7dcdb94cf956">
+               <xref outputclass="ps_link" keyref="rdawP10331/3d9f29d0-bafc-4272-af19-bc8fb7021c14"
+                  >Recording</xref></p>
+            <div id="272375e2-f588-40e8-bbe4-5ad48bc2108c"><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"
+                  /><ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/> field 1xx + 240, 1xx + 245, 130, or
+               7xx as appropriate to the resource described. </div>
+         </div>
+      </section>
+      <section id="section_krc_zxc_s4b">
+         <title>Recording an unstructured description</title>
+         <div id="div_mrc_zxc_s4b">
+            <p outputclass="title" id="p_nrc_zxc_s4b">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10331/d657b5f9-816c-4136-aaa7-dd6145cbe364">Recording an
+                        unstructured description</xref>
+            </p>
+            <div id="div_prc_zxc_s4b"/>
+         </div>
+      </section>
+      <section id="section_hzy_zxc_s4b">
+         <title>Recording a structured description</title>
+         <div id="div_ozy_zxc_s4b">
+            <p outputclass="title" id="p_qzy_zxc_s4b">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10331/58c80155-8f30-4226-9f0c-4d549f771f77">Recording a structured description</xref>
+            </p>
+            <div id="div_uzy_zxc_s4b"/>
+         </div>
+         <div id="div_mlt_lyc_s4b">
+            <p outputclass="title" id="p_nlt_lyc_s4b">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_jqg_bn2_wfb">Option</xref>
+            </p>
+            <div id="div_olt_lyc_s4b">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/a6fe9c5d-99c0-4a9a-93fd-4bd51332365e"/>
+            </div>
+         </div>
+         <div id="div_hm5_lyc_s4b">
+            <p outputclass="title" id="p_im5_lyc_s4b">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_bwp_dn2_wfb">Option</xref>
+            </p>
+            <div id="div_jm5_lyc_s4b">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/d95a3d5a-66f5-41ae-9414-377f71e7c09a"/>
+            </div>
+         </div>
+         <div id="div_ejv_lyc_s4b">
+            <p outputclass="title" id="p_fjv_lyc_s4b">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_whg_c4p_qhb">Option</xref>
+            </p>
+            <div id="div_gjv_lyc_s4b">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/922bcaa2-769d-4e54-a632-98e6d7305986"/>
+            </div>
+         </div>
+         <div id="div_fzw_vlh_fsb">
+            <p outputclass="title" id="p_jfd_wlh_fsb">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_wbt_vfs_tjb">Condition Option</xref>
+            </p>
+            <div id="div_whp_wlh_fsb">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>in bibliographic records for collection aggregates if feasible and<ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/>
+               </p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/0797be4a-8077-4b07-9ae5-c386ed6c2148"/>
+            </div>
+         </div>
+         <div id="div_hk1_nph_fsb">
+            <p outputclass="title" id="p_svf_nph_fsb">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_bjk_rbf_wfb">Condition Option</xref>
+            </p>
+            <div id="div_s1r_4ph_fsb">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/89698169-0b52-433b-bd5a-3c1acb311a7e"/>
+            </div>
+         </div>
+         <div id="div_mrd_qqh_fsb">
+            <p outputclass="title" id="p_ttm_qqh_fsb">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_nsf_rwr_tjb">Condition Option</xref>
+            </p>
+            <div id="div_jqv_qqh_fsb">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>in bibliographic records for collection aggregates if feasible and<ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/>
+               </p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/6f2178bd-f913-4687-90e9-dc72969ad103"/>
+            </div>
+         </div>
+      </section>
+      <section id="section_n1k_cth_fsb">
+         <title>Base authorized access points for work</title>
+         <div>
+            <p outputclass="title">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_kjf_hjj_lhb">Base authorized access points for work</xref>
+            </p>
+            <div id="div_lj3_gth_fsb"/>
+         </div>
+         <div>
+            <p outputclass="title">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_ylh_v3j_lhb">Option</xref>
+            </p>
+            <div id="div_nmp_gth_fsb">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/62f1a310-960d-477e-9c4d-c1b9c16e05dc"/>
+            </div>
+         </div>
+         <div id="div_gg5_35h_fsb">
+            <p outputclass="title" id="p_tsy_35h_fsb">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_dl1_mby_tjb">Condition Option</xref>
+            </p>
+            <div id="div_v4g_j5h_fsb">
+               <div
+                  conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/div_mcz_qdz_j4b"
+                  id="div_u4y_2hg_vsb"/>
+            </div>
+         </div>
+      </section>
+      <section id="5e81bd9e-2eb8-4184-b48e-4c2a0c41a93d">
+         <title>Format of base authorized access points for work</title>
+         <div id="b20b397b-c7a4-4d43-be31-937721842473">
+            <p outputclass="title" id="660b99e2-bf95-464a-86ce-45103c19d4ec">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_rql_1zv_qjb">Format of base
+                        authorized access points for work</xref>
+            </p>
+            <div id="div_z1r_rnn_fsb"/>
+         </div>
+      </section>
+      <section id="e968c9ea-e07c-42f9-807a-467b15839c96">
+         <title>Additional elements and designations in authorized access points for work</title>
+         <div id="cbf57fa8-f4ce-4437-ab7d-b3a48ef0512a">
+            <p outputclass="title" id="c82c8b87-9e78-4f0a-8c7b-2f7fc04691b7">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_h43_l3j_lhb">Additional
+                        elements and designations in authorized access points for work</xref>
+            </p>
+            <div id="div_l42_vnn_fsb"/>
+         </div>
+         <div>
+            <p outputclass="title">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_mfk_cx3_qhb">Option</xref>
+            </p>
+            <div id="div_mzt_qg4_fsb">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/8305b1e3-7fc2-49b1-9d5f-5fce16d1f8d2"/>
+            </div>
+         </div>
+      </section>
+      <section id="e2a1a095-b729-42d2-9985-1563afc41109">
+         <title>Additional elements for creator of work</title>
+         <div id="620ed46e-e0c7-49ce-825c-35c0a5e4872a">
+            <p outputclass="title" id="ce9980be-c153-49f0-ac01-3f9f624102b1">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_m1d_v42_wfb">Additional
+                        elements for creator of work</xref>
+            </p>
+            <div id="div_qj2_xnn_fsb"/>
+         </div>
+         <div id="a01d2092-1392-4514-96a7-6d5e70a2e33c">
+            <p outputclass="title" id="90a28383-c31e-4da6-b432-3116a4427b24">
+               <xref outputclass="ps_link"
+                     id="div_dcy_5yv_sjb"
+                     keyref="rdawP10331/div_dcy_5yv_sjb">Option</xref>
+            </p>
+            <div id="div_klb_ynn_fsb">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>by recording the access point for the
+                  agent as the first element of the access point for the work, following the LC-PCC
+                     <term>string encoding scheme</term> for access points. See MLA RDA Metadata
+                  Guidance documentation for additional details and guidance.</p>
+            </div>
+         </div>
+      </section>
+      <section id="fb1b58ac-499f-47a7-9d47-81b176ec51cf">
+         <title>Single works</title>
+         <div id="8be0439a-d6fa-4022-b9ca-21a7e0ba15f9">
+            <p outputclass="title" id="755ea43b-881d-49ef-bf9a-7947a8c3434f">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_ald_fp2_wfb">Single
+                        works</xref>
+            </p>
+            <div id="div_xhm_l4n_fsb"/>
+         </div>
+         <div id="828c9ae5-8cb9-4791-a0c2-1c69cc1a7dbb">
+            <p outputclass="title" id="7b282a52-11be-4b3e-adeb-2503bdf584c7">
+               <xref outputclass="ps_link"
+                     id="div_k4v_5w2_wfb"
+                     keyref="rdawP10331/div_k4v_5w2_wfb">Condition Option</xref>
+            </p>
+            <div id="div_olf_m4n_fsb">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/418d0210-dd0b-4cca-98b2-a4d106989141"/>
+            </div>
+         </div>
+      </section>
+      <section id="6781dc52-89c0-4555-977d-5881f3af951c">
+         <title>Aggregating works</title>
+         <div id="62a972c0-4c20-4e93-b282-ff1100c46e42">
+            <p outputclass="title" id="65a10a49-2362-455b-8f83-ba8307b2af69">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_ypd_j1x_4hb">Aggregating
+                        works</xref>
+            </p>
+            <div id="div_fg4_n4n_fsb"/>
+         </div>
+         <div id="53d4b333-d68b-46c5-97e8-a6271e5fed92">
+            <p outputclass="title" id="0bed9c46-965d-4251-9603-b22c9e084f76">
+               <xref outputclass="ps_link"
+                     id="div_wrd_j1x_4hb"
+                     keyref="rdawP10331/div_wrd_j1x_4hb">Condition Option</xref>
+            </p>
+            <div id="div_g34_44n_fsb">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/cc32be10-82fb-4642-af53-3a1b3e63b331"/>
+            </div>
+         </div>
+      </section>
+      <section id="4980a61c-1581-4ec7-8a0f-7bfa88d558cb">
+         <title>Compilation of works by two or more agents</title>
+         <div id="c12faaed-530e-408b-8e9e-8c85f898c5fb">
+            <p outputclass="title" id="bf95ed19-30db-4e8c-b802-a496da62cece">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_jhk_1bf_wfb">Compilation of
+                        works by two or more agents</xref>
+            </p>
+            <div id="div_mp2_q4n_fsb"/>
+         </div>
+         <div id="38642bce-f8ca-4fb1-8e12-f342c1923a35">
+            <p outputclass="title" id="f0f8055a-98a7-43b3-bdbe-d73960f6f703">
+               <xref outputclass="ps_link"
+                     id="div_pw4_2bf_wfb"
+                     keyref="rdawP10331/div_pw4_2bf_wfb">Condition Option</xref>
+            </p>
+            <div id="div_mmy_q4n_fsb">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/fcc18795-9779-44d4-ab31-fca5e83b2b1d"/>
+            </div>
+         </div>
+      </section>
+      <section id="0518b02e-23e9-4739-8bc0-65a69688dde2">
+         <title>Work of uncertain or unknown origin</title>
+         <div id="912b45ee-99ac-4811-ba72-074190047651">
+            <p outputclass="title" id="d5c509e0-48a9-4dfb-8cd7-02219768b1e3">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_wb4_2gf_wfb">Work of
+                        uncertain or unknown origin</xref>
+            </p>
+            <div id="div_fl1_s4n_fsb"/>
+         </div>
+         <div id="cab51209-0346-4bf3-93f9-ec961a7ee08c">
+            <p outputclass="title" id="c67b1a29-1d09-4257-8f82-69f8754a401d">
+               <xref outputclass="ps_link"
+                     id="div_x3h_sgf_wfb"
+                     keyref="rdawP10331/div_x3h_sgf_wfb">Condition Option</xref>
+            </p>
+            <div id="div_hns_s4n_fsb">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/763df387-ea91-4032-a07b-949792d7e777"/>
+            </div>
+         </div>
+      </section>
+      <section id="c2fa9fcc-3c75-4cea-b213-e73c7da2b173">
+         <title>Data provenance</title>
+         <div id="096bfb1c-dcfc-43f3-86d2-c2fe0e32cb73">
+            <p outputclass="title" id="bf7502dd-d626-4b52-9184-9243f8b87b07">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_npw_dlg_lhb">Data
+                        provenance</xref>
+            </p>
+            <div id="a6b9ab46-a25c-4e8f-905f-99ae1c1cf2c1"/>
+         </div>
+         <div id="7ca06247-6b61-48ab-9846-987ce58ab164">
+            <p outputclass="title" id="ba53dbe8-f6e7-4b94-9779-84cfcc1823c2">
+               <xref outputclass="ps_link"
+                     id="div_tpg_kng_lhb"
+                     keyref="rdawP10331/div_tpg_kng_lhb">Option</xref>
+            </p>
+            <div id="db854b89-1e51-4c32-a725-0ce6dbc2032f">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/b90fa872-ef11-40fc-9bac-5daaa6625bbe"/>
+            </div>
+         </div>
+         <div id="ca6774bc-6343-4de4-abed-7063ba435834">
+            <p outputclass="title" id="5e2ec01b-6755-4e20-addf-90fea6acd795">
+               <xref outputclass="ps_link"
+                     id="div_p4z_wmh_chb"
+                     keyref="rdawP10331/div_p4z_wmh_chb">Option</xref>
+            </p>
+            <div id="b5690671-681f-4187-88e3-0a8df99c4ff0">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_authorized_access_point_for_work.dita#ala-775d68d7-d219-3584-915e-3dbcb34a3ee0/4d072e4d-ddd9-4a99-bcfa-90074fad7689"/>
+            </div>
+         </div>
+      </section>
+      <section id="section_evl_cyc_s4b">
+         <title>Recording an identifier</title>
+         <div id="div_gvl_cyc_s4b">
+            <p outputclass="title" id="p_hvl_cyc_s4b">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10331/46407a16-2eeb-49a0-9324-0ad5b57087a9">Recording an
+                        identifier</xref>
+            </p>
+            <div id="div_ivl_cyc_s4b"/>
+         </div>
+      </section>
+      <section id="2c74b5c3-e22f-46a8-aec9-d2eb6c30af67">
+         <title>Recording an IRI</title>
+         <div id="61115941-c901-414b-b0ab-1eb60b31ee82">
+            <p outputclass="title" id="9a676e21-0df6-49a0-97f6-06c0d803a8e7">
+               <xref outputclass="ps_link" keyref="rdawP10331/div_asg_kxl_m2b">Recording an
+                        IRI</xref>
+            </p>
+            <div id="16e485a0-36f7-424f-8191-feb2a281188b"/>
+         </div>
+      </section>
+   </body>
+</topic>

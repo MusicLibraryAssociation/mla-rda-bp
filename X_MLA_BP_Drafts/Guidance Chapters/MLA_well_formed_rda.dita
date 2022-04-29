@@ -1,0 +1,50 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-fc7e91dc-78b1-3377-bc8f-1cbb6d0edad2" xml:lang="en-US">
+    <title>Music Library Association Best Practices for Well-formed RDA</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="cde03ab8-5df5-4100-8556-ed98f160fada">
+            <title>RDA metadata</title>
+            <div id="bc705417-56c1-417c-be9b-20a7935db424">
+                <p outputclass="title" id="04ef94e7-49f8-4499-9af1-d46376ea493d">
+                    <xref outputclass="ps_link" keyref="g_033/section_tyq_gx3_4mb">RDA metadata</xref>
+                </p>
+                <div id="864939f6-ebae-4569-9d7b-8059644650cc"/>
+            </div>
+        </section>
+        <section id="4c86fde5-6419-49ad-b244-55b055a9a0fd">
+            <title>Conformance of RDA metadata</title>
+            <div id="37db2f05-bd0d-41f9-8abc-5337bf8bc3e3">
+                <p outputclass="title" id="10e346a3-4c92-4ee1-b187-c10f88dd9b25">
+                    <xref outputclass="ps_link" keyref="g_033/section_c5q_cfh_nlb">Conformance of RDA metadata</xref>
+                </p>
+                <div id="37875026-c2c2-4421-a0ee-49677321773b"/>
+            </div>
+        </section>
+        <section id="0ca88a44-f659-4c94-9506-f09bd5a81a76">
+            <title>Conformance of metadata statements</title>
+            <div id="c600a90f-b089-44da-bcb0-ed6ad324e819">
+                <p outputclass="title" id="c6a03770-9a90-453f-8bff-90db4f1f8e2f">
+                    <xref outputclass="ps_link" keyref="g_033/div_ekb_hrf_plb">Conformance of metadata statements</xref>
+                </p>
+                <div id="bc468c64-f8dd-41b4-887b-1a6fff149b51"/>
+            </div>
+        </section>
+        <section id="9292fbff-9eea-47f2-9275-99c9c604ed77">
+            <title>Conformance of metadata description sets</title>
+            <div id="110d7691-52b8-49af-85cd-7740f2b15b21">
+                <p outputclass="title" id="7ba331b7-6677-4e04-b696-9eadf8fd087d">
+                    <xref outputclass="ps_link" keyref="g_033/div_eyf_pzp_qlb">Conformance of metadata description sets</xref>
+                </p>
+                <div id="5a8e1439-560e-44a9-8cf4-2c7a9b7c3f74"/>
+            </div>
+        </section>
+    </body>
+</topic>

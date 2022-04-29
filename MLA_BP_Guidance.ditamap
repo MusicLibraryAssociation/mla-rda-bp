@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map title="MLA BP Guidance Map" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
+    <topicref href="Guidance%20Chapters/MLA_introduction_browse.ditamap"/>
+    <topicref href="Guidance%20Chapters/MLA_aggregates_guidance.dita" keys="g_002"/>
+    <topicref href="Guidance%20Chapters/MLA_application_profiles.dita" keys="g_023"/>
+    <topicref href="Guidance%20Chapters/MLA_content_and_carrier_browse.ditamap"/>
+    <topicref href="Guidance%20Chapters/MLA_data_provenance.dita" keys="g_024"/>
+    <topicref href="Guidance%20Chapters/MLA_diachronic_works.dita" keys="g_003"/>
+    <topicref href="Guidance%20Chapters/MLA_fictitious_and_nonhuman_appellations.dita" keys="g_001"/>
+    <topicref href="Guidance%20Chapters/MLA_manifestation_statements.dita" keys="g_029"/>
+    <topicref href="Guidance%20Chapters/MLA_nomens_and_appellations.dita" keys="g_028"/>
+    <topicref href="Guidance%20Chapters/MLA_rda_implementation_scenarios.dita" keys="g_032"/>
+    <topicref href="Guidance%20Chapters/MLA_recording_methods.dita" keys="g_025"/>
+    <topicref href="Guidance%20Chapters/MLA_representative_expressions.dita" keys="g_026"/>
+    <topicref href="Guidance%20Chapters/MLA_resource_description_browse.ditamap"/>
+    <topicref href="Guidance%20Chapters/MLA_terminology.dita" keys="g_027"/>
+    <topicref href="Guidance%20Chapters/MLA_transcription_guidelines_browse.ditamap"/>
+    <topicref href="Guidance%20Chapters/MLA_user_tasks.dita" keys="g_030"/>
+</map>
+    
+    
+

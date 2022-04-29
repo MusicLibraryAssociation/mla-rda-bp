@@ -1,0 +1,92 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-52e88fc3-552f-3bde-890e-1cd75d16919b" xml:lang="en-US">
+    <title>Music Library Association Best Practices for Manifestation statements</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="e941edc6-9edb-4791-a106-a152142d5e79">
+            <title>Principle of representation</title>
+            <div id="0b3ef255-b4b3-4ad2-b5eb-1d5fe6a284b4">
+                <p outputclass="title" id="347c6267-d60c-4025-a977-12448c3a05e2">
+                    <xref outputclass="ps_link" keyref="g_029/section_i4r_mvl_s2b">Principle of representation</xref>
+                </p>
+                <div id="7d60c7bd-6e9f-485b-b2d1-c1428847c78a">
+                    <p>Do not record manifestation statements in routine bibliographic cataloging of
+                        music materials. The primary (though not only) use case for these elements
+                        is to support unmediated machine transcription. Whenever possible, it is
+                        preferable to assign the information that would be recorded in a
+                        manifestation statement to the specific RDA elements to which the
+                        information corresponds, to the extent supported by the chosen metadata
+                        encoding standard.</p>
+                    <p>There may be situations, such as rare or antiquarian material cataloging or
+                        specific projects, where the precisely literal representational character of
+                        a manifestation statement is desirable. In such cases, defer to local policy
+                        or another appropriate cataloging standard. If a manifestation statement is
+                        recorded, generally do so in addition to, rather than instead of, more
+                        specific RDA elements; that is, a manifestation statement should serve to
+                        enhance a metadata description set, not serve as a substitute for properly
+                        categorized data.</p>
+                </div>
+            </div>
+        </section>
+        <section id="1f964a18-ec4b-4a05-bcda-0f838a1dfbb4">
+            <title>Manifestation statements of facsimiles and reproductions</title>
+            <div id="ab4df793-1562-4224-8428-ac70f3457aaa">
+                <p outputclass="title" id="add3ae87-ed1c-4bbe-804e-a777bc51d066">
+                    <xref outputclass="ps_link" keyref="g_029/section_gzd_4cm_s2b">Manifestation statements of facsimiles and reproductions</xref>
+                </p>
+                <div id="1f782a5d-7c99-4efe-8cb6-bddd321164bd"/>
+            </div>
+            <div id="d1f55507-ea48-445f-9336-969dfec1e14b">
+                <p outputclass="title" id="cb258a1e-f9e8-4956-9544-e4aa9a12f1ef">
+                    <xref outputclass="ps_link" keyref="g_029/div_vvn_scm_s2b">Condition Option</xref>
+                </p>
+                <div id="8f59c158-aabc-4c15-a7d3-b7349b2aceaf"/>
+            </div>
+            <div id="74491703-b2ae-42b2-9cb7-6e1a2d69bfb6">
+                <p outputclass="title" id="cd2d79ca-cad5-4e57-833b-e3f9f0215d3d">
+                    <xref outputclass="ps_link" keyref="g_029/div_fwn_scm_s2b">Condition Option</xref>
+                </p>
+                <div id="d5019b67-e1c0-4f45-839f-2bdc5e11fa09"/>
+            </div>
+        </section>
+        <section id="10b63bd9-b73b-4dd8-a5bd-c184b76c0db6">
+            <title>Recording a manifestation statement</title>
+            <div id="60857b3b-c29d-4f23-ab31-ab4ad37f9f94">
+                <p outputclass="title" id="7218a352-c175-42fe-8061-794bc3754732">
+                    <xref outputclass="ps_link" keyref="g_029/section_zzj_xhx_b2b">Recording a manifestation statement</xref>
+                </p>
+                <div id="72553f9f-5df0-4cd4-b4f8-27de85b0ae7c">
+                    <p>In MARC, a general Manifestation: <xref keyref="rdamP30292"/> may be recorded
+                        in field 881 subfield $a, and the narrower manifestation statement elements
+                        in subfields $b-$n. MLA recommends not using field 881 until specific PCC 
+                        guidance is available.</p>
+                </div>
+            </div>
+            <div id="c93f4ef1-30fc-4008-a8bf-322265262377">
+                <p outputclass="title" id="78ea1230-7e0f-49f0-86be-65ad7cab84f5">
+                    <xref outputclass="ps_link" keyref="g_029/div_g2q_bhj_rhb">Option</xref>
+                </p>
+                <div id="64f28951-a417-4503-a631-376195e737ea"/>
+            </div>
+            <div id="40cdefa0-eff7-4773-b81b-4025371be02c">
+                <p outputclass="title" id="00f5ebe4-12cc-47e8-ab5c-5644da452a06">
+                    <xref outputclass="ps_link" keyref="g_029/div_ngm_chj_rhb">Option</xref>
+                </p>
+                <div id="086e9a69-7b6f-4c8b-9b61-d1a0e54b689b"/>
+            </div>
+            <div id="1f4a5e96-e8a9-4ebc-a101-25ad9a01cd80">
+                <p outputclass="title" id="b46f6c9b-951d-41ab-914d-b35b03f05689">
+                    <xref outputclass="ps_link" keyref="g_029/div_gg1_dhj_rhb">Option</xref>
+                </p>
+                <div id="a7d7d90e-0c49-499a-bb1a-b31673c2289e"/>
+            </div>
+        </section>
+    </body>
+</topic>

@@ -1,0 +1,41 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-4118e52c-e2af-3268-b8ca-36da001eb570" xml:lang="en-US">
+    <title>Music Library Association Best Practices for text for work </title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="621b3e66-b458-4155-a2a0-70fd9ccbf745">
+            <title>Prerecording</title>
+            <div id="f7f70c8b-caa2-4725-afe4-3476ab52df0d">
+                <p outputclass="title" id="3224a101-8689-41dc-b2ad-1330e8102ee2">
+                    <xref outputclass="ps_link" keyref="rdawP10372/section_jdv_bx3_wmb">Prerecording</xref>
+                </p>
+                <div id="0335037f-9b22-4f5e-867c-15d8bbbbbde1"/>
+            </div>
+        </section>
+        <section id="4f745f35-e16e-4329-a4fb-17abe4d3070d">
+            <title>Recording</title>
+            <div id="28bdccf1-f815-4d98-af9e-ac3b96652f2c">
+                <p outputclass="title" id="d62b230d-6516-4949-a91c-cf505c2bb1cc">
+                    <xref outputclass="ps_link" keyref="rdawP10372/section_kc4_ykd_xdb">Recording</xref>
+                </p>
+                <div id="b36b4b29-8f5e-4c2d-9d49-d94bee5916de"/>
+            </div>
+        </section>
+        <section id="77547eee-87d0-457d-9305-b3760511e7ec">
+            <title>Recording an IRI</title>
+            <div id="71b18462-abe6-4c99-9308-25b9bcf6651f">
+                <p outputclass="title" id="4015004d-9224-4e2e-95a8-23fc4ceab36f">
+                    <xref outputclass="ps_link" keyref="rdawP10372/div_vc4_ykd_xdb">Recording an IRI</xref>
+                </p>
+                <div id="c1dd2696-bdeb-4e2d-a761-774a61b3c6ea"/>
+            </div>
+        </section>
+    </body>
+</topic>

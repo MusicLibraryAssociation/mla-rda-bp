@@ -1,0 +1,74 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-994f2218-0093-38a6-91a6-c6cbd1b4657e" xml:lang="en-US">
+    <title>Music Library Association Best Practices for address of family</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="a1cdc895-f016-4469-936a-0ed40450b848">
+            <title>Prerecording</title>
+            <div id="13d72deb-4286-4db5-b670-6cd0db2ea347">
+                <p outputclass="title" id="b227eb1f-db30-463e-ab1d-5205b15a5215">
+                    <xref outputclass="ps_link" keyref="rdaaP50420/37e9fc4b-45c6-4a4c-9f15-e8cd28867e28">Prerecording</xref>
+                </p>
+                <div id="d7016005-0e52-4fc8-801c-b9af00ecdc58"/>
+            </div>
+        </section>
+        <section id="be51484a-04be-4b36-b921-44d5768024d7">
+            <title>Recording</title>
+            <div id="82324807-576d-4d4c-8dcd-9582f9fd3178">
+                <p outputclass="title" id="f0cca11b-c42f-4f35-947b-c685e4683eb0">
+                    <xref outputclass="ps_link" keyref="rdaaP50420/4023ef17-b987-4272-9183-b0f72c7c7d79">Recording</xref>
+                </p>
+                <div id="d78d0757-e8c9-4128-9dac-6078c84fbb5e"/>
+            </div>
+        </section>
+        <section id="cf3573c4-0806-4bb9-bcd3-8a8b7993a884">
+            <title>Recording an unstructured description</title>
+            <div id="9ad18ac2-e0d0-40a4-9e32-cbc0e42a0aae">
+                <p outputclass="title" id="89eee323-2824-4143-bae7-f84188decb7e">
+                    <xref outputclass="ps_link" keyref="rdaaP50420/0950770b-7326-47b2-9e3d-e6607389afd5">Recording an unstructured description</xref>
+                </p>
+                <div id="f3a2c0e4-61eb-4c77-830f-d83963f4b6e5"/>
+            </div>
+            <div id="eb7f79e2-a197-44b9-82bf-7a742f3f5365">
+                <p outputclass="title" id="0e35a3c6-4a2e-4ddb-a509-2221a741ccc6">
+                    <xref outputclass="ps_link" id="div_gky_khh_qhb" keyref="rdaaP50420/div_gky_khh_qhb">Option</xref>
+                </p>
+                <div id="4d3f9b39-04ee-452b-9869-730950a15f71"/>
+            </div>
+        </section>
+        <section id="21c9897c-bc69-4659-ad12-d6c4cc4f3cb9">
+            <title>Recording a structured description</title>
+            <div id="3a89b06a-b3fb-4194-aeac-aa93134c84e5">
+                <p outputclass="title" id="1952482f-04c5-4770-90f2-9bbc4a832ec7">
+                    <xref outputclass="ps_link" keyref="rdaaP50420/1d8c08ef-f118-4ae7-a4e2-af3c43c2664e">Recording a structured description</xref>
+                </p>
+                <div id="d890c87e-938b-4f2b-a99b-7a412879ab6b"/>
+            </div>
+        </section>
+        <section id="a004b7e3-d1ab-4fcf-b9f9-32de005de12d">
+            <title>Recording an identifier</title>
+            <div id="e7e3a2a4-d6e8-40f3-96d7-9bd8cff016d1">
+                <p outputclass="title" id="04d06cc7-3122-40cf-8051-9c248df5c7e6">
+                    <xref outputclass="ps_link" keyref="rdaaP50420/3d66b8dc-3e04-4204-906a-6c736ebaf306">Recording an identifier</xref>
+                </p>
+                <div id="95a84120-be55-4b50-9dfa-2ac798e51c82"/>
+            </div>
+        </section>
+        <section id="3ac04b2e-cd1d-42c7-8728-26b73474ced3">
+            <title>Recording an IRI</title>
+            <div id="fb9fcac4-3287-421f-b6fd-6c1558c75d71">
+                <p outputclass="title" id="b4131405-c61f-4204-9edb-23e2d6ed9c86">
+                    <xref outputclass="ps_link" keyref="rdaaP50420/7c3fc597-f67f-4e38-87bb-b2b7a1b847ba">Recording an IRI</xref>
+                </p>
+                <div id="0fba029e-32d5-46c2-99ed-7b9d7650db13"/>
+            </div>
+        </section>
+    </body>
+</topic>

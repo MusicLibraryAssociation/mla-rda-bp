@@ -1,0 +1,203 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-06257ff5-ceb7-3d83-bb6e-d81436e7d7cf" xml:lang="en-US">
+    <title>Music Library Association Best Practices for designation of named revision of edition</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="0c623388-63fd-41cb-b7fa-d6880afc56e4">
+            <title>Prerecording</title>
+            <div id="93f8ff25-f1a4-424f-85b7-0e307f84817d">
+                <p outputclass="title" id="39a251cc-4fca-4152-9a97-6866389e6366">
+                    <xref outputclass="ps_link" keyref="rdamP30132/dd7dc70f-7ac9-4e03-8120-8df10e0bc483">Prerecording</xref>
+                </p>
+                <div id="e4d11ede-4a34-4cc0-bd7a-4e18236f8124">
+                    <p><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_vtg_bdh_r4b" id="ph_fch_kqp_gpb"/></p>
+                </div>
+            </div>
+            <div id="ca426268-7670-49a8-bfac-411ae467e196">
+                <p outputclass="title" id="cc79d2c7-b3b7-4148-91a4-3b297334d7a2">
+                    <xref outputclass="ps_link" keyref="rdamP30132/div_ndn_mc2_rhb">Option</xref>
+                </p>
+                <div id="d6587f0e-60e9-40ab-b4b2-f8b7fb7fa87d"><ph conkeyref="b_bp_mla/p_lkc_zhh_r4b"/></div>
+            </div>
+        </section>
+        <section id="6b7bed53-33df-4c18-8978-3dc1e6078f85">
+            <title>Recording</title>
+            <div id="1208065e-a325-4f03-beaa-c02345ef00cd">
+                <p outputclass="title" id="9e98a866-ddee-46f2-b9ce-4ec31aaeb1ac">
+                    <xref outputclass="ps_link" keyref="rdamP30132/e23de14d-9a35-47a0-b5e1-39f129791179">Recording</xref>
+                </p>
+                <div id="2a97e245-e821-460b-8add-5a2f287717ee"><ph
+                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_osx_rxr_x4b"
+                        id="ph_uvv_4qp_gpb"/><ph
+                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_lwm_qgd_z4b"
+                        id="ph_acf_pqp_gpb"/>field 250 $a or $b as appropriate. Separate multiple
+                    grammatically or logically linked designations of named revision of edition by a
+                    comma. Generally encode multiple instances of Manifestation: <xref
+                        keyref="rdamP30133">designation of edition</xref> and/or Manifestation:
+                        <xref keyref="rdamP30132">designation of named revision of edition</xref> in
+                    separate 250 fields. However, when a designation of a named revision is
+                    grammatically linked to a designation of edition, encode both in a single 250
+                    field.</div>
+            </div>
+            <div id="f7673e11-a639-42a0-abdc-c601549f3ac6">
+                <p outputclass="title" id="7effbf19-f99c-4c0d-9ed9-086df8ea0067">
+                    <xref outputclass="ps_link" keyref="rdamP30132/div_nbp_gnn_rgb">Condition Option</xref>
+                </p>
+                <div id="4a5153ee-cd94-4249-99a9-aec9c30ac9ff"><ph
+                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b"
+                        id="ph_x1c_kcx_w4b"/>
+                    <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_fm3_4ht_t4b"
+                        id="ph_wvp_kcx_w4b"/></div>
+            </div>
+            <div id="e8d456b0-f556-4341-acba-bffd5e750e1f">
+                <p outputclass="title" id="d3fd1b43-3af0-49ca-a3fd-9bdd6571f6c4">
+                    <xref outputclass="ps_link" keyref="rdamP30132/div_yrr_ytc_hhb">Condition Option</xref>
+                </p>
+                <div id="32a186b5-4667-416d-b233-74502851ae8c">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_designation_of_named_revision_of_edition.dita#ala-3dd5914c-5d49-3356-8cc7-0a11a5dbd80b/74bf19c7-d8c8-4b05-9582-adb14e6a9d98"/>
+                </div>
+            </div>
+            <div id="cd15e0dd-03e8-4c4c-a531-f90ed8b5fa24">
+                <p outputclass="title" id="14b88d99-f75e-45a0-9e17-3ac716cc7183">
+                    <xref outputclass="ps_link" keyref="rdamP30132/div_mbt_jnc_4hb">Condition Option</xref>
+                </p>
+                <div id="c15c0f8b-1432-4f26-869a-d3956901e8d0">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_designation_of_named_revision_of_edition.dita#ala-3dd5914c-5d49-3356-8cc7-0a11a5dbd80b/e5948c55-0ffd-499d-a76f-5217f035e458"/>
+                </div>
+            </div>
+            <div id="6548a29b-3222-4046-8091-4722c5f16128">
+                <p outputclass="title" id="69cfec87-0fa1-407f-9a59-fa3bf297a715">
+                    <xref outputclass="ps_link" keyref="rdamP30132/div_s1y_3nc_4hb">Condition Option</xref>
+                </p>
+                <div id="ac94f810-cd79-4a10-bc37-671f89d8e911">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_designation_of_named_revision_of_edition.dita#ala-3dd5914c-5d49-3356-8cc7-0a11a5dbd80b/7667d2f9-dfab-4bcb-9674-0f3a37a7dd71"/>
+                </div>
+            </div>
+            <div id="6f263b3a-feef-4d9d-815a-f7758e54169a">
+                <p outputclass="title" id="18267743-dca7-488e-a454-c6d82b87dd2c">
+                    <xref outputclass="ps_link" keyref="rdamP30132/div_xpk_ztc_hhb">Condition Option</xref>
+                </p>
+                <div id="ba7247ec-ddd0-449c-8262-ebad1181972f">
+                    <p><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b" id="ph_vb2_tqp_gpb"/>
+                        <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_yjw_24t_t4b" id="ph_ybc_wcx_w4b"/></p>
+                </div>
+            </div>
+            <div id="69fe3eee-22ea-4445-b7b9-d59be51aad7c">
+                <p outputclass="title" id="9cd5473a-e1af-45d8-8548-4674d3d3ef72">
+                    <xref outputclass="ps_link" keyref="rdamP30132/div_tbb_nvy_dfb">Condition Option</xref>
+                </p>
+                <div id="503f97c4-f07b-41b0-9b61-2b582098c863">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_designation_of_named_revision_of_edition.dita#ala-3dd5914c-5d49-3356-8cc7-0a11a5dbd80b/ee60ccee-a6a6-4064-9ec9-22662c4370bb"/>
+                </div>
+            </div>
+        </section>
+        <section id="39385b74-7049-45ad-9d97-71ad81e88999">
+            <title>Recording an unstructured description</title>
+            <div id="65470aed-883f-4528-a070-65d9162389e7">
+                <p outputclass="title" id="adfa35b8-3556-4748-ae52-30cbcb2307e1">
+                    <xref outputclass="ps_link" keyref="rdamP30132/648e6a15-4ffc-4e12-acc1-9aab140869cd">Recording an unstructured description</xref>
+                </p>
+                <div id="f2db8840-0904-4504-88b8-df858f4c47d1"/>
+            </div>
+            <div id="f0e28b90-1fdd-46de-b23e-d8d11cf24b26">
+                <p outputclass="title" id="3b311b6c-70cc-4247-99a5-bc9db858b187">
+                    <xref outputclass="ps_link" id="div_ugy_cd4_qhb" keyref="rdamP30132/div_ugy_cd4_qhb">Option</xref>
+                </p>
+                <div id="5ef6e621-75b6-46e7-9267-048fe6e01793">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_designation_of_named_revision_of_edition.dita#ala-3dd5914c-5d49-3356-8cc7-0a11a5dbd80b/136e8f59-e691-4c72-bde8-8ab38d824bef"/>
+                </div>
+            </div>
+            <div id="186864c7-ed3a-482c-8082-9c38a87e85f5">
+                <p outputclass="title" id="3267a76f-8658-4624-b2b9-528015b95209">
+                    <xref outputclass="ps_link" id="div_ccb_y5d_ymb" keyref="rdamP30132/div_ccb_y5d_ymb">Option</xref>
+                </p>
+                <div id="593a344d-4b82-4d7a-be1d-3f62a841fc78">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_designation_of_named_revision_of_edition.dita#ala-3dd5914c-5d49-3356-8cc7-0a11a5dbd80b/div_s1m_4l5_dnb"/>
+                </div>
+            </div>
+            <div id="25dfe5ed-45b2-4317-91e6-d3e88c2d263b">
+                <p outputclass="title" id="8c2cc345-7b67-4292-aefe-3957d0f7a241">
+                    <xref outputclass="ps_link" id="div_afw_y5d_ymb" keyref="rdamP30132/div_afw_y5d_ymb">Option</xref>
+                </p>
+                <div id="eb80123f-1716-40d8-a5df-93e720adde23">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_designation_of_named_revision_of_edition.dita#ala-3dd5914c-5d49-3356-8cc7-0a11a5dbd80b/div_kcq_mvd_ymb"/>
+                </div>
+            </div>
+            <div id="7274b7bb-cc30-4ee6-9c96-50436748cdb8">
+                <p outputclass="title" id="5aa5335a-b9b6-4cdb-93f1-50028fe0b238">
+                    <xref outputclass="ps_link" id="div_ks1_x31_4hb" keyref="rdamP30132/div_ks1_x31_4hb">Option</xref>
+                </p>
+                <div id="21c75527-0976-49ad-a752-9ac41aaec64f">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_designation_of_named_revision_of_edition.dita#ala-3dd5914c-5d49-3356-8cc7-0a11a5dbd80b/06f45422-fd48-4b67-adb6-ce2db25f2926"/>
+                </div>
+            </div>
+            <div id="d1a2c10d-3a70-436f-bfb5-a2e01f7cd088">
+                <p outputclass="title" id="6a375bd8-51f8-4ab8-af9c-91889e46562f">
+                    <xref outputclass="ps_link" id="div_bfs_wbw_zdb" keyref="rdamP30132/div_bfs_wbw_zdb">Option</xref>
+                </p>
+                <div id="bec0f4f2-e8e7-47e9-a7f7-9fb1f541058a">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_designation_of_named_revision_of_edition.dita#ala-3dd5914c-5d49-3356-8cc7-0a11a5dbd80b/0657d6c1-5919-4118-9407-3c350829c4cb"/>
+                </div>
+            </div>
+        </section>
+        <section id="52a4bc2d-fb52-4e28-afab-0805ed583ed9">
+            <title>Data provenance</title>
+            <div id="77645e0b-60eb-4193-a130-92c0effc39b8">
+                <p outputclass="title" id="ec6f4110-022b-4057-bbcb-eecb2781fbdd">
+                    <xref outputclass="ps_link" keyref="rdamP30132/div_cn4_s14_lhb">Data provenance</xref>
+                </p>
+                <div id="39da1813-8b50-47fe-a860-b9fa6ae1c0f3"/>
+            </div>
+            <div id="87b5226c-4f93-4c8b-8f97-e6c7a6769a16">
+                <p outputclass="title" id="266b06f5-7d8b-4d51-b994-65bdc67166b4">
+                    <xref outputclass="ps_link" id="div_omg_v41_4hb" keyref="rdamP30132/div_omg_v41_4hb">Option</xref>
+                </p>
+                <div id="c341eb6f-2e83-45bd-96bc-d17d2f4092a5">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_designation_of_named_revision_of_edition.dita#ala-3dd5914c-5d49-3356-8cc7-0a11a5dbd80b/76cfd609-01e7-4295-b649-2731298ad2b9"/>
+                </div>
+            </div>
+            <div id="b131ffdf-7ec0-431f-a998-25189f78b980">
+                <p outputclass="title" id="f109eb47-c638-46c5-89d3-16d59e10f719">
+                    <xref outputclass="ps_link" id="div_pmg_v41_4hb" keyref="rdamP30132/div_pmg_v41_4hb">Option</xref>
+                </p>
+                <div id="c0d5f8eb-c54b-4033-878a-a5715517c23d">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_designation_of_named_revision_of_edition.dita#ala-3dd5914c-5d49-3356-8cc7-0a11a5dbd80b/897df2fd-e099-4469-9501-09e14a5b02ef"/>
+                </div>
+            </div>
+        </section>
+        <section id="5fde78c5-9b0f-4b87-884d-1cd14e41555e">
+            <title>Recording a structured description</title>
+            <div id="d3a077bf-2076-4f50-acba-63bbfd9e4a83">
+                <p outputclass="title" id="3c74e455-64c3-47fe-b706-78be7c79a127">
+                    <xref outputclass="ps_link" keyref="rdamP30132/9962d916-78c2-47f6-9f69-7d18c1c0d21f">Recording a structured description</xref>
+                </p>
+                <div id="2dfd76ff-de09-4a6e-af4b-31adea4f843a"/>
+            </div>
+        </section>
+        <section id="79de310f-e5a4-4e4a-90a8-458c364c2473">
+            <title>Recording an identifier</title>
+            <div id="8e2d29d1-64ae-462b-8502-a7bd536e5be3">
+                <p outputclass="title" id="69cc8d9e-0164-4aa6-836d-6139b68aecd0">
+                    <xref outputclass="ps_link" keyref="rdamP30132/3aee192f-97bc-4d60-abaa-07e546944ecc">Recording an identifier</xref>
+                </p>
+                <div id="10234fa9-55d8-43c4-a145-b94e46ae7038"/>
+            </div>
+        </section>
+        <section id="894d4052-962c-4eea-80e9-ccd03fe0094e">
+            <title>Recording an IRI</title>
+            <div id="f879b191-c823-40ae-b360-a8e211f76b61">
+                <p outputclass="title" id="814eeb01-bb54-4dfd-aed7-9e3c78c7e290">
+                    <xref outputclass="ps_link" keyref="rdamP30132/acf0b1e4-8105-4714-b5ac-879733940f4b">Recording an IRI</xref>
+                </p>
+                <div id="cf577e19-581f-47d2-b114-426b84edb948"/>
+            </div>
+        </section>
+    </body>
+</topic>

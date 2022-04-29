@@ -1,0 +1,83 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-058c893f-2897-3787-8d91-0edc5968a514" xml:lang="en-US">
+    <title>Music Library Association Best Practices for place of birth</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="f7f2e9b4-6a01-448e-9ec7-7e1990634868">
+            <title>Prerecording</title>
+            <div id="5528c0dc-9de8-4871-8eca-d070a6d4e22d">
+                <p outputclass="title" id="477f87dc-371c-47cd-92eb-f9ccf039e139">
+                    <xref outputclass="ps_link" keyref="rdaaP50119/d2c8ac62-5a89-4d59-8b7e-0394e559f683">Prerecording</xref>
+                </p>
+                <div id="71b9efaa-e7fe-4d8a-8745-41389b7612da"/>
+            </div>
+        </section>
+        <section id="dc9d58ee-4053-4bde-9525-93b2591a46bd">
+            <title>Recording</title>
+            <div id="5b9bc2fc-092b-4c7e-932b-fa23e43dcfe4">
+                <p outputclass="title" id="cad13ce5-6a8b-406f-9912-4595ad62a43c">
+                    <xref outputclass="ps_link" keyref="rdaaP50119/4265b991-9334-491d-9a2c-8799b193da8f">Recording</xref>
+                </p>
+                <div id="6813370b-d586-47e5-9514-c43013c304ad"/>
+            </div>
+            <div id="100831d4-81db-48ce-91f9-ff00ae2bfd89">
+                <p outputclass="title" id="6cb779b3-18ce-412d-80b0-66d4be3e8dd8">
+                    <xref outputclass="ps_link" keyref="rdaaP50119/div_w1n_fdr_vkb">Option</xref>
+                </p>
+                <div id="3566c47f-ae50-498e-b4f7-3e771614ddb9"/>
+            </div>
+        </section>
+        <section id="c96f345e-b9b7-429f-8715-6d227f67d83f">
+            <title>Recording an unstructured description</title>
+            <div id="df7a9fb4-fdbd-4bcd-8d56-66b50a0b6de2">
+                <p outputclass="title" id="1a4a9fd5-6a7d-4d2e-bdd8-8464897abe89">
+                    <xref outputclass="ps_link" keyref="rdaaP50119/7f3c8648-f4cd-43ee-97c2-329dfc8bf17a">Recording an unstructured description</xref>
+                </p>
+                <div id="e7a849a0-e992-488d-8013-7f3ccf4bed2f"/>
+            </div>
+        </section>
+        <section id="ff475b2a-39dc-4683-b35e-2927794a3189">
+            <title>Recording a structured description</title>
+            <div id="582c8552-17e5-462f-b8d1-0e24c94f17a2">
+                <p outputclass="title" id="6f16ddbc-a567-47dc-a496-5b33eec65b6f">
+                    <xref outputclass="ps_link" keyref="rdaaP50119/f7436fa5-bdc7-4f66-89e6-0874e96e0aa7">Recording a structured description</xref>
+                </p>
+                <div id="450ca377-852c-4ef8-a35c-d4211f4dc8e2"/>
+            </div>
+        </section>
+        <section id="bd2d5f2b-7505-47af-845e-300457d9a2d0">
+            <title>Recording an identifier</title>
+            <div id="8a85a72f-41e2-4049-b261-a797ee1405d3">
+                <p outputclass="title" id="d13adff6-5ec5-426f-98aa-db7a1220cdf6">
+                    <xref outputclass="ps_link" keyref="rdaaP50119/b66e9fa6-e76e-49f7-8e7f-9279dab927fb">Recording an identifier</xref>
+                </p>
+                <div id="18c4b1ec-048e-4ba9-baa2-93d33a8bdb10"/>
+            </div>
+        </section>
+        <section id="e8b46b65-3442-4599-8928-c35fa0b1719a">
+            <title>Recording an IRI</title>
+            <div id="2761a901-bd29-46d8-9559-9d2675b9c1eb">
+                <p outputclass="title" id="3f3eb41f-4b02-4dd1-99ed-b26af1fe66c2">
+                    <xref outputclass="ps_link" keyref="rdaaP50119/17f2b7bf-0abf-44aa-ae69-9e838f863b02">Recording an IRI</xref>
+                </p>
+                <div id="ff5abba3-b024-44b6-a0e8-b751aedb256e"/>
+            </div>
+        </section>
+        <section id="fe987c25-9323-47d0-ac19-aaae86ea4273">
+            <title>View in Context Example</title>
+            <div id="4d35f0f5-abe0-4d67-b9a6-6c3bdc5ecced">
+                <p outputclass="title" id="d200f6a4-3a47-4cbb-8449-e5812edde795">
+                    <xref outputclass="ps_link" keyref="rdaaP50119/section_mbr_sn2_ydb">View in Context Example</xref>
+                </p>
+                <div id="d93939fd-f4f9-4588-bfc9-9645f0b83c14"/>
+            </div>
+        </section>
+    </body>
+</topic>

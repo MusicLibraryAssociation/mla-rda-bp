@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-af667bfa-deb7-3b50-8ea2-8a6d55ec31ff"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for duration</title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body>
+      <section id="954b823f-0c41-47a3-a63f-443c71641268">
+         <title>Prerecording</title>
+         <div id="9d7d7138-d347-4e9c-b132-2dd6d5a19ba8">
+            <p outputclass="title" id="e45480d7-94a1-4dde-82a5-90456975d31f">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20219/e0aaadf6-f0f3-46a2-9513-22e93993de09">Prerecording</xref>
+            </p>
+            <div id="aa872326-b56f-4488-89b2-3847e3e02739">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_pnk_vdh_r4b"/>for audio and video recordings if readily ascertainable. <ph conkeyref="b_bp_mla/p_pnk_vdh_r4b"/>for notated music only if the resource described explicitly provides an intended or approximate performing time. </p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_duration.dita#ala-769bc9a6-b15b-3085-a002-650e485ba910/fc0bd4b8-9dd0-4b1c-94d6-2245c4a1bb66"/>
+            </div>
+         </div>
+      </section>
+      <section id="ca405319-e1b5-45cc-a738-a3196253161c">
+         <title>Recording</title>
+         <div id="42b4abd2-5d4e-4dc2-b27a-1b4352ed03fd">
+            <p outputclass="title" id="5106dfa3-dd22-45ac-9521-64fd2b0b0985">
+               <xref outputclass="ps_link" keyref="rdaeP20219/section_hww_w13_xdb">Recording</xref>
+            </p>
+            <div id="1efb7cf6-d665-46ef-8e2f-b0c5c6bceba9">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Record using one or more appropriate fields based on the type of resource:</p>
+               <ul>
+                  <li>identifier: 008/18-20 or 006/01-03 (video)</li>
+                  <li>unstructured: 300 $a (audio or video; record after extent, enclosed in parentheses)</li>
+                  <li>structured: 306 $a (any resource)</li>
+                  <li>unstructured: 505 second indicator blank $a (aggregates, as part of a contents note)</li>
+                  <li>unstructured: 505 second indicator 0 $g (aggregates, as part of a contents note)</li>
+                  <li>unstructured: 500 (any resource)</li>
+               </ul>
+            </div>
+         </div>
+         <div id="4ec0fc82-d295-4f0d-89ad-30a88272e48f">
+            <p outputclass="title" id="1bf7a5ec-fdf3-4443-9206-6f0e614bae22">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_igy_4mq_sfb">Option</xref>
+            </p>
+            <div id="e9716c7c-3b05-425b-99b0-bbeca9b85b14">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>for unstructured descriptions.</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_duration.dita#ala-769bc9a6-b15b-3085-a002-650e485ba910/e1b5a699-e1df-4372-b756-947184256eba"/>
+            </div>
+         </div>
+         <div id="70436a1b-504a-4221-9f18-b672407f1408">
+            <p outputclass="title" id="9ff8eeaa-1e46-4cb3-b9f5-fdcb1d4d3e53">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_nld_dxs_tkb">Option</xref>
+            </p>
+            <div id="25524d60-0066-4288-89c0-ada83380e88c">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>for unstructured descriptions.</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_duration.dita#ala-769bc9a6-b15b-3085-a002-650e485ba910/div_xcz_l2g_dlb"/>
+            </div>
+         </div>
+         <div id="2941a0d8-ac49-41ae-a971-65acd771142e">
+            <p outputclass="title" id="2c2ca732-f649-4bda-ab87-5e66b7790088">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_zx4_qz3_vdb">Condition Option</xref>
+            </p>
+            <div id="5b779d27-b548-4c41-9984-6c065d600986">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>if total duration is not readily ascertainable. If <i>only</i> the durations of parts or aggregated expressions are provided, use cataloger's judgment in deciding what is readily ascertainable.</p>
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Record multiple durations in fields 306, 505, or 500.</p>
+            </div>
+         </div>
+         <div id="eeb1172d-c9d1-42a8-a057-f5d237ce51f5">
+            <p outputclass="title" id="1f1d67c2-15cd-4f46-8a03-84e4c13fde85">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_jkv_gjp_v2b">Condition Option</xref>
+            </p>
+            <div id="50d954ef-e737-453e-ab96-a5b09bc347da">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Record total duration in fields 006, 008, 300, 306, or 500.</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_duration.dita#ala-769bc9a6-b15b-3085-a002-650e485ba910/c3f1ce55-895c-4e6f-9dc5-3b7fc7e1e71e"/>
+            </div>
+         </div>
+         <div id="5cf52516-5217-4e46-be51-f9d63a71a3b0">
+            <p outputclass="title" id="fe2adc81-e491-4c4c-af5c-e03d3d81ff65">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_jgx_3jp_v2b">Condition Option</xref>
+            </p>
+            <div id="413071b9-cdc9-4e38-b810-891238a7b69c">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>if feasible.</p>
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Do not record both a total duration <i>and</i> the durations of parts or aggregated expressions in field 306. Prefer field 306, if used, for multiple durations and another appropriate field for total duration.</p>
+            </div>
+         </div>
+         <div id="f9966139-308b-401c-8714-1e07d0267b28">
+            <p outputclass="title" id="94c9eaf9-bd73-4af8-b02e-9dcf45c9e953">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_bhf_rpq_4hb">Condition Option</xref>
+            </p>
+            <div id="08b261e2-075c-4065-9f6d-6862e4004c75">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>if total duration is not readily ascertainable. If <i>only</i> the durations of parts or aggregated expressions are provided, use cataloger's judgment in deciding what is readily ascertainable.</p>
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Record multiple durations in fields 306, 505, or 500.</p>
+            </div>
+         </div>
+         <div id="fa7a9fd4-5d8d-433d-8b0c-cb2b8ef71539">
+            <p outputclass="title" id="75517e59-c678-4a6f-8b3e-d0a9c1cc94be">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_dhf_rpq_4hb">Condition Option</xref>
+            </p>
+            <div id="6dd88a14-6035-4104-b55d-03ab7c5df233">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Record total duration in fields 006, 008, 300, 306, or 500.</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_duration.dita#ala-769bc9a6-b15b-3085-a002-650e485ba910/12feb655-8340-4a4e-b106-ce80eef33891"/>
+            </div>
+         </div>
+         <div id="a635fdd2-9d93-4934-8f63-1d3ec8112237">
+            <p outputclass="title" id="379eea72-d7a4-4c10-8ef7-0ea090fa519f">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_fhf_rpq_4hb">Condition Option</xref>
+            </p>
+            <div id="e738521c-3775-4193-84f0-241a36030bdb">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>if feasible.</p>
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Do not record both a total duration <i>and</i> the durations of parts or aggregated expressions in field 306. Prefer field 306, if used, for multiple durations and another appropriate field for total duration.</p>
+            </div>
+         </div>
+      </section>
+      <section id="45928dc1-fff0-43e0-93e9-ecdbbe8f6845">
+         <title>Recording an unstructured description</title>
+         <div id="c5b2bd64-e202-4e88-93f0-e811a48d6401">
+            <p outputclass="title" id="4291ea0c-3296-4d9b-ba18-d26b737cd094">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_iww_w13_xdb">Recording an unstructured description</xref>
+            </p>
+            <div id="4d90d162-7b7c-472d-868e-04777305c097"/>
+         </div>
+         <div id="b3c0a31f-35e5-4133-8ac2-7cb0f9746f20">
+            <p outputclass="title" id="5097633e-457b-495a-9ac6-ec2bd4c4e02d">
+               <xref outputclass="ps_link"
+                     id="div_tdt_xdd_mhb"
+                     keyref="rdaeP20219/div_tdt_xdd_mhb">Option</xref>
+            </p>
+            <div id="0287be11-25dc-4a3a-afab-fe43b82565a0">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_duration.dita#ala-769bc9a6-b15b-3085-a002-650e485ba910/379fcf4a-e94c-4ebb-909d-4a1e61049e73"/>
+            </div>
+         </div>
+         <div id="a485a676-96f4-43b1-913f-c63c318c8854">
+            <p outputclass="title" id="3f4e5845-6b3d-4dc1-ba4b-0beee998c33e">
+               <xref outputclass="ps_link"
+                     id="div_z3q_mds_vfb"
+                     keyref="rdaeP20219/div_z3q_mds_vfb">Option</xref>
+            </p>
+            <div id="5896e7b2-8983-41d7-b369-e564f3320399">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_duration.dita#ala-769bc9a6-b15b-3085-a002-650e485ba910/280e20b4-15e5-4590-88ba-687635fe52d8"/>
+            </div>
+         </div>
+         <div id="c5154db9-6514-4b65-8826-a80b0b66b5be">
+            <p outputclass="title" id="5ebb25a3-ae56-4f78-9b5e-5a0f3109bc9f">
+               <xref outputclass="ps_link"
+                     id="div_bp2_vcc_tfb"
+                     keyref="rdaeP20219/div_bp2_vcc_tfb">Condition Option</xref>
+            </p>
+            <div id="c82baca2-280c-4726-8f32-5d132691c9a5">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_duration.dita#ala-769bc9a6-b15b-3085-a002-650e485ba910/7458d134-f79f-4298-8a4d-68a2cec0f364"/>
+            </div>
+         </div>
+      </section>
+      <section id="0a46d736-44f1-4103-b3c7-2e73c26356be">
+         <title>Recording a structured description</title>
+         <div id="0858dee9-0e91-4502-ba12-03cf123dc61c">
+            <p outputclass="title" id="e15382ad-b195-4d2f-821d-bce647ec0988">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_lww_w13_xdb">Recording a structured description</xref>
+            </p>
+            <div id="263aae14-e64f-453b-b39d-cb984b2c2905"/>
+         </div>
+      </section>
+      <section id="68fc5c2f-ae5c-422a-ba7e-24f5a7b48837">
+         <title>Recording an identifier</title>
+         <div id="006763bd-52c2-40c1-aaf0-93c677d92dfe">
+            <p outputclass="title" id="71559602-8f9c-4d70-9135-0f493b14c5b4">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_oww_w13_xdb">Recording an identifier</xref>
+            </p>
+            <div id="37c7ac16-a6ac-41a4-bfc2-8034219c88fb"/>
+         </div>
+      </section>
+      <section id="4e01bd3b-10f1-418e-999a-aff366696dc8">
+         <title>Recording an IRI</title>
+         <div id="b88a182d-f621-4b23-8c8d-9df5133e4122">
+            <p outputclass="title" id="2fd8c9fb-f35a-4881-87a2-6447b91eefd4">
+               <xref outputclass="ps_link" keyref="rdaeP20219/div_rww_w13_xdb">Recording an IRI</xref>
+            </p>
+            <div id="459e4491-3d34-4b9d-9516-ad9578e3356b"/>
+         </div>
+      </section>
+   </body>
+</topic>

@@ -1,0 +1,41 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-bca2b5c3-c7bb-36b1-b9c6-4d93b6683430" xml:lang="en-US">
+    <title>Music Library Association Best Practices for language version </title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="7e4ca935-a17c-425a-bf2f-9266ba6d557c">
+            <title>Prerecording</title>
+            <div id="e19c2cc9-94d9-4a00-88ed-6aa8d1ae9ada">
+                <p outputclass="title" id="85bf944b-c693-45cb-802a-0ebecd7e91d2">
+                    <xref outputclass="ps_link" keyref="rdawP10385/section_opl_dw3_wmb">Prerecording</xref>
+                </p>
+                <div id="07bd81c9-7620-4782-8566-52ddfc78920a"/>
+            </div>
+        </section>
+        <section id="2613eee7-62c9-4295-a31c-99837bd45567">
+            <title>Recording</title>
+            <div id="24a5314d-5fe2-4f90-89f0-4eddda30dcd0">
+                <p outputclass="title" id="36b8a9b5-119d-487c-9220-38c3ac3650ae">
+                    <xref outputclass="ps_link" keyref="rdawP10385/section_v1m_2kd_xdb">Recording</xref>
+                </p>
+                <div id="4e781d0f-d857-47a7-ac00-8631716037b0"/>
+            </div>
+        </section>
+        <section id="c0e73403-71bb-4415-95ac-eb477a28fedc">
+            <title>Recording an IRI</title>
+            <div id="52d304bd-77fd-4d78-9f7a-583fc3e5821b">
+                <p outputclass="title" id="9178f61c-1564-4984-a16f-291350e6cf06">
+                    <xref outputclass="ps_link" keyref="rdawP10385/div_gbm_2kd_xdb">Recording an IRI</xref>
+                </p>
+                <div id="85a806e5-7cb2-40d0-bbbc-3abb3f0b1f2b"/>
+            </div>
+        </section>
+    </body>
+</topic>

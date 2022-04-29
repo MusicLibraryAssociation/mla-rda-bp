@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-74aa36da-c080-3d69-84ef-515649e50d66"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for format of notated music</title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body>
+      <section id="f2988688-4c56-4a89-8023-03ade154a500">
+         <title>Prerecording</title>
+         <div id="6c50477c-4a32-454c-92fd-3ab4edf1905e">
+            <p outputclass="title" id="03f7effb-ef1f-402e-94df-298284b6a783">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20209/659039f5-8000-4c43-b7a1-4c12d1ecf8ac">Prerecording</xref>
+            </p>
+            <div id="8cc78842-7ff5-4880-b6e7-368c4df06a9e">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_vtg_bdh_r4b"/>
+               </p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_format_of_notated_music.dita#ala-7bdff7e8-b143-37b9-98d7-2cbb65668fdf/569213a1-1f6d-40a3-9b74-21519f106305"/>
+            </div>
+         </div>
+      </section>
+      <section id="77518ab3-13a8-4776-be4c-2a7507ea8919">
+         <title>Recording</title>
+         <div id="672fb32f-ea0b-4aaa-a19f-69405cf5f418">
+            <p outputclass="title" id="80ae277d-bb8b-4368-a1da-6fc97a95a5a9">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20209/b09e8e37-8e16-4452-8332-5ddea5df5624">Recording</xref>
+            </p>
+            <div id="6ad8dc5f-f2af-4cbf-b37d-c587349a7708">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 348 subfield $a. <ph conkeyref="b_bp_mla/ph_kfw_myw_nqb"/>
+                  <ph conkeyref="b_bp_mla/ph_t1t_rgd_z4b"/>field 008 bytes 20-21 or 006 bytes 03-04.</p>
+            </div>
+         </div>
+      </section>
+      <section id="da109f3d-632e-4a4d-89bc-b9be1de3d2bb">
+         <title>Recording an unstructured description</title>
+         <div id="63d53ef1-451c-4dac-a3c6-f0431823ae3b">
+            <p outputclass="title" id="c3f699a9-6adb-4d8e-a423-e494d7aec647">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20209/5e550e94-a874-4719-b38d-43f440e45aa7">Recording an unstructured description</xref>
+            </p>
+            <div id="6e6cafe6-0f9a-441b-a23a-7d85c4581d4b"/>
+         </div>
+         <div id="8c18d76b-37df-4945-9506-3d65f3275b84">
+            <p outputclass="title" id="8e8676b9-db5d-4bad-9f0b-4d9dfd8c092f">
+               <xref outputclass="ps_link"
+                     id="div_kgr_tfd_mhb"
+                     keyref="rdaeP20209/div_kgr_tfd_mhb">Option</xref>
+            </p>
+            <div id="b667bf6e-e0e4-4a4f-b0e6-685395da4970">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>if no appropriate controlled term exists.</p>
+            </div>
+         </div>
+         <div id="af307b22-5b40-4aee-bdda-a22bc3766a29">
+            <p outputclass="title" id="b9f8b39f-d810-43d4-98fc-1c7c64a77c4f">
+               <xref outputclass="ps_link"
+                     id="div_nnc_5fd_mhb"
+                     keyref="rdaeP20209/div_nnc_5fd_mhb">Option</xref>
+            </p>
+            <div id="9ff131ec-1e15-4ebb-835f-2c2dce757203">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>
+                  <ph conkeyref="b_bp_mla/ph_nll_gbv_mqb"/>
+               </p>
+            </div>
+         </div>
+         <div id="21ca38e8-d8fe-4f01-b9a4-f95ac9f5053c">
+            <p outputclass="title" id="c10ba675-b5e1-41d7-8b28-7beecb6de631">
+               <xref outputclass="ps_link"
+                     id="div_z3q_mds_vfb"
+                     keyref="rdaeP20209/div_z3q_mds_vfb">Option</xref>
+            </p>
+            <div id="9a9601fa-5e43-41bf-8c7e-ee5bdcb07e19">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_format_of_notated_music.dita#ala-7bdff7e8-b143-37b9-98d7-2cbb65668fdf/3aaefd5a-65ae-433c-ba8c-2f1b95d520d8"/>
+            </div>
+         </div>
+      </section>
+      <section id="bba5149e-4165-464b-aae7-15214341b28e">
+         <title>Recording a structured description</title>
+         <div id="8b378fc2-d430-4dca-8252-3418fb8250e1">
+            <p outputclass="title" id="d0a24a85-97d7-4f15-acb9-5b96fa4ffac2">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20209/d45cb22e-234b-43cd-a92d-1b0bd679418f">Recording a structured description</xref>
+            </p>
+            <div id="c6a35e7d-a1f7-4e88-b808-9842fea8fc6a"/>
+         </div>
+         <div id="3a0e7874-7abc-4976-81fe-62ac5c8f1144">
+            <p outputclass="title" id="8de2a14d-e67e-4d1b-aebf-3b9983f36c12">
+               <xref outputclass="ps_link"
+                     id="div_pmn_sfd_mhb"
+                     keyref="rdaeP20209/div_pmn_sfd_mhb">Option</xref>
+            </p>
+            <div id="9add8793-3682-4a46-b408-4bad475507ea">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_format_of_notated_music.dita#ala-7bdff7e8-b143-37b9-98d7-2cbb65668fdf/e7e0d9d7-1758-463a-86f8-cf2b68d9de6e"/>
+            </div>
+         </div>
+         <div id="3af7a104-c0bd-4dc5-a255-d5b354a47dee">
+            <p outputclass="title" id="308dc268-054f-4cd2-b62d-7e34ed551aca">
+               <xref outputclass="ps_link"
+                     id="div_m4d_rfd_mhb"
+                     keyref="rdaeP20209/div_m4d_rfd_mhb">Option</xref>
+            </p>
+            <div id="5de0cb79-df7c-4930-8468-c59c5880f3c7">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_format_of_notated_music.dita#ala-7bdff7e8-b143-37b9-98d7-2cbb65668fdf/b0b24164-bb69-4532-9ff3-624401671ced"/>
+            </div>
+         </div>
+         <div id="3f763653-f540-4612-8146-ecf8abae1ea5">
+            <p outputclass="title" id="f6151704-565d-4f46-bb39-5b5bdf434fec">
+               <xref outputclass="ps_link"
+                     id="div_axw_3jj_mhb"
+                     keyref="rdaeP20209/div_axw_3jj_mhb">Option</xref>
+            </p>
+            <div id="7a1f2dfd-5502-4717-8b7a-4595c06f0a14">
+               <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b" id="ph_q53_bwn_ysb"/><ph
+                     conkeyref="b_bp_mla/ph_orq_vnf_1qb"/>
+                  <term>rdafnm</term>.</p>
+            </div>
+         </div>
+         <div id="afe273ea-ffb1-4195-a32e-a0a80e1c7139">
+            <p outputclass="title" id="ab481134-e720-4451-90bb-239a12cd71aa">
+               <xref outputclass="ps_link"
+                     id="div_txh_thy_mhb"
+                     keyref="rdaeP20209/div_txh_thy_mhb">Condition Option</xref>
+            </p>
+            <div id="60439556-a466-465c-9648-09beae4308f4">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>as a last recourse.</p>
+            </div>
+         </div>
+      </section>
+      <section id="3ac1d7a5-34f3-4503-bcdd-ae05c5049fb6">
+         <title>Recording an identifier</title>
+         <div id="e8417d97-d673-4027-923f-01b9fe38095c">
+            <p outputclass="title" id="40331091-0504-45f0-8054-6796d40eebcc">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20209/785004e6-af33-4280-883b-64a63d83008d">Recording an identifier</xref>
+            </p>
+            <div id="891c630c-937e-47c1-bc08-9e583a39cec5"/>
+         </div>
+         <div id="6baf7341-5c13-4530-89ff-61cbe59b0468">
+            <p outputclass="title" id="ec0cc56f-ffbc-47c9-b0c6-428e7629e375">
+               <xref outputclass="ps_link"
+                     id="div_nyw_snz_tdb"
+                     keyref="rdaeP20209/div_nyw_snz_tdb">Option</xref>
+            </p>
+            <div id="42d2bb4c-b1a0-4127-9442-435942446f78">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/p_izh_3fh_r4b"/>
+                  <ph conkeyref="b_bp_mla/ph_qtx_by2_cqb"/>
+               </p>
+            </div>
+         </div>
+         <div id="71e81827-d28f-48de-86e1-d83304f63907">
+            <p outputclass="title" id="d49e7adb-4585-4b33-b0b2-6ef7e444fc69">
+               <xref outputclass="ps_link"
+                     id="div_yl3_pfd_mhb"
+                     keyref="rdaeP20209/div_yl3_pfd_mhb">Option</xref>
+            </p>
+            <div id="89b82286-73bf-4ecc-a43c-27d4a3db585e">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/p_izh_3fh_r4b"/>in field 348 
+                    <ph conkeyref="b_bp_mla/ph_qtx_by2_cqb"/>
+               </p>
+               <p>In field 008 or 006, use only the following MARC values:</p>
+               <ul>
+                  <li>
+                     <term>b</term> - Full score, miniature or study size</li>
+                  <li>
+                     <term>c</term> - Accompaniment reduced for keyboard [instrumental music only; use value <term>h</term> for chorus scores, <term>k</term> for vocal scores]</li>
+                  <li>
+                     <term>h</term> - Chorus score</li>
+                  <li>
+                     <term>i</term> - Condensed score [use this value for close scores]</li>
+                  <li>
+                     <term>j</term> - Performer-conductor part [use this value for piano conductor parts, etc.]</li>
+                  <li>
+                     <term>k</term> - Vocal score [use value <term>h</term> for chorus scores]</li>
+                  <li>
+                     <term>l</term> - Score</li>
+                  <li>
+                     <term>m</term> - Multiple score formats</li>
+                  <li>
+                     <term>u</term> - Unknown</li>
+                  <li>
+                     <term>z</term> - Other [use this value for choir books, parts, piano scores, and table books]</li>
+               </ul>
+            </div>
+         </div>
+         <div id="8401cf67-a195-46a0-8a38-3fc04fc4aa86">
+            <p outputclass="title" id="ba4329ea-11f5-42af-b56a-85848af5f33e">
+               <xref outputclass="ps_link"
+                     id="div_rzx_f5x_ycb"
+                     keyref="rdaeP20209/div_rzx_f5x_ycb">Option</xref>
+            </p>
+            <div id="6e124d6d-d63b-4f83-a322-7e25e18e5ce5">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/p_izh_3fh_r4b"/>
+                  <ph conkeyref="b_bp_mla/ph_qtx_by2_cqb"/>
+               </p>
+            </div>
+         </div>
+      </section>
+      <section id="7a945071-6b67-4240-ae75-514e47bd1b9f">
+         <title>Recording an IRI</title>
+         <div id="333b1ecb-fa49-45c4-b950-26bc85e9abdf">
+            <p outputclass="title" id="1cc36d54-3313-45d6-a4c1-42dc7317061b">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20209/1ea35893-e156-4df4-97dc-227ded416aaf">Recording an IRI</xref>
+            </p>
+            <div id="f90289ba-b583-4d75-aea8-7a45c60602fc"/>
+         </div>
+         <div id="adcec6ea-697f-4a37-9a9a-185b55aaaa1a">
+            <p outputclass="title" id="ec373075-844b-487e-bb27-efbda2f310ea">
+               <xref outputclass="ps_link"
+                     id="div_ghd_5nz_tdb"
+                     keyref="rdaeP20209/div_ghd_5nz_tdb">Option</xref>
+            </p>
+            <div id="d70b7993-be69-493a-84f6-f87e81a95e82"/>
+         </div>
+         <div id="c8e6da78-c6ef-436b-ba8a-5fbe7d2820a9">
+            <p outputclass="title" id="4e8a9a9b-40ff-43f0-8c24-4579c942bb98">
+               <xref outputclass="ps_link"
+                     id="div_u4q_nfd_mhb"
+                     keyref="rdaeP20209/div_u4q_nfd_mhb">Option</xref>
+            </p>
+            <div id="8826c248-4991-437c-b885-7777572b2939"/>
+         </div>
+      </section>
+   </body>
+</topic>

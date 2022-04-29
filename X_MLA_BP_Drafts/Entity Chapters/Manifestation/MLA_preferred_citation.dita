@@ -1,0 +1,74 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-190e770b-b05a-308e-a794-f6536cfc780c" xml:lang="en-US">
+    <title>Music Library Association Best Practices for preferred citation</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="7ab09f01-2345-4253-b8ad-5cb8616659d8">
+            <title>Prerecording</title>
+            <div id="c2da569d-2001-4dba-a328-3d5364867ca5">
+                <p outputclass="title" id="0adf3e43-168f-4eb0-9045-52f12b2bd117">
+                    <xref outputclass="ps_link" keyref="rdamP30005/a5a5973e-a09b-4f84-9394-687fe76cfc41">Prerecording</xref>
+                </p>
+                <div id="6262a5bc-a27b-4f20-b2fa-e0da17ff9b93"/>
+            </div>
+        </section>
+        <section id="ade1dc66-360e-470c-ab50-41cae17b38b8">
+            <title>Recording</title>
+            <div id="165a0b3c-5d87-402b-8904-9cb1ae71602a">
+                <p outputclass="title" id="29ba50fa-cdd4-43b8-97d2-cd718e3a2a62">
+                    <xref outputclass="ps_link" keyref="rdamP30005/78a16c51-379a-4f7a-89ce-20068fb764ce">Recording</xref>
+                </p>
+                <div id="edf43337-b5cc-4051-ad1b-1d6d519c4f69"/>
+            </div>
+        </section>
+        <section id="a2280764-831c-47b1-9deb-0cd26b73b0c6">
+            <title>Recording an unstructured description</title>
+            <div id="ef2e4c21-cf14-4f9e-a81c-156443403962">
+                <p outputclass="title" id="b918cb30-2ed3-43ca-a614-698dbdaead04">
+                    <xref outputclass="ps_link" keyref="rdamP30005/b9482215-e753-4309-9d92-e7176f00e135">Recording an unstructured description</xref>
+                </p>
+                <div id="5920a472-92ab-47f8-a9f4-cdc0957bc69b"/>
+            </div>
+            <div id="81029e99-220f-480d-b890-e9887022b93c">
+                <p outputclass="title" id="749853f3-32f6-4bd3-9b4a-e3d2dc8294b9">
+                    <xref outputclass="ps_link" id="div_krg_xnx_zdb" keyref="rdamP30005/div_krg_xnx_zdb">Option</xref>
+                </p>
+                <div id="41526900-8322-41fe-b29c-c6b45e424d25"/>
+            </div>
+        </section>
+        <section id="dc8ce1da-9c1b-44ca-b647-41bf59987162">
+            <title>Recording a structured description</title>
+            <div id="c5a0c5ef-d1d6-450a-ae67-f34e6cb0d4cf">
+                <p outputclass="title" id="e35977c2-ac7c-4c49-89e1-7f42f66ec4d2">
+                    <xref outputclass="ps_link" keyref="rdamP30005/17ee93ff-d76f-4cd1-a857-4f0bbc01a7b4">Recording a structured description</xref>
+                </p>
+                <div id="4c266c89-7d3b-4c68-9fc6-13c0acea29f9"/>
+            </div>
+        </section>
+        <section id="b3c3e80c-84a0-4a14-a615-009dff18e1ef">
+            <title>Recording an identifier</title>
+            <div id="a98d996e-b4b5-4ba5-9629-ea62d227d9d1">
+                <p outputclass="title" id="61e0da82-2421-4072-ad73-2f8008cbc706">
+                    <xref outputclass="ps_link" keyref="rdamP30005/5db10dd8-3fbd-4124-b672-55128534dfd3">Recording an identifier</xref>
+                </p>
+                <div id="a3d9edfd-d9ff-4fd7-8e75-e0d990cabf8c"/>
+            </div>
+        </section>
+        <section id="e40a4d76-163e-4bda-9033-e66599f3431b">
+            <title>Recording an IRI</title>
+            <div id="ce3568df-a8fd-43d5-ad2b-05173073f826">
+                <p outputclass="title" id="bc4eaf7e-2b87-4983-89a7-683189e87e35">
+                    <xref outputclass="ps_link" keyref="rdamP30005/0ef740a4-7ccb-44af-95b2-6a237531e218">Recording an IRI</xref>
+                </p>
+                <div id="7e16172d-b772-48bb-9803-eef85c4d0638"/>
+            </div>
+        </section>
+    </body>
+</topic>

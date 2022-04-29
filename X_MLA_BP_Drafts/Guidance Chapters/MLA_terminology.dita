@@ -1,0 +1,149 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-b4dc0a5f-92d0-39aa-8f4a-8a9b1d197387" xml:lang="en-US">
+    <title>Music Library Association Best Practices for Terminology</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="d5f1a2cb-c261-4a21-98ab-b8feb06d0c5e">
+            <title>Reference</title>
+            <div id="a963a614-73d2-4015-bad0-bfdaa4469b8b">
+                <p outputclass="title" id="639d53ef-e3a4-4acd-af44-c5b6ea82e5ae">
+                    <xref outputclass="ps_link" keyref="g_027/section_xly_jyy_mdb">Reference</xref>
+                </p>
+                <div id="a51de10d-de06-47d4-befa-665fb5b4a511"/>
+            </div>
+        </section>
+        <section id="35cf8bbd-e026-4218-b1bc-aa37a38b97d6">
+            <title>Basis of terminology</title>
+            <div id="89563288-7d05-470b-b868-641f9030be85">
+                <p outputclass="title" id="2285be01-2daf-4460-ab6b-8ca94af89990">
+                    <xref outputclass="ps_link" keyref="g_027/section_std_msn_ghb">Basis of terminology</xref>
+                </p>
+                <div id="b2c8530f-140f-4685-a4be-73b4c87c75aa"/>
+            </div>
+        </section>
+        <section id="daf55a89-2786-4988-b365-7fb544623bd6">
+            <title>IFLA Library Reference Model</title>
+            <div id="9fbb77d5-6949-445b-be07-440a761ed52e">
+                <p outputclass="title" id="df56b98d-4ded-4bde-8b06-1874673e99f6">
+                    <xref outputclass="ps_link" keyref="g_027/div_gbr_yrt_ghb">IFLA Library Reference Model</xref>
+                </p>
+                <div id="f89d7f03-24c5-460c-b7cf-8eaeba915db5"/>
+            </div>
+        </section>
+        <section id="69270370-3b23-4e08-afd5-d3d4a3f1e728">
+            <title>Other related standards</title>
+            <div id="178d6f3d-aab3-4b7b-80c4-f3d7dcec10ee">
+                <p outputclass="title" id="7939a681-c2e9-4731-9c1a-d6c306d0d360">
+                    <xref outputclass="ps_link" keyref="g_027/div_pvp_1st_ghb">Other related standards</xref>
+                </p>
+                <div id="759bf0de-2383-443d-9897-46e37b838dec"/>
+            </div>
+        </section>
+        <section id="77bb8210-37ec-49fe-b14d-33159601ac18">
+            <title>Legacy usage</title>
+            <div id="d9758911-1496-463e-958e-c6b82a8729d0">
+                <p outputclass="title" id="999ebf60-4c96-4169-a56f-8a780000d8e4">
+                    <xref outputclass="ps_link" keyref="g_027/div_pxv_bst_ghb">Legacy usage</xref>
+                </p>
+                <div id="89470494-2f89-4205-83b9-c88932f9f5ae"/>
+            </div>
+        </section>
+        <section id="35e7f095-ed3f-4ebb-b284-0b7ae676aba4">
+            <title>Neologisms in RDA</title>
+            <div id="a6325f2a-69d4-435a-858d-4b62a7526315">
+                <p outputclass="title" id="dc7a3949-2289-4d7d-ae91-595c44c44b10">
+                    <xref outputclass="ps_link" keyref="g_027/div_j1l_dst_ghb">Neologisms in RDA</xref>
+                </p>
+                <div id="cd0fc488-79de-425d-848b-ed8fc8c1fee8"/>
+            </div>
+        </section>
+        <section id="8d0c8778-ec24-480b-b52e-caeaefb102f0">
+            <title>Entity labels</title>
+            <div id="bded1313-b24d-4a51-9441-a02f24708978">
+                <p outputclass="title" id="85281718-0288-4a82-ac10-9aea287f1baf">
+                    <xref outputclass="ps_link" keyref="g_027/section_rnm_whf_ghb">Entity labels</xref>
+                </p>
+                <div id="45e308b7-58fd-489f-8ae3-35726524ad8a"/>
+            </div>
+        </section>
+        <section id="3de07c0a-285b-42db-a1ae-457f9bba7b34">
+            <title>Element labels</title>
+            <div id="7da374ca-e198-435c-9085-b5e5fd27664d">
+                <p outputclass="title" id="f1696f9f-55d2-4399-a19c-b72051e001ff">
+                    <xref outputclass="ps_link" keyref="g_027/section_omm_n3f_ghb">Element labels</xref>
+                </p>
+                <div id="57ebf767-3c59-4cbb-8d2f-8049f2424209"/>
+            </div>
+        </section>
+        <section id="b856e46b-4793-4c1b-b86e-c993cb4a1cb5">
+            <title>Value labels</title>
+            <div id="68766309-c325-4e5c-8d96-c1c75356d2c2">
+                <p outputclass="title" id="22b7f8e3-962e-43b6-b1b7-0bb715d14ed5">
+                    <xref outputclass="ps_link" keyref="g_027/section_bhq_wjf_ghb">Value labels</xref>
+                </p>
+                <div id="eb75c5e6-2871-4a77-aa42-bd33b1ca386f"/>
+            </div>
+        </section>
+        <section id="6e6af958-e160-49f0-9dc1-f809717231ef">
+            <title>Tense</title>
+            <div id="5b940fc3-02c0-4496-9b97-be21290d9e3c">
+                <p outputclass="title" id="ed5e32f1-7a7a-4e12-b519-be00801c0074">
+                    <xref outputclass="ps_link" keyref="g_027/section_hgh_qhf_ghb">Tense</xref>
+                </p>
+                <div id="1ed71229-654a-4537-ac55-bdde8e4e437c"/>
+            </div>
+        </section>
+        <section id="d28be7e5-b89c-46da-82ce-8d3dbc9389d3">
+            <title>Definite and indefinite articles</title>
+            <div id="ed1b9a48-ccaa-48f9-9b07-5334bf17a89a">
+                <p outputclass="title" id="f27e59a1-76e1-4ab6-b4fd-3662f0c21287">
+                    <xref outputclass="ps_link" keyref="g_027/section_xgy_j1h_sjb">Definite and indefinite articles</xref>
+                </p>
+                <div id="4955281d-63de-47f6-8f9d-d0eb99c2d704"/>
+            </div>
+        </section>
+        <section id="a4c8ae0e-505a-4b44-a085-cf30a79250bb">
+            <title>Relative pronouns</title>
+            <div id="49989b70-e168-4a56-959d-5114b0b18b75">
+                <p outputclass="title" id="823a82ed-26a5-44d1-aa07-19afc565df66">
+                    <xref outputclass="ps_link" keyref="g_027/section_a4g_c3f_ghb">Relative pronouns</xref>
+                </p>
+                <div id="7e684e5a-e66e-4750-ad4a-994c74be79d5"/>
+            </div>
+        </section>
+        <section id="b27eeef5-d6d8-4e1c-8e88-cf95be4255a3">
+            <title>Plural nouns</title>
+            <div id="be07172d-6c05-43a4-9e21-a0df5f015a37">
+                <p outputclass="title" id="58161f46-a066-451e-b455-744596c8ae45">
+                    <xref outputclass="ps_link" keyref="g_027/section_qtp_g3f_ghb">Plural nouns</xref>
+                </p>
+                <div id="04b0b601-962f-449d-bd84-87dd2b94c65e"/>
+            </div>
+        </section>
+        <section id="ecbf6d1a-d16e-4561-80d5-2649396e3187">
+            <title>Combinations and alternatives</title>
+            <div id="89239b25-7203-4655-8fdb-057d42ae7972">
+                <p outputclass="title" id="aa255131-52d7-4c2b-94d3-2a4ceee046c8">
+                    <xref outputclass="ps_link" keyref="g_027/section_ulj_33f_ghb">Combinations and alternatives</xref>
+                </p>
+                <div id="cff4e7f7-eaf8-42d7-b1bb-c46c329d0646"/>
+            </div>
+        </section>
+        <section id="af94ecdb-ac97-4e6f-9d04-e901f29da669">
+            <title>Controlled terms</title>
+            <div id="78ff4582-08b0-4f26-8f07-705b4a21b9be">
+                <p outputclass="title" id="c6d18efb-a13d-483f-9555-c1716eab956e">
+                    <xref outputclass="ps_link" keyref="g_027/section_uth_bq4_snb">Controlled terms</xref>
+                </p>
+                <div id="a53eae98-b1ac-4c54-8fac-e78c2f67424c"/>
+            </div>
+        </section>
+    </body>
+</topic>

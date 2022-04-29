@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-cbe6d230-c6f6-3980-9127-9dd35f1ae85c"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for place of capture</title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body audience="rdaeP20218/div_fgc_bf3_xdb">
+      <section id="e166568f-d898-48d0-bd87-1ddb0acfadef">
+         <title>Prerecording</title>
+         <div id="13219b82-0408-460c-b12e-aa203658ab08">
+            <p outputclass="title" id="1595b74a-c41b-4998-bae5-bcf7ca59b130">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20218/95604bf5-7bbb-453f-aaf3-d493e254c08f">Prerecording</xref>
+            </p>
+            <div id="7de5b317-7eee-4ce1-9185-40e99c2f7672">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_khy_xxc_gqb"/>for audio and video recordings if
+                    readily ascertainable.</p>
+            </div>
+         </div>
+      </section>
+      <section id="4916494d-8156-4255-a020-aaa5156b3153">
+         <title>Recording</title>
+         <div id="76de44fe-0a51-456d-925f-89b55110e5bc">
+            <p outputclass="title" id="dd80d630-fb76-477d-8599-aa1e4a37d8a0">
+               <xref outputclass="ps_link" keyref="rdaeP20218/section_wfc_bf3_xdb">Recording</xref>
+            </p>
+            <div id="01ca60bb-56a9-463d-a657-db97b8a194f7">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 518 subfield $p. Also, if feasible: <ph conkeyref="b_bp_mla/ph_t1t_rgd_z4b"/>field 033 (second indicator 0)
+                    subfields $b and, if appropriate, $c.</p>
+            </div>
+         </div>
+         <div id="21347866-b96f-4395-891b-5bdc7c6f4c3c">
+            <p outputclass="title" id="22f51dd6-ce2e-42a9-967d-2ffce808b705">
+               <xref outputclass="ps_link" keyref="rdaeP20218/div_jgc_df3_xdb">Option</xref>
+            </p>
+            <div id="0298f782-fd6d-4e5e-82f9-02b89fb601d7">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/>
+               </p>
+            </div>
+         </div>
+      </section>
+      <section id="section_a14_2sv_mqb">
+         <title>Recording an unstructured description</title>
+         <div id="div_svx_srv_mqb">
+            <p outputclass="title" id="p_lyj_trv_mqb">
+               <xref outputclass="ps_link" keyref="rdaeP20218/div_zfc_bf3_xdb">Recording an
+                        unstructured description</xref>
+            </p>
+            <div id="div_d2j_wrv_mqb">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Generally do not record an access point
+                    for place of capture. In field 518 subfield $p, structure place of capture by
+                    recording data from any source in this order: </p>
+               <ol>
+                  <li>Studio, concert hall, etc.</li>
+                  <li>Host institution</li>
+                  <li>City</li>
+                  <li>State, province, etc., if needed for clarification</li>
+                  <li>Country, if needed for clarification</li>
+               </ol>
+               <p>Omit unknown or unnecessary data elements. Separate data elements with commas. Do
+                    not supply a terminal period.</p>
+            </div>
+         </div>
+      </section>
+      <section id="section_s11_2sv_mqb">
+         <title>Recording a structured description</title>
+         <div id="div_ew3_hsv_mqb">
+            <p outputclass="title" id="p_ofs_msv_mqb">
+               <xref outputclass="ps_link" keyref="rdaeP20218/div_cgc_bf3_xdb">Recording a
+                        structured description</xref>
+            </p>
+            <div id="div_y24_hsv_mqb"/>
+         </div>
+      </section>
+      <section id="section_ejr_ksv_mqb">
+         <title>Recording an identifier</title>
+         <div id="div_dwy_lsv_mqb">
+            <p outputclass="title" id="p_frw_msv_mqb">
+               <xref outputclass="ps_link" keyref="rdaeP20218/div_fgc_bf3_xdb">Recording an
+                        identifier</xref>
+            </p>
+            <div id="div_h5c_msv_mqb"/>
+         </div>
+      </section>
+      <section id="section_h3v_ssv_mqb">
+         <title>Recording an IRI</title>
+         <div id="div_rpw_tsv_mqb">
+            <p outputclass="title" id="p_fv1_5sv_mqb">
+               <xref outputclass="ps_link" keyref="rdaeP20218/div_igc_bf3_xdb">Recording an
+                        IRI</xref>
+            </p>
+            <div id="div_rhg_5sv_mqb"/>
+         </div>
+      </section>
+   </body>
+</topic>

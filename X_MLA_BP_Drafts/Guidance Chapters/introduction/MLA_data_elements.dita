@@ -1,0 +1,140 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-e52c54f2-3290-3229-87e6-7bf5ed1cb24e" xml:lang="en-US">
+    <title>Music Library Association Best Practices for Data elements</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="3b685e03-90d4-4887-8beb-1e1ecaf76fb9">
+            <title>Contents</title>
+            <div id="1d22c7d3-cfc8-4186-be5f-eb1204607e04">
+                <p outputclass="title" id="b9956f78-ec8d-46ba-b065-99a05f7f9f21">
+                    <xref outputclass="ps_link" keyref="g_009/section_dfc_clt_vnb">Contents</xref>
+                </p>
+                <div id="f5225972-1009-47f8-9b5a-5f9b55435919"/>
+            </div>
+        </section>
+        <section id="7d264c9a-53b2-440d-862c-e41ec70f98ac">
+            <title>Recording RDA data</title>
+            <div id="d6b19a50-9af9-466b-a796-7ec39e47a437">
+                <p outputclass="title" id="409e254f-b15c-4926-ae9d-492771275508">
+                    <xref outputclass="ps_link" keyref="g_009/section_c5q_cfh_nlb">Recording RDA data</xref>
+                </p>
+                <div id="94225b09-5a46-4df7-8902-218791bb80e1"/>
+            </div>
+        </section>
+        <section id="bb687730-03ba-4bf8-bb58-043e1c044dc9">
+            <title>RDA entities</title>
+            <div id="1cabfbe5-fc06-427f-945e-4f55eca98f0d">
+                <p outputclass="title" id="a9bbd86f-89ce-4dd6-854b-e8ae48567605">
+                    <xref outputclass="ps_link" keyref="g_009/section_j52_vvr_hcb">RDA entities</xref>
+                </p>
+                <div id="ebdf2814-c05d-463c-a283-d8a2db27ab3d"/>
+            </div>
+        </section>
+        <section id="1b031ec8-3ecf-489d-9c49-31422496dc6c">
+            <title>RDA elements</title>
+            <div id="7542585f-0a90-433f-81eb-c8fc63dc8aee">
+                <p outputclass="title" id="8eee6dfb-2c83-4f83-ab32-327690ce415c">
+                    <xref outputclass="ps_link" keyref="g_009/section_c1g_wvr_hcb">RDA elements</xref>
+                </p>
+                <div id="67097b29-5a2e-49de-8549-3819a4b9cadc"/>
+            </div>
+        </section>
+        <section id="759a856c-3e51-4f4e-87f3-f54b8be251ab">
+            <title>Choice of elements</title>
+            <div id="38d6eabd-d3b1-45fc-aa94-af361d242799">
+                <p outputclass="title" id="a2023027-56ba-4046-a9d4-b235d512b70e">
+                    <xref outputclass="ps_link" keyref="g_009/div_bcn_n1h_nlb">Choice of elements</xref>
+                </p>
+                <div id="068195df-91cd-421f-9e82-67a027e1b0b3"/>
+            </div>
+        </section>
+        <section id="331c4e9a-6040-4183-82ff-a9d74b09d237">
+            <title>Legacy elements and deprecation</title>
+            <div id="d71026ba-78d4-4e98-ab69-7b430c9d45a7">
+                <p outputclass="title" id="b66a89f1-05ae-4924-b20d-0edf67147983">
+                    <xref outputclass="ps_link" keyref="g_009/div_gxc_1bh_nlb">Legacy elements and deprecation</xref>
+                </p>
+                <div id="aa011b58-f249-4cc4-a198-af62b11f2842"/>
+            </div>
+        </section>
+        <section id="d0f38ae3-646d-475f-9f2a-165030c1ac61">
+            <title>Subjects</title>
+            <div id="0d4b73d3-3cd6-483e-8861-15f562b3920a">
+                <p outputclass="title" id="c5a72431-5ca0-4e04-b901-6e47834b5acd">
+                    <xref outputclass="ps_link" keyref="g_009/div_uxs_zxc_hdb">Subjects</xref>
+                </p>
+                <div id="55e0e4af-d366-4ba2-8272-c074be48a038"/>
+            </div>
+        </section>
+        <section id="0b13c3c8-8db8-49b9-9e4c-4b52113e931e">
+            <title>Unconstrained element set</title>
+            <div id="ba06a6b0-9220-45c8-b2f4-7c0935b7028b">
+                <p outputclass="title" id="f6f5ed17-1344-49a7-8d3b-6bb2f348016b">
+                    <xref outputclass="ps_link" keyref="g_009/div_qsc_pvf_plb">Unconstrained element set</xref>
+                </p>
+                <div id="08edee48-f5b6-4b46-b2ef-ff6852122e87"/>
+            </div>
+        </section>
+        <section id="05d8665a-638e-4e28-9969-4c83098c66f9">
+            <title>RDA relationship data</title>
+            <div id="e8846d79-ffc3-43d4-84c6-cf2c8871afae">
+                <p outputclass="title" id="e8ca324b-ca85-4cfa-99aa-cc4def47764f">
+                    <xref outputclass="ps_link" keyref="g_009/section_f5p_cwr_hcb">RDA relationship data</xref>
+                </p>
+                <div id="fe7535d6-8bfe-4ac8-9b8f-cdfae29e45fb"/>
+            </div>
+        </section>
+        <section id="eb7b909f-4205-4839-9a9a-0b56ac1f87e9">
+            <title>Relationship hierarchies</title>
+            <div id="5175278f-a0e5-484c-862d-1952402b7def">
+                <p outputclass="title" id="ee40e7d2-7ca2-4170-bc40-d40d4ab20fc2">
+                    <xref outputclass="ps_link" keyref="g_009/div_lgl_tsq_1hb">Relationship hierarchies</xref>
+                </p>
+                <div id="7bb62265-d965-4fb6-b4fd-3539d6702aca"/>
+            </div>
+        </section>
+        <section id="75adc82e-6d4f-4969-aa84-e484caca2e66">
+            <title>Relationship shortcuts</title>
+            <div id="995d1b0c-44bf-4ae2-a7ac-c85a480eec36">
+                <p outputclass="title" id="44e120bc-0791-4dce-9822-ce0bb339a5a6">
+                    <xref outputclass="ps_link" keyref="g_009/div_acm_phc_y3b">Relationship shortcuts</xref>
+                </p>
+                <div id="1d714ff1-961c-4e52-8578-708580ac001f"/>
+            </div>
+        </section>
+        <section id="f2f8944f-6a48-47a0-8bc7-3cfeee2abf8d">
+            <title>Relationships with entities that are outside of the scope of RDA</title>
+            <div id="f5ab0102-7887-44f7-943a-64b3f1039efc">
+                <p outputclass="title" id="518cdb23-219a-4a79-a810-4029f790c0dc">
+                    <xref outputclass="ps_link" keyref="g_009/div_sdd_vc1_bhb">Relationships with entities that are outside of the scope of RDA</xref>
+                </p>
+                <div id="c997ccb8-fd81-4927-b2a1-fdc067cf4b7f"/>
+            </div>
+        </section>
+        <section id="4241c6bb-c1a7-44ed-aab7-5ec5908591d8">
+            <title>Recording relationship elements</title>
+            <div id="1e94b28b-a19c-4513-92bc-eacac06691b2">
+                <p outputclass="title" id="2753c684-37db-4b46-a47e-a4cec5b979d5">
+                    <xref outputclass="ps_link" keyref="g_009/div_cnw_glj_2hb">Recording relationship elements</xref>
+                </p>
+                <div id="fe7bd4b4-d4ad-47a6-8b96-c451aec90323"/>
+            </div>
+        </section>
+        <section id="409db1fb-5523-42af-9888-6eaa838d4d6d">
+            <title>Data values</title>
+            <div id="c8d4c120-3e81-4012-b8bc-d7d37bc952b2">
+                <p outputclass="title" id="e5a96a50-78c2-4ee9-9015-9e30bdd1f7a3">
+                    <xref outputclass="ps_link" keyref="g_009/section_ydd_whl_rnb">Data values</xref>
+                </p>
+                <div id="0cb96d89-4f50-477d-aac6-73870eab2bed"/>
+            </div>
+        </section>
+    </body>
+</topic>

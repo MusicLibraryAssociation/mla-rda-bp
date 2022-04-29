@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-382491b3-98ee-39a2-b084-60cdf05c4dff"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for date of capture</title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body>
+      <section id="a50ea694-22a0-4f6c-8444-55b45a7987d0">
+         <title>Prerecording</title>
+         <div id="57ca0f62-32f8-484a-b2ba-7cdb2976849b">
+            <p outputclass="title" id="cfadf450-b821-4014-b4fa-7bd50401d831">
+               <xref outputclass="ps_link"
+                     keyref="rdaeP20004/28b48e4f-6d51-4c0c-a108-354f3605e930">Prerecording</xref>
+            </p>
+            <div id="a34d98d7-6597-467c-95ec-de57d180f7a8">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_khy_xxc_gqb"/>for audio and video recordings if
+                    readily ascertainable.</p>
+            </div>
+         </div>
+      </section>
+      <section id="480c50e0-c85e-41ce-8fa0-b0b38e3b5d87">
+         <title>Recording</title>
+         <div id="cfeb9ecc-d166-48a2-b739-b2af4d4ff437">
+            <p outputclass="title" id="68f54159-58b4-441a-b64a-6708838196b2">
+               <xref outputclass="ps_link" keyref="rdaeP20004/section_mqf_fyh_xdb">Recording</xref>
+            </p>
+            <div id="c6e619d6-37b1-4113-b25c-b58307716a3b">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 518 subfield $d. Also, if feasible: <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 033 (second indicator 0) subfield
+                    $a.</p>
+            </div>
+         </div>
+         <div id="b2e8807f-9411-4386-8bb3-da06ba07777a">
+            <p outputclass="title" id="c6f53e06-31aa-4f09-a065-7d5f4eb96d1b">
+               <xref outputclass="ps_link" keyref="rdaeP20004/div_gf5_syh_xdb">Option</xref>
+            </p>
+            <div id="763bae55-5424-4c00-8570-0b9a7fed4ea9">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_date_of_capture.dita#ala-228d4967-29a7-301c-9849-100096eebe3d/92a52db9-ed90-4ad5-b454-4a9f248383e2"/>
+            </div>
+         </div>
+      </section>
+      <section id="section_sh4_z5t_mqb">
+         <title>Recording an unstructured description</title>
+         <div>
+            <p outputclass="title" id="p_oqf_fyh_xdb">
+               <xref outputclass="ps_link" keyref="rdaeP20004/div_nqf_fyh_xdb">Recording an
+                        unstructured description</xref>
+            </p>
+            <div/>
+         </div>
+      </section>
+      <section id="section_jzz_pvt_mqb">
+         <title>Recording a structured description</title>
+         <div id="div_ccw_jxt_mqb">
+            <p outputclass="title">
+               <xref outputclass="ps_link" keyref="rdaeP20004/div_qqf_fyh_xdb">Recording an
+                        unstructured description</xref>
+            </p>
+            <div id="div_wqb_kxt_mqb">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>In field 518 subfield $d, record year,
+                    month (spelled out in full), and day, in that order, without punctuation. If a
+                    date of capture spans multiple days, give a range of days separated by a hyphen
+                    (e.g.: 1992 December 1-2). If the full date is unknown, record only the year, or
+                    the year and month.</p>
+               <p>If an audio recording contains more than one work and the individual works were
+                    captured on different dates or in different locations, record the information
+                    for each work or group of works in a separate instance of field 518. If deemed
+                    useful for identification or selection, specify the work to which the the date
+                    applies using field 518 subfield $3.</p>
+               <p>Refer to OCLC Bibliographic Formats and Standards for guidance in encoding field
+                    033. Encode multiple dates in field 033 as a range or, if feasible,
+                    separately.</p>
+            </div>
+         </div>
+      </section>
+      <section id="section_hcv_qxt_mqb">
+         <title>Recording an identifier</title>
+         <div id="div_m4m_rxt_mqb">
+            <p outputclass="title">
+               <xref outputclass="ps_link" keyref="rdaeP20004/div_tqf_fyh_xdb">Recording an
+                        identifier</xref>
+            </p>
+            <div id="div_xlq_rxt_mqb"/>
+         </div>
+      </section>
+      <section id="section_btq_vxt_mqb">
+         <title>Recording an IRI</title>
+         <div id="div_pwg_wxt_mqb">
+            <p outputclass="title">
+               <xref outputclass="ps_link" keyref="rdaeP20004/div_wqf_fyh_xdb">Recording an
+                        IRI</xref>
+            </p>
+            <div id="div_yxb_wxt_mqb"/>
+         </div>
+      </section>
+   </body>
+</topic>

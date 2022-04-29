@@ -1,0 +1,68 @@
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd" id="ala-7538758a-88cb-39e8-aa98-003f274ea3a2" xml:lang="en-US">
+    <title>Music Library Association Best Practices for digital transfer of item</title>
+    <prolog>
+        <source/>
+        <critdates>
+            <created date="2021-02-08"/>
+            <revised modified="2021-02-08"/>
+        </critdates>
+        <data name="rda_type" value="policy_statement"/>
+        <data name="pub_date" value=""/>
+    </prolog>
+    <body>
+        <section id="f0de9387-e217-4cae-b80b-28848f7f915e">
+            <title>Prerecording</title>
+            <div id="48dcd2bc-9814-41cc-bde9-7a84bc58d29e">
+                <p outputclass="title" id="4d06dde5-c8a1-493a-ab01-e3b792e00f75">
+                    <xref outputclass="ps_link" keyref="rdaiP40087/c5d83170-5a94-42e3-8974-67daaa21a86f">Prerecording</xref>
+                </p>
+                <div id="151054ca-1796-4729-924c-037baa418d2d"/>
+            </div>
+        </section>
+        <section id="4dd8070b-bad3-483b-8b5b-415b698e1487">
+            <title>Recording</title>
+            <div id="d21a428f-9dca-4bfc-b761-0901688a97e6">
+                <p outputclass="title" id="c234ea47-ef70-4e21-b170-6a8b0d950f61">
+                    <xref outputclass="ps_link" keyref="rdaiP40087/e1a61a71-9dfa-47f0-823f-184b913ac852">Recording</xref>
+                </p>
+                <div id="53a0aecb-96dc-471a-84f5-7631c92fdc0c"/>
+            </div>
+        </section>
+        <section id="a90c4841-f270-4a92-ad18-3cefae61f565">
+            <title>Recording an unstructured description</title>
+            <div id="cdb95d8b-31c3-40fd-841d-7fc54622a56d">
+                <p outputclass="title" id="a18d3c29-7599-4fc8-aa18-2eaa7fcd9b5d">
+                    <xref outputclass="ps_link" keyref="rdaiP40087/c0759dd1-1de0-43a0-8faf-1eca3c679fe8">Recording an unstructured description</xref>
+                </p>
+                <div id="c3006396-d92c-4482-9115-d8751b033dd3"/>
+            </div>
+        </section>
+        <section id="b2dd4986-baa6-4efc-b316-18d051debe78">
+            <title>Recording a structured description</title>
+            <div id="2e55536b-8141-4be2-bce6-504d2f20025e">
+                <p outputclass="title" id="1053bd3f-31de-4c64-b4ca-d3de589515c4">
+                    <xref outputclass="ps_link" keyref="rdaiP40087/b1573eea-d2fa-4a37-835f-741e63f1ca3a">Recording a structured description</xref>
+                </p>
+                <div id="ccf19a03-45c7-46fa-8a69-3c0021649a5e"/>
+            </div>
+        </section>
+        <section id="db40ca6f-0625-467d-91ee-74321f6a9142">
+            <title>Recording an identifier</title>
+            <div id="344d0d55-b401-4b81-b651-b3c0652fc9dc">
+                <p outputclass="title" id="bcccc161-45ea-4e56-b385-44201e821645">
+                    <xref outputclass="ps_link" keyref="rdaiP40087/1af4ebff-069d-417e-b00d-0bde51f23b4a">Recording an identifier</xref>
+                </p>
+                <div id="7dc96786-cbb7-4d09-9f05-3f6a6ee6cc76"/>
+            </div>
+        </section>
+        <section id="04f73977-149d-4398-b5f2-d92c7683a118">
+            <title>Recording an IRI</title>
+            <div id="b68d5f85-5fb0-4a02-ad0b-fb66adab3456">
+                <p outputclass="title" id="3c7172f1-b187-4676-acad-ea9a18597ab7">
+                    <xref outputclass="ps_link" keyref="rdaiP40087/aae8d68b-b892-4a8c-8364-b22323dcff99">Recording an IRI</xref>
+                </p>
+                <div id="8f9270eb-b12e-40b6-80ba-27bef6866b79"/>
+            </div>
+        </section>
+    </body>
+</topic>

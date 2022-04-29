@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:topic.xsd"
+       id="ala-372ceb4f-c20e-3897-9bc1-271e2b4169a3"
+       xml:lang="en-US">
+   <title>Music Library Association Best Practices for date of work</title>
+   <prolog>
+      <source/>
+      <critdates>
+         <created date="2021-02-08"/>
+         <revised modified="2021-02-08"/>
+      </critdates>
+      <data name="rda_type" value="policy_statement"/>
+      <data name="pub_date" value=""/>
+   </prolog>
+   <body>
+      <section id="d21c8711-5b78-4210-895d-345df0de743a">
+         <title>Prerecording</title>
+         <div id="c5fe74fd-f095-469c-862f-c300fb3a6ecb">
+            <p outputclass="title" id="ad1b5e07-e744-494a-94ea-31df495df558">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10219/5f9202c2-b9e0-4f07-b4cf-e75baf55003a">Prerecording</xref>
+            </p>
+            <div id="049715da-5e79-4b8f-8125-7f4ceed0824c">
+               <p>
+                  <ph conkeyref="b_bp_mla/p_pnk_vdh_r4b"/>in authority records if readily ascertainable, even if date of work is also used as an additional element in an access point (that is, to distinguish two works with the same preferred title). <ph conkeyref="b_bp_mla/ph_khy_xxc_gqb"/> in bibliographic records <ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/>
+               </p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_date_of_work.dita#ala-0131717e-7af7-3f17-9d7a-1768bd2daed8/6eb4287a-0f58-4550-92ed-4cd2ee71d3c9"/>
+            </div>
+         </div>
+         <div id="ea811b74-26f9-4816-b148-8bcf8e38d5ae">
+            <p outputclass="title" id="debacf3a-6bff-4e4d-8fbd-ecf66fd250b7">
+               <xref outputclass="ps_link" keyref="rdawP10219/div_ns1_4x2_wdb">Condition Option</xref>
+            </p>
+            <div id="613bb4a7-dda3-4eda-86ce-aaa86e9a9014">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_date_of_work.dita#ala-0131717e-7af7-3f17-9d7a-1768bd2daed8/b09cb90f-a1a1-440d-a3ad-8049a1e743e7"/>
+            </div>
+         </div>
+      </section>
+      <section id="0da40abb-2761-4396-826c-8b6a529d16b2">
+         <title>Recording</title>
+         <div id="b01f3eff-cd65-41cb-87bd-edbb9211280a">
+            <p outputclass="title" id="46fcaf56-8753-4007-93aa-610cf95a3e78">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10219/edaf1dc7-0d75-405b-a0d3-bd8f95d9152d">Recording</xref>
+            </p>
+            <div id="8aebba34-2c32-4e0d-bb3a-20282bb121ec">
+               <p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
+                  <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 046 subfield $k and, if appropriate, $l. Use subfield $l only if a date range is explictly given for the creation of a work; do not use subfield $l for revisions. Do not use subfields $o or $p in authority records until LC-PCC/NACO guidance becomes available.</p>
+            </div>
+         </div>
+         <div id="6095ad00-de5a-4599-abd3-199ca61c0d6e">
+            <p outputclass="title" id="3aa9757e-8426-496c-a4a8-2e93eaf5a50f">
+               <xref outputclass="ps_link" keyref="rdawP10219/div_ll2_hy2_wdb">Option</xref>
+            </p>
+            <div id="e77d6370-5f4a-4df5-96f0-fc41d54747c7">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_date_of_work.dita#ala-0131717e-7af7-3f17-9d7a-1768bd2daed8/868243d4-9cf0-4e4a-8b59-b2a18f871697"/>
+            </div>
+         </div>
+         <div id="8a5d1bef-45a5-427f-a1a8-3ec7a9d61646">
+            <p outputclass="title" id="c5a60d8b-4463-42c2-b37e-8c16bc28673a">
+               <xref outputclass="ps_link" keyref="rdawP10219/div_vx4_qz3_vdb">Option</xref>
+            </p>
+            <div id="3bde01ab-2577-4636-b674-18865944e03a">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_date_of_work.dita#ala-0131717e-7af7-3f17-9d7a-1768bd2daed8/4e83af3f-4f15-4e00-85f5-0e3dce998ec6"/>
+            </div>
+         </div>
+      </section>
+      <section id="fb98039d-88c7-46a7-9c40-9df2ac535b37">
+         <title>Treaties</title>
+         <div id="b04feeca-3fd7-4daf-95bb-b66f2b24169d">
+            <p outputclass="title" id="564c97f3-6e02-4599-a53c-7ce6357c7050">
+               <xref outputclass="ps_link" keyref="rdawP10219/div_xrt_3m1_jlb">Treaties</xref>
+            </p>
+            <div id="19abb51f-ed74-434c-9949-ae50f1c8546e"/>
+         </div>
+         <div id="eeeb2200-1bb7-492c-b739-91db5ae6d8a1">
+            <p outputclass="title" id="98da1ba1-9e2a-4cc9-926e-9a3828e0798c">
+               <xref outputclass="ps_link"
+                     id="div_rxw_1l5_lhb"
+                     keyref="rdawP10219/div_rxw_1l5_lhb">Condition Option</xref>
+            </p>
+            <div id="f9b75830-8e15-48fb-bd25-abd3258cc9ef"/>
+         </div>
+         <div id="3e6db685-81e3-48ea-a434-6dc6b65ab1a8">
+            <p outputclass="title" id="d257e3ac-ee36-4105-9f5a-9f94c089ea38">
+               <xref outputclass="ps_link"
+                     id="div_yfk_xl1_jlb"
+                     keyref="rdawP10219/div_yfk_xl1_jlb">Condition Option</xref>
+            </p>
+            <div id="40f77d46-5989-4c80-b86d-27c853bad5b3"/>
+         </div>
+      </section>
+      <section id="74e33c2d-316e-40ee-8ae1-85d2415a3ec2">
+         <title>Recording an unstructured description</title>
+         <div id="9c0532b0-c13f-4f8d-be1d-649a5dcac910">
+            <p outputclass="title" id="2593e70a-a0a6-45fa-aa78-fd4056fcbb3a">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10219/130ec090-6593-4c5b-ad73-b3dbfbdb145a">Recording an unstructured description</xref>
+            </p>
+            <div id="75c0fd07-f42e-4ffe-9f3f-b314e08652c3"/>
+         </div>
+      </section>
+      <section id="8c5fe6d7-cf86-457f-a9a2-05fb4bf6008f">
+         <title>Recording a structured description</title>
+         <div id="cad5cfc3-fe6f-4f20-be67-a23fa35dd1e8">
+            <p outputclass="title" id="7580695b-946b-4c81-9a3e-739a4ab3f22f">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10219/1e26a5e0-0c77-453d-8616-5ce8e58c8187">Recording a structured description</xref>
+            </p>
+            <div id="6f297af2-d63b-4070-aaa4-0622854de834">
+               <p>Record dates using <ph conkeyref="b_bp_mla/ph_nhq_zsx_pqb"/> except as noted in LC-PCC PS for Timespan: <xref keyref="rdatP70015"/>. <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Identify the string encoding scheme used with the $2 code <term>edtf</term>.</p>
+            </div>
+         </div>
+      </section>
+      <section id="6e25b9b7-8d4f-4460-a4b9-dc74f9361a70">
+         <title>Recording an identifier</title>
+         <div id="8ac371ea-7d54-4c00-bd9b-26c9cc86d94e">
+            <p outputclass="title" id="7c0c8a74-6728-4b97-8b2b-f253423ee8e7">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10219/44032d9c-5fda-48a7-bc74-27b5ebddd595">Recording an identifier</xref>
+            </p>
+            <div id="51838e4a-4ee1-4e44-8715-c35e59ad0925"/>
+         </div>
+      </section>
+      <section id="9b9ed777-fd9f-487a-afc2-a9247bce9120">
+         <title>Recording an IRI</title>
+         <div id="236748fd-7d2e-41db-a994-c3cfc1efd0d1">
+            <p outputclass="title" id="0ca6a718-74b0-4af9-a91e-ee63098478dd">
+               <xref outputclass="ps_link"
+                     keyref="rdawP10219/a795504a-8917-4cd8-b569-4d7f18bd9233">Recording an IRI</xref>
+            </p>
+            <div id="584c1965-c516-473b-8f82-b39ade6c0619"/>
+         </div>
+      </section>
+      <section id="3a695a79-57c8-4b5d-85ef-bbbff364418d">
+         <title>View in Context Example</title>
+         <div id="6330a3dd-dfad-4d0c-8dea-55d39fb30dc5">
+            <p outputclass="title" id="da792c9a-b632-42c5-8750-1dc8af13cb4a">
+               <xref outputclass="ps_link" keyref="rdawP10219/section_vh5_vdg_b2b">View in Context Example</xref>
+            </p>
+            <div id="b603011c-c831-45fd-9ef4-c2e7810c1df5"/>
+         </div>
+      </section>
+   </body>
+</topic>
