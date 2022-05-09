@@ -6,7 +6,7 @@
                 <draft-comment author="CSS Chair">
                         <p>General usage notes: </p>
                         <p>All links to external resources should be entered in the boilerplate file for ease of maintenance and inserted by conkeyref where needed.</p>
-                        <p>Do not include conrefs or conkeyrefs to this same boilerplate file in boilerplate text. Oxygen and the Toolkit CMS can handle this fine, but it is too recursive for the ALA publishing script to handle and the conref/conkeyref will not display in the published text.</p>
+                        <p>Do not include conrefs or conkeyrefs to this same boilerplate file in boilerplate text. Oxygen and the Toolkit CMS can handle this fine, but it is too recursive for the ALA publishing script to handle and the conref/conkeyref will not display in the published text, resulting in mysterious blanks.</p>
                 </draft-comment>
                 <draft-comment author="CSS Chair">Statements attached to the Prerecording heading</draft-comment>
                 <p><ph id="p_vtg_bdh_r4b">Routinely record the element.</ph></p>
