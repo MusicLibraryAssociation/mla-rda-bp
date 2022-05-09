@@ -4,7 +4,7 @@
   <title>Boilerplate for MLA BPs</title>
   <body>
                 <draft-comment author="CSS Chair">
-                        <p>General usage notes:  </p>
+                        <p>General usage notes: </p>
                         <p>All links to external resources should be entered in the boilerplate file for ease of maintenance and inserted by conkeyref where needed.</p>
                         <p>Do not include conrefs or conkeyrefs to this same boilerplate file in boilerplate text. Oxygen and the Toolkit CMS can handle this fine, but it is too recursive for the ALA publishing script to handle and the conref/conkeyref will not display in the published text.</p>
                 </draft-comment>
@@ -57,15 +57,16 @@
                 <p><ph id="ph_zg4_yft_cqb">If deemed useful for identification or selection, <ph id="ph_evq_k55_tsb">optionally provide details or clarification as an unstructured description in field 500.</ph></ph></p>
                 <p/>
                 <draft-comment author="CSS Chair">Links to external resources. </draft-comment>
-                <p><ph id="p_ts4_3gh_r4b"><xref href="http://cmc.blog.musiclibraryassoc.org/types-of-composition-for-use-in-authorized-access-points-for-music-a-manual-for-use-with-rda/" format="html" scope="external">Types of Composition for Use in Authorized Access Points for Music: A Manual for Use with RDA</xref></ph></p>
-                <p><ph id="ph_rck_wcb_pqb"><xref href="http://cmc.blog.musiclibraryassoc.org/thematic-indexes-used-in-library-of-congress-naco-authority-files/" format="html" scope="external">Thematic Indexes Used in Library of Congress NACO Authority Files</xref></ph></p>
-                <p><ph id="p_r2t_4hh_r4b"><xref href="http://cmc.blog.musiclibraryassoc.org/mla-best-practices/" format="html" scope="external">Supplements to Best Practices for Music Cataloging Using RDA and MARC21</xref></ph><ph id="ph_grz_xtt_t4b">Supplement 1: Guidelines for Describing and Encoding Attributes of Audio Recording Carriers</ph><ph id="ph_svd_ytt_t4b">Supplement 2: Recording Parallel Data Using ISBD in MARC and Minimally Punctuated MARC</ph></p>
+                <p><ph id="p_ts4_3gh_r4b"><xref href="https://cmc.wp.musiclibraryassoc.org/types-of-composition-for-use-in-authorized-access-points-for-music-a-manual-for-use-with-rda/" format="html" scope="external">Types of Composition for Use in Authorized Access Points for Music: A Manual for Use with RDA</xref></ph></p>
+                <p><ph id="ph_rck_wcb_pqb"><xref href="https://cmc.wp.musiclibraryassoc.org/thematic-indexes-used-in-library-of-congress-naco-authority-files/" format="html" scope="external">Thematic Indexes Used in Library of Congress NACO Authority Files</xref></ph></p>
+                <p><ph id="p_r2t_4hh_r4b"><xref href="https://cmc.wp.musiclibraryassoc.org/mla-best-practices/" format="html" scope="external">Supplements to Best Practices for Music Cataloging Using RDA and MARC21</xref></ph><ph id="ph_grz_xtt_t4b">Supplement 1: Guidelines for Describing and Encoding Attributes of Audio Recording Carriers</ph><ph id="ph_svd_ytt_t4b">Supplement 2: Recording Parallel Data Using ISBD in MARC and Minimally Punctuated MARC</ph></p>
                 <p><ph id="ph_ibz_glz_x4b">Multiple dates and date types may be encoded in field 008/06 and 008/07-14. Consult <xref href="https://www.oclc.org/bibformats/en.html" format="html" scope="external">OCLC Bibliographic Formats and Standards</xref> for guidance in determining precedence of date type when coding one or more dates in field 008.</ph></p>
-                <p><ph id="ph_rvl_kvx_nqb"><xref href="http://cmc.blog.musiclibraryassoc.org/mla-best-practices/" format="html" scope="external">Best Practices for Using LCMPT</xref></ph></p>
-                <p><ph id="ph_qgr_kbx_pqb"><xref href="http://cmc.blog.musiclibraryassoc.org/mla-best-practices/" format="html" scope="external">Best Practices for Using LCGFT for Music Resources</xref></ph></p>
+                <p><ph id="ph_rvl_kvx_nqb"><xref href="https://cmc.wp.musiclibraryassoc.org/mla-best-practices/" format="html" scope="external">Best Practices for Using LCMPT</xref></ph></p>
+                <p><ph id="ph_qgr_kbx_pqb"><xref href="https://cmc.wp.musiclibraryassoc.org/mla-best-practices/" format="html" scope="external">Best Practices for Using LCGFT for Music Resources</xref></ph></p>
                 <p><ph id="ph_czk_z2w_pqb"><xref href="https://www.loc.gov/catdir/cpso/z1andlcguidelines.html" format="html" scope="external">Descriptive Cataloging Manual, Z1. Name and Series Authority Records</xref> (also available through Cataloger's Desktop)</ph></p>
                 <p><ph id="ph_nhq_zsx_pqb"><xref href="https://www.loc.gov/standards/datetime/" format="html" scope="external">Extended Date/Time Format</xref></ph></p>
                 <p><ph id="ph_xcs_pq5_tqb"><xref href="https://web.library.yale.edu/cataloging/music/preferred-titles#sources" format="html" scope="external">Music Cataloging at Yale: Preferred Titles</xref></ph></p>
+                <p><ph id="ph_hxf_tyh_ktb"><xref href="https://www.loc.gov/aba/pcc/scs/documents/PCC-PN-guidelines.html" format="html" scope="external">PCC Provider-Neutral E-Resource MARC Record Guidelines</xref></ph></p>
                 <draft-comment author="CSS Chair">External Links: VES's</draft-comment>
                 <p><ph id="ph_ebs_xgp_kqb"><xref href="https://www.loc.gov/marc/languages/" format="html" scope="external">MARC Code List for Languages</xref></ph></p>
                 <p><ph id="ph_sbk_psf_1qb"><xref href="https://www.loc.gov/standards/valuelist/rdacarrier.html" format="html" scope="external">Term and Code List for RDA Carrier Types</xref></ph></p>

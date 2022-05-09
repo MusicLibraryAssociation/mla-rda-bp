@@ -40,7 +40,8 @@
                 <p outputclass="title" id="4380f2a9-ef1b-430e-be1c-a37967b40869">
                     <xref outputclass="ps_link" id="div_qrv_3cc_rhb" keyref="rdacC10007/div_qrv_3cc_rhb">Option</xref>
                 </p>
-                <div id="568cc5af-aa73-4d3e-a543-23a84b7a6172"/>
+                <div id="568cc5af-aa73-4d3e-a543-23a84b7a6172"><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/> For rare, early, or manuscript materials, additionally apply a Descriptive Cataloging of Rare Materials (DCRM) application profile <ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/>
+                </div>
             </div>
         </section>
         <section id="17e39c14-0a51-4a86-ad11-84744db57ef8">
@@ -55,13 +56,15 @@
                 <p outputclass="title" id="9d145786-da68-4d00-8816-0b143fd93dc4">
                     <xref outputclass="ps_link" id="div_clz_4cg_3mb" keyref="rdacC10007/div_clz_4cg_3mb">Condition Option</xref>
                 </p>
-                <div id="f094f16b-a469-4427-83fc-7fbbdaeedc3e"/>
+                <div id="f094f16b-a469-4427-83fc-7fbbdaeedc3e"><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/></div>
             </div>
             <div id="23c9e787-7972-4236-99f1-37b9fb4a6699">
                 <p outputclass="title" id="f880393a-4a33-45bb-82e5-080216c741b0">
                     <xref outputclass="ps_link" id="div_ocq_wpp_jnb" keyref="rdacC10007/div_ocq_wpp_jnb">Condition Option</xref>
                 </p>
-                <div id="d31f3c26-b978-45b4-b780-c4d11492fa69"/>
+                <div id="d31f3c26-b978-45b4-b780-c4d11492fa69">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_entity_Manifestation.dita#ala-a63858f3-db31-3d44-af18-4b55d442951a/div_r4d_yqp_jnb"/>
+                </div>
             </div>
         </section>
         <section id="123e18d8-2bfd-49f3-98e1-4016c5b4b796">
@@ -85,19 +88,27 @@
                 <p outputclass="title" id="1b4ff11a-f4b3-4e7f-b63d-a73792c0a8ce">
                     <xref outputclass="ps_link" id="div_u4b_rhv_3fb" keyref="rdacC10007/div_u4b_rhv_3fb">Option</xref>
                 </p>
-                <div id="5437b32d-962a-4cd1-80fb-2b53719f558a"/>
+                <div id="5437b32d-962a-4cd1-80fb-2b53719f558a">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_entity_Manifestation.dita#ala-a63858f3-db31-3d44-af18-4b55d442951a/9ab2e114-0de3-44ed-89aa-a9f8e7f0ed0c"/>
+                </div>
             </div>
             <div id="4dfcaaca-ba59-4127-a167-06e7f740b8f2">
                 <p outputclass="title" id="6cc2b517-35fa-4ac5-b342-1f27e3031dbc">
                     <xref outputclass="ps_link" id="div_hl3_y3b_v2b" keyref="rdacC10007/div_hl3_y3b_v2b">Condition Option</xref>
                 </p>
-                <div id="611e0461-f954-4b66-92bb-544be8aef275"/>
+                <div id="611e0461-f954-4b66-92bb-544be8aef275">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_entity_Manifestation.dita#ala-a63858f3-db31-3d44-af18-4b55d442951a/8c15cabb-14db-465d-8df9-d0de802fe300"/>
+                </div>
             </div>
             <div id="3a0d1f58-1a88-4f1f-b97f-89f0c6457387">
                 <p outputclass="title" id="6db512c5-71a7-4898-8e3e-153351b468a3">
                     <xref outputclass="ps_link" id="div_pl3_y3b_v2b" keyref="rdacC10007/div_pl3_y3b_v2b">Condition Option</xref>
                 </p>
-                <div id="e08c1daf-ca17-4c84-9b9f-e270e4001bd3"/>
+                <div id="e08c1daf-ca17-4c84-9b9f-e270e4001bd3">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_entity_Manifestation.dita#ala-a63858f3-db31-3d44-af18-4b55d442951a/4c2bebd9-21f1-436e-b575-8f9a5015c799">
+                        <p>In a shared cataloging environment, generally follow <ph conkeyref="b_bp_mla/ph_hxf_tyh_ktb"/>. That is, record only file characteristics that are applicable to all versions of a manifestation; do not record characteristics that vary, or may vary, between providers.</p>
+                    </div>
+                </div>
             </div>
         </section>
         <section id="b149f1c1-327d-42eb-b724-617262f71966">
