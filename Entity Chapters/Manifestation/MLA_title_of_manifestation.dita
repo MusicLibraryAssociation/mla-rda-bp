@@ -325,8 +325,10 @@
                      keyref="rdamP30134/div_s4t_qnd_wgb">Condition Option</xref>
             </p>
             <div id="2382ada9-15ce-4e17-8122-eea1e3aceabe">
+               <p>Determine if a title is distinctive or generic according to the instructions at Manifestation: <xref keyref="rdamP30156/div_r4p_1yv_dgb">title proper. Titles proper including music information.</xref></p>
                <p>
-                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>if recording a title proper or parallel title proper as instructed by the guidelines at Manifestation: <xref keyref="rdamP30156/div_r4p_1yv_dgb">title proper. Titles proper including music information</xref>.</p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>if the title is distinctive. Also apply the <xref keyref="rdamP30134/div_qpp_1yv_dgb">option</xref> to record music information as Manifestation: <xref keyref="rdamP30142"/>.</p>
+               <p><ph conkeyref="b_bp_mla/ph_vch_fwk_stb"/>if the title is generic, or in case of doubt; instead record the music information as part of a Manifestation: <xref keyref="rdamP30156"/>.</p>
             </div>
          </div>
          <div id="1429eb99-9fee-470a-9afd-9e8f4599d9f6">
@@ -336,6 +338,7 @@
                      keyref="rdamP30134/div_qpp_1yv_dgb">Condition Option</xref>
             </p>
             <div id="cf6428d7-8235-440a-9cac-16ac7b0bb75c">
+               <p>If a number is integral to a distinctive title (e.g., "The priest of the seventh day") or enumerates a sequence of otherwise identically titled works (e.g., "Antiphony II"; "Untitled no. 4"), record the number as a part of a Manifestation: <xref keyref="rdamP30156"/>. Otherwise follow LC/PCC practice.</p>
                <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_title_of_manifestation.dita#ala-cc41ea75-9078-3445-8dd5-d5d8b325985a/8f0f48bd-0873-4bb1-a025-93a8b2249901"/>
             </div>
          </div>
