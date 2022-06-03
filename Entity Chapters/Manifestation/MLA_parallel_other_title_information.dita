@@ -16,19 +16,17 @@
                 <p outputclass="title" id="c65fd772-62b5-42df-8495-1e2381e38458">
                     <xref outputclass="ps_link" keyref="rdamP30151/a9553bf5-08a5-445c-bc14-bab05b05893a">Prerecording</xref>
                 </p>
-                <div id="4f45704d-abb0-4935-9bca-20d1ec0a63c4"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_vtg_bdh_r4b"
-                        id="ph_a5l_nfb_54b"/> For guidance on encoding parallel data in MARC see <ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_r2t_4hh_r4b"
-                        id="ph_adj_2gb_54b"/>
-                    <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_svd_ytt_t4b"
-                        id="ph_old_fgb_54b"/>.</div>
+                <div id="4f45704d-abb0-4935-9bca-20d1ec0a63c4">
+                    <p><ph conkeyref="b_bp_mla/p_vtg_bdh_r4b" id="ph_a5l_nfb_54b"/></p>
+                </div>
             </div>
             <div id="423d52b9-ac1c-4a4d-86fb-e08c15849f03">
                 <p outputclass="title" id="53154740-f5c8-44af-9084-5ed507be0f84">
                     <xref outputclass="ps_link" keyref="rdamP30151/div_jn4_zz1_cgb">Option</xref>
                 </p>
-                <div id="d12121d9-9255-4774-85e9-ffade6166792"/>
+                <div id="d12121d9-9255-4774-85e9-ffade6166792">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_parallel_other_title_information.dita#ala-bb3bf9c1-c59a-37a5-be01-0abaaaaac7bf/42c0dc5b-d67f-4dff-9cf0-d4b0be1d90a0"/>
+                </div>
             </div>
         </section>
         <section id="2cbe6f53-2d83-4354-a607-ee6853710f2c">
@@ -37,7 +35,10 @@
                 <p outputclass="title" id="e8cd4338-d648-4a52-b527-a8c1a7f309f5">
                     <xref outputclass="ps_link" keyref="rdamP30151/10bb81ff-338a-485c-ab9d-aeea319f3c3c">Recording</xref>
                 </p>
-                <div id="9ddc881d-8be8-4396-9027-1537675d9166"/>
+                <div id="9ddc881d-8be8-4396-9027-1537675d9166">
+                    <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/> For guidance on encoding parallel data in MARC see <ph conkeyref="b_bp_mla/p_r2t_4hh_r4b" id="ph_adj_2gb_54b"/>
+                        <ph conkeyref="b_bp_mla/ph_svd_ytt_t4b" id="ph_old_fgb_54b"/>.</p>
+                </div>
             </div>
         </section>
         <section id="be34cdb7-112d-44c3-99ad-3db986714c63">
@@ -52,53 +53,54 @@
                 <p outputclass="title" id="fa6b72b3-1600-4d8c-b331-1111d91016f3">
                     <xref outputclass="ps_link" id="div_kwr_qfr_hnb" keyref="rdamP30151/div_kwr_qfr_hnb">Option</xref>
                 </p>
-                <div id="b2d79037-a4a2-44e6-8c2e-239475a9b473"/>
+                <div id="b2d79037-a4a2-44e6-8c2e-239475a9b473">
+                    <p><ph conkeyref="b_bp_mla/p_sl3_hfh_r4b"/></p>
+                </div>
             </div>
             <div id="e6e92efb-f07a-486e-8e9a-940003a137d9">
                 <p outputclass="title" id="19ce32f2-b8c0-414b-b6e5-38385c9370f6">
                     <xref outputclass="ps_link" id="div_mwr_qfr_hnb" keyref="rdamP30151/div_mwr_qfr_hnb">Option</xref>
                 </p>
-                <div id="8cef3e8e-5fd2-4648-8fea-0af98e284e85"/>
+                <div id="8cef3e8e-5fd2-4648-8fea-0af98e284e85">
+                    <p><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/></p>
+                </div>
             </div>
             <div id="4b5e080b-974e-4547-b6ee-fd44434cf00d">
                 <p outputclass="title" id="4e7a16c9-40a4-4206-a2f6-615e523f65b3">
                     <xref outputclass="ps_link" id="div_owr_qfr_hnb" keyref="rdamP30151/div_owr_qfr_hnb">Option</xref>
                 </p>
-                <div id="148925a7-fcdb-4fc2-82fd-8650c6719151"/>
+                <div id="148925a7-fcdb-4fc2-82fd-8650c6719151">
+                    <p><ph conkeyref="b_bp_mla/p_sl3_hfh_r4b"/></p>
+                </div>
             </div>
             <div id="2831ee10-d61e-4aa2-b7b6-17db7b638d08">
                 <p outputclass="title" id="8ebce4a2-00d8-4dd8-9b7a-7baa708ec4e5">
                     <xref outputclass="ps_link" id="div_uns_qkn_rgb" keyref="rdamP30151/div_uns_qkn_rgb">Condition Option</xref>
                 </p>
-                <div id="aa0c6081-8d9a-45d3-98c1-0468803fa15b"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b"
-                        id="ph_cy2_qfb_54b"/>
-                    <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_fm3_4ht_t4b"
-                        id="ph_rm5_qfb_54b"/></div>
+                <div id="aa0c6081-8d9a-45d3-98c1-0468803fa15b">
+                    <p><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b" id="ph_cy2_qfb_54b"/>
+                        <ph conkeyref="b_bp_mla/ph_fm3_4ht_t4b" id="ph_rm5_qfb_54b"/></p>
+                </div>
             </div>
             <div id="530f8dc7-7f9f-4cef-801d-d9babc89d26e">
                 <p outputclass="title" id="bc749466-3aec-4c2b-ae42-5dc734c8c107">
                     <xref outputclass="ps_link" id="div_g3g_gsc_hhb" keyref="rdamP30151/div_g3g_gsc_hhb">Condition Option</xref>
                 </p>
-                <div id="6aaf6dac-eca1-48d2-96d8-df8aa4414e6e"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_elw_gfh_r4b"
-                        id="ph_jrr_sfb_54b"/>
-                    <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_d3p_tmt_t4b"
-                        id="ph_d4l_tfb_54b"/>
-                    <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_yjw_24t_t4b"
-                        id="ph_ygn_5fb_54b"/></div>
+                <div id="6aaf6dac-eca1-48d2-96d8-df8aa4414e6e">
+                    <p><ph conkeyref="b_bp_mla/p_elw_gfh_r4b" id="ph_jrr_sfb_54b"/>
+                        <ph conkeyref="b_bp_mla/ph_d3p_tmt_t4b" id="ph_d4l_tfb_54b"/>
+                        <ph conkeyref="b_bp_mla/ph_yjw_24t_t4b" id="ph_ygn_5fb_54b"/></p>
+                </div>
             </div>
             <div id="798a43b5-7f44-402a-8f0b-d9e8a1c3512c">
                 <p outputclass="title" id="31652685-e525-471a-ba48-22b475c4feb9">
                     <xref outputclass="ps_link" id="div_f4s_1ph_qhb" keyref="rdamP30151/div_f4s_1ph_qhb">Condition Option</xref>
                 </p>
-                <div id="bbe5d377-1f1e-46b2-95e0-af9e3248a664"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_elw_gfh_r4b"
-                        id="ph_mv5_vfb_54b"/>
-                    <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_trj_m4t_t4b"
-                        id="ph_mrh_wfb_54b"/>
-                    <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_yjw_24t_t4b"
-                        id="ph_vls_wfb_54b"/></div>
+                <div id="bbe5d377-1f1e-46b2-95e0-af9e3248a664">
+                    <p><ph conkeyref="b_bp_mla/p_elw_gfh_r4b" id="ph_mv5_vfb_54b"/>
+                        <ph conkeyref="b_bp_mla/ph_trj_m4t_t4b" id="ph_mrh_wfb_54b"/>
+                        <ph conkeyref="b_bp_mla/ph_yjw_24t_t4b" id="ph_vls_wfb_54b"/></p>
+                </div>
             </div>
         </section>
         <section id="e467575f-d0a4-4563-8252-056b98740ce8">

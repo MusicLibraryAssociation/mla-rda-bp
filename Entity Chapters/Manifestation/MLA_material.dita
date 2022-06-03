@@ -22,8 +22,7 @@
                      keyref="rdamP30304/25c3cd92-5309-4be3-b5fb-e216917c8be5">Prerecording</xref>
             </p>
             <div id="fd9f1ec7-8f4d-4121-a694-b32f60dd2158">
-               <p>
-                  <ph conkeyref="b_bp_mla/ph_owx_hxs_qpb"/>for certain types of audio carriers. Alternatively or additionally, record one or both narrower elements. For guidance and examples consult <ph conkeyref="b_bp_mla/p_r2t_4hh_r4b"/>, <ph conkeyref="b_bp_mla/ph_grz_xtt_t4b"/>.</p>
+               <p><ph conkeyref="b_bp_mla/ph_owx_hxs_qpb"/>for certain types of audio carriers. <ph conkeyref="b_bp_mla/ph_vgt_s34_kqb"/> For guidance and examples consult <ph conkeyref="b_bp_mla/p_r2t_4hh_r4b"/>, <ph conkeyref="b_bp_mla/ph_grz_xtt_t4b"/>.</p>
             </div>
          </div>
       </section>
@@ -178,10 +177,7 @@
                      keyref="rdamP30304/div_rzx_f5x_ycb">Option</xref>
             </p>
             <div id="e37dfec3-00e6-4974-a0ae-3fbbae247d0a">
-               <p>
-                  <ph conkeyref="b_bp_mla/p_izh_3fh_r4b"/>
-                  <ph conkeyref="b_bp_mla/ph_qtx_by2_cqb"/>
-               </p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_material.dita#ala-eb54276c-91ff-363e-9ec7-4e11fbf42738/4be8443c-ab05-4381-9d0d-4ae66c636cf6"/>
             </div>
          </div>
       </section>
@@ -200,7 +196,9 @@
                      id="div_bhv_vfz_tdb"
                      keyref="rdamP30304/div_bhv_vfz_tdb">Option</xref>
             </p>
-            <div id="db6b312b-e3dc-4fbf-9f9c-84965d206b05"/>
+            <div id="db6b312b-e3dc-4fbf-9f9c-84965d206b05">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_material.dita#ala-eb54276c-91ff-363e-9ec7-4e11fbf42738/9989c9b6-9cd2-4e7c-b322-95c06d08597f"/>
+            </div>
          </div>
          <div id="225f0996-c270-4816-b3b4-ed9ab2173e63">
             <p outputclass="title" id="7120235e-c018-471d-9b22-85bd771f6285">
@@ -208,7 +206,9 @@
                      id="div_u3z_fx3_mhb"
                      keyref="rdamP30304/div_u3z_fx3_mhb">Option</xref>
             </p>
-            <div id="e871bc69-7f01-47bc-a1ba-db143d1c88c8"/>
+            <div id="e871bc69-7f01-47bc-a1ba-db143d1c88c8">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_material.dita#ala-eb54276c-91ff-363e-9ec7-4e11fbf42738/fe3d82ef-219a-4b09-8a8e-23869076d5d1"/>
+            </div>
          </div>
       </section>
    </body>

@@ -27,7 +27,9 @@
                 <p outputclass="title" id="938e0284-6f3d-40dd-ac72-68824b7e72b8">
                     <xref outputclass="ps_link" keyref="rdamP30013/div_cvq_gnr_cfb">Option</xref>
                 </p>
-                <div id="9c7a2e47-bdd8-44fb-9b4b-272738ce23fb"/>
+                <div id="9c7a2e47-bdd8-44fb-9b4b-272738ce23fb">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_parallel_designation_of_edition.dita#ala-aacc4f43-55d8-329e-a974-d3ff0c5e2719/bd9494c4-d1c0-4ee2-bad9-4292a0136c84"/>
+                </div>
             </div>
         </section>
         <section id="aa6e6c02-2c2c-4a06-a16d-1c280299df17">
@@ -42,6 +44,8 @@
                             id="ph_tss_4h1_dqb"/>field 250 subfield $b. Record a value associated
                         with a particular edition statement in the same field 250 as that edition
                         statement.</p>
+                    <p>For guidance on encoding parallel data in MARC see <ph conkeyref="b_bp_mla/p_r2t_4hh_r4b" id="ph_adj_2gb_54b"/>
+                        <ph conkeyref="b_bp_mla/ph_svd_ytt_t4b" id="ph_old_fgb_54b"/>.</p>
                 </div>
             </div>
         </section>

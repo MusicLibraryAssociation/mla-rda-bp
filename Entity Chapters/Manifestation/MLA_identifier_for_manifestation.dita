@@ -148,14 +148,10 @@
                     <xref outputclass="ps_link" id="div_t3l_mpm_mgb" keyref="rdamP30004/div_t3l_mpm_mgb">Condition Option</xref>
                 </p>
                 <div id="18435593-3b07-4585-9d7f-5ace8e4e1954">
-                    <p id="p_q5t_gng_hpb"><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b" id="ph_wjq_nx1_bpb"
-                        /> When recording identifiers for multiple units, cite the unit(s) to which
-                        the identifier applies. When recording identifiers that appear in variant
-                        forms in various locations, cite the location in which the identifier is
-                        found. For matrix numbers, always record the qualifier <term>matrix</term>
-                        even if only one identifier is present. </p>
+                    <p id="p_q5t_gng_hpb">When recording identifiers for multiple units, cite the unit(s) to which the identifier applies. When recording identifiers that appear in variant forms in various locations, cite the location in which the identifier is found. For matrix numbers, always record the qualifier <term>matrix</term> even if only one identifier is present. </p>
                     <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b" id="ph_vrv_rx1_bpb"/>Record in field
                         020, 024, or 028 subfield $q.</p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_identifier_for_manifestation.dita#ala-b619d37a-136c-36ea-8aa4-725867f7066a/6708af88-3c38-47f0-bc19-e0ca226dac8b"/>
                 </div>
             </div>
             <div id="d35a731e-167a-4a0d-80de-e127ccfaa4fc">
@@ -266,8 +262,7 @@
                     <xref outputclass="ps_link" id="div_bkz_nws_dfb" keyref="rdamP30004/div_bkz_nws_dfb">Condition Option</xref>
                 </p>
                 <div id="d8048664-5112-4f8b-b062-92b673cbcca0">
-                    <p id="p_vyz_nng_hpb"><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b" id="ph_vxr_32b_bpb"
-                        /></p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_identifier_for_manifestation.dita#ala-b619d37a-136c-36ea-8aa4-725867f7066a/b973db5f-3507-4144-8fa9-76f5891467e3"/>
                 </div>
             </div>
             <div id="83e92918-da53-4966-a5d6-461dccbfb2e2">
@@ -275,12 +270,11 @@
                     <xref outputclass="ps_link" id="div_ddq_vws_dfb" keyref="rdamP30004/div_ddq_vws_dfb">Condition Option</xref>
                 </p>
                 <div id="d7421d1c-bafb-46e0-b923-873d0a047204">
-                    <p id="p_qlz_mng_hpb"><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b" id="ph_fwg_k2b_bpb"
-                            /><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b" id="ph_czb_l2b_bpb"/></p>
                     <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>For standard identifiers recorded in
                         fields 020 or 024, record the identifier in subfield $z (invalid or canceled
                         number) rather than $a. For any identifier in an 02x field, supply a
                         qualifying term in subfield $q.</p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_identifier_for_manifestation.dita#ala-b619d37a-136c-36ea-8aa4-725867f7066a/a22d7b37-4a55-4124-9bfd-616cf18d1235"/>
                 </div>
             </div>
         </section>
@@ -314,13 +308,18 @@
                 <p outputclass="title" id="fc9a6a9c-011d-4da8-9b10-f9ee405bdb69">
                     <xref outputclass="ps_link" id="div_mlm_m4q_rhb" keyref="rdamP30004/div_mlm_m4q_rhb">Option</xref>
                 </p>
-                <div id="e0f2fb41-baff-4dc1-86d2-70e9326e6f03"/>
+                <div id="e0f2fb41-baff-4dc1-86d2-70e9326e6f03">
+                    <p><ph conkeyref="b_bp_mla/p_hjp_jfh_r4b"/></p>
+                    <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/> Amend standard identifier formatting if necessary to conform to MARC input conventions.</p>
+                </div>
             </div>
             <div id="3b845ffb-0814-4a66-866d-fb4248220a0b">
                 <p outputclass="title" id="02eb8eb8-8288-4523-b628-19dea615750b">
                     <xref outputclass="ps_link" id="div_efv_l4q_rhb" keyref="rdamP30004/div_efv_l4q_rhb">Option</xref>
                 </p>
-                <div id="a91f97af-326a-45c4-9773-1789d40124ea"/>
+                <div id="a91f97af-326a-45c4-9773-1789d40124ea">
+                    <p><ph conkeyref="b_bp_mla/p_hjp_jfh_r4b"/></p>
+                </div>
             </div>
         </section>
         <section id="be84295a-ef41-4971-b96b-f924728d97fd">
@@ -335,7 +334,9 @@
                 <p outputclass="title" id="49026375-559f-46e9-a380-b560d69c381a">
                     <xref outputclass="ps_link" id="div_tpq_fsm_lhb" keyref="rdamP30004/div_tpq_fsm_lhb">Option</xref>
                 </p>
-                <div id="d40c7e0a-4ecc-47c8-8bbd-adb3f3eab9c3"/>
+                <div id="d40c7e0a-4ecc-47c8-8bbd-adb3f3eab9c3">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_identifier_for_manifestation.dita#ala-b619d37a-136c-36ea-8aa4-725867f7066a/32c84677-cee4-4780-bc9d-3628230c8ea4"/>
+                </div>
             </div>
         </section>
         <section id="815f2061-e31b-44ed-8fe0-8df967ce1bb8">

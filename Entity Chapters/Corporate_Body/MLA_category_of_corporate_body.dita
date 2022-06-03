@@ -109,7 +109,7 @@
             </p>
             <div id="574fa2b0-9715-42ee-b6c6-c2ca83c2bd42">
                <p>
-                  <ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/> Prefer terms from the Library of Congress Subject Headings where possible. Generally use the LCSH term "Musical groups" for performing ensembles.</p>
+                  <ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/> Prefer terms from the Library of Congress Subject Headings where possible. Generally use the LCSH term "Musical groups" for performing ensembles. Optionally, record a more specific term <ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/></p>
             </div>
          </div>
          <div id="09469dc0-2a44-4b59-8e45-486ce0ca2b43">
@@ -152,7 +152,9 @@
                      id="div_ym2_ybd_mhb"
                      keyref="rdaaP50237/div_ym2_ybd_mhb">Option</xref>
             </p>
-            <div id="6f0c13e7-a78a-4a8d-b9e0-1e20eb3a193b"/>
+            <div id="6f0c13e7-a78a-4a8d-b9e0-1e20eb3a193b">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Corporate_Body/LC_category_of_corporate_body.dita#ala-d8adb450-30f4-3579-8feb-b0e176c3ccee/6695c33d-0fd9-4afd-bf42-302affc0519c"/>
+            </div>
          </div>
          <div id="7c7c0e9b-e879-4249-9533-3b906cc9a196">
             <p outputclass="title" id="06e68f1b-b536-4ec4-af0e-9e4122614e79">
@@ -160,7 +162,9 @@
                      id="div_rzx_f5x_ycb"
                      keyref="rdaaP50237/div_rzx_f5x_ycb">Option</xref>
             </p>
-            <div id="62354266-7b9a-4618-8f61-18676bdbd985"/>
+            <div id="62354266-7b9a-4618-8f61-18676bdbd985">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Corporate_Body/LC_category_of_corporate_body.dita#ala-d8adb450-30f4-3579-8feb-b0e176c3ccee/2e4e5a4a-39f5-452a-95c0-3f3ff2680ae0"/>
+            </div>
          </div>
       </section>
       <section id="af65d3a5-ba05-4270-b161-f1cc95a5c23c">
@@ -178,16 +182,9 @@
                      id="div_vzw_wbd_mhb"
                      keyref="rdaaP50237/div_vzw_wbd_mhb">Option</xref>
             </p>
-            <div id="d182daa4-3948-4127-abca-0a5fa22db658"/>
-         </div>
-      </section>
-      <section id="5809e71c-3505-4608-9dce-14015faec38e">
-         <title>View in Context Example</title>
-         <div id="30108525-7133-4682-800f-803230f43c2a">
-            <p outputclass="title" id="b3b2acf8-e1f2-46bd-bb50-f6e26715764a">
-               <xref outputclass="ps_link" keyref="rdaaP50237/section_krv_vr5_3db">View in Context Example</xref>
-            </p>
-            <div id="9cd06726-6c9f-489a-bc93-9b0daacbdf7b"/>
+            <div id="d182daa4-3948-4127-abca-0a5fa22db658">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Corporate_Body/LC_category_of_corporate_body.dita#ala-d8adb450-30f4-3579-8feb-b0e176c3ccee/7b3db775-b167-41fe-9a33-569419e06b43"/>
+            </div>
          </div>
       </section>
    </body>

@@ -17,15 +17,18 @@
                     <xref outputclass="ps_link"
                         keyref="rdamP30057/2eb98e66-6835-4c34-88ae-7f200751315b">Prerecording</xref>
                 </p>
-                <div id="cc0eabe0-f71d-453d-8767-1d3f39cf2112"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_pnk_vdh_r4b"
-                        id="ph_ezn_2ht_v4b"/> for audio and video recordings.</div>
+                <div id="cc0eabe0-f71d-453d-8767-1d3f39cf2112">
+                    <p><ph conkeyref="b_bp_mla/p_pnk_vdh_r4b" id="ph_ezn_2ht_v4b"/> for audio and video recordings.</p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_note_on_statement_of_responsibility.dita#ala-fbe52245-64da-39d5-ad29-8ebf49f6060e/e31d9995-58c2-4c7e-8f7b-8a6a69a4e9ca"/>
+                </div>
             </div>
             <div id="d8d1de17-9f12-443c-93cd-3d4c7cebee93">
                 <p outputclass="title" id="aa80ce1c-9e16-4138-b83a-674e8ec0df93">
                     <xref outputclass="ps_link" keyref="rdamP30057/div_ijy_bql_rhb">Option</xref>
                 </p>
-                <div id="6187c018-be82-436c-8009-1b160ba736ac"/>
+                <div id="6187c018-be82-436c-8009-1b160ba736ac">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_note_on_statement_of_responsibility.dita#ala-fbe52245-64da-39d5-ad29-8ebf49f6060e/ab531bf2-73ee-46f9-9591-6cdd0bcc8df3"/>
+                </div>
             </div>
         </section>
         <section id="3cd7ab08-72a8-4162-9044-d74d1984f9ef">
@@ -35,9 +38,9 @@
                     <xref outputclass="ps_link" keyref="rdamP30057/64998637-302b-49de-a080-2d095628acc3">Recording</xref>
                 </p>
                 <div id="b4529dd6-3466-4b4b-ab9e-3e4b9d0e8416"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_osx_rxr_x4b"
+                        conkeyref="b_bp_mla/ph_osx_rxr_x4b"
                         id="ph_jlp_dgc_bpb"/>
-                    <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_lwm_qgd_z4b"
+                    <ph conkeyref="b_bp_mla/ph_lwm_qgd_z4b"
                         id="ph_els_hvp_gpb"/> field 511 for performers, narrators, presenters, etc.,
                     or field 508 for producers, directors, production designers, etc.</div>
             </div>
@@ -48,52 +51,37 @@
                 <p outputclass="title" id="c30af760-94e8-45e5-8176-2b5e31423b94">
                     <xref outputclass="ps_link" keyref="rdamP30057/947cb2fa-a4ff-4fe6-9738-f19acdb5ac64">Recording an unstructured description</xref>
                 </p>
-                <div id="34243ce8-4916-45f9-a8f3-d2562e03179f">
-                    <p id="p_urz_4ht_v4b">For audio and video recordings, routinely record
-                        performers, narrators and/or presenters. Optionally, give names of members
-                        of a musical group in parentheses after the name of the group <ph
-                            conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_mnb_hns_v4b"
-                            id="ph_hbf_djt_v4b"/></p>
-                    <p id="p_xrz_4ht_v4b"> If there are numerous works/expressions embodied in the
-                        resource, and there are performers, etc. who perform only in some of the
-                        works/expressions, give all performers names, qualified by a designation for
-                        the works/expressions involved, if feasible. Optionally, give "Various
-                        performers" if:</p>
-                    <ol id="ol_vdp_pht_v4b">
-                        <li id="li_a2p_pht_v4b">Giving fuller detail is not feasible or not deemed
-                            useful for identification or selection; or,</li>
-                        <li id="li_ocf_rht_v4b">Performers are named in a field 505 contents note in
-                            conjunction with the specific works/expressions in which they
-                            perform.</li>
-                    </ol>
-                    <p id="p_lfc_5ht_v4b">Also record producers, directors, production designers,
-                        etc., <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_mnb_hns_v4b"
-                            id="ph_p3s_vht_v4b"/></p>
-                </div>
+                <div id="34243ce8-4916-45f9-a8f3-d2562e03179f"/>
             </div>
             <div id="cc1e3fdb-7557-40bf-b3e1-04e926249483">
                 <p outputclass="title" id="8e0d3c16-0eb7-4ced-a6cb-d9a954422cc8">
                     <xref outputclass="ps_link" id="div_atm_pz3_vdb" keyref="rdamP30057/div_atm_pz3_vdb">Condition Option</xref>
                 </p>
-                <div id="b4bc9201-22c2-429e-92d4-c07004347881"/>
+                <div id="b4bc9201-22c2-429e-92d4-c07004347881">
+                    <p>For audio and video recordings, routinely record performers, narrators and/or presenters. Optionally, give names of members of a musical group in parentheses after the name of the group <ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/></p>
+                    <p> If there are numerous works/expressions embodied in the resource, and there are performers, etc. who perform only in some of the works/expressions, give all performers' names, qualified by a designation for the works/expressions involved, if feasible. Alternatively, give "Various performers" if:</p>
+                    <ol id="ol_czn_2ng_ttb">
+                        <li>Giving fuller detail is not feasible or not deemed useful for identification or selection; or,</li>
+                        <li>Performers are named in a contents note in conjunction with the specific works/expressions in which they perform.</li>
+                    </ol>
+                    <p>Also record producers, directors, production designers, etc., <ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/></p>
+                </div>
             </div>
             <div id="1ce13c3e-1b20-491b-b7b4-b36f5fec2bec">
                 <p outputclass="title" id="d9e6ddef-fd53-4ea0-be8d-bb4b97de0ea6">
                     <xref outputclass="ps_link" id="div_uwd_hjs_12b" keyref="rdamP30057/div_uwd_hjs_12b">Condition Option</xref>
                 </p>
-                <div id="990bbabe-7d4d-448d-9aa6-19f660ff7076"/>
+                <div id="990bbabe-7d4d-448d-9aa6-19f660ff7076">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_note_on_statement_of_responsibility.dita#ala-fbe52245-64da-39d5-ad29-8ebf49f6060e/aae9beb6-9ece-42c0-9f08-8a1270f92057"/>
+                </div>
             </div>
             <div id="b48e92c0-c9e0-483f-93bf-508e4eb086da">
                 <p outputclass="title" id="6d5d0c6d-6a43-4f41-a248-b95aff3234fe">
                     <xref outputclass="ps_link" id="div_rg1_kjs_12b" keyref="rdamP30057/div_rg1_kjs_12b">Option</xref>
                 </p>
-                <div id="d9deb1e8-15e0-4656-8dfd-d40d0496aff5"/>
-            </div>
-            <div id="0d75d931-db43-42e3-abfd-5db7069febaa">
-                <p outputclass="title" id="12fa0ab0-01a6-4986-842a-61bb97028b80">
-                    <xref outputclass="ps_link" id="div_mpq_3xr_phb" keyref="rdamP30057/div_mpq_3xr_phb">Option</xref>
-                </p>
-                <div id="13ac0af0-9b4b-4423-8e4f-3b234d28547e"/>
+                <div id="d9deb1e8-15e0-4656-8dfd-d40d0496aff5">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_note_on_statement_of_responsibility.dita#ala-fbe52245-64da-39d5-ad29-8ebf49f6060e/b3d706fe-08d5-48aa-b32a-3063a9143109"/>
+                </div>
             </div>
         </section>
         <section id="70ceb67a-d838-45bd-ace4-f48564413daf">
@@ -117,7 +105,9 @@
                 <p outputclass="title" id="58759b75-8155-4156-8cc1-b0a585c990df">
                     <xref outputclass="ps_link" id="div_pl2_wjs_12b" keyref="rdamP30057/div_pl2_wjs_12b">Option</xref>
                 </p>
-                <div id="bf42b431-4bfe-4848-ae49-c59ab15ebc89"/>
+                <div id="bf42b431-4bfe-4848-ae49-c59ab15ebc89">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_note_on_statement_of_responsibility.dita#ala-fbe52245-64da-39d5-ad29-8ebf49f6060e/8d2213e0-2b9a-4745-89d4-ebe9cde62f59"/>
+                </div>
             </div>
         </section>
         <section id="96e65b07-8a99-415b-873d-6a0c99819056">
@@ -132,13 +122,17 @@
                 <p outputclass="title" id="7070ad41-49f2-4193-b424-81cff8e28312">
                     <xref outputclass="ps_link" id="div_zlw_zjs_12b" keyref="rdamP30057/div_zlw_zjs_12b">Option</xref>
                 </p>
-                <div id="c310d18d-7831-425a-afe7-9a4540ac520a"/>
+                <div id="c310d18d-7831-425a-afe7-9a4540ac520a">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_note_on_statement_of_responsibility.dita#ala-fbe52245-64da-39d5-ad29-8ebf49f6060e/92073bd9-aa83-43b8-b966-9e3345bbeeb8"/>
+                </div>
             </div>
             <div id="933bb260-cc1e-4736-a960-3afa7da84dd8">
                 <p outputclass="title" id="8426aca7-62c5-4a2c-af3b-b23e45ffc05a">
                     <xref outputclass="ps_link" id="div_ub3_fks_12b" keyref="rdamP30057/div_ub3_fks_12b">Condition Option</xref>
                 </p>
-                <div id="a964f6a6-f6ff-4b9f-870b-73eb5f209c2b"/>
+                <div id="a964f6a6-f6ff-4b9f-870b-73eb5f209c2b">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_note_on_statement_of_responsibility.dita#ala-fbe52245-64da-39d5-ad29-8ebf49f6060e/b2fb43fd-f04c-4bef-bd55-08c1d6b2cbc3"/>
+                </div>
             </div>
         </section>
         <section id="726456d9-29d0-42de-89f6-588feb4d2ff1">
@@ -153,13 +147,25 @@
                 <p outputclass="title" id="07fc71cf-bbeb-4ef8-bde9-9e0d4c54c452">
                     <xref outputclass="ps_link" id="div_zlh_cks_12b" keyref="rdamP30057/div_zlh_cks_12b">Option</xref>
                 </p>
-                <div id="a0f7760f-2d23-49cc-88be-563e51f8e432"/>
+                <div id="a0f7760f-2d23-49cc-88be-563e51f8e432">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_note_on_statement_of_responsibility.dita#ala-fbe52245-64da-39d5-ad29-8ebf49f6060e/42047722-f399-49c9-bf87-cabc2d6d763f"/>
+                </div>
             </div>
             <div id="db959b29-a6b8-4c0f-bdfb-8685b9128578">
                 <p outputclass="title" id="ce332d3d-bfeb-4f41-8cda-50d7f0782938">
                     <xref outputclass="ps_link" id="div_wvz_trq_cfb" keyref="rdamP30057/div_wvz_trq_cfb">Condition Option</xref>
                 </p>
-                <div id="e27fc2e6-8a20-47ab-939a-516905eac5ae"/>
+                <div id="e27fc2e6-8a20-47ab-939a-516905eac5ae">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_note_on_statement_of_responsibility.dita#ala-fbe52245-64da-39d5-ad29-8ebf49f6060e/1048e01d-25d2-4ffb-9574-491e927897a3"/>
+                </div>
+            </div>
+            <div id="0d75d931-db43-42e3-abfd-5db7069febaa">
+                <p outputclass="title" id="12fa0ab0-01a6-4986-842a-61bb97028b80">
+                    <xref outputclass="ps_link" id="div_mpq_3xr_phb" keyref="rdamP30057/div_mpq_3xr_phb">Condition Option</xref>
+                </p>
+                <div id="13ac0af0-9b4b-4423-8e4f-3b234d28547e">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_note_on_statement_of_responsibility.dita#ala-fbe52245-64da-39d5-ad29-8ebf49f6060e/div_y1p_pnr_smb"/>
+                </div>
             </div>
         </section>
         <section id="f23942a2-ef57-4d34-b1fd-d53645eabed7">

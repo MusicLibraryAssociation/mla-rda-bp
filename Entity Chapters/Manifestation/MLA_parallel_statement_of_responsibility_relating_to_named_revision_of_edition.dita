@@ -16,13 +16,17 @@
                 <p outputclass="title" id="52e87721-f75f-4e9a-bb73-4846a908e5cd">
                     <xref outputclass="ps_link" keyref="rdamP30112/a9553bf5-08a5-445c-bc14-bab05b05893a">Prerecording</xref>
                 </p>
-                <div id="031abac5-8af6-4a77-b0d3-a6f3af4208a6"/>
+                <div id="031abac5-8af6-4a77-b0d3-a6f3af4208a6">
+                    <p><ph conkeyref="b_bp_mla/p_dft_12h_r4b"/></p>
+                </div>
             </div>
             <div id="3787d2ac-87c7-4ccd-91f7-42a19cc872a9">
                 <p outputclass="title" id="54385fab-a75f-40a6-82ee-cb69b5403cff">
                     <xref outputclass="ps_link" keyref="rdamP30112/div_f4y_lmr_cfb">Option</xref>
                 </p>
-                <div id="a1025f9f-45c3-4b3a-a3f5-0653aaaf5796"/>
+                <div id="a1025f9f-45c3-4b3a-a3f5-0653aaaf5796">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_parallel_statement_of_responsibility_relating_to_named_revision_of_edition.dita#ala-bb494ef6-596f-3d14-89be-7951cfff1fe8/4b77e866-f31e-4e64-9961-94de2becf7b5"/>
+                </div>
             </div>
         </section>
         <section id="d6415549-24cd-4058-a572-d8fe7b9f5e10">
@@ -32,10 +36,8 @@
                     <xref outputclass="ps_link" keyref="rdamP30112/10bb81ff-338a-485c-ab9d-aeea319f3c3c">Recording</xref>
                 </p>
                 <div id="872bf98d-9788-4292-8c8e-c8cc3fcd894e">
-                    <p id="p_gtz_bcs_x4b"><ph
-                            conkeyref="b_bp_mla/ph_osx_rxr_x4b"
-                            id="ph_gyv_ybs_x4b"/> Transcribe parallel statements of responsibility
-                        relating to a named revision of edition in field 250 $b.</p>
+                    <p id="p_gtz_bcs_x4b"><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b" id="ph_gyv_ybs_x4b"/> Transcribe parallel statements of responsibility relating to a named revision of edition in field 250 $b. For guidance on encoding parallel data in MARC see <ph conkeyref="b_bp_mla/p_r2t_4hh_r4b" id="ph_adj_2gb_54b"/>
+                        <ph conkeyref="b_bp_mla/ph_svd_ytt_t4b" id="ph_old_fgb_54b"/>. </p>
                     <p id="p_o41_bcs_x4b"><ph
                             conkeyref="b_bp_mla/ph_ify_sxr_x4b"
                             id="ph_uhp_bcs_x4b"/></p>
@@ -54,19 +56,25 @@
                 <p outputclass="title" id="95928ca6-7513-4602-b526-1d5e07b4139f">
                     <xref outputclass="ps_link" id="div_btz_pwr_hnb" keyref="rdamP30112/div_btz_pwr_hnb">Option</xref>
                 </p>
-                <div id="9c721c04-d7d6-4ee9-9f2b-c3d40d5af383"/>
+                <div id="9c721c04-d7d6-4ee9-9f2b-c3d40d5af383">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_parallel_statement_of_responsibility_relating_to_named_revision_of_edition.dita#ala-bb494ef6-596f-3d14-89be-7951cfff1fe8/div_qj1_gxr_hnb"/>
+                </div>
             </div>
             <div id="ba325f59-bbb4-4800-916b-3214459da5de">
                 <p outputclass="title" id="ae5355af-e331-442c-92c9-58ff3d9d7a78">
                     <xref outputclass="ps_link" id="div_dtz_pwr_hnb" keyref="rdamP30112/div_dtz_pwr_hnb">Option</xref>
                 </p>
-                <div id="65f2ef7c-dc0d-47f7-9381-7866932e97ec"/>
+                <div id="65f2ef7c-dc0d-47f7-9381-7866932e97ec">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_parallel_statement_of_responsibility_relating_to_named_revision_of_edition.dita#ala-bb494ef6-596f-3d14-89be-7951cfff1fe8/div_tj1_gxr_hnb"/>
+                </div>
             </div>
             <div id="a102275f-917f-44c6-8cd4-ed79776f44d5">
                 <p outputclass="title" id="71e538c4-c533-4940-8d58-52fecc54619d">
                     <xref outputclass="ps_link" id="div_ftz_pwr_hnb" keyref="rdamP30112/div_ftz_pwr_hnb">Option</xref>
                 </p>
-                <div id="c27d8615-792b-44d8-8aaa-7f5255405fa1"/>
+                <div id="c27d8615-792b-44d8-8aaa-7f5255405fa1">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_parallel_statement_of_responsibility_relating_to_named_revision_of_edition.dita#ala-bb494ef6-596f-3d14-89be-7951cfff1fe8/div_wj1_gxr_hnb"/>
+                </div>
             </div>
             <div id="aab3878c-d43d-4a66-be3e-33a4b1313e90">
                 <p outputclass="title" id="ebe8984a-7d95-45af-920c-bc950ca62669">
@@ -111,13 +119,17 @@
                 <p outputclass="title" id="16288762-c88d-4850-a9e2-673e1a5993d6">
                     <xref outputclass="ps_link" id="div_jtz_pwr_hnb" keyref="rdamP30112/div_jtz_pwr_hnb">Option</xref>
                 </p>
-                <div id="191579fc-480d-4ee5-ab2a-4d97f48a51ba"/>
+                <div id="191579fc-480d-4ee5-ab2a-4d97f48a51ba">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_parallel_statement_of_responsibility_relating_to_named_revision_of_edition.dita#ala-bb494ef6-596f-3d14-89be-7951cfff1fe8/div_j1h_1xr_hnb"/>
+                </div>
             </div>
             <div id="f8cbe3b0-91e9-4641-8ebe-5b435e8095c8">
                 <p outputclass="title" id="050f0051-cf51-407c-b069-e0b84745f29f">
                     <xref outputclass="ps_link" id="div_ltz_pwr_hnb" keyref="rdamP30112/div_ltz_pwr_hnb">Option</xref>
                 </p>
-                <div id="f9059e89-5789-4832-a01b-feaf2feffe6f"/>
+                <div id="f9059e89-5789-4832-a01b-feaf2feffe6f">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_parallel_statement_of_responsibility_relating_to_named_revision_of_edition.dita#ala-bb494ef6-596f-3d14-89be-7951cfff1fe8/div_m1h_1xr_hnb"/>
+                </div>
             </div>
         </section>
         <section id="7fd34f13-35e9-429c-ace3-06aeff714473">
