@@ -16,19 +16,17 @@
                 <p outputclass="title" id="b9294a41-7617-4cf3-955d-e3025e60cc4a">
                     <xref outputclass="ps_link" keyref="rdamP30110/8d684a23-5059-4e6d-ac2a-e6fa136f2bed">Prerecording</xref>
                 </p>
-                <div id="ed312637-521d-4713-98ea-19252c8e1df6"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_pnk_vdh_r4b"
-                        id="ph_sd1_33s_x4b"/> for unpublished resources<ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_rlm_crt_v4b"
-                        id="ph_mfq_j3s_x4b"/> Follow LC-PCC PS for sub-elements of production
-                    statement.</div>
+                <div id="ed312637-521d-4713-98ea-19252c8e1df6">
+                    <p><ph conkeyref="b_bp_mla/p_pnk_vdh_r4b" id="ph_sd1_33s_x4b"/> for unpublished resources<ph conkeyref="b_bp_mla/ph_rlm_crt_v4b" id="ph_mfq_j3s_x4b"/></p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_production_statement.dita#ala-6b7993ea-48d2-334c-9686-b101470caa90/da74b348-d7a9-4d1b-a096-f1b6a21c9124"/>
+                </div>
             </div>
             <div id="0a462b9c-52ff-4aa0-9c2c-c2866cd7937d">
                 <p outputclass="title" id="641cca29-8ee8-4396-b655-b89d4fd0a103">
                     <xref outputclass="ps_link" keyref="rdamP30110/div_vhp_yk2_wfb">Option</xref>
                 </p>
                 <div id="f0487efe-e931-49cb-a735-fc2ba75b0d29"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_lkc_zhh_r4b"
+                        conkeyref="b_bp_mla/p_lkc_zhh_r4b"
                         id="ph_r4p_d3z_x4b"/></div>
             </div>
         </section>
@@ -38,10 +36,8 @@
                 <p outputclass="title" id="1c58db24-4b87-43b0-b4d5-07286b947982">
                     <xref outputclass="ps_link" keyref="rdamP30110/cddebdee-d669-4a9b-bfb8-51e73378d382">Recording</xref>
                 </p>
-                <div id="3fd4b0a2-849f-493b-a957-4e10f1002d86"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_osx_rxr_x4b"
-                        id="ph_jg3_43s_x4b"/> Record production statement data in field 264 (first
-                    indicator 0) subfields $a, $b, or $c as appropriate.</div>
+                <div id="3fd4b0a2-849f-493b-a957-4e10f1002d86"><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b" id="ph_jg3_43s_x4b"/>
+                    <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/> one or more sub-elements of this element in field 264 (first indicator 0) subfields $a, $b, and/or $c as appropriate.</div>
             </div>
         </section>
         <section id="5507394a-4476-4340-8acd-028f09e9c232">
@@ -56,19 +52,25 @@
                 <p outputclass="title" id="18951e55-31cf-4b77-8712-6c6acc2f11b0">
                     <xref outputclass="ps_link" id="div_n4g_4g2_rhb" keyref="rdamP30110/div_n4g_4g2_rhb">Option</xref>
                 </p>
-                <div id="48960f7b-1327-48a7-80b6-19b8ded5bea8"/>
+                <div id="48960f7b-1327-48a7-80b6-19b8ded5bea8">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_production_statement.dita#ala-6b7993ea-48d2-334c-9686-b101470caa90/ec3c74ad-9b85-4678-b63f-d10cfc45bc25"/>
+                </div>
             </div>
             <div id="8047ae6e-0a57-4dbd-ace4-47cda596a964">
                 <p outputclass="title" id="5d2c0318-9ffc-42e1-9d27-f8314013698a">
                     <xref outputclass="ps_link" id="div_p5s_ng2_rhb" keyref="rdamP30110/div_p5s_ng2_rhb">Option</xref>
                 </p>
-                <div id="68ae1e62-ecf5-4d14-a6e6-64948d426be6"/>
+                <div id="68ae1e62-ecf5-4d14-a6e6-64948d426be6">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_production_statement.dita#ala-6b7993ea-48d2-334c-9686-b101470caa90/f4573135-d9fd-49f0-9177-76a387b2591f"/>
+                </div>
             </div>
             <div id="1cfd8e1f-31f2-4df9-a675-ee4c58c44a3a">
                 <p outputclass="title" id="bb72e4da-ad9f-4827-93c0-d0397d138cc8">
                     <xref outputclass="ps_link" id="div_oqf_ng2_rhb" keyref="rdamP30110/div_oqf_ng2_rhb">Option</xref>
                 </p>
-                <div id="c82bd0ef-74df-4e76-990a-c0ff5c470c52"/>
+                <div id="c82bd0ef-74df-4e76-990a-c0ff5c470c52">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_production_statement.dita#ala-6b7993ea-48d2-334c-9686-b101470caa90/ba98d596-8f57-44cd-ad83-41e1593db89b"/>
+                </div>
             </div>
         </section>
         <section id="daf198f7-97e4-4fd8-8014-83cf92ebf8e4">
@@ -83,13 +85,17 @@
                 <p outputclass="title" id="c55864c5-effb-4678-bc34-4c725f74dc97">
                     <xref outputclass="ps_link" id="div_ay2_2x1_4hb" keyref="rdamP30110/div_ay2_2x1_4hb">Option</xref>
                 </p>
-                <div id="106d1936-18b4-46bb-a973-d1724e93ceeb"/>
+                <div id="106d1936-18b4-46bb-a973-d1724e93ceeb">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_production_statement.dita#ala-6b7993ea-48d2-334c-9686-b101470caa90/04e16572-1007-4eaf-97ed-5f07287ddf96"/>
+                </div>
             </div>
             <div id="3895b358-6653-474c-bfd0-b2a914b3e140">
                 <p outputclass="title" id="cb8e5035-9a5d-42de-b1a6-2f86a0043db2">
                     <xref outputclass="ps_link" id="div_by2_2x1_4hb" keyref="rdamP30110/div_by2_2x1_4hb">Option</xref>
                 </p>
-                <div id="806bfe7f-26a8-40e1-8bed-32e15ad1d2e8"/>
+                <div id="806bfe7f-26a8-40e1-8bed-32e15ad1d2e8">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_production_statement.dita#ala-6b7993ea-48d2-334c-9686-b101470caa90/0d2ca363-de74-4a5a-9714-6f7a1dcdd2d5"/>
+                </div>
             </div>
         </section>
         <section id="01eb08eb-68fe-42bf-af12-174a3d6b9f27">
@@ -104,13 +110,19 @@
                 <p outputclass="title" id="5197de91-d55f-48ec-aadf-38002813d658">
                     <xref outputclass="ps_link" id="div_e3p_bch_qhb" keyref="rdamP30110/div_e3p_bch_qhb">Option</xref>
                 </p>
-                <div id="6cfe493a-402c-40f0-93a4-1ab8975d1a7e"/>
+                <div id="6cfe493a-402c-40f0-93a4-1ab8975d1a7e">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_production_statement.dita#ala-6b7993ea-48d2-334c-9686-b101470caa90/0942ae76-58b5-48f5-8fdd-aa43b5d17726">
+                        <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/><ph conkeyref="b_bp_mla/ph_iyv_tzz_stb"/></p>
+                    </div>
+                </div>
             </div>
             <div id="6982cfd0-4f9a-402c-be6c-2e16ae5d3aac">
                 <p outputclass="title" id="b05b7c89-1e0a-4869-be8c-2d74d6910933">
                     <xref outputclass="ps_link" id="div_vjf_bfh_qhb" keyref="rdamP30110/div_vjf_bfh_qhb">Option</xref>
                 </p>
-                <div id="90b28b8f-06bc-4d1b-acce-c0f31ed2b828"/>
+                <div id="90b28b8f-06bc-4d1b-acce-c0f31ed2b828">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_production_statement.dita#ala-6b7993ea-48d2-334c-9686-b101470caa90/6bb4369a-3365-4ec2-ab60-d0ece34149f1"/>
+                </div>
             </div>
         </section>
         <section id="1500eacd-6f00-4bc4-83b6-18ae1bf0366b">

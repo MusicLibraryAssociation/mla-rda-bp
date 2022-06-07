@@ -38,8 +38,8 @@
                 <p><ph id="p_uzx_ffh_r4b">Apply the option.</ph></p>
                 <p><ph id="p_elw_gfh_r4b">Apply the option </ph></p>
                 <p><ph id="ph_jng_1tx_z4b">Apply the option if recording the element.</ph></p>
-                <p><ph id="ph_fm3_4ht_t4b"><?oxy_comment_start author="Keith.Knop" timestamp="20210225T082657-0600" comment="Intended for use in conjunction with &quot;Record the first value&quot; options."?>Additionally record all other values for the element from the chosen source of information if feasible.<?oxy_comment_end?></ph></p>
-                <p><ph id="ph_czp_thd_z4b"><?oxy_comment_start author="Keith.Knop" timestamp="20210225T082657-0600" comment="Intended for use in conjunction with &quot;Record the first value&quot; options."?>Additionally record all other values for the element from anywhere in the resource if feasible.<?oxy_comment_end?></ph></p>
+                <p><ph id="ph_fm3_4ht_t4b">Additionally record all other values for the element from the chosen source of information if feasible.</ph></p>
+                <p><ph id="ph_czp_thd_z4b">Additionally record all other values for the element from anywhere in the resource if feasible.</ph></p>
                 <p><ph id="p_sl3_hfh_r4b">Do not apply the option.</ph></p>
                 <p><ph id="ph_vch_fwk_stb">Do not apply the option </ph></p>
                 <p><ph id="p_izh_3fh_r4b">Generally do not apply the option </ph></p>
@@ -48,7 +48,7 @@
                 <p><ph id="ph_mnb_hns_v4b"> if deemed useful for identification or selection.</ph></p>
                 <p><ph id="ph_nll_gbv_mqb"> if deemed useful for identification or access.</ph></p>
                 <p><ph id="ph_d3p_tmt_t4b"> in cases where values are linguistically neutral or otherwise lack corresponding values for related elements in the same language. </ph></p>
-                <p><ph id="ph_yjw_24t_t4b"><?oxy_comment_start author="Keith.Knop" timestamp="20210316T152725-0500" comment="Intended for use with parallel elements."?>If feasible, transcribe all values for the element appearing on the chosen source of information.<?oxy_comment_end?></ph></p>
+                <p><ph id="ph_yjw_24t_t4b">If feasible, transcribe all values for the element appearing on the chosen source of information.</ph></p>
                 <p><ph id="ph_fnm_1qt_t4b">Optionally, record values from elsewhere in the resource if deemed useful for identification or selection.</ph></p>
                 <p><ph id="ph_trj_m4t_t4b">Group values for related elements together by language where possible.</ph></p>
                 <p><ph id="ph_cyr_jqq_z4b">Supply the value in square brackets.</ph></p>
@@ -80,7 +80,7 @@
                 <p><ph id="ph_hnb_xtc_nqb"><xref href="https://id.loc.gov/vocabulary/millus.html" format="html" scope="external">Library of Congress Illustrative Content</xref></ph></p>
                 <draft-comment author="CSS Chair">Recommendations limited to specific sets of elements</draft-comment>
                 <p><ph id="ph_ify_sxr_x4b">Note that each distinct edition statement, including designations of edition, their associated designations of named revision of edition, statements of responsibility relating to edition, etc., should be encoded in separate 250 fields.</ph></p>
-                <p><ph id="ph_csg_ldy_z4b"><?oxy_comment_start author="Keith.Knop" timestamp="20210319T113727-0500" comment="For date of manifestation, name of agent of manifestation, and place of manifestation"?>For specific MLA guidance on places, dates, or agents related to the production, publication, distribution, or manufacture of a manifestation, refer to the appropriate narrower element.<?oxy_comment_end?> Otherwise follow LC-PCC PS for this element.</ph></p>
+                <p><ph id="ph_csg_ldy_z4b">For specific MLA guidance on places, dates, or agents related to the production, publication, distribution, or manufacture of a manifestation, refer to the appropriate narrower element. Otherwise follow LC-PCC PS for this element.</ph></p>
                 <p><ph id="ph_vtq_rhb_bpb">If the resource is a reprint, reissue, reproduction, issue in an alternate format, etc., and provides an identifier for the original manifestation or an equivalent in an alternate format, record the identifier as a Manifestation: <xref keyref="rdamP30048"/>; do this in addition to formulating a structured or unstructured description of the original manifestation.</ph></p>
                 <draft-comment author="CSS Chair">Extent</draft-comment>
                 <p id="p_yyw_sc5_1qb">For notated music, refer to the special instructions at <xref keyref="rdamP30182/div_lrf_3dz_xdb">Extent of manifestations of notated music</xref>. Otherwise apply the option.</p>

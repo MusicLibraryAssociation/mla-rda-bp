@@ -89,13 +89,17 @@
                 <p outputclass="title">
                     <xref outputclass="ps_link" keyref="rdamP30106/div_gt3_3l2_ymb">Option</xref>
                 </p>
-                <div><ph conkeyref="b_bp_mla/p_sl3_hfh_r4b"/></div>
+                <div>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_series_statement.dita#ala-6a20e956-6169-3fd2-9fd1-ba9e0661fde0/div_tcx_pl2_ymb"/>
+                </div>
             </div>
             <div>
                 <p outputclass="title">
                     <xref outputclass="ps_link" keyref="rdamP30106/div_msw_3l2_ymb">Option</xref>
                 </p>
-                <div><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/></div>
+                <div>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_series_statement.dita#ala-6a20e956-6169-3fd2-9fd1-ba9e0661fde0/div_cn1_ql2_ymb"/>
+                </div>
             </div>
             <div id="393e5348-7de6-42a6-90c2-6f08e3fd997e">
                 <p outputclass="title" id="8be1ecbb-6c42-47a7-99b9-050b1b9062a5">
@@ -189,13 +193,8 @@
                     <xref outputclass="ps_link" id="div_cyn_ybh_qhb" keyref="rdamP30106/div_cyn_ybh_qhb">Option</xref>
                 </p>
                 <div id="c2f98443-61a0-4483-9baa-40aeecd296a2">
-                    <p id="p_f2l_w2y_spb"><ph
-                            conkeyref="b_bp_mla/p_uzx_ffh_r4b"
-                            id="ph_abx_z2y_spb"/>
-                        <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"
-                            id="ph_bcj_1fy_spb"/>Separate sub-elements within the same MARC subfield
-                        using ISBD punctuation. Supply or omit ISBD punctuation between subfields
-                        according to ISBD or PCC guidelines for minimally punctuated MARC.</p>
+                    <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/><ph conkeyref="b_bp_mla/ph_iyv_tzz_stb"/></p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_series_statement.dita#ala-6a20e956-6169-3fd2-9fd1-ba9e0661fde0/2069a1de-6151-4395-8622-d2a7d51374f2"/>
                 </div>
             </div>
             <div id="265fd693-2d74-4ab5-9239-2df80383318b">
