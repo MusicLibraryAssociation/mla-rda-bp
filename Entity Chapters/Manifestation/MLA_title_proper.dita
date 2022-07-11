@@ -191,7 +191,9 @@
                      id="div_ctd_wxv_dgb"
                      keyref="rdamP30156/div_ctd_wxv_dgb">Option</xref>
             </p>
-            <div id="980b5b33-b4b5-4efe-a502-f96386f8c8c7"/>
+            <div id="980b5b33-b4b5-4efe-a502-f96386f8c8c7">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_title_proper.dita#ala-8a37a86a-42a6-30fc-a0f9-629d9addb308/d19b6712-47bc-469e-a1ac-818637ff8415"/>
+            </div>
          </div>
       </section>
       <section id="132d267e-8577-40c4-bf78-a49a88c066ce">
@@ -221,6 +223,7 @@
             <div id="f4250c4a-5d99-4056-a756-9a4806195378">
                <p>
                   <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>if no source within the resource itself provides a collective title; see Guidance: <xref keyref="g_024"/> for instructions on preferred source of title.</p>
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_title_proper.dita#ala-8a37a86a-42a6-30fc-a0f9-629d9addb308/220512e5-353d-48c9-b93c-b03270124f4e"/>
             </div>
          </div>
       </section>
@@ -305,8 +308,8 @@
             </p>
             <div id="div_y2t_llt_x4b">
                <p id="p_hlr_cpf_t4b">To determine if a title is or includes a type of composition, consult the alphabetical list at <ph id="ph_str_dpf_t4b" conkeyref="b_bp_mla/p_ts4_3gh_r4b"/>. Do not consider such titles as "Double concerto," "Tripelkonzert," etc. to be names of types of compositions.</p>
-               <p id="p_usr_gpf_t4b">When a composer uses a word that normally denotes a type of composition as the title of a work that definitely does not belong to the type designated by the word, consider the title to be distinctive rather than a type of composition. A title consisting of two words, each of which alone would be the name of a type of composition, may in combination produce a distinctive title. Generally treat such a compound title as a distinctive title.</p>
-               <p id="p_xch_npf_t4b">If the title does not consist solely of a type of composition plus one or more of the elements listed in this condition, treat medium of performance, key, date of composition, or number as Manifestation: <xref keyref="rdamP30142"/>. Consider phrases such as "with an accompaniment for" to be part of a statement of medium of performance. In case of doubt, treat these elements as part of the title proper.</p>
+               <p id="p_usr_gpf_t4b">When a composer uses a word that normally denotes a type of composition as the title of a work, and the work definitely does not belong to the type designated by the word, consider the title to be distinctive rather than a type of composition. A title consisting of two words, each of which alone would be the name of a type of composition, may in combination produce a distinctive title. Generally treat such a compound title as a distinctive title.</p>
+               <p id="p_xch_npf_t4b">If the title does not consist solely of a type of composition plus one or more of the elements listed in this condition, treat medium of performance, key, date of composition, or number as Manifestation: <xref keyref="rdamP30142"/>. Consider phrases such as "with an accompaniment for" to be part of a statement of medium of performance. If a number is integral to a distinctive title (e.g., "The priest of the seventh day") or enumerates a sequence of otherwise identically titled works (e.g., "Antiphony II"; "Untitled no. 4"), consider it to be part of the title proper. In case of doubt, treat these elements as part of the title proper.</p>
             </div>
          </div>
          <div id="424c38fc-9c76-4d45-a5e8-6361a149c528">
@@ -317,10 +320,7 @@
             </p>
             <div id="6494d62a-0a38-4101-9079-445f3f7b2599">
                <p>
-                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>unless reading the elements in order
-                        would produce an illogical result, or it is otherwise clear from the space,
-                        layout, typography, etc. that the elements are intended to be read in a
-                        different order.</p>
+                  <ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>unless reading the elements in order would produce an illogical result, or it is otherwise clear from the space, layout, typography, etc. that the elements are intended to be read in a different order.</p>
             </div>
          </div>
          <div id="a79417dc-dc90-49a3-abfd-323ac8a9b1eb">

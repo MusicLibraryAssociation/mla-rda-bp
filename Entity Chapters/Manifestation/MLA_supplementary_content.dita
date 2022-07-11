@@ -37,8 +37,7 @@
             </p>
             <div id="da878f0c-8f51-4ccd-9e46-a29362037493">
                <p>
-                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
-                  <ph conkeyref="b_bp_mla/ph_lwm_qgd_z4b"/>field 504 (for bibliographies) or 500 or as a structured description using field 353 as preferred by local policy.</p>
+                  <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/> As preferred by local policy: <ph conkeyref="b_bp_mla/ph_lwm_qgd_z4b"/>field 504 (for bibliographies) or 500. Alternatively: <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/> using field 353.</p>
             </div>
          </div>
       </section>
@@ -130,7 +129,9 @@
                      id="div_imc_wf5_3kb"
                      keyref="rdamP30455/div_imc_wf5_3kb">Option</xref>
             </p>
-            <div id="3facd827-8bd5-4cb3-a5df-438d6ae554ed"/>
+            <div id="3facd827-8bd5-4cb3-a5df-438d6ae554ed">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_supplementary_content.dita#ala-e26408ca-44f2-377c-bbca-011ad75fb227/9e561bde-409c-423e-b3fa-030b505d9011"/>
+            </div>
          </div>
          <div id="64f0cb70-0003-4df9-9873-dcab5f2073a1">
             <p outputclass="title" id="99514fed-bc92-4933-8917-b9919b68aa1b">
@@ -138,7 +139,9 @@
                      id="div_fls_xf5_3kb"
                      keyref="rdamP30455/div_fls_xf5_3kb">Option</xref>
             </p>
-            <div id="b330baaf-2ea9-4fbf-b054-3eb4610cbfa8"/>
+            <div id="b330baaf-2ea9-4fbf-b054-3eb4610cbfa8">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_supplementary_content.dita#ala-e26408ca-44f2-377c-bbca-011ad75fb227/b481e25e-9f92-41cf-ab99-98ccf3865e0b"/>
+            </div>
          </div>
       </section>
       <section id="38c8c636-0710-4544-9bf4-bdcdb6e727ba">
@@ -156,7 +159,9 @@
                      id="div_f3y_dg5_3kb"
                      keyref="rdamP30455/div_f3y_dg5_3kb">Option</xref>
             </p>
-            <div id="aa7988b5-e4a8-43da-9b9e-a96351139d16"/>
+            <div id="aa7988b5-e4a8-43da-9b9e-a96351139d16">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_supplementary_content.dita#ala-e26408ca-44f2-377c-bbca-011ad75fb227/a4318702-5139-4745-9f6a-baa22a0ba715"/>
+            </div>
          </div>
       </section>
    </body>

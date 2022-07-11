@@ -18,7 +18,7 @@
                 </p>
                 <div id="7eef8245-04a3-457b-9b6f-5f7e13d85dfe">
                     <p id="p_nlb_3v1_54b"><ph
-                            conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_vtg_bdh_r4b"
+                            conkeyref="b_bp_mla/p_vtg_bdh_r4b"
                             id="ph_vgm_vt1_54b"/></p>
                     <p id="p_uqw_jv1_54b">Other title information includes subtitles, but not
                         alternative titles. It also includes medium of performance, key, date of
@@ -32,13 +32,15 @@
                 <p outputclass="title" id="271083e8-cd12-43e2-b766-d9d8ddc66431">
                     <xref outputclass="ps_link" keyref="rdamP30142/div_zkw_24f_ymb">Option</xref>
                 </p>
-                <div id="fd04f1bc-5295-4bd2-b48c-52ea7a7f6dd6"/>
+                <div id="fd04f1bc-5295-4bd2-b48c-52ea7a7f6dd6">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_other_title_information.dita#ala-62824289-af72-3671-82ce-985083a6cfb2/div_uzn_by5_fnb"/>
+                </div>
             </div>
             <div id="2a4bf4a2-bb1d-43fe-90be-6dbc9561f899">
                 <p outputclass="title" id="b9fbaa01-15bf-4047-828f-1f697006a7f6">
                     <xref outputclass="ps_link" keyref="rdamP30142/div_w4x_tmd_rhb">Option</xref>
                 </p>
-                <div id="c254ddc6-a04b-4405-ba81-4d90c93f48a1"/>
+                <div id="c254ddc6-a04b-4405-ba81-4d90c93f48a1"><ph conkeyref="b_bp_mla/p_lkc_zhh_r4b"/></div>
             </div>
         </section>
         <section id="bbf761a1-cb43-4596-9499-72a085f8bbdd">
@@ -53,34 +55,27 @@
                 <p outputclass="title" id="b9245e9f-9643-42d6-8379-df158e187ad8">
                     <xref outputclass="ps_link" keyref="rdamP30142/div_atm_pz3_vdb">Condition Option</xref>
                 </p>
-                <div id="f786d8a6-5277-4f2e-a1e8-4e8a260bde74"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b"
-                        id="ph_h21_mv1_54b"/> If feasible, transcribe all other title information
-                    appearing in the same source as the title proper. If deemed useful for
-                    identification or access also record title information from the same source or
-                    other sources within the manifestation as part of a Manifestation: <xref
-                        keyref="rdamP30128">variant title of manifestation</xref>.</div>
+                <div id="f786d8a6-5277-4f2e-a1e8-4e8a260bde74"><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b" id="ph_h21_mv1_54b"/> If feasible, transcribe all other title information appearing in the same source as the title proper. Also record title information from the same source or other sources within the manifestation as part of a Manifestation: <xref keyref="rdamP30128">variant title of manifestation</xref>
+                    <ph conkeyref="b_bp_mla/ph_nll_gbv_mqb"/></div>
             </div>
             <div id="5e8a3883-6880-4b26-b69f-51a3aba94c8f">
                 <p outputclass="title" id="433f51b8-feb2-4d35-93f7-0cd7a2510a3a">
                     <xref outputclass="ps_link" keyref="rdamP30142/div_vfq_v4g_zdb">Condition Option</xref>
                 </p>
                 <div id="e3c01350-3c24-449d-acda-db1e376aaf27">
-                    <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_elw_gfh_r4b"
-                        id="ph_dhg_kx1_54b"/> if applicable. <ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_yjw_24t_t4b"
-                        id="ph_dz2_bx1_54b"/> See Manifestation: <xref keyref="rdamP30151">parallel
-                        other title information</xref>.</div>
+                    <p><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/>
+                        <ph conkeyref="b_bp_mla/ph_yjw_24t_t4b" id="ph_dz2_bx1_54b"/> See Manifestation: <xref keyref="rdamP30151">parallel other title information</xref>.</p>
+                </div>
             </div>
             <div id="cbb8bb25-2d83-4b96-ace5-baafd4a1bb5c">
                 <p outputclass="title" id="0c30b9ed-7e41-4a74-90e9-2b9cd7124a2b">
                     <xref outputclass="ps_link" keyref="rdamP30142/div_str_b1s_1fb">Condition Option</xref>
                 </p>
                 <div id="ebe7081a-21a7-4818-91a0-5e83940cee00"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_elw_gfh_r4b"
+                        conkeyref="b_bp_mla/p_elw_gfh_r4b"
                         id="ph_ssy_lx1_54b"/> if no values of other title information are in the
                     same language as the title proper. <ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_yjw_24t_t4b"
+                        conkeyref="b_bp_mla/ph_yjw_24t_t4b"
                         id="ph_sf3_px1_54b"/> See Manifestation: <xref keyref="rdamP30151">parallel
                         other title information</xref>. </div>
             </div>
@@ -94,13 +89,29 @@
                         unstructured description</xref>
                 </p>
             </div>
+            <div id="div_f42_sy5_fnb">
+                <p outputclass="title" id="p_i42_sy5_fnb">
+                    <xref outputclass="ps_link" keyref="rdamP30142/div_xrb_rdf_ymb">Option</xref>
+                </p>
+                <div id="div_n42_sy5_fnb">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_other_title_information.dita#ala-62824289-af72-3671-82ce-985083a6cfb2/div_i2h_nsf_tmb"/>
+                </div>
+            </div>
             <div id="div_hmx_jz1_54b">
                 <p outputclass="title" id="p_jmx_jz1_54b">
                     <xref outputclass="ps_link" keyref="rdamP30142/div_ljs_rdf_ymb">Option</xref>
                 </p>
-                <div id="div_nmx_jz1_54b"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b"
-                        id="ph_mkh_qz1_54b"/></div>
+                <div id="div_nmx_jz1_54b">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_other_title_information.dita#ala-62824289-af72-3671-82ce-985083a6cfb2/div_iy5_ry5_fnb"/>
+                </div>
+                <div id="div_i33_lsf_tmb">
+                    <p outputclass="title" id="p_j3t_nsf_tmb">
+                        <xref outputclass="ps_link" keyref="rdamP30142/div_mhz_vj1_4hb">Option</xref>
+                    </p>
+                    <div id="div_bnf_4sf_tmb">
+                        <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_other_title_information.dita#ala-62824289-af72-3671-82ce-985083a6cfb2/div_bnf_4sf_tmb"/>
+                    </div>
+                </div>
             </div>
         </section>
         <section id="2db36fa0-a0da-4f06-8898-3853ac0283d5">
@@ -115,13 +126,17 @@
                 <p outputclass="title" id="b0f4fe72-fe10-444c-a02a-f0ae32518551">
                     <xref outputclass="ps_link" id="div_kt3_m41_4hb" keyref="rdamP30142/div_kt3_m41_4hb">Option</xref>
                 </p>
-                <div id="a793b071-d3c3-4c28-922f-f9821b52889a"/>
+                <div id="a793b071-d3c3-4c28-922f-f9821b52889a">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_other_title_information.dita#ala-62824289-af72-3671-82ce-985083a6cfb2/d29fb294-755c-4890-9d05-e14bc5a2a036"/>
+                </div>
             </div>
             <div id="3dbd3dd9-48f9-4c97-8fd8-88b2157fd4da">
                 <p outputclass="title" id="77976555-227a-45cc-a7d5-4c286e114502">
                     <xref outputclass="ps_link" id="div_lt3_m41_4hb" keyref="rdamP30142/div_lt3_m41_4hb">Option</xref>
                 </p>
-                <div id="0455ea0c-a4e0-456b-adc1-7b15b049d437"/>
+                <div id="0455ea0c-a4e0-456b-adc1-7b15b049d437">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_other_title_information.dita#ala-62824289-af72-3671-82ce-985083a6cfb2/0f499bbb-f174-4a92-9dad-956fd0c1b56f"/>
+                </div>
             </div>
         </section>
         <section id="9a9d7119-f0b5-44fd-96b1-7c89536ee223">

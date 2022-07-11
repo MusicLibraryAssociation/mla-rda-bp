@@ -19,7 +19,7 @@
                 <div id="ea58e5f2-241b-45f0-9e9a-5b218681fd4c">
                     <p id="p_msd_zcy_z4b">Recommendations for this element are given only for
                         options not found in narrower elements. <ph id="ph_yxj_pdy_z4b"
-                            conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_csg_ldy_z4b"/></p>
+                            conkeyref="b_bp_mla/ph_csg_ldy_z4b"/></p>
                 </div>
             </div>
             <div id="adacddd7-98fb-4c35-8d3b-3200249be527">
@@ -27,7 +27,7 @@
                     <xref outputclass="ps_link" keyref="rdamP30297/div_mjc_yk5_nlb">Option</xref>
                 </p>
                 <div id="3d1c3adb-e57e-45e8-8d2b-750ff669e49c"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_lkc_zhh_r4b"
+                        conkeyref="b_bp_mla/p_lkc_zhh_r4b"
                         id="ph_fk2_lcy_z4b"/></div>
             </div>
             <div id="579cbf07-361f-4bf1-a947-753c13c825a3">
@@ -160,13 +160,10 @@
                 <p outputclass="title" id="e2413ee3-fa95-4ed6-8847-1f0d737da36d">
                     <xref outputclass="ps_link" id="div_svs_sl2_12b" keyref="rdamP30297/div_svs_sl2_12b">Option</xref>
                 </p>
-                <div id="61cdb2e3-0407-4a9e-984b-e9d116e3264b"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_elw_gfh_r4b"
-                        id="ph_sqt_n1y_z4b"/>for Manifestation: <xref keyref="rdamP30174"/>, <xref
-                        keyref="rdamP30173"/>, and <xref keyref="rdamP30175"/>.<ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_izh_3fh_r4b"
-                        id="ph_p4q_f1y_z4b"/> for Manifestation: <xref keyref="rdamP30176"/> unless
-                    the statement indicates a function beyond solely publishing.</div>
+                <div id="61cdb2e3-0407-4a9e-984b-e9d116e3264b">
+                    <p><ph conkeyref="b_bp_mla/p_elw_gfh_r4b" id="ph_sqt_n1y_z4b"/>for Manifestation: <xref keyref="rdamP30174"/>, <xref keyref="rdamP30173"/>, and <xref keyref="rdamP30175"/>.</p>
+                    <p><ph conkeyref="b_bp_mla/p_izh_3fh_r4b" id="ph_p4q_f1y_z4b"/> for Manifestation: <xref keyref="rdamP30176"/> unless the statement indicates a function beyond solely publishing.</p>
+                </div>
             </div>
             <div id="e1c686d9-57fa-4cf9-9fd3-df4bb038e67c">
                 <p outputclass="title" id="89707473-a51b-4cbe-81c6-4cbb4aef5c54">

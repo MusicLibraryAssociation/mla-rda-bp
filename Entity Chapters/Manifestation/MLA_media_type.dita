@@ -16,8 +16,10 @@
                 <p outputclass="title" id="00149a90-6a65-4a9f-bcc6-b91dca7c2df6">
                     <xref outputclass="ps_link" keyref="rdamP30002/fccaebaf-5db2-40f6-a97c-bb0090dc3aed">Prerecording</xref>
                 </p>
-                <div id="0477bcaf-5118-46cc-abe6-6bb8475c234a"><ph
-                        conkeyref="b_bp_mla/p_vtg_bdh_r4b" id="ph_mjg_2nm_1qb"/></div>
+                <div id="0477bcaf-5118-46cc-abe6-6bb8475c234a">
+                    <p><ph conkeyref="b_bp_mla/p_vtg_bdh_r4b" id="ph_mjg_2nm_1qb"/></p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_media_type.dita#ala-365056d1-6cb2-3443-9827-60d970c3c149/2f7fc22c-3eb6-48c0-8f06-62d48bd04d08"/>
+                </div>
             </div>
         </section>
         <section id="4c699212-049a-4f1c-ba3b-bd712bc881fc">
@@ -27,20 +29,8 @@
                     <xref outputclass="ps_link" keyref="rdamP30002/ec69acab-d057-43ee-9d1c-7fce7871c825">Recording</xref>
                 </p>
                 <div id="0f9b0d7b-fea7-43f9-9882-af77a3764293">
-                    <p id="p_pl3_kqm_1qb"><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"
-                            id="ph_hsz_dqm_1qb"/><ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"
-                            id="ph_p5k_2qm_1qb"/>field 337 subfield $a. If multiple terms are used,
-                        record each in a separate 337. If deemed useful for identification or
-                        selection, specify the part of the manifestation to which the term refers in
-                        337 $3. </p>
-                    <p id="p_ypg_vcn_1qb">Additionally, for audio and video recordings: <ph
-                            conkeyref="b_bp_mla/ph_t1t_rgd_z4b" id="ph_vcc_gqm_1qb"/>field 007 byte
-                        0. For electronic resources with audio or video content, record a 007 with
-                        byte 0 value <term>c</term> and a second 007 with byte 0 value
-                            <term>s</term> or <term>v</term> as appropriate. See <ph
-                            conkeyref="b_bp_mla/p_r2t_4hh_r4b" id="ph_rcy_xbn_1qb"/><ph
-                            conkeyref="b_bp_mla/ph_grz_xtt_t4b" id="ph_awr_ybn_1qb"/> for guidance
-                        and examples.</p>
+                    <p id="p_pl3_kqm_1qb"><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b" id="ph_hsz_dqm_1qb"/><ph conkeyref="b_bp_mla/ph_amr_rgd_z4b" id="ph_p5k_2qm_1qb"/>field 337 subfield $a. If multiple terms are used, record each in a separate 337. If deemed useful for identification or selection, specify the part of the manifestation to which the term refers in 337 $3.</p>
+                    <p id="p_ypg_vcn_1qb">Additionally, for audio and video recordings: <ph conkeyref="b_bp_mla/ph_t1t_rgd_z4b" id="ph_vcc_gqm_1qb"/>field 007 byte 00. For electronic resources with audio or video content, record a 007 with byte 00 value <term>c</term> and a second 007 with byte 00 value <term>s</term> or <term>v</term> as appropriate. See <ph conkeyref="b_bp_mla/p_r2t_4hh_r4b" id="ph_rcy_xbn_1qb"/><ph conkeyref="b_bp_mla/ph_grz_xtt_t4b" id="ph_awr_ybn_1qb"/> for guidance and examples.</p>
                 </div>
             </div>
             <div id="cfc0d094-6130-4994-95f9-c0647b9a077c">
@@ -48,10 +38,7 @@
                     <xref outputclass="ps_link" keyref="rdamP30002/div_dsh_m3r_p2b">Condition Option</xref>
                 </p>
                 <div id="359b050f-c922-49cf-ad90-080182751a5e">
-                    <p id="p_s1w_jqm_1qb"><ph conkeyref="b_bp_mla/p_hjp_jfh_r4b" id="ph_h2h_jqm_1qb"
-                        />For books and scores issued together with materials of other media types,
-                        if feasible record separate instances of the element for all parts of the
-                        manifestation deemed useful for identification or selection.</p>
+                    <p id="p_s1w_jqm_1qb">For books and scores issued together with materials of other media types, if feasible record separate instances of the element for supplemental parts of the manifestation <ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/></p>
                 </div>
             </div>
             <div id="bb0ec43f-c25d-4dbb-a113-ad41c6ca1826">
@@ -71,8 +58,7 @@
                     <xref outputclass="ps_link" keyref="rdamP30002/div_rcv_2jr_p2b">Condition Option</xref>
                 </p>
                 <div id="c2963466-edec-46b0-8f80-700573cb0ac8">
-                    <p id="p_gpg_rqm_1qb"><ph conkeyref="b_bp_mla/p_hjp_jfh_r4b" id="ph_g2m_rqm_1qb"
-                        /></p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_media_type.dita#ala-365056d1-6cb2-3443-9827-60d970c3c149/8a96c23f-5841-4a37-9e2e-53a4f69543f6"/>
                 </div>
             </div>
         </section>
@@ -166,7 +152,9 @@
                 <p outputclass="title" id="070de749-1d11-4fdc-8065-121a526802bc">
                     <xref outputclass="ps_link" id="div_xg5_wgm_nhb" keyref="rdamP30002/div_xg5_wgm_nhb">Condition Option</xref>
                 </p>
-                <div id="08c42fc8-f32b-446b-aefd-d14ca425869d"/>
+                <div id="08c42fc8-f32b-446b-aefd-d14ca425869d">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_media_type.dita#ala-365056d1-6cb2-3443-9827-60d970c3c149/67e53de0-ff85-4cce-9ca1-a2662d4611b1"/>
+                </div>
             </div>
         </section>
         <section id="d7a5e93a-6ba2-4b80-bad2-5c39ee779440">
@@ -181,19 +169,25 @@
                 <p outputclass="title" id="bf8d6d15-71dd-4a3b-82e9-b130e61afd84">
                     <xref outputclass="ps_link" id="div_hzv_h2y_tdb" keyref="rdamP30002/div_hzv_h2y_tdb">Option</xref>
                 </p>
-                <div id="6d8dc159-5a19-47d5-a439-ca205cf7f818"/>
+                <div id="6d8dc159-5a19-47d5-a439-ca205cf7f818">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_media_type.dita#ala-365056d1-6cb2-3443-9827-60d970c3c149/div_wl1_lb5_y4b"/>
+                </div>
             </div>
             <div id="5a9529c8-6e09-4985-8689-756678d2cbba">
                 <p outputclass="title" id="46915149-1de7-4241-b70a-c60e99c210b0">
                     <xref outputclass="ps_link" id="div_vl5_gt3_mhb" keyref="rdamP30002/div_vl5_gt3_mhb">Option</xref>
                 </p>
-                <div id="452410fa-0b91-4bac-b3c8-50a708bf0a94"/>
+                <div id="452410fa-0b91-4bac-b3c8-50a708bf0a94">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_media_type.dita#ala-365056d1-6cb2-3443-9827-60d970c3c149/f7cefe9f-78c1-465b-b235-dbeed440865e"/>
+                </div>
             </div>
             <div id="7b156e4c-f17b-4270-8f12-b91b48a83b67">
                 <p outputclass="title" id="a91eda96-21ec-4ec6-abad-66b1e56414ef">
                     <xref outputclass="ps_link" id="div_rzx_f5x_ycb" keyref="rdamP30002/div_rzx_f5x_ycb">Option</xref>
                 </p>
-                <div id="a3c86279-ef8f-4ebe-b64b-be06497940f7"/>
+                <div id="a3c86279-ef8f-4ebe-b64b-be06497940f7">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_media_type.dita#ala-365056d1-6cb2-3443-9827-60d970c3c149/13f49bd1-717e-4c54-811a-b5a91ad46080"/>
+                </div>
             </div>
         </section>
         <section id="a9b4fcb4-eb34-4c6b-9f21-bf8111bbeddc">
@@ -208,22 +202,17 @@
                 <p outputclass="title" id="1821864f-52dd-4038-8d58-2d1eefd53782">
                     <xref outputclass="ps_link" id="div_vqz_j2y_tdb" keyref="rdamP30002/div_vqz_j2y_tdb">Option</xref>
                 </p>
-                <div id="5f1d8c84-c346-4dd3-98bd-669ee5b1545e"/>
+                <div id="5f1d8c84-c346-4dd3-98bd-669ee5b1545e">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_media_type.dita#ala-365056d1-6cb2-3443-9827-60d970c3c149/7c725db8-ca79-4ace-9729-098debf120e7"/>
+                </div>
             </div>
             <div id="74193aee-a6a8-4781-b392-3e9a6e9c678f">
                 <p outputclass="title" id="54b11b10-ea0a-4fe7-b5ca-249d92f6ceb7">
                     <xref outputclass="ps_link" id="div_ozv_ft3_mhb" keyref="rdamP30002/div_ozv_ft3_mhb">Option</xref>
                 </p>
-                <div id="af0caf02-c568-4992-bdf8-e6926fdca209"/>
-            </div>
-        </section>
-        <section id="b8da8467-919d-44bc-a7a2-1f37e078f3f8">
-            <title>View in Context Example</title>
-            <div id="05512081-a25d-448c-8443-1d93b2f9a8e4">
-                <p outputclass="title" id="fd2f05bc-fa43-4774-b3b4-2f6afeea9a94">
-                    <xref outputclass="ps_link" keyref="rdamP30002/section_ltv_f3j_3lb">View in Context Example</xref>
-                </p>
-                <div id="e720b878-70c5-4aba-a5b3-30de330a40f9"/>
+                <div id="af0caf02-c568-4992-bdf8-e6926fdca209">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_media_type.dita#ala-365056d1-6cb2-3443-9827-60d970c3c149/97e689c3-3d52-4e75-b8b6-36135d17cc97"/>
+                </div>
             </div>
         </section>
     </body>

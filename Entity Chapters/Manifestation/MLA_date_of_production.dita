@@ -16,16 +16,14 @@
                 <p outputclass="title" id="46a6f635-e017-4c60-9957-59a92454bfc6">
                     <xref outputclass="ps_link" keyref="rdamP30009/6bc9b604-b974-4f86-a867-8b974d5fcd1e">Prerecording</xref>
                 </p>
-                <div id="51229914-2d96-4e69-b93e-387f4533dd1e"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_pnk_vdh_r4b"
-                        id="ph_kry_pmz_x4b"/>for unpublished resources. Follow LC-PCC PS.</div>
+                <div id="51229914-2d96-4e69-b93e-387f4533dd1e"><ph conkeyref="b_bp_mla/p_pnk_vdh_r4b" id="ph_kry_pmz_x4b"/>for unpublished resources.<div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/f52b6aba-00fa-4bcf-94e8-1ead6279b062"/></div>
             </div>
             <div id="be25a1e3-6f02-4aea-af9d-6f5ae4a5e6d1">
                 <p outputclass="title" id="2126299c-6026-42ce-87a0-b03099833b32">
                     <xref outputclass="ps_link" keyref="rdamP30009/div_hkh_dxc_rhb">Option</xref>
                 </p>
                 <div id="7c7a7e01-7152-477f-bdfd-6fc853094ffb"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_lkc_zhh_r4b"
+                        conkeyref="b_bp_mla/p_lkc_zhh_r4b"
                         id="ph_t5y_tnz_x4b"/></div>
             </div>
         </section>
@@ -37,67 +35,98 @@
                 </p>
                 <div id="d724e593-dbe7-419d-8f80-67d4d7c57f41">
                     <p id="p_swt_vnz_x4b"><ph
-                            conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_osx_rxr_x4b"
+                            conkeyref="b_bp_mla/ph_osx_rxr_x4b"
                             id="ph_it4_wnz_x4b"/>Record date of production in field 264 (second
                         indicator 0) $c.</p>
                     <p id="p_d5h_ynz_x4b"><ph
-                            conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_ibz_glz_x4b"
+                            conkeyref="b_bp_mla/ph_ibz_glz_x4b"
                             id="ph_jrx_ynz_x4b"/></p>
+                </div>
+            </div>
+            <draft-comment author="CSS Chair">Condition: A date is represented in different calendars on a manifestation.</draft-comment>
+            <div>
+                <p outputclass="title" id="p_frb_ghz_stb">
+                    <xref outputclass="ps_link" keyref="rdamP30009/div_k2p_hlj_cmb">Condition Option</xref>
+                </p>
+                <div>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_rg5_2hq_cmb"/>
                 </div>
             </div>
             <div id="4314e25a-e62b-4131-91e2-10d30d9a393b">
                 <p outputclass="title" id="59ebd23e-6eea-4efd-a19b-2f4fd594718b">
                     <xref outputclass="ps_link" keyref="rdamP30009/div_zyj_hjj_cmb">Condition Option</xref>
                 </p>
-                <div id="b91d23c3-f0fd-4cfb-bd71-68992b79f580"/>
+                <div id="b91d23c3-f0fd-4cfb-bd71-68992b79f580">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_pt2_jhq_cmb"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: Two or more values for the element appear in the source of information.</draft-comment>
             <div id="0d037cd4-2029-4649-81db-65594555f715">
                 <p outputclass="title" id="77b05f91-1583-4b07-9707-15ba2d39e3d3">
                     <xref outputclass="ps_link" keyref="rdamP30009/div_nbp_gnn_rgb">Condition Option</xref>
                 </p>
-                <div id="3c135f33-4cbe-40d9-9db2-bf5620b169f5"/>
+                <div id="3c135f33-4cbe-40d9-9db2-bf5620b169f5">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_nl5_ghq_cmb"/>
+                </div>
             </div>
             <div id="316d61fe-6eb3-41ef-b1af-ca2a6552902c">
                 <p outputclass="title" id="77dd7e5d-b6bd-4ba3-b85f-c2dc5866081a">
                     <xref outputclass="ps_link" keyref="rdamP30009/div_dnp_zxb_hhb">Condition Option</xref>
                 </p>
-                <div id="85e2ab0b-bf17-48c2-b2b7-0f51355f3bcc"/>
+                <div id="85e2ab0b-bf17-48c2-b2b7-0f51355f3bcc">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_atz_yf4_kqb"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: An exact date is not known.</draft-comment>
             <div id="c9b66d4b-096d-4deb-9fe4-1b9ed787b037">
                 <p outputclass="title" id="a6d21d4e-3602-4760-b259-8109df5a8850">
                     <xref outputclass="ps_link" keyref="rdamP30009/div_idq_njj_cmb">Condition Option</xref>
                 </p>
-                <div id="161b2662-df0f-45a0-b960-b0a2e9ff39b6"/>
+                <div id="161b2662-df0f-45a0-b960-b0a2e9ff39b6">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_x24_lhq_cmb"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: A manifestation embodies a diachronic work that is not complete.</draft-comment>
             <div id="4fe932db-18a5-43ca-a5b9-6044c0748a34">
                 <p outputclass="title" id="6a81aafc-ef21-43db-9eb0-e07cd2cbf167">
                     <xref outputclass="ps_link" keyref="rdamP30009/div_nqb_32n_rgb">Condition Option</xref>
                 </p>
-                <div id="167016f5-0e27-41a1-b65c-ccede51f2cde"/>
+                <div id="167016f5-0e27-41a1-b65c-ccede51f2cde">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_usg_shq_cmb"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: A manifestation embodies a diachronic work that is complete.</draft-comment>
             <div id="b4d44b57-5380-4a82-9a94-feb43adf2216">
                 <p outputclass="title" id="1971d4c6-10be-4f41-ae4f-ba27321abc68">
                     <xref outputclass="ps_link" keyref="rdamP30009/div_hjl_cgt_kjb">Condition Option</xref>
                 </p>
-                <div id="79d46c20-9d93-4031-9a31-a37ec0eece3f"/>
+                <div id="79d46c20-9d93-4031-9a31-a37ec0eece3f">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/baa4c6a0-1c5f-49ee-ac46-4abd8800a4d9"/>
+                </div>
             </div>
             <div id="a7eb5321-2c17-4094-907b-8fe2d8bb0154">
                 <p outputclass="title" id="bb5997e1-4d2e-47fb-b992-3f808117eaad">
                     <xref outputclass="ps_link" keyref="rdamP30009/div_ekg_bft_kjb">Condition Option</xref>
                 </p>
-                <div id="6a37ac46-b5ad-46b2-8bed-e3d5868dabed"/>
+                <div id="6a37ac46-b5ad-46b2-8bed-e3d5868dabed">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/288ed39a-d153-4c4d-be01-5de3b8004d11"/>
+                </div>
             </div>
             <div id="b80a04d4-2bba-4039-bc08-5ab774f07ee9">
                 <p outputclass="title" id="56d812b8-9f67-44d6-8eb3-8f69abbd8313">
                     <xref outputclass="ps_link" keyref="rdamP30009/div_gkg_bft_kjb">Condition Option</xref>
                 </p>
-                <div id="f51c8c0e-c0fb-4673-958e-7b6f6d01053a"/>
+                <div id="f51c8c0e-c0fb-4673-958e-7b6f6d01053a">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/35989f6d-ebaf-45d9-9237-c2901a5dfcb7"/>
+                </div>
             </div>
             <div id="11e3d7ea-feee-4d68-9df2-30471229d72d">
                 <p outputclass="title" id="529560ad-6363-40a6-baae-9e8fdd309e93">
                     <xref outputclass="ps_link" keyref="rdamP30009/div_ikg_bft_kjb">Condition Option</xref>
                 </p>
-                <div id="af97bacc-9538-4d87-a35e-54883dd4d2c9"/>
+                <div id="af97bacc-9538-4d87-a35e-54883dd4d2c9">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/5d135f33-f5e3-4681-8ad6-388925af0084"/>
+                </div>
             </div>
         </section>
         <section id="1e985b23-862b-451f-a147-7b988145bdf9">
@@ -108,41 +137,58 @@
                 </p>
                 <div id="1c8e9074-556d-4b10-b9f7-f300b377f3fe"/>
             </div>
+            <draft-comment author="CSS Chair">Condition: A manifestation embodies an archival resource or a collection. Dates of production occur within a single year.</draft-comment>
             <div id="adce155d-0ae3-41c9-96cf-9406eeff5160">
                 <p outputclass="title" id="7c128b9d-1ea8-490f-91a9-8446b78ed87a">
                     <xref outputclass="ps_link" id="div_etq_jrf_12b" keyref="rdamP30009/div_etq_jrf_12b">Condition Option</xref>
                 </p>
-                <div id="2e68fd17-cc3e-4b2a-9c6f-6b9d95c09037"/>
+                <div id="2e68fd17-cc3e-4b2a-9c6f-6b9d95c09037">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/0c832d5f-503c-4d55-b8d3-4dffe1060c6f"/>
+                </div>
             </div>
             <div id="44c395d8-68dc-44ea-a6ed-366b7d9c54e6">
                 <p outputclass="title" id="a0ba7b2c-406e-414f-952b-42dfd28f5db2">
                     <xref outputclass="ps_link" id="div_swr_l3q_cmb" keyref="rdamP30009/div_swr_l3q_cmb">Condition Option</xref>
                 </p>
-                <div id="8ab7a83e-4873-41a2-b3c6-88fd41d26161"/>
+                <div id="8ab7a83e-4873-41a2-b3c6-88fd41d26161">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_h5l_xkq_cmb"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: A manifestation embodies a single archival resource.</draft-comment>
             <div id="12125f19-d2a6-41b3-bfd5-41dd30cda183">
                 <p outputclass="title" id="145e7691-cff4-450b-b0c4-c992d33fe50e">
-                    <xref outputclass="ps_link" id="div_xpc_krf_12b" keyref="rdamP30009/div_xpc_krf_12b">Option</xref>
+                    <xref outputclass="ps_link" id="div_xpc_krf_12b" keyref="rdamP30009/div_xpc_krf_12b">Condition Option</xref>
                 </p>
-                <div id="f77c8a4e-2576-4df4-84c0-472a8987a4c6"/>
+                <div id="f77c8a4e-2576-4df4-84c0-472a8987a4c6">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_yvr_1vq_cmb"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: A manifestation embodies an archival resource or a collection. Dates of production occur within a span of years.</draft-comment>
             <div id="e694ed61-795e-44df-8288-f3ce73613c18">
                 <p outputclass="title" id="1c8fba44-d817-49ca-8a9d-224650ae431c">
                     <xref outputclass="ps_link" id="div_bm3_krf_12b" keyref="rdamP30009/div_bm3_krf_12b">Condition Option</xref>
                 </p>
-                <div id="caae5656-f63b-4d60-9bb4-201191492ec4"/>
+                <div id="caae5656-f63b-4d60-9bb4-201191492ec4">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_isf_dvq_cmb"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: A manifestation embodies an archival resource or a collection. The majority of the manifestations in an archival resource have dates of production that differ significantly from the inclusive dates.</draft-comment>
             <div id="624f3fae-93db-4dd8-b646-76defe0aaef7">
                 <p outputclass="title" id="a6407669-10ee-45fe-938e-9b8fea7c9492">
                     <xref outputclass="ps_link" id="div_fgs_krf_12b" keyref="rdamP30009/div_fgs_krf_12b">Condition Option</xref>
                 </p>
-                <div id="955ef2f0-36ca-4701-a197-bade5e7fd021"/>
+                <div id="955ef2f0-36ca-4701-a197-bade5e7fd021">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/d4b8ef40-41f0-4a55-a314-4565824f00a7"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: A manifestation embodies an archival resource or a collection. No date can be found in an archival resource or determined from any other source.</draft-comment>
             <div id="af49fb7e-aff6-4bc5-9545-7ee34b82475d">
                 <p outputclass="title" id="196abfe2-f4bb-459c-9a96-f02f43953c73">
                     <xref outputclass="ps_link" id="div_kqz_krf_12b" keyref="rdamP30009/div_kqz_krf_12b">Condition Option</xref>
                 </p>
-                <div id="7cb345e4-94ce-4554-8d6b-3d79a61efc67"/>
+                <div id="7cb345e4-94ce-4554-8d6b-3d79a61efc67">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/c80b8c98-553c-4c1c-9565-6252f7412e8e"/>
+                </div>
             </div>
         </section>
         <section id="37ad3211-2e8d-4564-ac79-21f18bd5d8a1">
@@ -157,109 +203,149 @@
                 <p outputclass="title" id="b5460d8e-e163-4468-84e3-eddf347ae7cc">
                     <xref outputclass="ps_link" id="div_lll_smp_cmb" keyref="rdamP30009/div_lll_smp_cmb">Option</xref>
                 </p>
-                <div id="8af81f3c-c443-4a98-809c-bd44db5de69c"/>
+                <div id="8af81f3c-c443-4a98-809c-bd44db5de69c">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_p3v_yvq_cmb"/>
+                </div>
             </div>
             <div id="cad72aa9-38e6-4fc3-95e0-9b3535b841ae">
                 <p outputclass="title" id="8b85847d-3c66-44a5-a53a-01d0badbbdc2">
                     <xref outputclass="ps_link" id="div_nll_smp_cmb" keyref="rdamP30009/div_nll_smp_cmb">Option</xref>
                 </p>
-                <div id="084b17b2-1bdd-4ed3-8463-b85333935ff3"/>
+                <div id="084b17b2-1bdd-4ed3-8463-b85333935ff3">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_stb_wvq_cmb"/>
+                </div>
             </div>
             <div id="e2019882-34d4-4b90-a06d-19eff0e32bb2">
                 <p outputclass="title" id="58e00e6a-76b6-4610-b5bf-44423e7a26d8">
                     <xref outputclass="ps_link" id="div_pll_smp_cmb" keyref="rdamP30009/div_pll_smp_cmb">Option</xref>
                 </p>
-                <div id="5667fa72-8e01-4a3a-9224-1bd70a560e07"/>
+                <div id="5667fa72-8e01-4a3a-9224-1bd70a560e07">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_pzv_1wq_cmb"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: A date is not of the Gregorian or Julian calendar.</draft-comment>
             <div id="ae839428-5617-4c36-9550-e7951eb2dfbb">
                 <p outputclass="title" id="e8016c07-f69f-4624-ac2c-82640009c1cd">
                     <xref outputclass="ps_link" id="div_ull_smp_cmb" keyref="rdamP30009/div_ull_smp_cmb">Condition Option</xref>
                 </p>
-                <div id="3468e76a-cbe7-4eb2-af3f-1f09504c7b58"/>
+                <div id="3468e76a-cbe7-4eb2-af3f-1f09504c7b58">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_gvd_35j_smb"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: A value is known to be false or refers to a fictitious entity.</draft-comment>
             <div id="aae59b0e-8acf-4925-85ef-b6b6ad0966b6">
                 <p outputclass="title" id="762237b5-a612-4430-8400-dc375eb8f457">
                     <xref outputclass="ps_link" id="div_cml_smp_cmb" keyref="rdamP30009/div_cml_smp_cmb">Condition Option</xref>
                 </p>
-                <div id="6bf0478a-6455-42cc-96dd-5b240e1c287d"/>
+                <div id="6bf0478a-6455-42cc-96dd-5b240e1c287d">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_k2s_h5j_smb"/>
+                </div>
             </div>
             <div id="bb1d9dc0-f454-4772-9aa7-133981a02ed1">
                 <p outputclass="title" id="6a6eafa5-76f8-408b-85a6-7e42eee5f886">
                     <xref outputclass="ps_link" id="div_ow4_kw1_lmb" keyref="rdamP30009/div_ow4_kw1_lmb">Condition Option</xref>
                 </p>
-                <div id="e623ca75-b5cb-4e01-bf61-78d15213cf1d"/>
+                <div id="e623ca75-b5cb-4e01-bf61-78d15213cf1d">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_yf1_j2k_smb"/>
+                </div>
             </div>
             <div id="7afe5867-739f-479f-9c19-bf5832df10cb">
                 <p outputclass="title" id="6434f443-103f-40e1-8e38-fbb57ae64542">
                     <xref outputclass="ps_link" id="div_vf4_vnf_12b" keyref="rdamP30009/div_vf4_vnf_12b">Condition Option</xref>
                 </p>
-                <div id="98c698c4-1567-4d4f-a99e-74756e0a39a8"/>
+                <div id="98c698c4-1567-4d4f-a99e-74756e0a39a8">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_gwk_55j_smb"/>
+                </div>
             </div>
             <div id="e608869f-ca5d-42ee-92f2-de2579858042">
                 <p outputclass="title" id="d3b1c2b5-dfa5-4469-87f2-0279c61bb5af">
                     <xref outputclass="ps_link" id="div_fml_smp_cmb" keyref="rdamP30009/div_fml_smp_cmb">Condition Option</xref>
                 </p>
-                <div id="dea58506-cbbb-4851-97e3-ee4a5b8fd756"/>
+                <div id="dea58506-cbbb-4851-97e3-ee4a5b8fd756">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_ksx_l2k_smb"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: A value of date of production is in the form of a chronogram.</draft-comment>
             <div id="94c7e7c3-4615-44de-932b-95d001a31130">
                 <p outputclass="title" id="9da474d0-4fe0-4d64-8fa7-9025bd3fd479">
                     <xref outputclass="ps_link" id="div_q3f_g22_rhb" keyref="rdamP30009/div_q3f_g22_rhb">Condition Option</xref>
                 </p>
-                <div id="b391f25e-8e80-4ac8-9347-9057ae19bcd3"/>
+                <div id="b391f25e-8e80-4ac8-9347-9057ae19bcd3">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/30a38c44-e645-4377-be72-0e590ddedb35"/>
+                </div>
             </div>
             <div id="21baaf7a-5787-4ab5-8619-e5b5f36653be">
                 <p outputclass="title" id="13721124-4a92-452c-b7b8-98e8f23ee8a4">
                     <xref outputclass="ps_link" id="div_jh5_qrb_z2b" keyref="rdamP30009/div_jh5_qrb_z2b">Condition Option</xref>
                 </p>
-                <div id="0f346478-2ec7-4309-8b8d-1ae8b198276c"/>
+                <div id="0f346478-2ec7-4309-8b8d-1ae8b198276c">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/0eb71032-b68a-4ceb-b1e8-f1f0b1e27343"/>
+                </div>
             </div>
+            <draft-comment author="CSS Chair">Condition: A value of Manifestation: date of production cannot be found in a manifestation that is being described.</draft-comment>
             <div id="7d80857f-4d7b-45f6-b0f1-bfb5641cbebf">
                 <p outputclass="title" id="e5e3fc11-23ce-4cad-97c3-ead2404f03ed">
                     <xref outputclass="ps_link" id="div_pml_smp_cmb" keyref="rdamP30009/div_pml_smp_cmb">Condition Option</xref>
                 </p>
-                <div id="3c553d39-5910-4b2d-93ea-907da8ad79a5"/>
+                <div id="3c553d39-5910-4b2d-93ea-907da8ad79a5">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_l1l_rwq_cmb"/>
+                </div>
             </div>
             <div id="9803288c-247e-4e4d-b1ec-10d8cb0aa28b">
                 <p outputclass="title" id="e6c44b53-4e49-4123-bcf9-c131d4710e33">
                     <xref outputclass="ps_link" id="div_rml_smp_cmb" keyref="rdamP30009/div_rml_smp_cmb">Condition Option</xref>
                 </p>
-                <div id="57ac7021-2592-4be3-9411-656788aa954c"/>
+                <div id="57ac7021-2592-4be3-9411-656788aa954c">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_c4s_swq_cmb"/>
+                </div>
             </div>
             <div id="a9d1c154-07d6-4494-8fe5-f5e97b53e2b5">
                 <p outputclass="title" id="6709396f-9ee3-4b09-9c62-47d1037c5a0d">
                     <xref outputclass="ps_link" id="div_tml_smp_cmb" keyref="rdamP30009/div_tml_smp_cmb">Condition Option</xref>
                 </p>
-                <div id="ca7398c7-ef69-419a-b440-fd5f330fc292"/>
+                <div id="ca7398c7-ef69-419a-b440-fd5f330fc292">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_tvj_5wq_cmb"/>
+                </div>
             </div>
             <div id="36c0f6b3-f213-478d-b363-ff5ad1546c03">
                 <p outputclass="title" id="a3fc72fe-3c02-4103-957d-64ce4e111fb6">
                     <xref outputclass="ps_link" id="div_vml_smp_cmb" keyref="rdamP30009/div_vml_smp_cmb">Condition Option</xref>
                 </p>
-                <div id="31da7e1f-1a3d-4db2-b5f8-3bc8452c3087"/>
+                <div id="31da7e1f-1a3d-4db2-b5f8-3bc8452c3087">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_gvx_vwq_cmb"/>
+                </div>
             </div>
             <div id="cd3d1b4d-2388-4a74-807a-5591368b3265">
                 <p outputclass="title" id="5b8741c2-364a-4943-908a-04d5691bc92b">
                     <xref outputclass="ps_link" id="div_xml_smp_cmb" keyref="rdamP30009/div_xml_smp_cmb">Condition Option</xref>
                 </p>
-                <div id="27bfd145-42f1-4453-be58-541dcec353e9"/>
+                <div id="27bfd145-42f1-4453-be58-541dcec353e9">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_x23_xwq_cmb"/>
+                </div>
             </div>
             <div id="d0176cc5-b4b4-4ddf-bdd8-a498eceab517">
                 <p outputclass="title" id="bc552035-ab0a-4a76-92e8-d1c07dde89a2">
                     <xref outputclass="ps_link" id="div_zml_smp_cmb" keyref="rdamP30009/div_zml_smp_cmb">Condition Option</xref>
                 </p>
-                <div id="355814a1-3837-4ee3-a1f3-9579586dbda6"/>
+                <div id="355814a1-3837-4ee3-a1f3-9579586dbda6">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_rlc_zwq_cmb"/>
+                </div>
             </div>
             <div id="33a7f91f-5f4f-45a6-948e-55300cf07297">
                 <p outputclass="title" id="88c6c597-47da-4aca-825b-83eec9239668">
                     <xref outputclass="ps_link" id="div_bnl_smp_cmb" keyref="rdamP30009/div_bnl_smp_cmb">Condition Option</xref>
                 </p>
-                <div id="418ac128-7226-4fff-b1c4-64119ad386c3"/>
+                <div id="418ac128-7226-4fff-b1c4-64119ad386c3">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_t2s_1xq_cmb"/>
+                </div>
             </div>
             <div id="5ff48649-5e2f-4602-aac2-b96e251ddb6a">
                 <p outputclass="title" id="60312e9e-3d19-449f-b834-31e6d24bbfad">
                     <xref outputclass="ps_link" id="div_dnl_smp_cmb" keyref="rdamP30009/div_dnl_smp_cmb">Condition Option</xref>
                 </p>
-                <div id="3a4d60d2-7ea1-4488-b11e-ec44da472824"/>
+                <div id="3a4d60d2-7ea1-4488-b11e-ec44da472824">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/div_lmg_cxq_cmb"/>
+                </div>
             </div>
         </section>
         <section id="5db5a6b0-52e9-4bc1-a94f-bcb7e61080d9">
@@ -274,7 +360,9 @@
                 <p outputclass="title" id="42fc222a-04de-4ebb-b276-5d629eba8859">
                     <xref outputclass="ps_link" id="div_zws_tkh_c2b" keyref="rdamP30009/div_zws_tkh_c2b">Condition Option</xref>
                 </p>
-                <div id="00ecf07a-ccc0-40d5-ae5e-dfb48a134f50"/>
+                <div id="00ecf07a-ccc0-40d5-ae5e-dfb48a134f50">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_date_of_production.dita#ala-b44666c6-b23f-36e3-a0b3-c567f70cfac9/9f728995-1c5b-4a6f-af6d-768d1b80a497"/>
+                </div>
             </div>
         </section>
         <section id="ff5bfe18-3a14-4b58-b4c2-00e47b44fd52">

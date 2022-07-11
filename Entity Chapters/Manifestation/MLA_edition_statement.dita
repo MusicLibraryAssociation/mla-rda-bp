@@ -16,19 +16,15 @@
                 <p outputclass="title" id="d868ce77-e3bc-4959-8060-087231dcc3e8">
                     <xref outputclass="ps_link" keyref="rdamP30107/2957a430-9e81-49f9-851a-ee4aafac2685">Prerecording</xref>
                 </p>
-                <div id="42ffa3da-7038-4d8f-9bf5-428336264242"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_pnk_vdh_r4b"
-                        id="ph_fdg_5rt_v4b"/><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_rlm_crt_v4b"
-                        id="ph_avy_5rt_v4b"/></div>
+                <div id="42ffa3da-7038-4d8f-9bf5-428336264242">
+                    <p><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_pnk_vdh_r4b" id="ph_fdg_5rt_v4b"/><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_rlm_crt_v4b" id="ph_avy_5rt_v4b"/></p>
+                </div>
             </div>
             <div id="d6d8d5d3-df04-4792-acad-252c4ed063fa">
                 <p outputclass="title" id="4f026e32-355b-489b-a1d7-1d68f07ea5c2">
                     <xref outputclass="ps_link" keyref="rdamP30107/div_olz_kqc_rhb">Option</xref>
                 </p>
-                <div id="7f9ac127-0c28-4a86-8c88-3bcd5c3edec5"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_lkc_zhh_r4b"
-                        id="ph_xtv_lst_v4b"/></div>
+                <div id="7f9ac127-0c28-4a86-8c88-3bcd5c3edec5"><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_lkc_zhh_r4b" id="ph_xtv_lst_v4b"/></div>
             </div>
         </section>
         <section id="4c2272ef-6a8e-4bbd-892a-bfa77ad01e69">
@@ -38,16 +34,7 @@
                     <xref outputclass="ps_link" keyref="rdamP30107/dee0179a-8716-474c-80e9-9eb16e55178d">Recording</xref>
                 </p>
                 <div id="d58837d9-c154-46b4-8794-0aa9ecc2a823">
-                    <p id="p_d1v_1tt_v4b"><ph
-                            conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_osx_rxr_x4b"
-                            id="ph_wr3_wrp_gpb"/><ph
-                            conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_lwm_qgd_z4b"
-                            id="ph_hfx_wrp_gpb"/>field 250. Generally encode multiple instances of
-                        Manifestation: <xref keyref="rdamP30133">designation of edition</xref>
-                        and/or Manifestation: <xref keyref="rdamP30132">designation of named
-                            revision of edition</xref> in separate 250 fields. However, when a
-                        designation of a named revision is grammatically linked to a designation of
-                        edition, encode both in a single 250 field.</p>
+                    <p id="p_d1v_1tt_v4b"><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_osx_rxr_x4b" id="ph_wr3_wrp_gpb"/><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_lwm_qgd_z4b" id="ph_hfx_wrp_gpb"/>field 250. Generally encode multiple instances of Manifestation: <xref keyref="rdamP30133">designation of edition</xref> and/or Manifestation: <xref keyref="rdamP30132">designation of named revision of edition</xref> in separate 250 fields. However, when a designation of a named revision is grammatically linked to a designation of edition, encode both in a single 250 field.</p>
                 </div>
             </div>
         </section>
@@ -71,25 +58,25 @@
                 <p outputclass="title" id="8ea2237c-6881-4204-a394-1792a16e73bb">
                     <xref outputclass="ps_link" id="div_f2f_nxd_ymb" keyref="rdamP30107/div_f2f_nxd_ymb">Option</xref>
                 </p>
-                <div id="ee6e914f-7764-479a-b456-7a30d3801e97"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_sl3_hfh_r4b"
-                        id="ph_a3d_4vt_v4b"/></div>
+                <div id="ee6e914f-7764-479a-b456-7a30d3801e97">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_edition_statement.dita#ala-0322ec00-9d9c-3b77-8846-7b6906374add/div_o55_sxd_ymb"/>
+                </div>
             </div>
             <div id="745e0966-3a0c-4c86-a74c-b82ca8fbebbf">
                 <p outputclass="title" id="ec213217-21f7-4504-a3bb-fc6b7df1bc32">
                     <xref outputclass="ps_link" id="div_pms_nxd_ymb" keyref="rdamP30107/div_pms_nxd_ymb">Option</xref>
                 </p>
-                <div id="7d3b4bab-3a4a-45ad-897d-e966490b2e54"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b"
-                        id="ph_a4c_jvt_v4b"/></div>
+                <div id="7d3b4bab-3a4a-45ad-897d-e966490b2e54">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_edition_statement.dita#ala-0322ec00-9d9c-3b77-8846-7b6906374add/div_utx_sxd_ymb"/>
+                </div>
             </div>
             <div id="a61dcefd-fe1f-4d75-87ac-2a4f5f34f999">
                 <p outputclass="title" id="d0ef3349-0a71-46d6-a657-0e1c7baa4c20">
                     <xref outputclass="ps_link" id="div_ejy_qj1_4hb" keyref="rdamP30107/div_ejy_qj1_4hb">Option</xref>
                 </p>
-                <div id="6a8baf7e-5dcf-4689-940c-7e69a0ef6802"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_sl3_hfh_r4b"
-                        id="ph_fzn_rvt_v4b"/></div>
+                <div id="6a8baf7e-5dcf-4689-940c-7e69a0ef6802">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_edition_statement.dita#ala-0322ec00-9d9c-3b77-8846-7b6906374add/6ae2218b-0679-404c-90ec-1871771dc2bf"/>
+                </div>
             </div>
             <div id="3c10c9d3-8a1c-4f6a-816b-6ae7257e2537">
                 <p outputclass="title" id="9b256067-7dd9-44f4-a7c0-8a0ad09359af">
@@ -112,12 +99,7 @@
                 <p outputclass="title" id="42a64308-761c-49fa-949e-6ee99d814695">
                     <xref outputclass="ps_link" id="div_ocv_3br_zdb" keyref="rdamP30107/div_ocv_3br_zdb">Condition Option</xref>
                 </p>
-                <div id="c45a3cb6-7ffa-4185-8d77-7c86208711df"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b"
-                        id="ph_j2v_cvt_v4b"/> A common case in music is when a score, cataloged
-                    together with parts, bears the statement "Score" (or its equivalent). Do not
-                    treat such a statement as a designation of edition, as it does not apply to the
-                    entire resource.</div>
+                <div id="c45a3cb6-7ffa-4185-8d77-7c86208711df"><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b" id="ph_j2v_cvt_v4b"/> A common case in music is when a score, cataloged together with parts, bears the statement "Score" (or its equivalent). Do not treat such a statement as a designation of edition, as it does not apply to the entire resource.</div>
             </div>
             <div id="fcf9c145-847c-4b96-bb3d-166021bafff0">
                 <p outputclass="title" id="6ef67ed7-9102-424b-9a5e-2200d05d4c10">
@@ -166,7 +148,8 @@
                     <xref outputclass="ps_link" id="div_p2c_2ch_qhb" keyref="rdamP30107/div_p2c_2ch_qhb">Option</xref>
                 </p>
                 <div id="89ddf6b4-4d37-4cd7-980f-fd1b0fd3f0db">
-                    <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>Separate sub-elements recorded in the same MARC field by applying ISBD punctuation rules or the PCC Guidelines for Minimally Punctuated MARC, as appropriate.</p>
+                    <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/><ph conkeyref="b_bp_mla/ph_iyv_tzz_stb"/></p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_distribution_statement.dita#ala-eed3a483-f97b-3f7d-9c5d-9134a88ba0e9/c2d622c6-15fc-4f7a-bd85-c1690feb3286"/>
                 </div>
             </div>
             <div id="2cb04c10-2a31-4df6-92a4-8232e2544239">
