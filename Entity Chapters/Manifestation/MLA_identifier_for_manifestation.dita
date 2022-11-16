@@ -17,16 +17,9 @@
                     <xref outputclass="ps_link" keyref="rdamP30004/88950ac2-20bc-4019-8e16-45c36eeabe47">Prerecording</xref>
                 </p>
                 <div id="9202dfcf-5e64-4ac0-998a-9febe233281f">
-                    <p id="p_rhp_pp1_bpb"><ph conkeyref="b_bp_mla/p_vtg_bdh_r4b" id="ph_k2q_kn1_bpb"
-                        /> If feasible, record all standard identifiers present on the resource,
-                        including but not limited to ISBN, ISMN, EAN, and UPC. Also routinely record
-                        identifiers issued by publishers, including audio recording issue numbers
-                        and video recording numbers. Optionally, record identifiers issued by
-                        distributors.</p>
-                    <p id="p_w2q_c41_bpb">For modern commercial recordings, record matrix numbers if
-                        they are the only numbers shown on the resource, or if deemed important for
-                        identification or access. For rare or historical recordings, record matrix
-                        numbers even if other publisher numbers are present. </p>
+                    <p id="p_rhp_pp1_bpb"><ph conkeyref="b_bp_mla/p_vtg_bdh_r4b" id="ph_k2q_kn1_bpb"/> If feasible, record all standard identifiers present on the resource, including but not limited to ISBN, ISMN, EAN, and UPC. Also routinely record identifiers issued by publishers, including audio recording issue numbers and video recording numbers. Optionally, record identifiers issued by distributors.</p>
+                    <p id="p_kcn_t5j_55b">For ISMNs: If feasible, record an additional instance of the element containing the equivalent 10- or 13-character version of the ISMN. To convert one ISMN format to another, replace "M" with "9790" or vice versa. The final check digit is the same in both ISMN formats.</p>
+                    <p id="p_w2q_c41_bpb">For modern commercial recordings, record matrix numbers if they are the only numbers shown on the resource, or if deemed important for identification or access. For rare or historical recordings, record matrix numbers even if other publisher numbers are present.</p>
                     <p id="p_nsb_pjz_ssb"><ph conkeyref="b_bp_mla/ph_vtq_rhb_bpb"
                             id="ph_a51_xpb_bpb"/></p>
                     <p id="p_wmm_cmg_hpb">For additional guidance for notated music, see
@@ -56,6 +49,7 @@
                         issue number, first indicator 0; matrix number, first indicator 1;
                         videorecording number, first indicator 4; distributor number, first
                         indicator 6).</p>
+                    <p>Routinely encode a 13-digit, EAN-formatted identifier beginning with 979-0 as an ISMN using 024 first indicator 2. Optionally, also encode such an identifier as an EAN using 024 first indicator 3.</p>
                 </div>
             </div>
             <div id="ab1c9103-b017-4cdc-bce6-68cc5a729cb4">

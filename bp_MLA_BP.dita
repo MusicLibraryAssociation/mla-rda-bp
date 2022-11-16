@@ -11,7 +11,7 @@
                 <draft-comment author="CSS Chair">Statements attached to the Prerecording heading</draft-comment>
                 <p><ph id="p_vtg_bdh_r4b">Routinely record the element.</ph></p>
                 <p><ph id="p_pnk_vdh_r4b">Routinely record the element </ph></p>
-                <p><ph id="ph_rlm_crt_v4b"> by recording one or more of the appropriate sub-elements.</ph></p>
+                <p><ph id="ph_rlm_crt_v4b"> by recording one or more of the appropriate subelements.</ph></p>
                 <p><ph id="ph_vgt_s34_kqb">Where possible, prefer recording one or more of the more specific element subtypes instead.</ph></p>
                 <p><ph id="ph_tqy_drt_v4b"> or an appropriate narrower element.</ph></p>
                 <p><ph id="ph_khy_xxc_gqb">Record the element </ph></p>
@@ -22,9 +22,10 @@
                 <p><ph id="p_m22_32h_r4b">Record a value for at least the first instance of the element. Record additional values for the element if deemed useful for identification or selection.</ph></p>
                 <p><ph id="p_uqx_ljh_r4b">This element, or one of its narrower or broader elements, is required by the minimum description standards of RDA.</ph></p>
                 <p><ph id="p_lkc_zhh_r4b">Generally do not record manifestation statements. Refer to the Best Practices for Guidance: <xref keyref="g_029"/> for details.</ph></p>
-                <p><ph id="ph_z3v_fst_v4b">Information appropriate for this element should be recorded using the more specific element and/or sub-elements found at </ph></p>
+                <p><ph id="ph_z3v_fst_v4b">Information appropriate for this element should be recorded using the more specific element and/or subelements found at </ph></p>
                 <p><ph id="ph_knj_c2z_cqb">Do not record the element.</ph></p>
                 <p><ph id="ph_zpp_sdz_cqb">Do not record the element </ph></p>
+                <p><ph id="ph_q4w_1pv_t5b">For additional guidance and examples refer to </ph></p>
                 <draft-comment author="CSS Chair">Statements attached to the Recording heading</draft-comment>
                 <p><ph id="ph_osx_rxr_x4b">In MARC: </ph></p>
                 <p><ph id="ph_lwm_qgd_z4b">Record as an unstructured description using </ph></p>
@@ -44,6 +45,7 @@
                 <p><ph id="ph_vch_fwk_stb">Do not apply the option </ph></p>
                 <p><ph id="p_izh_3fh_r4b">Generally do not apply the option </ph></p>
                 <p><ph id="ph_qtx_by2_cqb">unless directed by local policy.</ph></p>
+                <p><ph id="ph_djy_lrv_t5b">if directed by local policy.</ph></p>
                 <p><ph id="p_hjp_jfh_r4b">Cataloger's judgment.</ph></p>
                 <p><ph id="ph_mnb_hns_v4b"> if deemed useful for identification or selection.</ph></p>
                 <p><ph id="ph_nll_gbv_mqb"> if deemed useful for identification or access.</ph></p>
@@ -56,7 +58,8 @@
                 <p><ph id="ph_orq_vnf_1qb">If recording a term from the recommended vocabulary encoding scheme, indicate the source of information using the $2 code </ph></p>
                 <p><ph id="ph_ivd_znt_cqb">Do not apply the option until a MARC source code has been assigned to the chosen vocabulary encoding scheme.</ph></p>
                 <p><ph id="ph_zg4_yft_cqb">If deemed useful for identification or selection, <ph id="ph_evq_k55_tsb">optionally provide details or clarification as an unstructured description in field 500.</ph></ph></p>
-                <p><ph id="ph_iyv_tzz_stb">Separate sub-elements recorded in the same MARC field by applying ISBD punctuation rules or the PCC Guidelines for Minimally Punctuated MARC.</ph></p>
+                <p><ph id="ph_iyv_tzz_stb">Separate subelements that are recorded in the same MARC field by applying ISBD punctuation rules or the PCC Guidelines for Minimally Punctuated MARC.</ph></p>
+                <p><ph id="ph_jw5_h5v_t5b">For electronic resources, do not record the name of a resource provider or the title of a database package in this element or any related element.</ph></p>
                 <draft-comment author="CSS Chair">Links to external resources. </draft-comment>
                 <p><ph id="p_ts4_3gh_r4b"><xref href="https://cmc.wp.musiclibraryassoc.org/types-of-composition-for-use-in-authorized-access-points-for-music-a-manual-for-use-with-rda/" format="html" scope="external">Types of Composition for Use in Authorized Access Points for Music: A Manual for Use with RDA</xref></ph></p>
                 <p><ph id="ph_rck_wcb_pqb"><xref href="https://cmc.wp.musiclibraryassoc.org/thematic-indexes-used-in-library-of-congress-naco-authority-files/" format="html" scope="external">Thematic Indexes Used in Library of Congress NACO Authority Files</xref></ph></p>
