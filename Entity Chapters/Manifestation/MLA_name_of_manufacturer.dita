@@ -142,6 +142,7 @@
                     <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_name_of_manufacturer.dita#ala-dda59d1d-8360-3d03-809a-0237dd16812b/div_gk1_4wx_cmb"/>
                 </div>
             </div>
+            <draft-comment author="keknop">Condition: value known to be false or fictitious entity</draft-comment>
             <div id="992f92c7-a486-43c9-ab89-af7c3498441a">
                 <p outputclass="title" id="4aba9869-014d-4e0f-bc1c-ad40d4075091">
                     <xref outputclass="ps_link" id="div_idc_h2x_cmb" keyref="rdamP30175/div_idc_h2x_cmb">Condition Option</xref>
@@ -174,15 +175,14 @@
                     <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_name_of_manufacturer.dita#ala-dda59d1d-8360-3d03-809a-0237dd16812b/div_dcp_fwx_cmb"/>
                 </div>
             </div>
+        </section>
+        <section id="section_clw_s13_4vb">
+            <title>Name of manufacturer not identified</title>
             <div id="f8256de8-a802-40c9-a0a3-992efc16c1ad">
                 <p outputclass="title" id="d2e7790d-d964-40cf-905b-426f9910b18e">
                     <xref outputclass="ps_link" id="div_vzs_svl_1fb" keyref="rdamP30175/div_vzs_svl_1fb">Condition Option</xref>
                 </p>
-                <div id="bd3ac243-0067-4cfe-927f-d8779f76496c"><ph
-                        conkeyref="b_bp_mla/p_elw_gfh_r4b"
-                        id="ph_ypw_sqx_z4b"/>as a last recourse. <ph
-                        conkeyref="b_bp_mla/ph_cyr_jqq_z4b"
-                        id="ph_ecl_tqx_z4b"/></div>
+                <div id="bd3ac243-0067-4cfe-927f-d8779f76496c"><ph conkeyref="b_bp_mla/p_elw_gfh_r4b" id="ph_ypw_sqx_z4b"/>as a last recourse. <ph conkeyref="b_bp_mla/ph_cyr_jqq_z4b" id="ph_ecl_tqx_z4b"/></div>
             </div>
         </section>
         <section id="section_cdl_f1w_t5b">

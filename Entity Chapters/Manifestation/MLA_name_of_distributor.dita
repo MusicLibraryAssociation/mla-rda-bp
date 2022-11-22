@@ -141,6 +141,7 @@
                     <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_name_of_distributor.dita#ala-881c6802-5e4d-3012-83d4-0ef25ceff620/div_ktj_q5x_cmb"/>
                 </div>
             </div>
+            <draft-comment author="keknop">Condition: value known to be false or fictitious</draft-comment>
             <div id="46832fc3-1bca-41d9-9a98-b071046771e4">
                 <p outputclass="title" id="48f432aa-373c-4f19-9474-a33eab79369b">
                     <xref outputclass="ps_link" id="div_lbh_f2x_cmb" keyref="rdamP30173/div_lbh_f2x_cmb">Condition Option</xref>
@@ -165,6 +166,9 @@
                     <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_name_of_distributor.dita#ala-881c6802-5e4d-3012-83d4-0ef25ceff620/bbb57e02-79b3-42c0-a59f-5b1bf2d2e504"/>
                 </div>
             </div>
+        </section>
+        <section id="section_ewd_4c3_4vb">
+            <title>Name of distributor not identified</title>
             <div id="f5d0abd0-b00a-4530-89d8-57e43a2c14fb">
                 <p outputclass="title" id="940583e3-8059-471c-9a5e-ac00c4b66ed6">
                     <xref outputclass="ps_link" id="div_pbh_f2x_cmb" keyref="rdamP30173/div_pbh_f2x_cmb">Condition Option</xref>
@@ -173,6 +177,9 @@
                     <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_name_of_distributor.dita#ala-881c6802-5e4d-3012-83d4-0ef25ceff620/div_gwp_b5x_cmb"/>
                 </div>
             </div>
+        </section>
+        <section id="section_vxt_mc3_4vb">
+            <title>Statement of function</title>
             <div id="f25b2ce3-194b-4140-9e29-8c07993c214e">
                 <p outputclass="title" id="2028a134-651a-462f-bf17-93895e640864">
                     <xref outputclass="ps_link" id="div_xdd_p5l_1fb" keyref="rdamP30173/div_xdd_p5l_1fb">Condition Option</xref>
