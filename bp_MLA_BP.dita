@@ -81,6 +81,7 @@
                 <p><ph id="ph_msn_2nt_cqb"><xref href="https://id.loc.gov/vocabulary/mtapeconfig.html" format="html" scope="external">Library of Congress Tape Configuration</xref></ph></p>
                 <p><ph id="ph_ypn_ycz_cqb"><xref href="https://id.loc.gov/vocabulary/mencformat.html" format="html" scope="external">Library of Congress Encoding Format</xref></ph></p>
                 <p><ph id="ph_hnb_xtc_nqb"><xref href="https://id.loc.gov/vocabulary/millus.html" format="html" scope="external">Library of Congress Illustrative Content</xref></ph></p>
+                <p><ph id="ph_dvx_bcc_rvb"><xref href="https://creativecommons.org/" format="html" scope="external">Creative Commons</xref></ph></p>
                 <draft-comment author="CSS Chair">Recommendations limited to specific sets of elements</draft-comment>
                 <p><ph id="ph_ify_sxr_x4b">Note that each distinct edition statement, including designations of edition, their associated designations of named revision of edition, statements of responsibility relating to edition, etc., should be encoded in separate 250 fields.</ph></p>
                 <p><ph id="ph_csg_ldy_z4b">For specific MLA guidance on places, dates, or agents related to the production, publication, distribution, or manufacture of a manifestation, refer to the appropriate narrower element. Otherwise follow LC-PCC PS for this element.</ph></p>

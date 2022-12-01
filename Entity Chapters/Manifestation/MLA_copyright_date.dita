@@ -17,16 +17,10 @@
                     <xref outputclass="ps_link" keyref="rdamP30007/b3d53581-42c4-4f14-98da-33ee41ab841c">Prerecording</xref>
                 </p>
                 <div id="6f55d4da-6f7c-4e97-b137-26fc096e598c">
-                    <p id="p_h2h_j55_1pb"><ph
-                            conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_vtg_bdh_r4b"
-                            id="ph_grn_c55_1pb"/> For notated music, routinely record the latest ©
-                        copyright date. For audio recordings, routinely record the latest ℗
-                        phonogram copyright date if that date can be determined to apply to the
-                        resource as a whole; otherwise do not record a phonogram copyright date. If
-                        deemed useful for identification or access also record the latest ©
-                        copyright date for audio recordings.</p>
+                    <p id="p_h2h_j55_1pb"><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_vtg_bdh_r4b" id="ph_grn_c55_1pb"/> For notated music, routinely record the latest © copyright date. For audio recordings, routinely record the latest ℗ phonogram copyright date if that date can be determined to apply to the resource as a whole; otherwise do not record a phonogram copyright date. Also record the latest © copyright date for audio recordings <ph conkeyref="b_bp_mla/ph_nll_gbv_mqb"/></p>
                     <p id="p_ujz_s55_1pb">Do not consider a copyright renewal date or a copyright
                         transfer date to be a copyright date.</p>
+                    <p>Do not consider a license date to be a copyright date. For dates associated with licences refer to Manifestation: <xref keyref="rdamP30146"/>.</p>
                 </div>
             </div>
         </section>
@@ -58,13 +52,7 @@
                 <p outputclass="title" id="07c911bd-0298-4af4-bff4-10ae2311c93b">
                     <xref outputclass="ps_link" keyref="rdamP30007/div_azm_rrx_zdb">Condition Option</xref>
                 </p>
-                <div id="d9a1adeb-7d61-473f-aebe-7fa35c40e4f2"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b"
-                        id="ph_k31_jy5_1pb"/>  However, if multiple phonogram copyright dates are
-                    present, record only the latest date that can be determined to apply to the
-                    resource as a whole as a Manifestation: copyright date. Optionally, record
-                    multiple phonogram copyright dates in a Manifestation: <xref keyref="rdamP30137"
-                    />.</div>
+                <div id="d9a1adeb-7d61-473f-aebe-7fa35c40e4f2"><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b" id="ph_k31_jy5_1pb"/> However, if multiple phonogram copyright dates are present, record only the latest date that can be determined to apply to the resource as a whole as a Manifestation: copyright date. Optionally, record multiple phonogram copyright dates in a Manifestation: <xref keyref="rdamP30137"/>.</div>
             </div>
             <div id="20da78a7-2ca0-4532-b180-f2b735e23489">
                 <p outputclass="title" id="ac8eee99-1f31-4679-928e-0a910b6fccc6">
@@ -157,7 +145,9 @@
                 <p outputclass="title" id="30df1d4d-6836-4751-9c5d-a452ff7d0293">
                     <xref outputclass="ps_link" keyref="rdamP30007/div_cy4_xyh_xdb">Recording a structured description</xref>
                 </p>
-                <div id="7731fa99-73fb-4ccd-b235-b250bb7cf7f7"/>
+                <div id="7731fa99-73fb-4ccd-b235-b250bb7cf7f7">
+                    <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/> Follow MARC input standards when recording a date in field 008; that is, record only a four-digit value, without copyright or phonogram symbols.</p>
+                </div>
             </div>
         </section>
         <section id="b60c65af-8411-4d89-b1f8-146f0848c03e">
