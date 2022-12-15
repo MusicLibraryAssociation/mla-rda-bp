@@ -17,7 +17,7 @@
                     <xref outputclass="ps_link" keyref="rdaeP20065/bb5f057c-b8e9-4290-bb53-620da7bbaa9c">Prerecording</xref>
                 </p>
                 <div id="304bbe95-1b0a-4e42-a311-84cf29aef1b0">
-                    <p><ph conkeyref="b_bp_mla/p_pnk_vdh_r4b"/>for notated music that includes sung or spoken text if knowledge of one or more non-Latin scripts is necessary for performance. <ph conkeyref="b_bp_mla/ph_khy_xxc_gqb"/> for notated music that includes sung or spoken text in both a non-Latin script and a Latin transliteration <ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/><ph conkeyref="b_bp_mla/p_knb_g2h_r4b"/></p>
+                    <p><ph conkeyref="b_bp_mla/p_pnk_vdh_r4b"/>for notated music that includes sung or spoken text if knowledge of one or more non-Latin scripts is necessary for performance. <ph conkeyref="b_bp_mla/ph_khy_xxc_gqb"/> for notated music that includes sung or spoken text in both a non-Latin script and a Latin transliteration <ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/></p>
                     <p><ph conkeyref="b_bp_mla/ph_khy_xxc_gqb"/> for Latin variant scripts (e.g., Fraktur) <ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/></p>
                     <p>Otherwise follow LC-PCC PS.</p>
                     <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_script.dita#ala-6a7c99c8-1192-3555-9947-fcf188aff7fe/5611dadf-a087-46c2-8f01-bcfb523300fb"/>
@@ -89,6 +89,7 @@
                     <xref outputclass="ps_link" id="div_dcy_cpd_mhb" keyref="rdaeP20065/div_dcy_cpd_mhb">Option</xref>
                 </p>
                 <div id="cb37bf83-0e9b-4901-a65f-5f7a632084d5">
+                    <p>Follow LC-PCC PS except for cases noted under the <xref keyref="rdaeP20065/div_w51_mhh_ykb">option to record an uncontrolled term</xref>.</p>
                     <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_script.dita#ala-6a7c99c8-1192-3555-9947-fcf188aff7fe/828a0f1c-0124-46f0-b8e2-9057af01760c">
                         <p>Follow LC-PCC PS in most cases, except as specified under <xref keyref="rdaeP20065/div_hy2_d2g_nhb">this option</xref>.</p>
                     </div>
@@ -107,6 +108,11 @@
                     <xref outputclass="ps_link" id="div_hy2_d2g_nhb" keyref="rdaeP20065/div_hy2_d2g_nhb">Condition Option</xref>
                 </p>
                 <div id="2757662a-e043-48fa-a830-ab225c5676e7">
+                    <p>Prefer the following terms to those found in the Unicode list of names of scripts:</p>
+                    <ul id="ul_fmk_qrw_rvb">
+                        <li>Record "Fraktur" in place of "Latin (Fraktur variant)"</li>
+                        <li>Record "Gaelic" in place of "Latin (Gaelic variant)"</li>
+                    </ul>
                     <div conref="../../../LCPCC_PS/Entity%20Chapters/Expression/LC_script.dita#ala-6a7c99c8-1192-3555-9947-fcf188aff7fe/de3553bb-33bf-4510-bc95-69682a08b652">
                         <p>Record the following terms in preference to those listed in the Unicode list of script names:</p>
                         <ul id="ul_dp1_gyp_rvb">
