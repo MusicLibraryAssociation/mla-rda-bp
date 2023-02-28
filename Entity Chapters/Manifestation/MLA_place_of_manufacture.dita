@@ -44,6 +44,7 @@
                         (second indicator 3) subfield $a.</p>
                 </div>
             </div>
+            <draft-comment author="keknop">Condtion: two or more values</draft-comment>
             <div id="ac28e89a-0add-49a2-b7c9-55bc4e80d647">
                 <p outputclass="title" id="ddff1e6a-d15b-444d-a39b-40d6e015b1a1">
                     <xref outputclass="ps_link" keyref="rdamP30087/div_nbp_gnn_rgb">Condition Option</xref>
@@ -64,6 +65,7 @@
                     />
                 </div>
             </div>
+            <draft-comment author="keknop">Condition: value in parallel language or script</draft-comment>
             <div id="270cc45f-6f47-4500-ad09-e137577d28b6">
                 <p outputclass="title" id="9cb1a234-a55e-4462-b6e4-f4b6607aa533">
                     <xref outputclass="ps_link" keyref="rdamP30087/div_jlh_jlc_4hb">Condition Option</xref>
@@ -113,14 +115,13 @@
                 </p>
                 <div id="05712581-0ecd-4bd5-ab82-569d2a2710ae"/>
             </div>
+            <draft-comment author="keknop">Transcription options</draft-comment>
             <div id="6cdac71a-50fe-4908-8620-fda389cb7219">
                 <p outputclass="title" id="74a6788f-1a91-4f14-a83f-5096fce2c74b">
                     <xref outputclass="ps_link" id="div_e3d_lf3_cmb" keyref="rdamP30087/div_e3d_lf3_cmb">Option</xref>
                 </p>
                 <div id="46961c49-e269-4ed3-9549-d3a2f43ab845">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_lvb_qs3_cmb"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_lvb_qs3_cmb"/>
                 </div>
             </div>
             <div id="1fee2864-286f-4eb1-ba3d-01ba2d2af021">
@@ -128,9 +129,7 @@
                     <xref outputclass="ps_link" id="div_g3d_lf3_cmb" keyref="rdamP30087/div_g3d_lf3_cmb">Option</xref>
                 </p>
                 <div id="1986f803-4b7e-4b84-aee9-196e3ca51288">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_pvb_qs3_cmb"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_pvb_qs3_cmb"/>
                 </div>
             </div>
             <div id="2d24d6c8-3fac-43a3-b481-a2875d1c4501">
@@ -138,39 +137,73 @@
                     <xref outputclass="ps_link" id="div_i3d_lf3_cmb" keyref="rdamP30087/div_i3d_lf3_cmb">Option</xref>
                 </p>
                 <div id="472de9ce-6890-4baa-af15-c4bfd0253d39">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_tvb_qs3_cmb"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_tvb_qs3_cmb"/>
                 </div>
             </div>
+            <div id="div_yz5_s3f_svb">
+                <p outputclass="title">
+                    <xref outputclass="ps_link" keyref="rdamP30087/div_l5q_xlk_nvb" id="div_l5q_xlk_nvb">Option</xref>
+                </p>
+                <?oxy_comment_start author="keknop" timestamp="20221202T150554-0500" comment="New option; LC-PCC PS?"?>
+                <div/><?oxy_comment_end?>
+            </div>
+        </section>
+        <section id="section_zms_bkf_svb">
+            <title>Local and larger place names</title>
+            <draft-comment author="keknop">Former option div_k3d_lf3_cmb: Record both a local place name (city, town, etc.) and a name of a larger place (state, province, country, etc.) if present on the manifestation. LCPCC PS: Apply</draft-comment>
+            <draft-comment author="keknop">Condition: value is a local place name</draft-comment>
             <div id="cd6bd984-da89-4194-8262-b9037e73dbd8">
                 <p outputclass="title" id="4db51a30-ddeb-4106-835c-6652cc9c48ee">
-                    <xref outputclass="ps_link" id="div_k3d_lf3_cmb" keyref="rdamP30087/div_k3d_lf3_cmb">Option</xref>
+                    <xref outputclass="ps_link" id="div_ytv_cqk_nvb" keyref="rdamP30087/div_ytv_cqk_nvb">Condition Option</xref>
                 </p>
                 <div id="0dc9e155-fe6f-4a76-bbb6-2b211a3f5e6b">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_xvb_qs3_cmb"
-                    />
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T153930-0500" comment="New option; replace with LC-PCC PS when available"?><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/><?oxy_comment_end?></p>
                 </div>
             </div>
+            <draft-comment author="keknop">Condition: value is a larger place name</draft-comment>
+            <div id="div_btd_m4f_svb">
+                <p outputclass="title">
+                    <xref outputclass="ps_link" keyref="rdamP30087/div_mwn_tqk_nvb" id="div_mwn_tqk_nvb">Condition Option</xref>
+                </p>
+                <div>
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T153930-0500" comment="New option; replace with LC-PCC PS when available"?><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/><?oxy_comment_end?></p>
+                </div>
+            </div>
+            <draft-comment author="keknop">Condition: value is a local place name in conjunction with a larger place</draft-comment>
+            <div id="div_f4t_r4f_svb">
+                <p outputclass="title">
+                    <xref outputclass="ps_link" keyref="rdamP30087/div_zzg_g1l_nvb" id="div_zzg_g1l_nvb">Condition Option</xref>
+                </p>
+                <div>
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T153930-0500" comment="New option; replace with LC-PCC PS when available"?><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/><?oxy_comment_end?></p>
+                </div>
+            </div>
+            <draft-comment author="keknop">Condition: full address is present</draft-comment>
             <div id="888dfacc-1ec0-4e1d-b0fe-a8a85adf9992">
                 <p outputclass="title" id="806b1677-c1eb-44d8-be24-0f16ec7d8e4b">
-                    <xref outputclass="ps_link" id="div_m3d_lf3_cmb" keyref="rdamP30087/div_m3d_lf3_cmb">Option</xref>
+                    <xref outputclass="ps_link" id="div_lh3_sbl_nvb" keyref="rdamP30087/div_lh3_sbl_nvb">Condition Option</xref>
                 </p>
                 <div id="13c36294-b780-4ae7-994a-f43275c8f0ee">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_bwb_qs3_cmb"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_bwb_qs3_cmb"/>
                 </div>
             </div>
+            <draft-comment author="keknop">Condition: value is a local place name, larger place not present in manifestation, larger place considered necessary for identification</draft-comment>
+            <div id="div_w2c_lhh_tvb">
+                <p outputclass="title">
+                    <xref outputclass="ps_link" keyref="rdamP30087/div_g1t_rcl_nvb" id="div_g1t_rcl_nvb">Condition Option</xref>
+                </p>
+                <?oxy_comment_start author="keknop" timestamp="20221206T111151-0500" comment="New option; LC-PCC PS?"?>
+                <div/><?oxy_comment_end?>
+            </div>
+        </section>
+        <section id="section_pt3_mtf_svb">
+            <title>Fictitious or false place names</title>
             <div id="d5c48fd2-b40f-46f6-94ac-f7af1822ad8f">
                 <p outputclass="title" id="77387ea0-e11a-40c5-8e2f-755fc76ae2cf">
                     <xref outputclass="ps_link" id="div_s3d_lf3_cmb" keyref="rdamP30087/div_s3d_lf3_cmb">Condition Option</xref>
                 </p>
                 <div id="9ec01ee2-a7dc-42f6-aa99-82ce7018495f">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_fwb_qs3_cmb"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_fwb_qs3_cmb"/>
                 </div>
             </div>
             <div id="f22240e1-0aeb-4ade-8b29-538a3f77c543">
@@ -178,9 +211,7 @@
                     <xref outputclass="ps_link" id="div_txc_251_lmb" keyref="rdamP30087/div_txc_251_lmb">Condition Option</xref>
                 </p>
                 <div id="b6385a90-a198-44bf-8d8d-77ef8d93f531">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_yq3_vwj_qmb"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_yq3_vwj_qmb"/>
                 </div>
             </div>
             <div id="1ffa27fa-f23f-403e-b89c-b2f4b1cbec47">
@@ -188,9 +219,7 @@
                     <xref outputclass="ps_link" id="div_u3d_lf3_cmb" keyref="rdamP30087/div_u3d_lf3_cmb">Condition Option</xref>
                 </p>
                 <div id="03b8bf31-096e-4493-8786-06a74b80942c">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_jwb_qs3_cmb"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_jwb_qs3_cmb"/>
                 </div>
             </div>
             <div id="af036432-2efa-4a72-833c-9ffd20331b3f">
@@ -198,19 +227,19 @@
                     <xref outputclass="ps_link" id="div_w3d_lf3_cmb" keyref="rdamP30087/div_w3d_lf3_cmb">Condition Option</xref>
                 </p>
                 <div id="c91c76c8-037f-49f3-a468-c6ac2bdc5d1c">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_nwb_qs3_cmb"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_nwb_qs3_cmb"/>
                 </div>
             </div>
+        </section>
+        <section id="1b662e59-5dfa-4a46-bcbe-be72e2f39c46">
+            <title>Place name not found</title>
+            <draft-comment author="keknop">Condition: value not found in manifestation being described</draft-comment>
             <div id="b93aff49-1aa7-4d5b-a337-586f2a3a908f">
                 <p outputclass="title" id="9b121310-0a8d-4bd4-ae92-37c5df45e61f">
                     <xref outputclass="ps_link" id="div_cjd_lf3_cmb" keyref="rdamP30087/div_cjd_lf3_cmb">Condition Option</xref>
                 </p>
                 <div id="140bfd15-58a2-4214-a2c7-ceb34b5efcdc">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_rwb_qs3_cmb"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_rwb_qs3_cmb"/>
                 </div>
             </div>
             <div id="0d05e74c-36b8-4a27-bd62-ac6869e00bce">
@@ -218,9 +247,7 @@
                     <xref outputclass="ps_link" id="div_fjd_lf3_cmb" keyref="rdamP30087/div_fjd_lf3_cmb">Condition Option</xref>
                 </p>
                 <div id="8663aeb9-4cdd-4eb5-a73f-10cee40f2494">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_vwb_qs3_cmb"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_vwb_qs3_cmb"/>
                 </div>
             </div>
             <div id="d8cfedca-dae3-4ef3-9623-c7d3becd5ae1">
@@ -228,20 +255,10 @@
                     <xref outputclass="ps_link" id="div_ijd_lf3_cmb" keyref="rdamP30087/div_ijd_lf3_cmb">Condition Option</xref>
                 </p>
                 <div id="ce29b61f-699d-4f44-9014-4c39d32b27e8">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_zwb_qs3_cmb"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manufacture.dita#ala-d5283212-fc0f-3ad3-9da4-12d03f6c7d23/div_zwb_qs3_cmb"/>
                 </div>
             </div>
-        </section>
-        <section id="1b662e59-5dfa-4a46-bcbe-be72e2f39c46">
-            <title>Place of manufacture not identified</title>
-            <div id="5de22324-acc2-42b8-ba7e-668184e0d4e9">
-                <p outputclass="title" id="eba6ab73-f90f-4e32-b1fc-55e4c4e5a383">
-                    <xref outputclass="ps_link" keyref="rdamP30087/div_qrk_5my_jfb">Place of manufacture not identified</xref>
-                </p>
-                <div id="d1abfd14-3a16-4f89-b7e2-e4aff2607683"/>
-            </div>
+            <draft-comment author="keknop">Condition: value cannot be reasonably determined</draft-comment>
             <div id="a07f9bd9-fa15-4460-8c98-9d4d44ecb48d">
                 <p outputclass="title" id="26a7fffb-655c-441c-a929-c25b383a9140">
                     <xref outputclass="ps_link" id="div_xyg_vcs_1fb" keyref="rdamP30087/div_xyg_vcs_1fb">Condition Option</xref>

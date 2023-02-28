@@ -16,9 +16,9 @@
                 <p outputclass="title" id="1520e01c-dae4-4c8c-978f-cde6bde67217">
                     <xref outputclass="ps_link" keyref="rdamP30279/8fe306ee-f16e-43e4-b8ac-d8662ee935fe">Prerecording</xref>
                 </p>
-                <div id="cd940981-414b-42ac-ad58-173bfd474128"><ph
-                        conkeyref="b_bp_mla/ph_csg_ldy_z4b"
-                        id="ph_sc2_h2y_z4b"/></div>
+                <div id="cd940981-414b-42ac-ad58-173bfd474128">
+                    <p><ph conkeyref="b_bp_mla/ph_csg_ldy_z4b" id="ph_sc2_h2y_z4b"/></p>
+                </div>
             </div>
         </section>
         <section id="1417a8cf-7dbf-48ff-ba31-5645e0854865">
@@ -29,6 +29,7 @@
                 </p>
                 <div id="a9dc5850-b0cc-4f0d-908d-020d8ee298e1"/>
             </div>
+            <draft-comment author="keknop">Condition: two or more values</draft-comment>
             <div id="fae7dd7b-81cf-4a28-a20d-1b196fa6944f">
                 <p outputclass="title" id="8826df2c-28a5-424d-85c7-4b3c4d41da0e">
                     <xref outputclass="ps_link" keyref="rdamP30279/div_nbp_gnn_rgb">Condition Option</xref>
@@ -49,6 +50,7 @@
                     />
                 </div>
             </div>
+            <draft-comment author="keknop">Condition: value in a parallel language or script</draft-comment>
             <div id="dda9a067-8889-4595-b3af-88b4f397f4c8">
                 <p outputclass="title" id="8df3f6f3-dc82-41dc-a2ca-eb5c729c7e32">
                     <xref outputclass="ps_link" keyref="rdamP30279/div_dzp_mlc_4hb">Condition Option</xref>
@@ -88,145 +90,163 @@
                 </p>
                 <div id="6795aa61-13fc-44e5-a9ea-e38b892aa824"/>
             </div>
+            <draft-comment author="keknop">Transcription options</draft-comment>
             <div id="bd0d8e67-ed3b-4a20-9c14-c0beecb940c9">
                 <p outputclass="title" id="c178a65f-9f2a-4cc9-a5b4-631473901a9a">
-                    <xref outputclass="ps_link" id="div_ygq_lf4_xhb" keyref="rdamP30279/div_ygq_lf4_xhb">Option</xref>
+                    <xref outputclass="ps_link" id="div_ass_hh3_cmb" keyref="rdamP30279/div_ass_hh3_cmb">Option</xref>
                 </p>
                 <div id="fd060ed2-c733-4c53-bd16-41c48d9712fe">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/fa3875e6-ad8e-430d-abb6-4857d2932c2c"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/fa3875e6-ad8e-430d-abb6-4857d2932c2c"/>
                 </div>
             </div>
             <div id="08a093fc-b272-4880-ac9b-0fdca8f0f0f0">
                 <p outputclass="title" id="b6ede9b2-0ffc-43f9-b2b6-2cf7816f3568">
-                    <xref outputclass="ps_link" id="div_hjf_mf4_xhb" keyref="rdamP30279/div_hjf_mf4_xhb">Option</xref>
+                    <xref outputclass="ps_link" id="div_css_hh3_cmb" keyref="rdamP30279/div_css_hh3_cmb">Option</xref>
                 </p>
                 <div id="18554ec5-97ec-42d1-b37e-cb13913d51d1">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/dcb4c34c-0ea3-4627-8c61-a98df8826d32"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/dcb4c34c-0ea3-4627-8c61-a98df8826d32"/>
                 </div>
             </div>
             <div id="3a7be6f3-0674-46c0-a7df-4bc506765941">
                 <p outputclass="title" id="67c98e66-d733-44aa-ba2b-bcade01d181f">
-                    <xref outputclass="ps_link" id="div_szs_mf4_xhb" keyref="rdamP30279/div_szs_mf4_xhb">Option</xref>
+                    <xref outputclass="ps_link" id="div_ess_hh3_cmb" keyref="rdamP30279/div_ess_hh3_cmb">Option</xref>
                 </p>
                 <div id="c4f23f3e-7bbf-440f-ac12-34569b2315d9">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/94699e43-2e81-49c1-9782-9514efb832b1"
-                    />
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/94699e43-2e81-49c1-9782-9514efb832b1"/>
                 </div>
             </div>
+            <div id="div_jwn_nl2_svb">
+                <p outputclass="title">
+                    <xref outputclass="ps_link" keyref="rdamP30279/div_l5q_xlk_nvb" id="div_l5q_xlk_nvb">Option</xref>
+                </p>
+                <?oxy_comment_start author="keknop" timestamp="20221202T120030-0500" comment="New option; add LC-PCC PS when available"?>
+                <div id="div_v5l_ql2_svb"/><?oxy_comment_end?>
+            </div>
+        </section>
+        <section id="section_cnp_tl2_svb">
+            <title>Local and larger place names</title>
+            <draft-comment author="keknop">Former option div_lwg_54c_12b: Record both a local place name (city, town, etc.) and a name of a larger place (state, province, country, etc.) if present on the manifestation. LC PCC PS: Apply.</draft-comment>
+            <draft-comment author="keknop">Condition: value is a local place name</draft-comment>
             <div id="2cf29af5-a813-46f8-8228-bdd6c41e39f8">
                 <p outputclass="title" id="5f091c03-478b-4cdb-9db0-9ea07482c54b">
-                    <xref outputclass="ps_link" id="div_lwg_54c_12b" keyref="rdamP30279/div_lwg_54c_12b">Option</xref>
+                    <xref outputclass="ps_link" id="div_ytv_cqk_nvb" keyref="rdamP30279/div_ytv_cqk_nvb">Condition Option</xref>
                 </p>
                 <div id="1e465aef-0b31-4217-8489-a45a559881cf">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/b10ef301-13b1-4716-8fb0-9af96aa2ae6b"
-                    />
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T125738-0500" comment="New option; replace with LC-PCC PS when available."?><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/><?oxy_comment_end?></p>
                 </div>
             </div>
+            <draft-comment author="keknop">Condition: value is a larger place name</draft-comment>
             <div id="82286bef-ff13-4e41-a721-7a7b9d65d175">
                 <p outputclass="title" id="57c48b28-7595-4ba7-80fe-b72c9dcb2eff">
-                    <xref outputclass="ps_link" id="div_y5q_x4c_12b" keyref="rdamP30279/div_y5q_x4c_12b">Option</xref>
+                    <xref outputclass="ps_link" id="div_mwn_tqk_nvb" keyref="rdamP30279/div_mwn_tqk_nvb">Condition Option</xref>
                 </p>
                 <div id="1d91688c-36a3-4494-9555-5b56fc5efa30">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/21275172-7fed-4379-862f-21200a5d9e71"
-                    />
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T125738-0500" comment="New option; replace with LC-PCC PS when available."?><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/><?oxy_comment_end?></p>
                 </div>
             </div>
+            <draft-comment author="keknop">Condition: value is a local place name in conjunction with a larger place name</draft-comment>
             <div id="227081bc-8bc6-421e-bd05-90af1f8b7265">
                 <p outputclass="title" id="18ce74cf-9a86-4718-8699-ee949e147407">
-                    <xref outputclass="ps_link" id="div_okp_trv_bmb" keyref="rdamP30279/div_okp_trv_bmb">Condition Option</xref>
+                    <xref outputclass="ps_link" id="div_zzg_g1l_nvb" keyref="rdamP30279/div_zzg_g1l_nvb">Condition Option</xref>
                 </p>
                 <div id="1457f213-9f53-40d4-878d-7eb688be4110">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/e86898fc-d14f-44fe-94fc-110b70114012"
-                    />
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T125738-0500" comment="New option; replace with LC-PCC PS when available."?><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/><?oxy_comment_end?></p>
                 </div>
             </div>
+            <draft-comment author="keknop">Condition: full address present</draft-comment>
             <div id="1afc3393-6877-4b19-9a69-47e55d9e0169">
                 <p outputclass="title" id="e58afb69-13f2-4985-b26b-604226a1aa13">
-                    <xref outputclass="ps_link" id="div_mcc_wt1_lmb" keyref="rdamP30279/div_mcc_wt1_lmb">Condition Option</xref>
+                    <xref outputclass="ps_link" id="div_lh3_sbl_nvb" keyref="rdamP30279/div_lh3_sbl_nvb">Condition Option</xref>
                 </p>
                 <div id="1d5f229a-bd00-4a8b-94b2-276089797199">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/div_krs_xrj_qmb"
-                    />
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T125738-0500" comment="Option ID changed; replace with LC-PCC PS when dust settles"?><ph conkeyref="b_bp_mla/p_hjp_jfh_r4b"/><?oxy_comment_end?></p>
                 </div>
             </div>
+            <draft-comment author="keknop">Condition: local place name present, larger place name absent but considered necessary for identification</draft-comment>
             <div id="447e64d7-b45b-4087-994f-3228782c20d1">
                 <p outputclass="title" id="29992a8e-91f8-4728-b2c9-ce84cf82f354">
-                    <xref outputclass="ps_link" id="div_ovd_gmv_bmb" keyref="rdamP30279/div_ovd_gmv_bmb">Condition Option</xref>
+                    <xref outputclass="ps_link" id="div_g1t_rcl_nvb" keyref="rdamP30279/div_g1t_rcl_nvb">Condition Option</xref>
                 </p>
-                <div id="6e9cc8a8-c7c5-4089-b9c8-e5924939a109">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/div_c3c_xj3_cmb"
-                    />
-                </div>
+                <?oxy_comment_start author="keknop" timestamp="20221202T134059-0500" comment="New option; add LC-PCC PS when available"?>
+                <div id="6e9cc8a8-c7c5-4089-b9c8-e5924939a109"/><?oxy_comment_end?>
             </div>
+        </section>
+        <section id="section_d5f_yy2_svb">
+            <title>Fictitious or false place names</title>
             <div id="a98ff424-b28e-42a4-bafb-eb8f8020fcfc">
                 <p outputclass="title" id="107293a6-23b1-49d0-b22d-8434a1b394ed">
-                    <xref outputclass="ps_link" id="div_qvd_gmv_bmb" keyref="rdamP30279/div_qvd_gmv_bmb">Condition Option</xref>
+                    <xref outputclass="ps_link" id="div_oss_hh3_cmb" keyref="rdamP30279/div_oss_hh3_cmb">Condition Option</xref>
                 </p>
                 <div id="5df1dae1-9b5a-4662-96c4-11ed7b977d93">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/div_epg_xj3_cmb"
-                    />
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T125738-0500" comment="Option ID changed; replace with LC-PCC PS when dust settles"?><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/><?oxy_comment_end?></p>
                 </div>
             </div>
             <div id="5fd56888-07a1-4330-9a7d-76ac167eac65">
                 <p outputclass="title" id="8b473520-243f-494a-8f64-3a550856abb1">
-                    <xref outputclass="ps_link" id="div_f23_pzp_5gb" keyref="rdamP30279/div_f23_pzp_5gb">Condition Option</xref>
+                    <xref outputclass="ps_link" id="div_qss_hh3_cmb" keyref="rdamP30279/div_qss_hh3_cmb">Condition Option</xref>
                 </p>
                 <div id="b5e5d183-430d-4f36-a911-e18a8b666f2b">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/b8399ce5-f3c7-4024-b27d-3211002e862b"
-                    />
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T125738-0500" comment="Option ID changed; replace with LC-PCC PS when dust settles"?><ph conkeyref="b_bp_mla/p_sl3_hfh_r4b"/><?oxy_comment_end?></p>
+                </div>
+            </div>
+            <div id="div_ahk_kbf_svb">
+                <p outputclass="title">
+                    <xref outputclass="ps_link" keyref="rdamP30279/div_cbs_tms_nvb" id="div_cbs_tms_nvb">Condition Option</xref>
+                </p>
+                <div>
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T125738-0500" comment="Option ID changed; replace with LC-PCC PS when dust settles"?><ph conkeyref="b_bp_mla/p_sl3_hfh_r4b"/><?oxy_comment_end?></p>
                 </div>
             </div>
             <div id="e5d3437d-b4df-4d7e-b8c7-14604fbcf6b7">
                 <p outputclass="title" id="653afd77-0194-41a7-a302-b5827b94be27">
-                    <xref outputclass="ps_link" id="div_yyd_qzp_5gb" keyref="rdamP30279/div_yyd_qzp_5gb">Condition Option</xref>
+                    <xref outputclass="ps_link" id="div_fjt_vbm_nvb" keyref="rdamP30279/div_fjt_vbm_nvb">Condition Option</xref>
                 </p>
                 <div id="112d1c9c-d203-443d-bdc8-f7e201c89b55">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/36dc0470-d397-4cef-9344-d763c4cf0399"
-                    />
+                    <?oxy_comment_start author="keknop" timestamp="20221202T140333-0500" comment="Option ID changed; replace with LC-PCC PS when dust settles"?>
+                    <p>Cataloger's judgment. For rare materials, apply the option. Supply the value in square brackets following the transcribed value.</p><?oxy_comment_end?>
                 </div>
             </div>
             <div id="3f756d77-9874-4835-a620-9122040115ca">
                 <p outputclass="title" id="bc3c06e7-d80a-4735-ab01-00f16ab3ec93">
-                    <xref outputclass="ps_link" id="div_bzd_qzp_5gb" keyref="rdamP30279/div_bzd_qzp_5gb">Condition Option</xref>
+                    <xref outputclass="ps_link" id="div_ipn_3fl_nvb" keyref="rdamP30279/div_ipn_3fl_nvb">Condition Option</xref>
                 </p>
-                <div id="6abcb05a-3318-42f4-8f13-9ca8d484cd0a">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/84c98ee6-6ddd-4611-8110-b609ab278bf7"
-                    />
-                </div>
+                <?oxy_comment_start author="keknop" timestamp="20221202T140724-0500" comment="New option; add LC-PCC PS when available"?>
+                <div id="6abcb05a-3318-42f4-8f13-9ca8d484cd0a"/><?oxy_comment_end?>
             </div>
         </section>
         <section id="00577c37-4300-4b44-9a7c-54d71689f0a0">
-            <title>Place of manifestation not identified</title>
-            <div id="25a426c5-d1a8-451c-a582-781a990d1be5">
-                <p outputclass="title" id="19d2077b-474c-4296-93ba-b9fe5540080a">
-                    <xref outputclass="ps_link" keyref="rdamP30279/div_ofw_tny_jfb">Place of manifestation not identified</xref>
-                </p>
-                <div id="b8889c01-aeff-4e68-b821-5f0eef3d38fe"/>
-            </div>
+            <title>Place names not found</title>
+            <draft-comment author="keknop">Condition: not found in manfestation being described</draft-comment>
             <div id="9a6850b6-5e7a-4b3b-a2b0-b4be8b4cfc70">
                 <p outputclass="title" id="2069888b-f922-4497-af6c-1775ae90f250">
-                    <xref outputclass="ps_link" id="div_hpt_kzp_5gb" keyref="rdamP30279/div_hpt_kzp_5gb">Condition Option</xref>
+                    <xref outputclass="ps_link" id="div_yss_hh3_cmb" keyref="rdamP30279/div_yss_hh3_cmb">Condition Option</xref>
                 </p>
                 <div id="8814f198-11f4-4660-82e1-7e64e845742a">
-                    <div
-                        conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_place_of_manifestation.dita#ala-43bc909d-afa9-3dcf-9aa0-4c9041e75507/d31fc9ab-fb7b-44cd-8723-009f2aa59e6c">
-                        <p><ph conkeyref="b_bp_mla/p_elw_gfh_r4b" id="ph_ic1_ywc_z4b"/>as a last
-                            recourse.</p>
-                    </div>
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T125738-0500" comment="Option ID changed; replace with LC-PCC PS when dust settles"?><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/> Supply the value in square brackets. Supply a vaue that was in use at the time of production, etc., if known. If considered necessary for identification, record the current name of the place as a value of Manifestation: <xref keyref="rdamP30137"/>.<?oxy_comment_end?></p>
+                </div>
+            </div>
+            <div id="div_bvb_ddf_svb">
+                <p outputclass="title">
+                    <xref outputclass="ps_link" keyref="rdamP30279/div_bts_hh3_cmb" id="div_bts_hh3_cmb">Condition Option</xref>
+                </p>
+                <div id="div_f3c_22f_svb">
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T125738-0500" comment="Option ID changed; replace with LC-PCC PS when dust settles"?><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/> Supply the value in square brackets. Supply a vaue that was in use at the time of production, etc., if known. If considered necessary for identification, record the current name of the place as a value of Manifestation: <xref keyref="rdamP30137"/>.<?oxy_comment_end?></p>
+                </div>
+            </div>
+            <div id="div_z3h_f2f_svb">
+                <p outputclass="title">
+                    <xref outputclass="ps_link" keyref="rdamP30279/div_ets_hh3_cmb" id="div_ets_hh3_cmb">Condition Option</xref>
+                </p>
+                <div id="div_u55_l2f_svb">
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T125738-0500" comment="Option ID changed; replace with LC-PCC PS when dust settles"?><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/> Supply the value in square brackets. Supply a vaue that was in use at the time of production, etc., if known. If considered necessary for identification, record the current name of the place as a value of Manifestation: <xref keyref="rdamP30137"/>.<?oxy_comment_end?></p>
+                </div>
+            </div>
+            <div id="div_clf_m2f_svb">
+                <p outputclass="title">
+                    <xref outputclass="ps_link" keyref="rdamP30279/div_jts_hh3_cmb" id="div_jts_hh3_cmb">Condition Option</xref>
+                </p>
+                <div id="div_xnl_l2f_svb">
+                    <p><?oxy_comment_start author="keknop" timestamp="20221202T125738-0500" comment="Option ID changed; replace with LC-PCC PS when dust settles"?> Do not apply the option, if possible. Instead, supply a probable place of manifestation in square brackets. Supply a vaue that was in use at the time of production, etc., if known. If considered necessary for identification, record the current name of the place as a value of Manifestation: <xref keyref="rdamP30137"/>.<?oxy_comment_end?></p>
                 </div>
             </div>
         </section>

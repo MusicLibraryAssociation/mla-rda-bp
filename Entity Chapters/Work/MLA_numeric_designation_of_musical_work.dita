@@ -30,14 +30,6 @@
                <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_numeric_designation_of_musical_work.dita#ala-6a0df2b1-4661-3269-a259-a76f63d2ce57/7fd1aba4-ba69-4e38-bbac-89c693fcc57f"/>
             </div>
          </div>
-         <div id="e5fced8f-59a8-4ce3-aebc-90bdce7791b8">
-            <p outputclass="title" id="da056e71-2bb1-4287-b9ae-ba8d4fff2091">
-               <xref outputclass="ps_link" keyref="rdawP10079/div_lsf_g1b_qhb">Option</xref>
-            </p>
-            <div id="8e676c60-0b08-4b7f-8d57-c06aeaa1c73c">
-               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_numeric_designation_of_musical_work.dita#ala-6a0df2b1-4661-3269-a259-a76f63d2ce57/c340d96c-ea3f-4569-8bab-23d91f471812"/>
-            </div>
-         </div>
       </section>
       <section id="62effa19-1bf0-4ff9-b451-0ab49902d0b2">
          <title>Recording</title>
@@ -50,6 +42,14 @@
                <p>
                   <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/>
                   <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 383.</p>
+            </div>
+         </div>
+         <div id="e5fced8f-59a8-4ce3-aebc-90bdce7791b8">
+            <p outputclass="title" id="da056e71-2bb1-4287-b9ae-ba8d4fff2091">
+               <xref outputclass="ps_link" keyref="rdawP10079/div_lsf_g1b_qhb">Option</xref>
+            </p>
+            <div id="8e676c60-0b08-4b7f-8d57-c06aeaa1c73c">
+               <div conref="../../../LCPCC_PS/Entity%20Chapters/Work/LC_numeric_designation_of_musical_work.dita#ala-6a0df2b1-4661-3269-a259-a76f63d2ce57/c340d96c-ea3f-4569-8bab-23d91f471812"/>
             </div>
          </div>
       </section>

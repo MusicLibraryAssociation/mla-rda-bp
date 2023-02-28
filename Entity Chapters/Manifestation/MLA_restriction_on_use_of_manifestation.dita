@@ -16,7 +16,11 @@
                 <p outputclass="title" id="50e76919-c16d-409c-9e51-abbe8f71708f">
                     <xref outputclass="ps_link" keyref="rdamP30146/c28a0ac5-5884-4cdd-8888-beb333d8e6e1">Prerecording</xref>
                 </p>
-                <div id="fc845811-0ac1-44c9-93c7-8c913886b304"/>
+                <div id="fc845811-0ac1-44c9-93c7-8c913886b304">
+                    <p><ph conkeyref="b_bp_mla/ph_khy_xxc_gqb">f</ph>for license information supplied by the resource itself <ph conkeyref="b_bp_mla/ph_mnb_hns_v4b"/>
+                    </p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_restriction_on_use_of_manifestation.dita#ala-038b81e5-9ae8-3803-b87e-409a169667de/df883b05-82c6-4f81-b698-44a0a5f57a0a"/>
+                </div>
             </div>
         </section>
         <section id="30687335-8e2c-49b1-844e-1124d36215a0">
@@ -25,7 +29,9 @@
                 <p outputclass="title" id="e8d370b1-9848-4c30-b970-eeb3d59e7106">
                     <xref outputclass="ps_link" keyref="rdamP30146/df72d111-2fb5-4ebc-b983-656ad6d4c614">Recording</xref>
                 </p>
-                <div id="559ed812-0cb1-471d-a8c5-3ec5181a3937"/>
+                <div id="559ed812-0cb1-471d-a8c5-3ec5181a3937">
+                    <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/> For Creative Commons or similar usage license information: <ph conkeyref="b_bp_mla/ph_amr_rgd_z4b"/>field 540 subfield $f. Record a date supplied by the license information using subfield $g. In other cases: <ph conkeyref="b_bp_mla/p_hjp_jfh_r4b"/></p>
+                </div>
             </div>
         </section>
         <section id="2bd6f97a-7bd1-4cba-a046-f7714e01d311">
@@ -40,13 +46,17 @@
                 <p outputclass="title" id="d7efce35-55cc-4b39-944e-ecdd02b34b7d">
                     <xref outputclass="ps_link" id="div_sxp_nys_1fb" keyref="rdamP30146/div_sxp_nys_1fb">Option</xref>
                 </p>
-                <div id="8b0b616a-1a44-4965-a4f0-2304da5de098"/>
+                <div id="8b0b616a-1a44-4965-a4f0-2304da5de098">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_restriction_on_use_of_manifestation.dita#ala-038b81e5-9ae8-3803-b87e-409a169667de/74e794c5-016a-4037-b056-cf27a8cdbeb1"/>
+                </div>
             </div>
             <div id="4142f3e0-965e-49ca-85ff-12d07d80a3ff">
                 <p outputclass="title" id="f542a49f-70e3-4c90-aa04-b812d83f5c6e">
                     <xref outputclass="ps_link" id="div_cl4_qxn_b2b" keyref="rdamP30146/div_cl4_qxn_b2b">Condition Option</xref>
                 </p>
-                <div id="fc0c7d35-a33e-4849-86d2-d3166eb04b44"/>
+                <div id="fc0c7d35-a33e-4849-86d2-d3166eb04b44">
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_restriction_on_use_of_manifestation.dita#ala-038b81e5-9ae8-3803-b87e-409a169667de/a336be7d-448d-49d5-b011-55dc4c181271"/>
+                </div>
             </div>
         </section>
         <section id="a261bfc8-355c-40b5-8212-83ef2aec24fd">
@@ -55,7 +65,9 @@
                 <p outputclass="title" id="5b92251b-393b-4618-9693-f49be441b255">
                     <xref outputclass="ps_link" keyref="rdamP30146/1ca9d4e5-5420-469b-8929-a86019815516">Recording a structured description</xref>
                 </p>
-                <div id="d1c0d71f-7327-4f4f-8bd2-9b76bc97323c"/>
+                <div id="d1c0d71f-7327-4f4f-8bd2-9b76bc97323c">
+                    <p>Record a <ph conkeyref="b_bp_mla/ph_dvx_bcc_rvb"/> license using its abbreviated form, including the introductory "CC" and the version number (e.g., "CC BY-NC-SA 4.0"). <ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/> Indicate the source of the term using the subfield $2 source code <term>cc</term>.</p>
+                </div>
             </div>
         </section>
         <section id="e6bdffa9-0ec4-4f1a-990a-13e55d1fbf9a">
