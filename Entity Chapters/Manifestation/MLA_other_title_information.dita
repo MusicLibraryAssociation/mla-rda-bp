@@ -82,18 +82,17 @@
         </section>
         <section id="section_vrl_ty1_54b">
             <title>Recording an unstructured description</title>
-            <?oxy_comment_start author="keknop" timestamp="20221215T100448-0500" comment="LC-PCC PS misaligned for this section (as of 2022-12-15). Reevaluate for conref later."?>
             <div id="div_bsl_ty1_54b">
                 <p outputclass="title" id="p_esl_ty1_54b">
-                    <xref outputclass="ps_link" keyref="rdamP30142/712bc27e-7a16-4623-9979-d534a653924a">Recording an unstructured description</xref>
-                </p>
-            </div><?oxy_comment_end?>
+                    <xref outputclass="ps_link" keyref="rdamP30142/712bc27e-7a16-4623-9979-d534a653924a">Recording an unstructured description</xref></p>
+                <div id="div_l3d_b45_qwb"/>
+            </div>
             <div id="div_f42_sy5_fnb">
                 <p outputclass="title" id="p_i42_sy5_fnb">
                     <xref outputclass="ps_link" keyref="rdamP30142/div_xrb_rdf_ymb">Option</xref>
                 </p>
                 <div id="div_n42_sy5_fnb">
-                    <p><ph conkeyref="b_bp_mla/p_sl3_hfh_r4b"/></p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_other_title_information.dita#ala-62824289-af72-3671-82ce-985083a6cfb2/div_n42_sy5_fnb"/>
                 </div>
             </div>
             <div id="div_hmx_jz1_54b">
@@ -101,14 +100,14 @@
                     <xref outputclass="ps_link" keyref="rdamP30142/div_ljs_rdf_ymb">Option</xref>
                 </p>
                 <div id="div_nmx_jz1_54b">
-                    <p><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/></p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_other_title_information.dita#ala-62824289-af72-3671-82ce-985083a6cfb2/div_iy5_ry5_fnb"/>
                 </div>
                 <div id="div_i33_lsf_tmb">
                     <p outputclass="title" id="p_j3t_nsf_tmb">
                         <xref outputclass="ps_link" keyref="rdamP30142/div_mhz_vj1_4hb">Option</xref>
                     </p>
                     <div id="div_bnf_4sf_tmb">
-                        <p><ph conkeyref="b_bp_mla/p_sl3_hfh_r4b"/></p>
+                        <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_other_title_information.dita#ala-62824289-af72-3671-82ce-985083a6cfb2/div_bnf_4sf_tmb"/>
                     </div>
                 </div>
             </div>
