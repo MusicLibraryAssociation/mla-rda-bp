@@ -14,5 +14,72 @@
             Resources</xref></li>
       </ul>
     </section>
+    <section id="section_ymp_nfh_j1c">
+      <title>Additional Resources</title>
+      <p>Several supporting documents have been created for use with the MLA Best Pratices for Music Cataloging Using RDA and MARC21:</p>
+      <ul id="ul_nhb_xrk_k1c">
+        <li><i>Supplements to Best Practices for Music Cataloging Using RDA and MARC21</i> is available on the <ph conkeyref="b_bp_mla/ph_xvp_prk_k1c"/> and consists of three documents:<ul id="ul_jmy_k4k_k1c">
+            <li>Supplement 1: Guidelines for Describing and Encoding Attributes of Audio Recording Carriers</li>
+            <li>Supplement 2: Recording Parallel Data Using ISBD in MARC and Minimally Punctuated MARC</li>
+            <li>Supplement 3: Complete MARC Record Examples</li>
+          </ul></li>
+        <li>
+          <ph conkeyref="b_bp_mla/ph_q51_wsk_k1c">  as</ph> provides more detailed and narrative guidance on specific topics, as well as the element-specific MARC examples that were previously incorporated into the body of the MLA Best Practices in the original RDA Toolkit. This document is also available as a single PDF file through the <ph conkeyref="b_bp_mla/ph_xvp_prk_k1c"/>.</li>
+        <li>An RDA application profile for music materials is also available throug the MLA Cataloging and Metadata Committee's Best Practices page. For more details, see <ph conkeyref="b_bp_mla/ph_gds_2vk_k1c"/>.</li>
+      </ul>
+    </section>
+    <section id="section_i2k_2jq_tzb">
+      <title>Introduction to the Music Library Association RDA Metadata Guidance and Best Practices for Music Cataloging Using RDA and MARC21</title>
+      <p>These annotations, taken together with the supplementary documents available on the MLA Cataloging and Metadata Committee's website, should:</p>
+      <ul id="ul_ukf_kjq_tzb">
+        <li>Provide sufficient guidance for creating and enhancing both basic descriptions ("core" records) and more robust descriptions of musical resources and the musical works and expressions embodied therein. In MARC21, these descriptions take the form of bibliographic and authority records.</li>
+        <li>Be comprehensible and useful to all catalogers, regardless of experience with description standards or general cataloging skill level.</li>
+        <li>Be usable as the basis for training materials, such as cataloging manuals and workshop curricula.</li>
+        <li>Be amenable for repurposing for use in future data environments.</li>
+        <li>Be amenable for repurposing for use by agencies applying RDA in other languages.</li>
+      </ul>
+      <p>These guidelines do presume a basic level of training with RDA and LC-PCC PS, but assume no prior knowledge on the part of the reader of earlier versions of RDA or of <i>Anglo-American Cataloging Rules, 2nd Edition, Revised</i>  (AACR2) or their accompanying Library of Congress Rule Interpretations (LCRI). Pertinent comparisons to AACR2 may be made in a limited number of cases when RDA practice differs fundamentally and catalogers may encounter AACR2 practice in preexisting metadata.</p>
+      <p outputclass="title">Relationship to Other Standards for Description and Access</p>
+      <p>The MLA Best Practices and associated documentation are intended to be consulted in combination with RDA itself; LC-PCC Policy Statements and supplemental documentation, including the Resource Description &amp; Access (RDA) Metadata Guidance Documentation, and section Z1 of the Library of Congress Descriptive Cataloging Manual; and any local and/or cooperative policies. With a few exceptions, cataloging guidelines of a general nature, such as for identifying and constructing access points for persons and corporate bodies, are out of scope for this document.</p>
+      <p>In cases where LC-PCC PS gives sufficient guidance or where the MLA Best Practices merely provide additional information, the LC-PCC PS text is in most cases incorporated into the MLA Best Practices for convenience. The insertion is done by reference ID rather than manual transcription so any referenced text will always reflect the most current LC-PCC PS revision. Some particularly long or complex LC-PCC PS statements may be linked rather than replicated for usability reasons.</p>
+      <p>Where MLA Best Practices contravene LC-PCC PS, the text is similarly reproduced for comparison. MARC mappings and examples are intended to supplement the RDA to MARC mappings given in the Element Reference box of each element in the RDA Toolkit, as well as the MARC21 documentation itself and encoding guidelines specific to the cataloging interface.</p>
+    </section>
+    <section id="section_e1q_mkq_tzb">
+      <title>Interpreting the MLA Best Practices</title>
+      <p outputclass="title">Structure</p>
+      <p>In nearly all cases, each element for which there is MLA Best Practices guidance will have statements attached to the <i>Prerecording</i> and <i>Recording</i> headings. These provide high-level guidance. Details on the exact method of recording an element are usually attached to the appropriate subheadings, conditions, and options.</p>
+      <ul id="ul_w3s_tkq_tzb">
+        <li><b><i>Prerecording</i> Heading:</b> General instructions on whether to record the element and under what conditions.</li>
+        <li><b><i>Recording</i> Heading:</b> General instructions on what recording methods to use <b>if the element is being recorded</b>. In most cases, relevant MARC fields and subfields are indicated.</li>
+        <li><b>Subheadings:</b> General commentary or instructions applicable to a section of RDA text as whole, or to a recording method, etc., that has no associated options or conditions.</li>
+        <li><b>Conditions:</b> Guidance on how to interpret a condition.</li>
+        <li><b>Options:</b> Instructions on whether or not to apply the option and, in some cases, details of how to apply the option.</li>
+      </ul>
+      <p>In rare cases, a Best Practices statement may be attached directly to a specific paragraph or smaller section of text that lacks a distinct heading.</p>
+      <p outputclass="title">Standard Wording</p>
+      <p>The Best Practices make regular use of several standard phrases:</p>
+      <ul id="ul_wt3_rlq_tzb">
+        <li>
+          <p><b>Routinely record:</b> Elements so marked are part of the minimum description of a resource in RDA, are flagged as Core by LC-PCC PS, or are otherwise felt by the Content Standards Subcommittee to be routinely valuable to transcribe or record for music resources.</p>
+        </li>
+        <li>
+          <p><b>If feasible:</b> Elements and options so marked may be omitted if recording them is not feasible.</p>
+          <p>Cataloger's judgment dictates that elements which are difficult to ascertain or burdensome to transcribe or record do not fall into the category of "feasibility." The above criteria will vary from cataloger to cataloger, and from agency to agency. In an increasingly distributed global metadata environment, the burden of completeness need not rest with an individual metadata creator. Thus, these recommendations are equally intended to serve as guidance when enhancing existing metadata for music resources.</p>
+        </li>
+        <li>
+          <p><b>If readily ascertainable:</b> Elements and options so marked may be omitted if the necessary information is not easily discoverable.</p>
+          <p>Consider "readily ascertainable" to apply to information present on the resource being cataloged or information encountered during the course of routine authority research.</p>
+        </li>
+        <li>
+          <p><b>If required by local policy / unless directed by local policy:</b> Recording methods and options so marked may be omitted unless needed by a cataloger's institution, e.g. to support identification, selection, or access in local discovery systems.</p>
+          <p>In many cases this applies to elements where the current recommendation is to record data using a structured description, identifier, or IRI in order to support cleaner metadata, easier retrieval and data manipulation, or linked data applications, but earlier practice has generally relied on unstructured description. In MARC, this often applies to data that has been recorded in a general or specialized note field where it can only be easily recognized and used by a human interpreter. It may also apply to situations where generally applied standards for encoding the same type of information have changed over time (for example, MARC field 048 vs field 382 for medium of performance).</p>
+          <p>The Content Standards Subcommittee recognizes that libraries operate with a wide variety of ILS platforms, discovery layers, technical support resources, etc. and may require that data be recorded according to earlier practice to ensure it is accessible to their users. In a shared cataloging environment, data should be recorded according to current recommendations; catalogers should feel no obligation to also record the same data according to earlier practice if doing so would be redundant. However, catalogers should feel free to supplement a description with information recorded according to earlier practice if they have a need to do so. Catalogers should generally not remove such information (providing it is correct) from
+            records in a shared environment, even if it may technically be redundant in their own discovery systems.</p>
+        </li>
+        <li>
+          <p><b>In MARC:</b> All instructions following this indication, to the end of the MLA Best Practices statement, are specific to cataloging in the MARC encoding scheme.</p>
+        </li>
+      </ul>
+    </section>
   </body>
 </topic>
