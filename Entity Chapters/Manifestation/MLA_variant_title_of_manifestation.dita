@@ -28,7 +28,10 @@
                 <p outputclass="title" id="ec862308-80b5-4754-9cc7-f1456d31129e">
                     <xref outputclass="ps_link" keyref="rdamP30128/74167bec-fbc3-4e34-8543-d1b46fd15ee5">Recording</xref>
                 </p>
-                <div id="9eb18281-3eab-45cd-bf48-eb640f910b2d"><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_osx_rxr_x4b" id="ph_hcg_j4t_x4b"/><ph conkeyref="b_bp_mla/ph_lwm_qgd_z4b"/> field 246 in most cases. When encoding variant titles in field 246, use indicators 13, 1_ with $i, or other values according to local practice. For aggregates lacking a <term>collective title</term>, use field 740 with second indicator 2 instead. </div>
+                <div id="9eb18281-3eab-45cd-bf48-eb640f910b2d">
+                    <p><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_osx_rxr_x4b" id="ph_hcg_j4t_x4b"/><ph conkeyref="b_bp_mla/ph_lwm_qgd_z4b"/> field 246 in most cases. When encoding variant titles in field 246, use indicators 13, 1_ with $i, or other values according to local practice. For aggregates lacking a <term>collective title</term>, use field 740 with second indicator 2 instead.</p>
+                    <p><ph conkeyref="b_bp_mla/ph_scx_vlz_31c"/><ph conkeyref="b_bp_mla/ph_ljr_hwz_31c"/>. <ph conkeyref="b_bp_mla/ph_o3t_s5z_31c"/><ph conkeyref="b_bp_mla/ph_vym_2wz_31c"/>; <ph conkeyref="b_bp_mla/ph_thr_2wz_31c"/>; <ph conkeyref="b_bp_mla/ph_xp4_z5z_31c"/></p>
+                </div>
             </div>
         </section>
         <section id="section_sbx_jsj_5tb">
@@ -37,14 +40,16 @@
                 <p outputclass="title">
                     <xref outputclass="ps_link" keyref="rdamP30128/div_i3n_4n1_ndb">Recording an unstructured description</xref>
                 </p>
-                <div/>
+                <div>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_variant_title_of_manifestation.dita#ala-ec77e964-f654-369a-91e1-f8eb8b0cce8a/div_wrq_1lf_tmb"/>
+                </div>
             </div>
             <div>
                 <p outputclass="title">
                     <xref outputclass="ps_link" keyref="rdamP30128/div_h4p_1rx_zfb">Option</xref>
                 </p>
                 <div>
-                    <p><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/></p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_variant_title_of_manifestation.dita#ala-ec77e964-f654-369a-91e1-f8eb8b0cce8a/div_uwc_hlf_tmb"/>
                 </div>
             </div>
             <div>
@@ -52,7 +57,7 @@
                     <xref outputclass="ps_link" keyref="rdamP30128/div_ebw_yhd_vgb">Option</xref>
                 </p>
                 <div>
-                    <p><ph conkeyref="b_bp_mla/p_uzx_ffh_r4b"/></p>
+                    <div conref="../../../LCPCC_PS/Entity%20Chapters/Manifestation/LC_variant_title_of_manifestation.dita#ala-ec77e964-f654-369a-91e1-f8eb8b0cce8a/div_fw4_3lf_tmb"/>
                 </div>
             </div>
             <div>

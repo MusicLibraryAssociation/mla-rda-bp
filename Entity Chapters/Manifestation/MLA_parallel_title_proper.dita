@@ -33,7 +33,11 @@
                 <p outputclass="title" id="a0b94e8c-0295-4acb-8f07-adcdeccd9273">
                     <xref outputclass="ps_link" keyref="rdamP30203/10bb81ff-338a-485c-ab9d-aeea319f3c3c">Recording</xref>
                 </p>
-                <div id="23bbdf10-f1ab-4022-bc2a-22b14ccf8144"/>
+                <div id="23bbdf10-f1ab-4022-bc2a-22b14ccf8144">
+                    <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/><ph conkeyref="b_bp_mla/ph_lwm_qgd_z4b"/>field 245 subfield $b and field 246 or 740 as appropriate. See <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_r2t_4hh_r4b"/>
+                        <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_svd_ytt_t4b"/> for additional guidance and examples.</p>
+                    <p><ph conkeyref="b_bp_mla/ph_scx_vlz_31c"/><ph conkeyref="b_bp_mla/ph_xp4_z5z_31c"/>. <ph conkeyref="b_bp_mla/ph_o3t_s5z_31c"/><ph conkeyref="b_bp_mla/ph_thr_2wz_31c"/>; <ph conkeyref="b_bp_mla/ph_vym_2wz_31c"/>; <ph conkeyref="b_bp_mla/ph_ljr_hwz_31c"/></p>
+                </div>
             </div>
         </section>
         <section id="25df4fbe-3167-4891-9497-5a37f36c7f6a">
@@ -43,12 +47,8 @@
                     <xref outputclass="ps_link" keyref="rdamP30203/acc5d410-26d7-4af5-a1bb-92fd33c20894">Recording an unstructured description</xref>
                 </p>
                 <div id="57c50749-bb27-4a04-8f0e-10cdc0ed2cd2">
-                    <p id="p_v3m_jqt_t4b">Parallel titles from any source in the resource may be
-                        transcribed in field 245 $b or $c, without square brackets. Parallel titles
-                        should also be encoded in field 246 31 to ensure proper indexing.</p>
-                    <p id="p_y3m_jqt_t4b"> Parallel titles from a different source than the title
-                        proper may alternatively be given only in field 246 1_ with an introductory
-                        phrase in subfield $i, rather than in field 245. </p>
+                    <p id="p_v3m_jqt_t4b">Parallel titles from any source in the resource may be transcribed in field 245 $b or $c, without square brackets. Parallel titles should also be encoded in field 246 with indicators 31 to ensure proper indexing.</p>
+                    <p id="p_y3m_jqt_t4b"> Parallel titles from a different source than the title proper may alternatively be given only in field 246 1_ with an introductory phrase in subfield $i, rather than in field 245.</p>
                 </div>
             </div>
             <div id="29e70287-92a8-45c0-bea7-0bfd530e62cb">
@@ -77,12 +77,10 @@
                 <p outputclass="title" id="14d9dea3-2a77-4023-8196-4702e0408ce2">
                     <xref outputclass="ps_link" id="div_ecw_2hb_2fb" keyref="rdamP30203/div_ecw_2hb_2fb">Condition Option</xref>
                 </p>
-                <div id="887e5528-8999-40b4-961b-64343c013076"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b"
-                        id="ph_tzn_21v_t4b"/> In MARC this may be done by recording a note in field
-                    500 or an introductory phrase in field 246 1_ $i. Use of 246 $i may be
-                    preferable when multiple parallel titles appear in different sources, making
-                    precise data provenance difficulty to clearly convey in a single note.</div>
+                <div id="887e5528-8999-40b4-961b-64343c013076">
+                    <p><ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b" id="ph_tzn_21v_t4b"/></p>
+                    <p><ph conkeyref="b_bp_mla/ph_osx_rxr_x4b"/> Record a note in field 500 or an introductory phrase in field 246 1_ subfield $i. Use of 246 $i may be preferable when multiple parallel titles appear in different sources, making precise data provenance difficulty to clearly convey in a single note.</p>
+                </div>
             </div>
             <div id="1b1e69c4-a7ec-4847-9d73-b2a183466c0c">
                 <p outputclass="title" id="cd6f6831-98c9-4c18-a4fd-fedfa631a2f6">
@@ -139,13 +137,11 @@
                 <p outputclass="title" id="bd6d94bc-4792-4f37-a5d7-3fa83838f6a7">
                     <xref outputclass="ps_link" id="div_qwr_mhb_2fb" keyref="rdamP30203/div_qwr_mhb_2fb">Condition Option</xref>
                 </p>
-                <div id="dcf54d6a-907e-4fb3-9104-a52754346865"><ph
-                        conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_uzx_ffh_r4b"
-                        id="ph_fml_wst_t4b"/><p id="p_bjv_s5t_t4b"> See <ph
-                            conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_r2t_4hh_r4b"
-                            id="ph_lyq_xst_t4b"/>
-                        <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_svd_ytt_t4b"
-                            id="ph_rdx_x5t_t4b"/> for guidance and examples.</p></div>
+                <div id="dcf54d6a-907e-4fb3-9104-a52754346865">
+                    <p><ph conkeyref="b_bp_mla/p_elw_gfh_r4b"/>unless reading the elements in order would produce an illogical result, or it is otherwise clear from the space, layout, typography, etc. that the elements are intended to be read in a different order.</p>
+                    <p id="p_bjv_s5t_t4b"> See <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/p_r2t_4hh_r4b" id="ph_lyq_xst_t4b"/>
+                        <ph conref="../../bp_MLA_BP.dita#topic_cy3_2dh_r4b/ph_svd_ytt_t4b" id="ph_rdx_x5t_t4b"/> for additional guidance and examples.</p>
+                </div>
             </div>
         </section>
         <section id="449961bd-940d-4772-9d34-ca8f2ab50e63">
